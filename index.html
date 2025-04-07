@@ -3,6 +3,83 @@
 <head>
   <meta charset="UTF-8">
   <title>MBA Materails</title>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+  <script>
+    async function downloadJSONasPDF() {
+      try {
+        const response = await fetch('questions.json');
+        const questions = await response.json();
+  
+        const { jsPDF } = window.jspdf;
+        const doc = new jsPDF();
+        let y = 10; // vertical position
+        let questionNumber = 1;
+  
+        doc.setFontSize(12);
+        doc.setFont("helvetica", "normal");
+  
+        for (const q of questions) {
+          const options = q.options;
+          const optionLabels = ['a)', 'b)', 'c)', 'd)'];
+  
+          // Format question
+          const questionText = `Q${questionNumber}. ${q.question}`;
+          const questionLines = doc.splitTextToSize(questionText, 180);
+          if (y + questionLines.length * 8 > 280) {
+            doc.addPage();
+            y = 10;
+          }
+          doc.text(questionLines, 10, y);
+          y += questionLines.length * 8;
+  
+          // Format options
+          for (let i = 0; i < options.length; i++) {
+            const optionLine = `${optionLabels[i]} ${options[i]}`;
+            const optionLines = doc.splitTextToSize(optionLine, 180);
+            if (y + optionLines.length * 8 > 280) {
+              doc.addPage();
+              y = 10;
+            }
+            doc.text(optionLines, 15, y);
+            y += optionLines.length * 8;
+          }
+  
+          // Format Answer
+          const answerLine = `Answer: ${optionLabels[options.indexOf(q.answer)]} ${q.answer}`;
+          const answerLines = doc.splitTextToSize(answerLine, 180);
+          if (y + answerLines.length * 8 > 280) {
+            doc.addPage();
+            y = 10;
+          }
+          doc.setFont("helvetica", "bold");
+          doc.text(answerLines, 10, y);
+          doc.setFont("helvetica", "normal");
+          y += answerLines.length * 8;
+  
+          // Format Reference
+          const refText = `Reference: ${q.reference}`;
+          const refLines = doc.splitTextToSize(refText, 180);
+          if (y + refLines.length * 8 > 280) {
+            doc.addPage();
+            y = 10;
+          }
+          doc.setFontSize(10);
+          doc.text(refLines, 10, y);
+          doc.setFontSize(12);
+          y += refLines.length * 8 + 10;
+  
+          questionNumber++;
+        }
+  
+        doc.save("MC-Model1.pdf");
+  
+      } catch (error) {
+        alert("Failed to load or parse JSON.");
+        console.error(error);
+      }
+    }
+  </script>
+  
   <style>
     body {
       margin: 0;
@@ -52,6 +129,11 @@
       background-color: #787a7c;
       margin-left: 20px;
     }
+    .sidebar img {
+      width: 25px;
+      height: 40px;
+      margin-right: 8px;
+    }
 
     .content {
       flex-grow: 1;
@@ -64,6 +146,10 @@
       border: none;
     }
   </style>
+
+
+
+
 </head>
 <body>
 
@@ -76,6 +162,9 @@
         <li>
           <a href="MC-module1.html" target="content-frame" >Module -1</a>
           
+        </li>
+        <li>
+          <a href="#" onclick="downloadJSONasPDF()">Module -1 PDF <img src="new.gif" alt="Fun GIF"></a>
         </li>
         
       </ul>
@@ -95,6 +184,7 @@
 <div class="content">
   <iframe name="content-frame" src="home.html"></iframe>
 </div>
+
 
 </body>
 </html>
