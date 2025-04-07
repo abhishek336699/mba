@@ -1,0 +1,602 @@
+[
+    {
+        "question": "What is Managerial Economics primarily concerned with, according to Douglas?",
+        "options": ["Social development", "Application of economic principles to decision-making", "Employee training", "Technological innovation"],
+        "answer": "Application of economic principles to decision-making",
+        "reference": "\"Managerial economics is concerned with the application of economic principles and methodologies to the decision-making process within the firm or organization.\""
+    },
+    {
+        "question": "Which two disciplines does Managerial Economics link?",
+        "options": ["Marketing and Finance", "Management and Economics", "Sociology and Psychology", "Accounting and Statistics"],
+        "answer": "Management and Economics",
+        "reference": "\"Managerial economics serves as a link between the two disciplines, namely management and economics.\""
+    },
+    {
+        "question": "Why is Managerial Economics considered a science?",
+        "options": ["It uses random assumptions", "It relies on methodical observation and systematic knowledge", "It avoids experimentation", "It focuses solely on profit"],
+        "answer": "It relies on methodical observation and systematic knowledge",
+        "reference": "\"Science is a Systematic body of Knowledge. It is based on the methodical observation.\""
+    },
+    {
+        "question": "What does Managerial Economics help managers achieve in an organization?",
+        "options": ["Personal growth", "Optimum resource allocation", "Political power", "Market dominance"],
+        "answer": "Optimum resource allocation",
+        "reference": "\"Managerial economics is helpful in optimum resource allocation.\""
+    },
+    {
+        "question": "Which of the following is a microeconomic component of Managerial Economics?",
+        "options": ["Government policies", "Demand for a firm’s product", "General price level", "Exchange rates"],
+        "answer": "Demand for a firm’s product",
+        "reference": "\"The managerial economics deals with the problems faced by the individual organization such as... demand for its product.\""
+    },
+    {
+        "question": "What does Liberal Managerialism emphasize in decision-making?",
+        "options": ["Fixed pricing strategies", "Customer demand and market trends", "Government regulations", "Profit maximization only"],
+        "answer": "Customer demand and market trends",
+        "reference": "\"The organization and the managers have to function according to the customer’s demand and market trend.\""
+    },
+    {
+        "question": "According to N. Gregory Mankiw, what do people face when making decisions?",
+        "options": ["Unlimited options", "Tradeoffs", "No consequences", "Fixed costs"],
+        "answer": "Tradeoffs",
+        "reference": "\"People Face Tradeoffs: To make decisions, people have to make choices where they have to select among the various options available.\""
+    },
+    {
+        "question": "What is the opportunity cost of a decision defined as?",
+        "options": ["Total revenue gained", "Sacrifice of alternatives", "Fixed production costs", "Market expansion"],
+        "answer": "Sacrifice of alternatives",
+        "reference": "\"Opportunity cost of a decision is the sacrifice of alternatives required by that decision.\""
+    },
+    {
+        "question": "In Baumol’s Sales Maximization Model, what is the firm’s primary objective?",
+        "options": ["Profit maximization", "Sales revenue maximization", "Cost minimization", "Production efficiency"],
+        "answer": "Sales revenue maximization",
+        "reference": "\"The primary objective of a firm is to maximize its sales rather than profit maximization.\""
+    },
+    {
+        "question": "What constraint is included in Baumol’s Sales Maximization Model?",
+        "options": ["Maximum production", "Minimum profit", "Zero advertising", "Fixed pricing"],
+        "answer": "Minimum profit",
+        "reference": "\"It states that the goal of the firm is maximization of sales revenue subject to a minimum profit constraint.\""
+    },
+    {
+        "question": "What does Williamson’s Utility Maximization Model prioritize?",
+        "options": ["Shareholder profits", "Manager’s utility", "Production output", "Customer satisfaction"],
+        "answer": "Manager’s utility",
+        "reference": "\"The theory states that the managers take decisions that prioritize their own utility maximization over principals’ profits.\""
+    },
+    {
+        "question": "How many goals does Cyert and March’s Behavioural Theory identify for a firm?",
+        "options": ["Three", "Five", "Seven", "Nine"],
+        "answer": "Five",
+        "reference": "\"Cyert and March has referred to five different goals viz., production goal, inventory goal, sales goal, market share goal, and profit goal.\""
+    },
+    {
+        "question": "What does the Incremental Concept in Managerial Economics measure?",
+        "options": ["Total production costs", "Changes in cost and revenue due to a decision", "Fixed expenses", "Market demand"],
+        "answer": "Changes in cost and revenue due to a decision",
+        "reference": "\"Incremental cost denotes change in total cost, whereas incremental revenue means change in total revenue resulting from a decision of the firm.\""
+    },
+    {
+        "question": "What does the Time Perspective Concept emphasize in decision-making?",
+        "options": ["Ignoring short-run effects", "Balancing short-run and long-run effects", "Focusing only on profits", "Avoiding future planning"],
+        "answer": "Balancing short-run and long-run effects",
+        "reference": "\"The time perspective concept states that the decision maker must give due consideration both to the short run and long run effects of his decisions.\""
+    },
+    {
+        "question": "What is the purpose of the Discounting Principle in Managerial Economics?",
+        "options": ["To increase future costs", "To calculate the present value of future returns", "To eliminate all risks", "To focus on short-term gains"],
+        "answer": "To calculate the present value of future returns",
+        "reference": "\"The mathematical technique for adjusting for the time value of money and computing present value is called ‘discounting’.\""
+    },
+    {
+        "question": "What does the Equimarginal Principle ensure in resource allocation?",
+        "options": ["Unequal distribution of resources", "Equal value of the last unit across all uses", "Maximum profit per unit", "Fixed allocation of resources"],
+        "answer": "Equal value of the last unit across all uses",
+        "reference": "\"The principle states that an input should be allocated so that value added by the last unit is the same in all cases.\""
+    },
+    {
+        "question": "What is a defining feature of Radical Managerialism?",
+        "options": ["Focus solely on profits", "Revolutionary attitude toward business problems", "Ignoring customer needs", "Strict adherence to past practices"],
+        "answer": "Revolutionary attitude toward business problems",
+        "reference": "\"Radical Managerialism: Managers must have a revolutionary attitude towards business problems.\""
+    },
+    {
+        "question": "What does the Theory of Demand focus on in microeconomics?",
+        "options": ["Production costs", "Consumer behavior toward a product", "Government policies", "Profit margins"],
+        "answer": "Consumer behavior toward a product",
+        "reference": "\"The demand theory emphasizes on the consumer’s behavior towards a product or service.\""
+    },
+    {
+        "question": "What is organizational slack in Cyert and March’s Behavioural Theory?",
+        "options": ["Excess payments to coalition members", "Fixed production costs", "Total revenue earned", "Minimum profit required"],
+        "answer": "Excess payments to coalition members",
+        "reference": "\"Slack consists in payments to members of the coalition in excess of what is required to maintain the organisation.\""
+    },
+    {
+        "question": "What is a limitation of the Incremental Concept?",
+        "options": ["It applies only to large firms", "It cannot be generalized due to variable firm behavior", "It ignores all costs", "It focuses only on long-term planning"],
+        "answer": "It cannot be generalized due to variable firm behavior",
+        "reference": "\"The concept cannot be generalised because observed behaviour of the firm is always variable.\""
+    },
+    {
+        "question": "According to Mansfield, what is Managerial Economics concerned with?",
+        "options": ["Formulating rational decision-making", "Maximizing employee satisfaction", "Reducing production costs", "Expanding market share"],
+        "answer": "Formulating rational decision-making",
+        "reference": "\"Managerial economics is concerned with the application of economic concepts and economics to the problems of formulating rational decision making.” - Mansfield"
+    },
+    {
+        "question": "What does Spencer’s definition of Managerial Economics highlight?",
+        "options": ["Integration of theory with practice", "Focus on cost reduction", "Emphasis on employee training", "Avoidance of economic tools"],
+        "answer": "Integration of theory with practice",
+        "reference": "\"Managerial economics is the integration of economic theory with business practice for the purpose of facilitating decision making and forward planning by management” - Spencer"
+    },
+    {
+        "question": "What makes Managerial Economics an art?",
+        "options": ["It avoids theoretical knowledge", "It requires applying knowledge to achieve objectives", "It focuses only on data analysis", "It ignores economic principles"],
+        "answer": "It requires applying knowledge to achieve objectives",
+        "reference": "\"Managerial economist should have an art to put in practice his theoretical knowledge regarding elements of economic environment.\""
+    },
+    {
+        "question": "How does Managerial Economics assist in administration?",
+        "options": ["By focusing on social goals", "By aiding decision-making based on economic rationale", "By reducing employee workload", "By eliminating competition"],
+        "answer": "By aiding decision-making based on economic rationale",
+        "reference": "\"Managerial economics helps the management in decision making. These decisions are based on the economic rationale.\""
+    },
+    {
+        "question": "What is a macroeconomic factor affecting Managerial Economics?",
+        "options": ["Demand for a product", "Government policies", "Price determination", "Production costs"],
+        "answer": "Government policies",
+        "reference": "\"They are affected by the external environment of the economy in which it operates such as government policies.\""
+    },
+    {
+        "question": "Why is Managerial Economics dynamic in nature?",
+        "options": ["It remains unchanged over time", "It adapts to human behavior and changing conditions", "It focuses only on fixed policies", "It avoids external influences"],
+        "answer": "It adapts to human behavior and changing conditions",
+        "reference": "\"Managerial Economics deals with human-beings... Thus to cope up with dynamism and vitality managerial economics also changes itself over a period of time.\""
+    },
+    {
+        "question": "What does Normative Managerialism base its decisions on?",
+        "options": ["Market trends", "Real-life experiences and practices", "Revolutionary changes", "Fixed economic theories"],
+        "answer": "Real-life experiences and practices",
+        "reference": "\"The normative view of managerial economics states that administrative decisions are based on real-life experiences and practices.\""
+    },
+    {
+        "question": "According to Mankiw, what motivates people in decision-making?",
+        "options": ["Fixed costs", "Incentives", "Government rules", "Past losses"],
+        "answer": "Incentives",
+        "reference": "\"People Respond to Incentives: Decisions making highly depends upon the incentives associated with a product, service or activity.\""
+    },
+    {
+        "question": "What does Mankiw say about trade?",
+        "options": ["It benefits only producers", "It can make everyone better off", "It reduces economic activity", "It increases unemployment"],
+        "answer": "It can make everyone better off",
+        "reference": "\"Trade Can Make Everyone Better off: This principle says that trade is a medium of exchange among people.\""
+    },
+    {
+        "question": "How can governments improve market outcomes, per Mankiw?",
+        "options": ["By increasing taxes", "By intervening during unfavorable conditions", "By reducing production", "By ignoring consumer needs"],
+        "answer": "By intervening during unfavorable conditions",
+        "reference": "\"Governments Can Sometimes Improve Market Outcomes: The government intervenes in business operations at the time of unfavorable market conditions.\""
+    },
+    {
+        "question": "What determines a country’s standard of living, according to Mankiw?",
+        "options": ["Its ability to produce goods and services", "Its tax rates", "Its population size", "Its market share"],
+        "answer": "Its ability to produce goods and services",
+        "reference": "\"A Country’s Standard of Living Depends on Its Ability to Produce Goods and Services.\""
+    },
+    {
+        "question": "What happens when the government prints too much money, per Mankiw?",
+        "options": ["Prices fall", "Prices rise", "Unemployment decreases", "Production stops"],
+        "answer": "Prices rise",
+        "reference": "\"Prices Rise When the Government Prints Too Much Money.\""
+    },
+    {
+        "question": "What tradeoff does society face in the short run, according to Mankiw?",
+        "options": ["Inflation and unemployment", "Production and costs", "Revenue and taxes", "Demand and supply"],
+        "answer": "Inflation and unemployment",
+        "reference": "\"Society Faces a Short-Run Tradeoff between Inflation and Unemployment.\""
+    },
+    {
+        "question": "What is a characteristic of Managerial Economics?",
+        "options": ["It avoids forecasting", "It aids in evaluating market trends", "It ignores individual firms", "It focuses only on macroeconomics"],
+        "answer": "It aids in evaluating market trends",
+        "reference": "\"It studies the problems and principles of an individual business firm or an individual industry. It aids the management in forecasting and evaluating the trends of the market.\""
+    },
+    {
+        "question": "What does Managerial Economics aim to support in management?",
+        "options": ["Personal goals", "Corrective decisions and future planning", "Employee retention", "Market competition"],
+        "answer": "Corrective decisions and future planning",
+        "reference": "\"Managerial economics aims at supporting the management in taking corrective decisions and charting plans and policies for future.\""
+    },
+    {
+        "question": "What makes Managerial Economics pragmatic?",
+        "options": ["It relies on unrealistic assumptions", "It resolves daily managerial issues", "It avoids economic theory", "It focuses only on long-term goals"],
+        "answer": "It resolves daily managerial issues",
+        "reference": "\"Managerial economics is pragmatic. In pure microeconomic theory, analysis is performed, based on certain exceptions, which are far from reality. However, in managerial economics, managerial issues are resolved daily.\""
+    },
+    {
+        "question": "What is the scope of Managerial Economics limited to, compared to pure economic theory?",
+        "options": ["Theory of the firm", "National income", "Government policies", "Global trade"],
+        "answer": "Theory of the firm",
+        "reference": "\"Managerial economics employs economic concepts and principles, which are known as the theory of Firm or 'Economics of the Firm'.\""
+    },
+    {
+        "question": "What microeconomic theory helps resolve operational issues?",
+        "options": ["Theory of Production", "Fiscal Policy", "Balance of Payments", "Inflation Control"],
+        "answer": "Theory of Production",
+        "reference": "\"Theory of Production and Production Decisions: This theory is majorly concerned with the volume of production, process, capital and labor required.\""
+    },
+    {
+        "question": "What does the Pricing Theory focus on?",
+        "options": ["Employee wages", "Price determination considering market conditions", "Production volume", "Government taxes"],
+        "answer": "Price determination considering market conditions",
+        "reference": "\"Pricing Theory and Analysis of Market Structure: It focuses on the price determination of a product keeping in mind the competitors, market conditions.\""
+    },
+    {
+        "question": "What is the traditional prime objective of a business firm?",
+        "options": ["Sales maximization", "Profit maximization", "Growth rate maximization", "Utility maximization"],
+        "answer": "Profit maximization",
+        "reference": "\"Profit Maximization Objective: The Objective of Profit maximization has been the prime objective of any business entity.\""
+    },
+    {
+        "question": "What is the first-order condition for profit maximization?",
+        "options": ["Marginal revenue equals marginal cost", "Total revenue exceeds total cost", "Fixed costs are minimized", "Production is maximized"],
+        "answer": "Marginal revenue equals marginal cost",
+        "reference": "\"The first-order condition requires that at the point where maximum profit is obtained, the marginal revenue (MR) must equal the marginal Cost (MC).\""
+    },
+    {
+        "question": "What does Baumol mean by sales maximization?",
+        "options": ["Maximizing physical sales volume", "Maximizing total revenue", "Minimizing production costs", "Increasing market share"],
+        "answer": "Maximizing total revenue",
+        "reference": "\"It should be noted that by sales maximization Baumol does not indicate the maximization of the physical volume of sales but the maximization of the total revenue of sales.\""
+    },
+    {
+        "question": "Why do managers prefer sales maximization, per Baumol?",
+        "options": ["It increases profits", "It adds prestige and correlates with salaries", "It reduces costs", "It avoids competition"],
+        "answer": "It adds prestige and correlates with salaries",
+        "reference": "\"The increasing sales add prestige to the managers... There are sufficient grounds to understand that the performance and salaries of the top managers are highly correlated to sales.\""
+    },
+    {
+        "question": "In Baumol’s model with advertising, what does a sales maximizer do?",
+        "options": ["Spends less on advertising", "Spends more on advertising than a profit maximizer", "Avoids advertising costs", "Focuses only on production"],
+        "answer": "Spends more on advertising than a profit maximizer",
+        "reference": "\"The sales-maximisation firm spends more on advertising (OD) than the profit-maximisation firm (OQ).\""
+    },
+    {
+        "question": "What does Marris aim to maximize in his hypothesis?",
+        "options": ["Profit", "Firm’s growth rate", "Sales revenue", "Manager’s utility"],
+        "answer": "Firm’s growth rate",
+        "reference": "\"According to Robin Marris, managers endeavor to maximize firm’s growth rate subject to managerial and financial constraints.\""
+    },
+    {
+        "question": "What are the two utility functions in Marris’s model?",
+        "options": ["Production and Sales", "Manager’s and Owner’s", "Cost and Revenue", "Demand and Supply"],
+        "answer": "Manager’s and Owner’s",
+        "reference": "\"The two growth rates according to Marris, are translated into two utility functions viz., Manager’s utility function and the Owner’s utility function.\""
+    },
+    {
+        "question": "What does Williamson’s theory focus on instead of profit maximization?",
+        "options": ["Sales growth", "Manager’s utility maximization", "Production efficiency", "Market share"],
+        "answer": "Manager’s utility maximization",
+        "reference": "\"Oliver E Williamson, an American economist has developed managerial-utility-maximization theory as against profit maximization.\""
+    },
+    {
+        "question": "What is one variable in Williamson’s utility function?",
+        "options": ["Market demand", "Staff expenditure", "Production costs", "Tax rates"],
+        "answer": "Staff expenditure",
+        "reference": "\"Utility of a manager is a function of three variables... 1. Monetary Expenditure on Staff.\""
+    },
+    {
+        "question": "What is discretionary investment in Williamson’s model?",
+        "options": ["Fixed costs", "Undistributed profit for manager’s spending", "Government subsidies", "Shareholder dividends"],
+        "answer": "Undistributed profit for manager’s spending",
+        "reference": "\"Discretionary Investment – This variable refers to the amount of undistributed profit available for manager’s discretional investment or spending.\""
+    },
+    {
+        "question": "What is a criticism of Williamson’s model?",
+        "options": ["It ignores oligopoly interdependence", "It focuses too much on profits", "It overemphasizes production", "It lacks mathematical basis"],
+        "answer": "It ignores oligopoly interdependence",
+        "reference": "\"Williamson’s managerial theory does not represent and incorporate the phenomena of interdependence in Oligopoly.\""
+    },
+    {
+        "question": "What does Cyert and March consider the firm to be?",
+        "options": ["A single entity", "A complex organization with multiple goals", "A profit-focused unit", "A government agency"],
+        "answer": "A complex organization with multiple goals",
+        "reference": "\"Cyert and March considers the modern business firm as a complex organization in which the decision making process should be analyzed in variables that affect organizational goals.\""
+    },
+    {
+        "question": "What is the production goal related to in Cyert and March’s theory?",
+        "options": ["Sales targets", "Output decisions", "Inventory levels", "Profit margins"],
+        "answer": "Output decisions",
+        "reference": "\"Production Goal... This goal is related to output decisions.\""
+    },
+    {
+        "question": "What does the sales goal aim to ensure in Cyert and March’s theory?",
+        "options": ["Cost reduction", "Organizational stability", "Market dominance", "Profit increase"],
+        "answer": "Organizational stability",
+        "reference": "\"Sales Goal: The sales goal aims at meeting the demand of coalition members connected with sales, who regard sales necessary for the stability of the organisation.\""
+    },
+    {
+        "question": "What resolves conflicting goals in Cyert and March’s theory?",
+        "options": ["Increased production", "Side payments", "Fixed pricing", "Reduced staff"],
+        "answer": "Side payments",
+        "reference": "\"The conflicting interests can be reconciled by the distribution of ‘side payments’ to members of the coalition.\""
+    },
+    {
+        "question": "What is satisficing behavior in Cyert and March’s theory?",
+        "options": ["Achieving maximum profit", "Accepting satisfactory levels rather than maximizing", "Ignoring goals", "Focusing only on sales"],
+        "answer": "Accepting satisfactory levels rather than maximizing",
+        "reference": "\"Each person in the organisation has a satisficing level for each of his goals. If these levels are reached, they will not seek for more.\""
+    },
+    {
+        "question": "What role does organizational slack play in Cyert and March’s theory?",
+        "options": ["Reduces profits", "Stabilizes the coalition", "Increases costs", "Limits growth"],
+        "answer": "Stabilizes the coalition",
+        "reference": "\"Organisational slack plays a constructive role. It keeps the coalition in existence.\""
+    },
+    {
+        "question": "Who sets organizational goals in Cyert and March’s decision-making process?",
+        "options": ["Lower staff", "Top management", "Shareholders", "Customers"],
+        "answer": "Top management",
+        "reference": "\"The decision-making process in the Cyert-March model rests with the top management.\""
+    },
+    {
+        "question": "What is a criticism of Cyert and March’s theory?",
+        "options": ["It focuses only on profit", "It ignores long-run behavior", "It overemphasizes production", "It lacks goals"],
+        "answer": "It ignores long-run behavior",
+        "reference": "\"The behavioural theory explains the short-run behaviour of firms and ignores their long-run behaviour.\""
+    },
+    {
+        "question": "When is a decision profitable under the Incremental Concept?",
+        "options": ["It increases costs more than revenue", "It increases revenue more than costs", "It reduces production", "It ignores opportunity costs"],
+        "answer": "It increases revenue more than costs",
+        "reference": "\"A decision is clearly a profitable one if (i) It increases revenue more than costs.\""
+    },
+    {
+        "question": "What is a limitation of the Incremental Concept?",
+        "options": ["It applies only during the long period", "It is applicable only during the short period", "It ignores variable costs", "It focuses on fixed costs"],
+        "answer": "It is applicable only during the short period",
+        "reference": "\"The concept is applicable only during the short period.\""
+    },
+    {
+        "question": "What does the Time Perspective Concept require a decision-maker to consider?",
+        "options": ["Only short-run profits", "Both short-run and long-run effects", "Only long-run costs", "Fixed production levels"],
+        "answer": "Both short-run and long-run effects",
+        "reference": "\"The time perspective concept states that the decision maker must give due consideration both to the short run and long run effects of his decisions.\""
+    },
+    {
+        "question": "In the short period, what can a firm change?",
+        "options": ["Its size", "Its output without changing size", "Its fixed costs", "Its market share"],
+        "answer": "Its output without changing size",
+        "reference": "\"In the short period, the firm can change its output without changing its size.\""
+    },
+    {
+        "question": "What does the Opportunity Cost Concept imply about resources?",
+        "options": ["They are unlimited", "They are scarce, requiring choices", "They have no value", "They are fixed in use"],
+        "answer": "They are scarce, requiring choices",
+        "reference": "\"Resources are scarce, thus we cannot produce all the commodities... We are, therefore, forced to make a choice.\""
+    },
+    {
+        "question": "What does the Opportunity Cost Concept help determine?",
+        "options": ["Total revenue", "Relative prices of goods", "Fixed production costs", "Market demand"],
+        "answer": "Relative prices of goods",
+        "reference": "\"The economic significance of opportunity cost is as follows: 1. It helps in determining relative prices of different goods.\""
+    },
+    {
+        "question": "Why is a rupee today worth more than a rupee in the future, per the Discounting Principle?",
+        "options": ["It can earn a return over time", "It has no risk", "It avoids taxes", "It increases production"],
+        "answer": "It can earn a return over time",
+        "reference": "\"It is simply that in the intervening period a sum of money can earn a return which is ruled out if the same sum is available only at the end of the period.\""
+    },
+    {
+        "question": "What is the formula for present value in the Discounting Principle?",
+        "options": ["V = A * (1 + i)", "V = A / (1 + i)", "V = A + i", "V = A - i"],
+        "answer": "V = A / (1 + i)",
+        "reference": "\"The formula of computing the present value is given below: V = A/1+i.\""
+    },
+    {
+        "question": "What does the Equimarginal Principle aim to achieve?",
+        "options": ["Unequal resource allocation", "Equal marginal value across activities", "Maximum production", "Fixed costs"],
+        "answer": "Equal marginal value across activities",
+        "reference": "\"The principle states that an input should be allocated so that value added by the last unit is the same in all cases.\""
+    },
+    {
+        "question": "How is the Equimarginal Principle applied in budgeting?",
+        "options": ["By focusing on one activity", "By ensuring equal marginal utility across uses", "By reducing all costs", "By ignoring marginal benefits"],
+        "answer": "By ensuring equal marginal utility across uses",
+        "reference": "\"The principle is also applied in investment decisions and allocation of research expenditures... money may be allocated over various commodities such that marginal utility derived from the use of each commodity is the same.\""
+    },
+    {
+        "question": "What does Managerial Economics study, per Haynes, Mote, and Paul?",
+        "options": ["Macroeconomic theory", "Economic tools relevant to firm decisions", "Social policies", "Global trade"],
+        "answer": "Economic tools relevant to firm decisions",
+        "reference": "\"Managerial Economics refers to those aspects of economics and its tools of analysis most relevant to the firm’s business decisions-making process.\" - Haynes, Mote, and Paul"
+    },
+    {
+        "question": "What is a key benefit of Managerial Economics for managers?",
+        "options": ["It eliminates all risks", "It provides insight into organizational functioning", "It focuses only on profits", "It avoids economic tools"],
+        "answer": "It provides insight into organizational functioning",
+        "reference": "\"Managers study managerial economics because it gives them insight to reign the functioning of the organization.\""
+    },
+    {
+        "question": "What type of knowledge does Managerial Economics rely on?",
+        "options": ["Random assumptions", "Systematic body of knowledge", "Personal opinions", "Fixed rules"],
+        "answer": "Systematic body of knowledge",
+        "reference": "\"Science is a Systematic body of Knowledge. It is based on the methodical observation.\""
+    },
+    {
+        "question": "How are policies made in Managerial Economics?",
+        "options": ["Without testing", "After persistent testing and trialing", "Based on fixed rules", "Ignoring past experience"],
+        "answer": "After persistent testing and trialing",
+        "reference": "\"In Managerial economics also policies are made after persistent testing and trailing.\""
+    },
+    {
+        "question": "Why are Managerial Economics policies universally applicable with modifications?",
+        "options": ["They ignore human behavior", "They adapt to situations and individual attitudes", "They are rigid", "They focus only on profits"],
+        "answer": "They adapt to situations and individual attitudes",
+        "reference": "\"The policies need to be changed from time to time depending on the situation and attitude of individuals to those particular situations.\""
+    },
+    {
+        "question": "What does the Theory of Capital and Investment Decisions focus on?",
+        "options": ["Market demand", "Proper allocation of capital", "Employee wages", "Government taxes"],
+        "answer": "Proper allocation of capital",
+        "reference": "\"Theory of Capital and Investment Decisions: Capital is the most critical factor of business. This theory entails the proper allocation of the organization’s capital.\""
+    },
+    {
+        "question": "What external factor affects a firm’s economic environment?",
+        "options": ["Production costs", "General price level", "Product pricing", "Internal demand"],
+        "answer": "General price level",
+        "reference": "\"They are affected by the external environment of the economy in which it operates such as... general price level.\""
+    },
+    {
+        "question": "What does Profit Analysis and Management depend on?",
+        "options": ["Fixed costs only", "Market demand and competition", "Government subsidies", "Employee performance"],
+        "answer": "Market demand and competition",
+        "reference": "\"Profit Analysis and Management... It depends upon the market demand, cost of input, competition level, etc.\""
+    },
+    {
+        "question": "What is a social environment factor affecting a firm?",
+        "options": ["GDP", "Trade unions", "Pricing policies", "Production volume"],
+        "answer": "Trade unions",
+        "reference": "\"Social Environment: The society in which the organization functions also affects it like employment conditions, trade unions.\""
+    },
+    {
+        "question": "What does the political environment influence in a firm?",
+        "options": ["Production costs", "Organizational growth and development", "Market demand", "Employee wages"],
+        "answer": "Organizational growth and development",
+        "reference": "\"Political Environment: The political structure of a country... influence organizational growth and development.\""
+    },
+    {
+        "question": "What is the second-order condition for profit maximization?",
+        "options": ["Marginal revenue equals marginal cost", "Marginal cost intersects marginal revenue from below", "Total revenue exceeds total cost", "Fixed costs are minimized"],
+        "answer": "Marginal cost intersects marginal revenue from below",
+        "reference": "\"The second-order condition requires that the first-order condition must be satisfied under the condition of decreasing marginal revenue (MR) and increasing marginal cost (MC).\""
+    },
+    {
+        "question": "What alternative objective does Baumol’s model propose?",
+        "options": ["Growth rate maximization", "Sales revenue maximization", "Utility maximization", "Cost minimization"],
+        "answer": "Sales revenue maximization",
+        "reference": "\"Baumol’s sales revenue maximization model highlights that the primary objective of a firm is to maximize its sales rather than profit maximization.\""
+    },
+    {
+        "question": "Why do financial institutions favor firms with rising sales, per Baumol?",
+        "options": ["They reduce costs", "They indicate better performance", "They avoid advertising", "They focus on profits"],
+        "answer": "They indicate better performance",
+        "reference": "\"The financial and banking institutions consider sales of the firms to gauge their performance and inclined to finance the firms with rising sales.\""
+    },
+    {
+        "question": "What is a criticism of Baumol’s model?",
+        "options": ["It overemphasizes profits", "It ignores interdependence of oligopolistic firms", "It focuses on production only", "It lacks a profit constraint"],
+        "answer": "It ignores interdependence of oligopolistic firms",
+        "reference": "\"Another weakness of this model is that it ignores the interdependence of the prices of oligopolistic firms.\""
+    },
+    {
+        "question": "What does Marris define as the balanced growth rate?",
+        "options": ["Growth of profits", "Equal growth of demand and capital supply", "Growth of sales", "Growth of staff"],
+        "answer": "Equal growth of demand and capital supply",
+        "reference": "\"Marris defines firms balanced growth rate (G) as follows- Maximize G = Gd = Gc... Gd = growth rate of demand for firms product. Gc = growth rate of capital supply to the firm.\""
+    },
+    {
+        "question": "What constraint does Williamson’s utility maximization face?",
+        "options": ["Maximum production", "Sufficient after-tax profits for dividends", "Fixed pricing", "Zero advertising"],
+        "answer": "Sufficient after-tax profits for dividends",
+        "reference": "\"The objective of maximization of Utility function of the managers is constrained by the condition that the after-tax profits should be large enough to pay acceptable dividends.\""
+    },
+    {
+        "question": "What is managerial slack in Williamson’s model?",
+        "options": ["Production costs", "Additional management perks", "Fixed expenses", "Market demand"],
+        "answer": "Additional management perks",
+        "reference": "\"Managerial Slack – This variable includes additional management perks such as expense accounts, private convenience.\""
+    },
+    {
+        "question": "What does Cyert and March’s inventory goal relate to?",
+        "options": ["Sales decisions", "Output and sales areas", "Profit margins", "Market share"],
+        "answer": "Output and sales areas",
+        "reference": "\"Inventory Goal... This goal is related to decisions in output and sales areas.\""
+    },
+    {
+        "question": "What does the market-share goal focus on in Cyert and March’s theory?",
+        "options": ["Cost reduction", "Comparative success and growth", "Profit increase", "Production efficiency"],
+        "answer": "Comparative success and growth",
+        "reference": "\"Market-Share Goal... It is related to the demands of sales management of the coalition who are primarily interested in the comparative success of the organisation and its growth.\""
+    },
+    {
+        "question": "How are aspiration levels determined in Cyert and March’s theory?",
+        "options": ["Fixed by shareholders", "Through a bargaining-learning process", "By government rules", "By production targets"],
+        "answer": "Through a bargaining-learning process",
+        "reference": "\"The aspiration levels of the individuals within the firm which determine these goals, change over time as a result of organisational learning... the product of a bargaining-learning process.\""
+    },
+    {
+        "question": "What happens if aspiration levels are exceeded in Cyert and March’s theory?",
+        "options": ["They are reduced", "They are raised upwards", "They remain unchanged", "They are ignored"],
+        "answer": "They are raised upwards",
+        "reference": "\"If they are exceeded, the aspiration levels are raised upwards.\""
+    },
+    {
+        "question": "What determines the budget share in Cyert and March’s decision-making?",
+        "options": ["Fixed costs", "Bargaining power and past performance", "Market demand", "Government policies"],
+        "answer": "Bargaining power and past performance",
+        "reference": "\"The share of the budget depends on the bargaining power and the skill of each manager. The bargaining power is determined by the past performance of each department.\""
+    },
+    {
+        "question": "What triggers search activity in Cyert and March’s decision-making process?",
+        "options": ["Excess profits", "A problem arising", "Fixed pricing", "Reduced staff"],
+        "answer": "A problem arising",
+        "reference": "\"Search activity is started whenever a problem arises because search helps to locate and collect information.\""
+    },
+    {
+        "question": "What is an illustration of the Incremental Concept’s profitability?",
+        "options": ["Rejecting an order with full cost coverage", "Accepting an order with incremental profit", "Ignoring idle capacity", "Focusing only on fixed costs"],
+        "answer": "Accepting an order with incremental profit",
+        "reference": "\"Suppose a new order is estimated to bring in additional revenue of Rs. 10,000... there is a profit of Rs. 3,000. The order can be accepted on the basis of incremental reasoning.\""
+    },
+    {
+        "question": "Why might pricing below full cost harm a firm in the long run?",
+        "options": ["It increases profits", "It may spoil the firm’s image", "It reduces production", "It avoids competition"],
+        "answer": "It may spoil the firm’s image",
+        "reference": "\"The image of the firm may be spoilt in the business community.\""
+    },
+    {
+        "question": "What does the Opportunity Cost Concept not appear in?",
+        "options": ["Decision-making processes", "Books of account", "Production planning", "Market analysis"],
+        "answer": "Books of account",
+        "reference": "\"Opportunity cost is just a notional idea which does not appear in the books of account of the company.\""
+    },
+    {
+        "question": "What is the present value of Rs. 100 discounted at 5% for one year?",
+        "options": ["Rs. 95.24", "Rs. 100", "Rs. 105", "Rs. 90"],
+        "answer": "Rs. 95.24",
+        "reference": "\"V = 100/1+.05 = 100/1.05 =Rs. 95.24.\""
+    },
+    {
+        "question": "Where is the Discounting Principle most useful?",
+        "options": ["Cost reduction", "Capital budgeting", "Market expansion", "Employee training"],
+        "answer": "Capital budgeting",
+        "reference": "\"The concept of discounting is found most useful in managerial economics in decision problems pertaining to investment planning or capital budgeting.\""
+    },
+    {
+        "question": "How does the Equimarginal Principle apply to a producer?",
+        "options": ["Resources are allocated randomly", "Marginal product is the same in all uses", "Production is maximized", "Costs are minimized"],
+        "answer": "Marginal product is the same in all uses",
+        "reference": "\"For a producer this concept implies that resources be allocated in such a manner that the marginal product of the inputs is the same in all uses.\""
+    },
+    {
+        "question": "What does Managerial Economics prescribe, as a normative discipline?",
+        "options": ["Only descriptions of goals", "Means to achieve organizational goals", "Fixed pricing strategies", "Avoidance of planning"],
+        "answer": "Means to achieve organizational goals",
+        "reference": "\"It not only describes the goals of an organization but also prescribes the means of achieving these goals.\""
+    },
+    {
+        "question": "What does the Theory of Production aim to maximize?",
+        "options": ["Costs", "Output to meet demand", "Profits", "Market share"],
+        "answer": "Output to meet demand",
+        "reference": "\"Theory of Production and Production Decisions... It aims at maximizing the output to meet the customer’s demand.\""
+    },
+    {
+        "question": "What is a key focus of Managerial Economics in forecasting?",
+        "options": ["Employee performance", "Market trends", "Fixed costs", "Government taxes"],
+        "answer": "Market trends",
+        "reference": "\"It aids the management in forecasting and evaluating the trends of the market.\""
+    }
+]
