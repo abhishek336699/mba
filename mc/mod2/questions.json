@@ -1,0 +1,603 @@
+[
+    {
+        "question": "What is demand in economics?",
+        "options": ["Consumers’ wish to purchase goods", "Consumers’ willingness and ability to purchase goods", "Consumers’ expectation of goods", "Consumers’ need for goods"],
+        "answer": "Consumers’ willingness and ability to purchase goods",
+        "reference": "\"Demand in terms of economics may be explained as the consumers’ willingness and ability to purchase or consume a given item/good.\" (Section: Demand and its Determinants)"
+    },
+    {
+        "question": "What happens to the quantity demanded when the price of a good increases?",
+        "options": ["Increases", "Decreases", "Remains constant", "Becomes zero"],
+        "answer": "Decreases",
+        "reference": "\"For instance, an increase in the price of a good will lead to a decrease in the quantity that may be demanded by consumers.\" (Section: Demand and its Determinants)"
+    },
+    {
+        "question": "The relationship between price and quantity demanded is:",
+        "options": ["Direct", "Inverse", "Constant", "Unrelated"],
+        "answer": "Inverse",
+        "reference": "\"This indicates the existence of an inverse relationship between the price of the article and the quantity demanded by consumers.\" (Section: Demand and its Determinants)"
+    },
+    {
+        "question": "What is the graphical representation of the law of demand called?",
+        "options": ["Supply curve", "Demand curve", "Revenue curve", "Elasticity curve"],
+        "answer": "Demand curve",
+        "reference": "\"This is commonly known as the law of demand and can be graphically represented by a line with a downward slope. The graphical representation is known as the demand curve.\" (Section: Demand and its Determinants)"
+    },
+    {
+        "question": "Which determinant of demand causes a rise in demand when it increases?",
+        "options": ["Price of the product", "Income of consumers", "Price of substitute goods", "Number of sellers"],
+        "answer": "Income of consumers",
+        "reference": "\"Rising incomes lead to a rise in the number of goods demanded by consumers.\" (Section: Determinants of Demand)"
+    },
+    {
+        "question": "A rise in the price of bread will likely:",
+        "options": ["Increase the demand for butter", "Decrease the demand for butter", "Not affect the demand for butter", "Double the demand for butter"],
+        "answer": "Decrease the demand for butter",
+        "reference": "\"Complementary products – An increase in the price of one product will cause a decrease in the quantity demanded of a complementary product. Example: Rise in the price of bread will reduce the demand for butter.\" (Section: Determinants of Demand)"
+    },
+    {
+        "question": "If the price of tea rises, what happens to the demand for coffee?",
+        "options": ["Increases", "Decreases", "Remains unchanged", "Becomes inelastic"],
+        "answer": "Increases",
+        "reference": "\"Substitute Product – An increase in the price of one product will cause an increase in the demand for a substitute product. Example: Rise in price of tea will increase the demand for coffee.\" (Section: Determinants of Demand)"
+    },
+    {
+        "question": "What effect do expectations of higher income have on demand?",
+        "options": ["Decrease demand", "Increase demand", "No effect on demand", "Make demand inelastic"],
+        "answer": "Increase demand",
+        "reference": "\"Expectations of a higher income or expecting an increase in prices of goods will lead to an increase the quantity demanded.\" (Section: Determinants of Demand)"
+    },
+    {
+        "question": "How does an increase in the number of buyers affect demand?",
+        "options": ["Decreases demand", "Increases demand", "No effect", "Shifts supply curve"],
+        "answer": "Increases demand",
+        "reference": "\"The number of buyers has a major effect on the total or net demand. As the number increases, the demand rises.\" (Section: Determinants of Demand)"
+    },
+    {
+        "question": "Which of the following is NOT a determinant of demand?",
+        "options": ["Price of the product", "Income of consumers", "Production costs", "Prices of related goods"],
+        "answer": "Production costs",
+        "reference": "\"Some of the important determinants of demand are as follows: 1] Price of the Product, 2] Income of the Consumers, 3] Prices of related goods or services...\" (Section: Determinants of Demand; production costs not listed)"
+    },
+    {
+        "question": "What is one objective of demand analysis?",
+        "options": ["Reducing production costs", "Forecasting sales and revenues", "Hiring more employees", "Increasing taxes"],
+        "answer": "Forecasting sales and revenues",
+        "reference": "\"This study is known as demand analysis which serves the following objectives: (1) It aids in forecasting sales and revenues.\" (Section: Demand Analysis: The Concept)"
+    },
+    {
+        "question": "Demand analysis helps managers in:",
+        "options": ["Manipulating supply", "Manipulating demand", "Reducing competition", "Increasing taxes"],
+        "answer": "Manipulating demand",
+        "reference": "\"(2) It provides guidance for manipulation of demand.\" (Section: Demand Analysis: The Concept)"
+    },
+    {
+        "question": "Why is demand knowledge crucial for a business manager?",
+        "options": ["It determines tax rates", "It influences all business decisions", "It reduces production time", "It eliminates competition"],
+        "answer": "It influences all business decisions",
+        "reference": "\"A business manager must have background knowledge of demand because all other business decisions are largely based on it.\" (Section: Importance of Demand Analysis)"
+    },
+    {
+        "question": "Demand forecasts provide a basis for:",
+        "options": ["Projecting cash flows", "Reducing employee salaries", "Increasing product prices", "Eliminating inventory"],
+        "answer": "Projecting cash flows",
+        "reference": "\"Demand (sales) forecasts do provide some basis for projecting cash flows and net incomes periodically.\" (Section: Importance of Demand Analysis)"
+    },
+    {
+        "question": "In a poor country, a firm should produce goods based on:",
+        "options": ["Government regulations", "Sufficient demand", "Production capacity", "Employee preferences"],
+        "answer": "Sufficient demand",
+        "reference": "\"Why should a business firm invest time, effort and money to produce colour TV sets in a poor country like Chad or Burma, unless there is sufficient demand for it?\" (Section: Importance of Demand Analysis)"
+    },
+    {
+        "question": "If the price of a good increases, consumers may switch to alternatives due to:",
+        "options": ["Income effect", "Substitution effect", "Demand effect", "Revenue effect"],
+        "answer": "Substitution effect",
+        "reference": "\"The good is relatively more expensive than alternative goods, and therefore people will switch to other goods which are now relatively cheaper. (substitution effect)\" (Section: Income & Substitution effect)"
+    },
+    {
+        "question": "The income effect occurs when a price rise:",
+        "options": ["Increases disposable income", "Reduces disposable income", "Increases product quality", "Reduces competition"],
+        "answer": "Reduces disposable income",
+        "reference": "\"The increase in price reduces disposable income and this lower income may reduce demand. (income effect)\" (Section: Income & Substitution effect)"
+    },
+    {
+        "question": "If the price of meat increases, consumers may buy less meat due to:",
+        "options": ["Substitution effect only", "Income effect only", "Both income and substitution effects", "Neither effect"],
+        "answer": "Both income and substitution effects",
+        "reference": "\"If the price of meat increases, then the higher price may encourage consumers to switch to alternative food sources, such as buying vegetables. However, with the higher price of meat, it means that after buying some meat, they will have lower spare income.\" (Section: Income & Substitution effect)"
+    },
+    {
+        "question": "For diamonds, a price increase has little substitution effect because:",
+        "options": ["There are many substitutes", "There are no close substitutes", "Income increases", "Demand becomes elastic"],
+        "answer": "There are no close substitutes",
+        "reference": "\"If a good like a diamond increases, there will be little substitution effect because there are no alternatives to diamonds.\" (Section: Income & Substitution effect)"
+    },
+    {
+        "question": "If wages increase, workers may work fewer hours due to:",
+        "options": ["Substitution effect", "Income effect", "Elasticity effect", "Revenue effect"],
+        "answer": "Income effect",
+        "reference": "\"However, with higher wages, he can maintain a decent standard of living through less work. (income effect)\" (Section: Income and substitution effect for wages)"
+    },
+    {
+        "question": "Elasticity of demand measures:",
+        "options": ["Change in supply with price", "Responsiveness of demand to price changes", "Change in income with demand", "Change in production costs"],
+        "answer": "Responsiveness of demand to price changes",
+        "reference": "\"This quality of demand by virtue of which it changes (increases or decreases) when price changes (decreases or increases) is called Elasticity of Demand.\" (Section: Elasticity of Demand: Meaning and Types of Elasticity)"
+    },
+    {
+        "question": "If a small price change causes a large demand change, demand is:",
+        "options": ["Inelastic", "Elastic", "Unitary", "Perfectly inelastic"],
+        "answer": "Elastic",
+        "reference": "\"The demand is elastic when with a small change in price there is a great change in demand.\" (Section: Elasticity of Demand: Meaning and Types of Elasticity)"
+    },
+    {
+        "question": "Demand for salt is an example of:",
+        "options": ["Elastic demand", "Inelastic demand", "Perfectly elastic demand", "Unitary elastic demand"],
+        "answer": "Inelastic demand",
+        "reference": "\"Take the case of salt. Even a big fall in its price may not induce an appreciable extension in its demand.\" (Section: Elasticity of Demand: Meaning and Types of Elasticity)"
+    },
+    {
+        "question": "Perfectly elastic demand is represented by a:",
+        "options": ["Vertical line", "Horizontal line", "Diagonal line", "Curved line"],
+        "answer": "Horizontal line",
+        "reference": "\"A perfectly elastic demand curve will be a straight line (horizontal) on a graph.\" (Section: Degrees of Elasticity of Demand)"
+    },
+    {
+        "question": "If price elasticity of demand = 0, demand is:",
+        "options": ["Perfectly elastic", "Perfectly inelastic", "Unitary elastic", "Elastic"],
+        "answer": "Perfectly inelastic",
+        "reference": "\"When the quantity demanded of a good does not change at all to whatever change in price, the demand is said to be perfectly inelastic or the elasticity of demand is zero.\" (Section: Degrees of Elasticity of Demand)"
+    },
+    {
+        "question": "A 10% price increase causes a 20% demand decrease. Elasticity is:",
+        "options": ["0.5", "1", "2", "0"],
+        "answer": "2",
+        "reference": "\"For example, if price of a good change by 10% and it brings a 20% change in demand, the price elasticity is greater than one. Ed = 20%/10% = 2\" (Section: Degrees of Elasticity of Demand)"
+    },
+    {
+        "question": "Income elasticity of demand measures responsiveness to:",
+        "options": ["Price changes", "Income changes", "Substitute prices", "Production costs"],
+        "answer": "Income changes",
+        "reference": "\"Income elasticity of demand refers to the sensitivity of the quantity demanded for a certain good to a change in real income of consumers.\" (Section: Income Elasticity of Demand)"
+    },
+    {
+        "question": "A good with negative income elasticity is:",
+        "options": ["Normal good", "Inferior good", "Luxury good", "Necessity good"],
+        "answer": "Inferior good",
+        "reference": "\"Inferior goods have a negative income elasticity of demand; as consumers' income rises, they buy fewer inferior goods.\" (Section: Interpretation of Income Elasticity of Demand)"
+    },
+    {
+        "question": "Cross elasticity of demand for substitutes is:",
+        "options": ["Positive", "Negative", "Zero", "Infinite"],
+        "answer": "Positive",
+        "reference": "\"The cross elasticity of demand for substitute goods is always positive because the demand for one good increases when the price for the substitute good increases.\" (Section: Cross Elasticity of Demand)"
+    },
+    {
+        "question": "If the price of coffee rises, demand for stir sticks decreases due to:",
+        "options": ["Positive cross elasticity", "Negative cross elasticity", "Zero cross elasticity", "Income elasticity"],
+        "answer": "Negative cross elasticity",
+        "reference": "\"Alternatively, the cross elasticity of demand for complementary goods is negative. As the price for one item increases, an item closely associated with that item and necessary for its consumption decreases.\" (Section: Cross Elasticity of Demand)"
+    },
+    {
+        "question": "Total revenue is calculated as:",
+        "options": ["Price × Quantity", "Price ÷ Quantity", "Quantity ÷ Price", "Price + Quantity"],
+        "answer": "Price × Quantity",
+        "reference": "\"Total revenue is obtained by multiplying the quantity of the commodity sold with the price of the commodity. Total Revenue = Quantity × Price\" (Section: Revenue Concepts)"
+    },
+    {
+        "question": "If a firm sells 10 chairs at Rs. 160 each, total revenue is:",
+        "options": ["Rs. 1,600", "Rs. 16", "Rs. 160", "Rs. 1,000"],
+        "answer": "Rs. 1,600",
+        "reference": "\"For example, if a firm sells 10 chairs at a price of Rs. 160 per chair, then the total revenue will be: 10 Chairs × Rs. 160 = Rs 1,600\" (Section: Total Revenue)"
+    },
+    {
+        "question": "Average revenue is:",
+        "options": ["Total revenue × Quantity", "Total revenue ÷ Quantity", "Price × Demand", "Marginal revenue + Total revenue"],
+        "answer": "Total revenue ÷ Quantity",
+        "reference": "\"Average revenue refers to revenue per unit of output sold. It is obtained by dividing the total revenue by the number of units sold.\" (Section: Average Revenue)"
+    },
+    {
+        "question": "Average revenue is always equal to:",
+        "options": ["Marginal revenue", "Total revenue", "Price", "Quantity"],
+        "answer": "Price",
+        "reference": "\"Since sellers receive revenue according to price, price and AR are one and the same thing.\" (Section: AR and Price are the Same)"
+    },
+    {
+        "question": "Marginal revenue is the change in:",
+        "options": ["Total revenue from one more unit sold", "Average revenue per unit", "Price per unit", "Quantity demanded"],
+        "answer": "Total revenue from one more unit sold",
+        "reference": "\"Marginal revenue is the additional revenue generated from the sale of an additional unit of output.\" (Section: Marginal Revenue)"
+    },
+    {
+        "question": "If TR from 10 chairs is Rs. 1,600 and from 11 chairs is Rs. 1,780, MR is:",
+        "options": ["Rs. 160", "Rs. 180", "Rs. 1,600", "Rs. 18"],
+        "answer": "Rs. 180",
+        "reference": "\"For example, if the total revenue realised from sale of 10 chairs is Rs. 1,600 and that from sale of 11 chairs is Rs. 1,780, then MR of the 11th chair will be: MR11 = Rs. 1,780 – Rs. 1,600 = Rs. 180\" (Section: Marginal Revenue)"
+    },
+    {
+        "question": "The demand curve is also known as the:",
+        "options": ["Supply curve", "Average revenue curve", "Marginal revenue curve", "Total revenue curve"],
+        "answer": "Average revenue curve",
+        "reference": "\"Therefore, in economics, it is customary to refer AR curve as the Demand Curve of a firm.\" (Section: AR Curve and Demand Curve are the Same)"
+    },
+    {
+        "question": "If TR increases by Rs. 600 when 4 more chairs are sold, MR is:",
+        "options": ["Rs. 150", "Rs. 200", "Rs. 100", "Rs. 600"],
+        "answer": "Rs. 150",
+        "reference": "\"If the total revenue realised from sale of 10 chairs is Rs. 1,600 and that from sale of 14 chairs is Rs. 2,200, then the marginal revenue will be: MR = 600/4 = Rs. 150\" (Section: One More way to Calculate MR)"
+    },
+    {
+        "question": "Total revenue is the sum of:",
+        "options": ["Average revenues", "Marginal revenues", "Prices", "Quantities"],
+        "answer": "Marginal revenues",
+        "reference": "\"Total Revenue can also be calculated as the sum of marginal revenues of all the units sold.\" (Section: Revenue Concepts)"
+    },
+    {
+        "question": "If AR = Rs. 160 for 10 chairs, TR is:",
+        "options": ["Rs. 1,600", "Rs. 16", "Rs. 160", "Rs. 1,000"],
+        "answer": "Rs. 1,600",
+        "reference": "\"For example, if total revenue from the sale of 10 chairs @ Rs. 160 per chair is Rs. 1,600, then: Average Revenue = Total Revenue/Quantity = 1,600/10 = Rs 160\" (Section: Average Revenue)"
+    },
+    {
+        "question": "Demand forecasting helps in:",
+        "options": ["Reducing taxes", "Formulating production policy", "Increasing competition", "Eliminating demand"],
+        "answer": "Formulating production policy",
+        "reference": "\"1. Formulation of Production Policy: Sales forecasts help in formulating suitable production policy.\" (Section: Objectives of Demand Forecasting)"
+    },
+    {
+        "question": "What is a key objective of demand forecasting?",
+        "options": ["Reducing employee wages", "Ensuring regular supply of material", "Increasing product prices", "Eliminating inventory"],
+        "answer": "Ensuring regular supply of material",
+        "reference": "\"2. Regular Supply of Material: By the determination of the desired volume of production on the basis of sales forecasts...\" (Section: Objectives of Demand Forecasting)"
+    },
+    {
+        "question": "Sales forecasts help determine:",
+        "options": ["Financial losses", "Financial requirements for production", "Employee salaries", "Government taxes"],
+        "answer": "Financial requirements for production",
+        "reference": "\"7. Arrangement of Finance: On the basis of the sales forecasts, one can determine the financial requirements of the enterprise for the production of the desired output.\" (Section: Objectives of Demand Forecasting)"
+    },
+    {
+        "question": "Which method involves asking customers what they intend to buy?",
+        "options": ["Trend projection", "Survey of buyer’s intentions", "Collective opinion", "Executive judgment"],
+        "answer": "Survey of buyer’s intentions",
+        "reference": "\"1. Survey of Buyer’s Intentions: This is a short-term method of knowing and estimating customer’s demand.\" (Section: Methods of Demand Forecasting)"
+    },
+    {
+        "question": "The collective opinion method relies on:",
+        "options": ["Salesmen’s judgments", "Government data", "Customer surveys", "Production costs"],
+        "answer": "Salesmen’s judgments",
+        "reference": "\"2. Collective Opinion or Sales Force Composite Method: Under this method, the salesmen are nearest persons to the customers and are able to judge, their minds and market.\" (Section: Methods of Demand Forecasting)"
+    },
+    {
+        "question": "Trend projection assumes:",
+        "options": ["Past trends continue into the future", "Demand remains constant", "Prices never change", "Income decreases"],
+        "answer": "Past trends continue into the future",
+        "reference": "\"The basic assumption of this method is that the past rate of change of the variable under study will be continuing in future.\" (Section: Trend Projection or Time Trend of the Time Series)"
+    },
+    {
+        "question": "Which method uses opinions from top executives?",
+        "options": ["Survey of buyer’s intentions", "Executive judgment", "Trend projection", "Economic indicators"],
+        "answer": "Executive judgment",
+        "reference": "\"4. Executive Judgment Method: Under this method opinions are sought from the executives of different discipline i.e., marketing, finance, production etc.\" (Section: Methods of Demand Forecasting)"
+    },
+    {
+        "question": "Economic indicators like personal income relate to demand for:",
+        "options": ["Production equipment", "Consumer goods", "Agricultural tools", "Building materials"],
+        "answer": "Consumer goods",
+        "reference": "\"(b) Personal Income: Towards demand of consumer goods.\" (Section: Economic Indicators)"
+    },
+    {
+        "question": "Controlled experiments assess the effect of:",
+        "options": ["Income on demand", "Price and advertising on sales", "Production costs", "Employee performance"],
+        "answer": "Price and advertising on sales",
+        "reference": "\"Under this method, an effort is made to ascertain separately certain determinants of demand like price, advertising etc.\" (Section: Controlled Experiments)"
+    },
+    {
+        "question": "Expert opinions are useful when:",
+        "options": ["Past sales data is unavailable", "Production costs are high", "Prices are fixed", "Demand is perfectly elastic"],
+        "answer": "Past sales data is unavailable",
+        "reference": "\"(3) The method is suitable where past records of sales are not available.\" (Section: Expert’s Opinions)"
+    },
+    {
+        "question": "A business uses demand analysis to:",
+        "options": ["Set sales quotas for salesmen", "Reduce taxes", "Increase production costs", "Eliminate competition"],
+        "answer": "Set sales quotas for salesmen",
+        "reference": "\"(4) It provides basis for appraising salesman’s performance and for setting his sales quota.\" (Section: Demand Analysis: The Concept)"
+    },
+    {
+        "question": "If demand is elastic, a firm should:",
+        "options": ["Increase prices", "Charge relatively low prices", "Reduce production", "Increase advertising"],
+        "answer": "Charge relatively low prices",
+        "reference": "\"In general for items those whose demand is elastic it will pay him to charge relatively low prices.\" (Section: Using elasticities in managerial decisions)"
+    },
+    {
+        "question": "A monopolist can charge higher prices if demand is:",
+        "options": ["Elastic", "Inelastic", "Unitary", "Perfectly elastic"],
+        "answer": "Inelastic",
+        "reference": "\"A monopolist would not be able to increase his price if the demand for his product is elastic.\" (Section: Using elasticities in managerial decisions; implies inelastic demand allows higher prices)"
+    },
+    {
+        "question": "Price discrimination is based on:",
+        "options": ["Production costs", "Different elasticities of demand", "Government regulations", "Employee wages"],
+        "answer": "Different elasticities of demand",
+        "reference": "\"1. Price Distribution: A monopolist adopts a price discrimination policy only when the elasticity of demand of different consumers or sub-markets is different.\" (Section: Using elasticities in managerial decisions)"
+    },
+    {
+        "question": "In public utilities, higher prices are charged for:",
+        "options": ["Elastic demand", "Inelastic demand", "Unitary demand", "Perfectly elastic demand"],
+        "answer": "Inelastic demand",
+        "reference": "\"2. Public Utility Pricing: ...price discrimination is generally practiced, charging higher prices from consumers or users with inelastic demand.\" (Section: Using elasticities in managerial decisions)"
+    },
+    {
+        "question": "If demand for wool is inelastic, a firm can:",
+        "options": ["Lower its price", "Charge a higher price", "Reduce supply", "Increase production"],
+        "answer": "Charge a higher price",
+        "reference": "\"3. Joint Supply: Here if the demand for wool is inelastic compared to the demand for mutton, a higher price for wool can be charged with advantage.\" (Section: Using elasticities in managerial decisions)"
+    },
+    {
+        "question": "Supermarkets charge lower prices for goods with:",
+        "options": ["Inelastic demand", "Elastic demand", "Zero elasticity", "Negative elasticity"],
+        "answer": "Elastic demand",
+        "reference": "\"4. Super Markets: ...price policy adopted is to charge slightly lower price for goods with elastic demand.\" (Section: Using elasticities in managerial decisions)"
+    },
+    {
+        "question": "A rise in interest rates increases income from:",
+        "options": ["Spending", "Saving", "Production", "Taxes"],
+        "answer": "Saving",
+        "reference": "\"Higher interest rates increase income from saving.\" (Section: Income and substitution effect for interest rates and saving)"
+    },
+    {
+        "question": "Luxury goods have an income elasticity of demand:",
+        "options": ["Less than 1", "Equal to 1", "Greater than 1", "Negative"],
+        "answer": "Greater than 1",
+        "reference": "\"Luxury goods represent normal goods associated with income elasticities of demand greater than one.\" (Section: Luxury Goods)"
+    },
+    {
+        "question": "Necessity goods have an income elasticity of demand:",
+        "options": ["Greater than 1", "Between 0 and 1", "Negative", "Zero"],
+        "answer": "Between 0 and 1",
+        "reference": "\"Normal goods whose income elasticity of demand is between zero and one are typically referred to as necessity goods.\" (Section: Interpretation of Income Elasticity of Demand)"
+    },
+    {
+        "question": "A 50% drop in demand due to a 20% income fall has an income elasticity of:",
+        "options": ["2.5", "1", "0.5", "0"],
+        "answer": "2.5",
+        "reference": "\"The income elasticity of demand is calculated by taking a negative 50% change in demand... and dividing it by a 20% change in real income... This produces an elasticity of 2.5.\" (Section: Calculation of Income Elasticity of Demand)"
+    },
+    {
+        "question": "The demand curve’s slope is not a reliable indicator of:",
+        "options": ["Price", "Elasticity", "Quantity", "Revenue"],
+        "answer": "Elasticity",
+        "reference": "\"Note: It should be noted that the slope of a demand curve is not a reliable indicator of elasticity.\" (Section: Degrees of Elasticity of Demand)"
+    },
+    {
+        "question": "If demand is unitary elastic, a 10% price change causes:",
+        "options": ["5% demand change", "10% demand change", "20% demand change", "No demand change"],
+        "answer": "10% demand change",
+        "reference": "\"When the quantity demanded of good changes by exactly the same percentage as price, the demand is said to have a unitary elasticity.\" (Section: Degrees of Elasticity of Demand)"
+    },
+    {
+        "question": "Perfectly inelastic demand means:",
+        "options": ["Demand changes infinitely", "Demand does not change with price", "Demand doubles with price", "Demand halves with price"],
+        "answer": "Demand does not change with price",
+        "reference": "\"When the quantity demanded of a good does not change at all to whatever change in price, the demand is said to be perfectly inelastic.\" (Section: Degrees of Elasticity of Demand)"
+    },
+    {
+        "question": "An example of a perfectly elastic product is:",
+        "options": ["Salt", "Luxury cars (theoretical)", "Water", "Bread"],
+        "answer": "Luxury cars (theoretical)",
+        "reference": "\"Examples of perfectly elastic products are luxury products such as jewels, gold, and high-end cars.\" (Section: Perfectly Elastic Demand Examples)"
+    },
+    {
+        "question": "The substitution effect of higher wages encourages:",
+        "options": ["More leisure", "More work", "Less income", "Less demand"],
+        "answer": "More work",
+        "reference": "\"The substitution effect of higher wages means workers will give up leisure to do more hours of work because work has now a higher reward.\" (Section: Income and substitution effect for wages)"
+    },
+    {
+        "question": "A firm uses cross elasticity to:",
+        "options": ["Set production costs", "Establish prices for goods", "Reduce employee wages", "Increase taxes"],
+        "answer": "Establish prices for goods",
+        "reference": "\"Companies utilize cross-elasticity of demand to establish prices to sell their goods.\" (Section: Usefulness of Cross Elasticity of Demand)"
+    },
+    {
+        "question": "Complementary goods are priced based on:",
+        "options": ["Income elasticity", "Cross elasticity", "Price elasticity", "Production costs"],
+        "answer": "Cross elasticity",
+        "reference": "\"Additionally, complementary goods are strategically priced based on cross-elasticity of demand.\" (Section: Usefulness of Cross Elasticity of Demand)"
+    },
+    {
+        "question": "Demand forecasting ensures maximum utilization of:",
+        "options": ["Employees", "Machines", "Taxes", "Prices"],
+        "answer": "Machines",
+        "reference": "\"3. Maximum Utilization of Machines: The operations can be so planned that the machines are utilized to their maximum capacity.\" (Section: Objectives of Demand Forecasting)"
+    },
+    {
+        "question": "Long-term sales forecasts help arrange:",
+        "options": ["Short-term finances", "Long-term finances", "Employee wages", "Production costs"],
+        "answer": "Long-term finances",
+        "reference": "\"10. Long-Term Finances on Reasonable Planning: Long-term Production Planning can help the management to arrange for long-term finances on reasonable terms and conditions.\" (Section: Objectives of Demand Forecasting)"
+    },
+    {
+        "question": "The survey of buyer’s intentions is best for:",
+        "options": ["Long-term forecasting", "Short-term forecasting", "Production planning", "Employee hiring"],
+        "answer": "Short-term forecasting",
+        "reference": "\"1. Survey of Buyer’s Intentions: This is a short-term method of knowing and estimating customer’s demand.\" (Section: Methods of Demand Forecasting)"
+    },
+    {
+        "question": "A disadvantage of the collective opinion method is:",
+        "options": ["It is expensive", "It is subjective", "It requires statistics", "It is inaccurate"],
+        "answer": "It is subjective",
+        "reference": "\"Disadvantages: (1) It is a subjective approach.\" (Section: Collective Opinion or Sales Force Composite Method)"
+    },
+    {
+        "question": "Trend projection is most popular because it is:",
+        "options": ["Complex", "Simple and inexpensive", "Subjective", "Time-consuming"],
+        "answer": "Simple and inexpensive",
+        "reference": "\"Advantages: This method is most popular as it is simple and in-extensive...\" (Section: Trend Projection or Time Trend of the Time Series)"
+    },
+    {
+        "question": "The time series equation O = TSCI includes:",
+        "options": ["Trend, Supply, Costs, Income", "Trend, Seasonal, Cyclical, Irregular", "Taxes, Sales, Costs, Income", "Trend, Supply, Cyclical, Interest"],
+        "answer": "Trend, Seasonal, Cyclical, Irregular",
+        "reference": "\"This time series is expressed by the following equation: O = TSCI Where, O = observed data, T = a secular trend, S = a seasonal factor, C = cyclical element, I = an irregular movement.\" (Section: Trend Projection or Time Trend of the Time Series)"
+    },
+    {
+        "question": "Executive judgment is useful when:",
+        "options": ["Data is abundant", "Data is inadequate", "Prices are fixed", "Demand is elastic"],
+        "answer": "Data is inadequate",
+        "reference": "\"3. Only feasible method to follow: In the absence of adequate data is it the only feasible method to be followed.\" (Section: Executive Judgment Method)"
+    },
+    {
+        "question": "Economic indicators like construction contracts forecast demand for:",
+        "options": ["Consumer goods", "Building materials", "Agricultural tools", "Car parts"],
+        "answer": "Building materials",
+        "reference": "\"(a) Construction contracts: For demand towards building materials sanctioned for cement.\" (Section: Economic Indicators)"
+    },
+    {
+        "question": "Controlled experiments are risky because they may:",
+        "options": ["Reduce profits", "Cause unfavorable reactions", "Increase production", "Eliminate demand"],
+        "answer": "Cause unfavorable reactions",
+        "reference": "\"2. It is risky because it may lead to unfavourable reactions from dealers, consumers and competitors.\" (Section: Controlled Experiments)"
+    },
+    {
+        "question": "Expert opinions are economical because they avoid:",
+        "options": ["Surveys", "Production costs", "Price changes", "Employee wages"],
+        "answer": "Surveys",
+        "reference": "\"(4) The method is economical because survey is done to collect the data. The expenses of seeking the opinions and views of experts are much less than the expenses of actual survey.\" (Section: Expert’s Opinions)"
+    },
+    {
+        "question": "A firm sets plant size based on:",
+        "options": ["Employee numbers", "Demand forecasts", "Tax rates", "Production costs"],
+        "answer": "Demand forecasts",
+        "reference": "\"8. To Decide about Production Capacity: The size of the plant should be such that the output confirms with sales requirements.\" (Section: Objectives of Demand Forecasting)"
+    },
+    {
+        "question": "If demand fluctuates, a firm may prefer:",
+        "options": ["Large plants", "Flexible plants", "Fixed plants", "Small plants"],
+        "answer": "Flexible plants",
+        "reference": "\"However, if demand is expected to fluctuate, flexible plants (possibly with lower average costs at the most likely rate of output) may be desirable.\" (Section: Importance of Demand Analysis)"
+    },
+    {
+        "question": "Heavy advertising is justified if demand is:",
+        "options": ["Inelastic", "Responsive to advertising", "Perfectly elastic", "Zero elastic"],
+        "answer": "Responsive to advertising",
+        "reference": "\"If demand is really responsive to advertising, there may be a strong rationale for heavy outlay on market development and sales promotion.\" (Section: Importance of Demand Analysis)"
+    },
+    {
+        "question": "The law of demand states that price and quantity demanded are:",
+        "options": ["Positively related", "Negatively related", "Unrelated", "Equal"],
+        "answer": "Negatively related",
+        "reference": "\"This indicates the existence of an inverse relationship between the price of the article and the quantity demanded by consumers. This is commonly known as the law of demand.\" (Section: Demand and its Determinants)"
+    },
+    {
+        "question": "An elastic demand implies a robust change in:",
+        "options": ["Price", "Quantity", "Income", "Supply"],
+        "answer": "Quantity",
+        "reference": "\"An elastic demand implies a robust change quantity accompanied by a change in price.\" (Section: Determinants of Demand)"
+    },
+    {
+        "question": "Marginal utility determines the change in demand with:",
+        "options": ["Price", "Income", "Substitutes", "Production"],
+        "answer": "Income",
+        "reference": "\"Marginal utility determines the proportion of change in the demand levels.\" (Section: Determinants of Demand)"
+    },
+    {
+        "question": "A rise in the price of petrol decreases demand for cars due to:",
+        "options": ["Income effect", "Substitution effect", "Cross elasticity", "Price elasticity"],
+        "answer": "Cross elasticity",
+        "reference": "\"Alternatively, the cross elasticity of demand for complementary goods is negative. As the price for one item increases, an item closely associated with that item and necessary for its consumption decreases.\" (Section: Cross Elasticity of Demand; petrol and cars are complementary)"
+    },
+    {
+        "question": "The demand curve slopes downward because of:",
+        "options": ["The law of supply", "The law of demand", "Production costs", "Income changes"],
+        "answer": "The law of demand",
+        "reference": "\"This is commonly known as the law of demand and can be graphically represented by a line with a downward slope.\" (Section: Demand and its Determinants)"
+    },
+    {
+        "question": "Unitary elasticity means percentage change in price equals:",
+        "options": ["Percentage change in income", "Percentage change in quantity", "Percentage change in supply", "No change in demand"],
+        "answer": "Percentage change in quantity",
+        "reference": "\"When the quantity demanded of good changes by exactly the same percentage as price, the demand is said to have a unitary elasticity.\" (Section: Degrees of Elasticity of Demand)"
+    },
+    {
+        "question": "A good with zero income elasticity is:",
+        "options": ["Normal", "Inferior", "Necessity", "Luxury"],
+        "answer": "Necessity",
+        "reference": "\"Zero: The quantity bought/demanded is the same even if income changes\" (Section: Types of Income Elasticity of Demand; aligns with necessity goods)"
+    },
+    {
+        "question": "Cross elasticity for unrelated goods is:",
+        "options": ["Positive", "Negative", "Zero", "Infinite"],
+        "answer": "Zero",
+        "reference": "\"Items with a coefficient of 0 are unrelated items and are goods independent of each other.\" (Section: Cross Elasticity of Demand)"
+    },
+    {
+        "question": "Printers are sold at a loss to increase demand for:",
+        "options": ["Paper", "Ink", "Computers", "Electricity"],
+        "answer": "Ink",
+        "reference": "\"For example, printers may be sold at a loss with the understanding that the demand for future complementary goods, such as printer ink, should increase.\" (Section: Usefulness of Cross Elasticity of Demand)"
+    },
+    {
+        "question": "Demand forecasting avoids an inventory that is:",
+        "options": ["Too large or too small", "Fixed", "Expensive", "Reduced"],
+        "answer": "Too large or too small",
+        "reference": "\"A poor job of demand forecasting will lead to an ineffective production and to an inventory that is either too large or too small.\" (Section: Relevance of Demand Forecasting)"
+    },
+    {
+        "question": "Sales targets are fixed based on:",
+        "options": ["Production costs", "Region-wise forecasts", "Employee performance", "Tax rates"],
+        "answer": "Region-wise forecasts",
+        "reference": "\"6. Proper Control of Sales: Forecasts are calculated region wise and then the sales targets for various territories are fixed accordingly.\" (Section: Objectives of Demand Forecasting)"
+    },
+    {
+        "question": "The challenge in trend projection is predicting:",
+        "options": ["Costs", "Turning points", "Prices", "Income"],
+        "answer": "Turning points",
+        "reference": "\"In fact, the actual challenge of forecasting is in the prediction of turning points rather than in the trend projection.\" (Section: Trend Projection or Time Trend of the Time Series)"
+    },
+    {
+        "question": "A regression equation in economic indicators is of the form:",
+        "options": ["y = α + bx", "y = mx + c", "y = ab + x", "y = x² + b"],
+        "answer": "y = α + bx",
+        "reference": "\"Supposing the relationship is Linear the equation will be of the form y = α + bx.\" (Section: Economic Indicators)"
+    },
+    {
+        "question": "Controlled experiments assume other factors are:",
+        "options": ["Variable", "Constant", "Elastic", "Inelastic"],
+        "answer": "Constant",
+        "reference": "\"...and conducting the experiment while assuming that the other factors remain constant.\" (Section: Controlled Experiments)"
+    },
+    {
+        "question": "Expert opinions are nearly accurate because they rely on:",
+        "options": ["Past data", "Specialist views", "Production costs", "Price changes"],
+        "answer": "Specialist views",
+        "reference": "\"(2) It is based on expert’s views and opinions hence estimates are nearly accurate.\" (Section: Expert’s Opinions)"
+    },
+    {
+        "question": "Demand theory helps managers in:",
+        "options": ["Short-run planning only", "Long-run planning only", "Both short-run and long-run planning", "Eliminating demand"],
+        "answer": "Both short-run and long-run planning",
+        "reference": "\"Demand theory is undoubtedly one of the manager’s essential tools in business planning both short run and long run.\" (Section: Importance of Demand Analysis)"
+    },
+    {
+        "question": "A firm assesses labor requirements based on:",
+        "options": ["Sales forecasts", "Production costs", "Tax rates", "Employee wages"],
+        "answer": "Sales forecasts",
+        "reference": "\"9. Labour Requirement: Reliable and accurate sales forecasts can help the management to assess the appropriate labor requirements.\" (Section: Objectives of Demand Forecasting)"
+    },
+    {
+        "question": "The success of an enterprise depends on:",
+        "options": ["Production capacity", "Quality of sales forecasting", "Employee numbers", "Tax policies"],
+        "answer": "Quality of sales forecasting",
+        "reference": "\"Thus, the overall success of an enterprise mainly depends on the quality and reliability of the sales forecasting mechanism.\" (Section: Objectives of Demand Forecasting)"
+    },
+    
+    {
+        "question": "The primary purpose of demand forecasting is to:",
+        "options": ["Increase production costs", "Match supply with demand", "Reduce employee numbers", "Fix tax rates"],
+        "answer": "Match supply with demand",
+        "reference": "\"Demand forecasting is the pivotal function that enables a business firm to match supply with demand.\" (Section: Relevance of Demand Forecasting)"
+    }
+]
