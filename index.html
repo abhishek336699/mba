@@ -1,24 +1,100 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Managerial Economics Quiz</title>
-    <link rel="stylesheet" href="styles.css">
+  <meta charset="UTF-8">
+  <title>Three-Level Sidebar Menu</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      display: flex;
+    }
+
+    .sidebar {
+      width: 250px;
+      height: 100vh;
+      background-color: #010101;
+      padding: 0;
+      overflow-y: auto;
+    }
+
+    .sidebar ul {
+      list-style-type: none;
+      padding: 0;
+      margin: 0;
+    }
+
+    .sidebar li {
+      position: relative;
+    }
+
+    .sidebar a {
+      display: block;
+      color: white;
+      padding: 12px 20px;
+      text-decoration: none;
+    }
+
+    .sidebar a:hover {
+      background-color: #a9b5c2;
+    }
+
+    .sidebar li ul {
+      display: none;
+      background-color: #49494a;
+    }
+
+    .sidebar li:hover > ul {
+      display: block;
+    }
+
+    .sidebar li ul li ul {
+      background-color: #787a7c;
+      margin-left: 20px;
+    }
+
+    .content {
+      flex-grow: 1;
+      height: 100vh;
+    }
+
+    iframe {
+      width: 100%;
+      height: 100%;
+      border: none;
+    }
+  </style>
 </head>
 <body>
-    <div class="quiz-container">
-        <h1>Managerial Economics- Module 1 Quiz</h1>
-        <div id="progress">Question <span id="current-question">1</span> of <span id="total-questions">10</span></div>
-        <div id="question-container">
-            <p id="question-text"></p>
-            <ul id="options-list"></ul>
-        </div>
-        <button id="submit-btn" disabled>Submit Answer</button>
-        <div id="feedback"></div>
-        <button id="next-btn" style="display: none;">Next Question</button>
 
-    </div>
-    <script src="script.js"></script>
+<div class="sidebar">
+  <ul>
+    <li><a href="home.html" target="content-frame" >MBA</a></li>
+    <li>
+      <a href="#">Sem 1- Managerial Economics</a>
+      <ul>
+        <li>
+          <a href="MC-module1.html" target="content-frame" >Module -1</a>
+          
+        </li>
+        
+      </ul>
+    </li>
+    <!--<li><a href="#">About Us</a></li>
+    <li>
+      <a href="#">Services</a>
+      <ul>
+        <li><a href="#">Consulting</a></li>
+        <li><a href="#">Support</a></li>
+      </ul>
+    </li>
+    <li><a href="#">Contact</a></li>-->
+  </ul>
+</div>
+
+<div class="content">
+  <iframe name="content-frame" src="home.html"></iframe>
+</div>
+
 </body>
 </html>
