@@ -1,0 +1,1597 @@
+[
+    {
+        "question": "What are costs paid directly in cash for resources called?",
+        "options": [
+            "Economic costs",
+            "Accounting costs",
+            "Opportunity costs",
+            "Social costs"
+        ],
+        "answer": "Accounting costs",
+        "reference": "\"Concept of Costs in terms of Treatment - Accounting costs: Accounting costs are those costs that are recorded by the chartered accountant in the books of account and these costs are paid directly in cash for acquiring resources such as wages paid to workers, rent paid for building, interest paid on capital, cost of raw material, etc.\""
+    },
+    {
+        "question": "Which costs include income foregone from alternative ventures?",
+        "options": [
+            "Outlay costs",
+            "Economic costs",
+            "Private costs",
+            "Fixed costs"
+        ],
+        "answer": "Economic costs",
+        "reference": "\"Concept of Costs in terms of Treatment - Economic costs: Economic costs include accounting costs as well as the income foregone from alternative venture or employment by utilizing the resources such as potential return on capital if employed elsewhere or salary of entrepreneur if he works elsewhere, etc., and these costs help the entrepreneur to calculate the supernormal profits.\""
+    },
+    {
+        "question": "The actual expenses incurred for inputs are known as:",
+        "options": [
+            "Opportunity costs",
+            "Outlay costs",
+            "Indirect costs",
+            "Sunk costs"
+        ],
+        "answer": "Outlay costs",
+        "reference": "\"Concept of Costs in terms of the Nature of Expenses - Outlay costs: Outlay costs are the actual expenses incurred by the entrepreneur for employing inputs such as wages paid to workers, rent paid for building, interest paid on capital, cost of raw material, etc.\""
+    },
+    {
+        "question": "Costs representing the next best alternative foregone are:",
+        "options": [
+            "Direct costs",
+            "Opportunity costs",
+            "Incremental costs",
+            "Accounting costs"
+        ],
+        "answer": "Opportunity costs",
+        "reference": "\"Concept of Costs in terms of the Nature of Expenses - Opportunity costs: Opportunity costs are the costs of the next best alternative foregone such as income foregone by an entrepreneur by not working elsewhere or return on capital if employed elsewhere.\""
+    },
+    {
+        "question": "Which costs can be directly traced to a specific product?",
+        "options": [
+            "Indirect costs",
+            "Fixed costs",
+            "Direct costs",
+            "Social costs"
+        ],
+        "answer": "Direct costs",
+        "reference": "\"Concept of Costs in terms of Traceability - Direct costs: Direct costs are those costs that can be directly traced to a specific product, process or department such as manufacturing costs, customer acquisition costs, etc.\""
+    },
+    {
+        "question": "Costs not directly traceable to a specific activity are:",
+        "options": [
+            "Direct costs",
+            "Indirect costs",
+            "Variable costs",
+            "Private costs"
+        ],
+        "answer": "Indirect costs",
+        "reference": "\"Concept of Costs in terms of Traceability - Indirect costs: Indirect costs are those costs that are not traceable to a specific product, process or department but affect the overall profitability such as electricity charges, rent paid for building, etc.\""
+    },
+    {
+        "question": "Costs incurred due to a policy decision like upgrading machinery are:",
+        "options": [
+            "Sunk costs",
+            "Incremental costs",
+            "Fixed costs",
+            "Opportunity costs"
+        ],
+        "answer": "Incremental costs",
+        "reference": "\"Concept of Costs in terms of Purpose - Incremental costs: Incremental costs are those costs that are incurred due to a particular policy decision of the business such as costs incurred due to change in product line, replacement of labour-intensive technique by capital-intensive technique, upgrading of machinery, etc.\""
+    },
+    {
+        "question": "Which costs are unrecoverable once spent, such as advertising expenses?",
+        "options": [
+            "Incremental costs",
+            "Sunk costs",
+            "Direct costs",
+            "Variable costs"
+        ],
+        "answer": "Sunk costs",
+        "reference": "\"Concept of Costs in terms of Purpose - Sunk costs: Sunk costs are those costs that cannot be recovered once incurred such as advertising expenses of the business, money spent on research and development, etc.\""
+    },
+    {
+        "question": "Costs borne by the firm for its own objectives are:",
+        "options": [
+            "Social costs",
+            "Private costs",
+            "Indirect costs",
+            "Economic costs"
+        ],
+        "answer": "Private costs",
+        "reference": "\"Concept of Costs in terms of Payers - Private costs: Private costs are those costs that are borne by the business firm for fulfilling its own objectives such as manufacturing costs of the product, rent paid for building, etc.\""
+    },
+    {
+        "question": "Costs imposed on society, like pollution, are classified as:",
+        "options": [
+            "Private costs",
+            "Social costs",
+            "Fixed costs",
+            "Direct costs"
+        ],
+        "answer": "Social costs",
+        "reference": "\"Concept of Costs in terms of Payers - Social costs: Social costs are those costs that are incurred by the society due to the business activities of private firms such as cost of environmental pollution, social resources such as water used by the firm, etc.\""
+    },
+    {
+        "question": "Which costs remain constant regardless of output volume?",
+        "options": [
+            "Variable costs",
+            "Fixed costs",
+            "Incremental costs",
+            "Opportunity costs"
+        ],
+        "answer": "Fixed costs",
+        "reference": "\"Concept of Costs in terms of Variability - Fixed costs: Fixed costs are those costs that do not change with the volume of output such as rent payments, interest on loan taken, etc.\""
+    },
+    {
+        "question": "Costs that vary with the level of production are:",
+        "options": [
+            "Fixed costs",
+            "Variable costs",
+            "Sunk costs",
+            "Social costs"
+        ],
+        "answer": "Variable costs",
+        "reference": "\"Concept of Costs in terms of Variability - Variable costs: Variable costs are those costs that vary with the level of output such as cost of raw material purchases, wages paid to workers based on output, etc.\""
+    },
+    {
+        "question": "In the short run, which factor of production cannot be varied?",
+        "options": [
+            "Variable factor",
+            "Fixed factor",
+            "Labor",
+            "Raw material"
+        ],
+        "answer": "Fixed factor",
+        "reference": "\"Cost Output Relationship in Short Run: In economics, short run refers to that period in which entrepreneur cannot change all the factors of production and there is at least one fixed factor of production such as machines, infrastructure, etc., while variable factors of production such as labour, raw material, etc., can be changed.\""
+    },
+    {
+        "question": "As output increases, the average fixed cost:",
+        "options": [
+            "Increases",
+            "Decreases",
+            "Remains constant",
+            "Fluctuates"
+        ],
+        "answer": "Decreases",
+        "reference": "\"Cost-Output Relationship in the Short Run - Average Fixed Cost Output: The greater the output, the lesser the fixed cost per unit of output, i.e., the average fixed cost falls with every increase in output because the same amount of fixed cost is divided among more units of output.\""
+    },
+    {
+        "question": "The shape of the average fixed cost curve is a:",
+        "options": [
+            "Straight line",
+            "U-shape",
+            "Rectangular hyperbola",
+            "Circle"
+        ],
+        "answer": "Rectangular hyperbola",
+        "reference": "\"Cost-Output Relationship in the Short Run - Short-Run Output Cost Curves: The average fixed cost curve slopes downward throughout its length and it takes the shape of rectangular hyperbola because the greater the output, the lesser the fixed cost per unit of output.\""
+    },
+    {
+        "question": "The average variable cost follows what pattern as output increases?",
+        "options": [
+            "Falls then rises",
+            "Rises then falls",
+            "Remains constant",
+            "Falls continuously"
+        ],
+        "answer": "Falls then rises",
+        "reference": "\"Cost-Output Relationship in the Short Run - Average Variable Cost and Output: The average variable cost first falls with the increase in output and then rises with the further increase in output due to the operation of law of variable proportions.\""
+    },
+    {
+        "question": "What happens to average variable cost beyond optimum capacity?",
+        "options": [
+            "Decreases sharply",
+            "Increases sharply",
+            "Remains stable",
+            "Becomes zero"
+        ],
+        "answer": "Increases sharply",
+        "reference": "\"Cost-Output Relationship in the Short Run - Average Variable Cost and Output: Beyond the optimum capacity of the fixed plant, the average variable cost increases sharply due to overcrowding of variable factors of production such as labour leading to inefficient utilization of fixed factors of production.\""
+    },
+    {
+        "question": "The average total cost declines as long as:",
+        "options": [
+            "AVC rises sharply",
+            "AFC drop exceeds AVC rise",
+            "MC equals ATC",
+            "Output decreases"
+        ],
+        "answer": "AFC drop exceeds AVC rise",
+        "reference": "\"Cost-Output Relationship in the Short Run - Average Total Cost and Output: The average total cost declines as long as the drop in average fixed cost exceeds the rise in average variable cost and rises when rise in average variable cost exceeds the drop in average fixed cost.\""
+    },
+    {
+        "question": "The least cost-output level corresponds to the minimum of:",
+        "options": [
+            "Average variable cost",
+            "Average total cost",
+            "Marginal cost",
+            "Average fixed cost"
+        ],
+        "answer": "Average total cost",
+        "reference": "\"Cost-Output Relationship in the Short Run - Average Total Cost and Output: The optimum output level or least cost-output level is that level of output at which the average total cost of production is minimum.\""
+    },
+    {
+        "question": "The marginal cost curve intersects AVC and ATC at their:",
+        "options": [
+            "Maximum points",
+            "Minimum points",
+            "Midpoints",
+            "Starting points"
+        ],
+        "answer": "Minimum points",
+        "reference": "\"Cost-Output Relationship in the Short Run - Short-Run Output Cost Curves: The marginal cost curve intersects both average variable cost curve and average total cost curve at their minimum points.\""
+    },
+    {
+        "question": "If marginal cost is less than average cost, it will:",
+        "options": [
+            "Pull AC up",
+            "Pull AC down",
+            "Keep AC constant",
+            "Increase AC sharply"
+        ],
+        "answer": "Pull AC down",
+        "reference": "\"Cost-Output Relationship in the Short Run - Short-Run Output Cost Curves: When marginal cost is less than average cost, it pulls the average cost down and when marginal cost is greater than average cost, it pulls the average cost up.\""
+    },
+    {
+        "question": "Which input is considered variable in the short run?",
+        "options": [
+            "Machines",
+            "Infrastructure",
+            "Raw material",
+            "Managers\u2019 salaries"
+        ],
+        "answer": "Raw material",
+        "reference": "\"Cost Output Relationship in Short Run: In economics, short run refers to that period in which entrepreneur cannot change all the factors of production and there is at least one fixed factor of production such as machines, infrastructure, etc., while variable factors of production such as labour, raw material, etc., can be changed.\""
+    },
+    {
+        "question": "In the long run, all costs are:",
+        "options": [
+            "Fixed",
+            "Variable",
+            "Sunk",
+            "Indirect"
+        ],
+        "answer": "Variable",
+        "reference": "\"Cost Output Relationship in Long Run: In economics, long run refers to that period in which entrepreneur can change all the factors of production and there is no fixed factor of production implying that all costs are variable costs.\""
+    },
+    {
+        "question": "The long-run cost curve is tangential to:",
+        "options": [
+            "Marginal cost curves",
+            "Short-run average cost curves",
+            "Variable cost curves",
+            "Fixed cost curves"
+        ],
+        "answer": "Short-run average cost curves",
+        "reference": "\"Cost Output Relationship in Long Run: The long-run cost curve is tangential to various short-run average cost curves and each point of tangency represents the least cost of producing that level of output.\""
+    },
+    {
+        "question": "In the long run, a firm can alter its:",
+        "options": [
+            "Variable inputs only",
+            "Fixed inputs only",
+            "All inputs",
+            "No inputs"
+        ],
+        "answer": "All inputs",
+        "reference": "\"Cost Output Relationship in Long Run: In economics, long run refers to that period in which entrepreneur can change all the factors of production and there is no fixed factor of production implying that all costs are variable costs.\""
+    },
+    {
+        "question": "The long-run average cost curve is often depicted as:",
+        "options": [
+            "U-shaped",
+            "L-shaped",
+            "Straight line",
+            "Circular"
+        ],
+        "answer": "L-shaped",
+        "reference": "\"Estimation of Long-Run Cost Function - Cross-Section Analysis: Cross-section analysis has revealed that long-run average cost curve is L-shaped rather than U-shaped because average cost declines with the increase in output due to economies of scale and remains constant after reaching minimum efficient scale.\""
+    },
+    {
+        "question": "The minimum efficient scale (MES) is the output where:",
+        "options": [
+            "LAC is maximum",
+            "LAC is minimum",
+            "AVC is minimum",
+            "MC is zero"
+        ],
+        "answer": "LAC is minimum",
+        "reference": "\"Estimation of Long-Run Cost Function - Cross-Section Analysis: Minimum efficient scale is that level of output at which long-run average cost is minimum and beyond this level of output average cost remains constant.\""
+    },
+    {
+        "question": "Economies of scale lead to:",
+        "options": [
+            "Cost increases",
+            "Cost reductions",
+            "Constant costs",
+            "Higher variable costs"
+        ],
+        "answer": "Cost reductions",
+        "reference": "\"Economies of scale: Economies of scale refer to the cost advantages obtained by a business firm due to increase in scale of production leading to reduction in cost per unit of output and these economies benefit both producers and consumers in terms of lower prices.\""
+    },
+    {
+        "question": "Which economies of scale are within management\u2019s control?",
+        "options": [
+            "External",
+            "Internal",
+            "Social",
+            "Private"
+        ],
+        "answer": "Internal",
+        "reference": "\"Economies of scale - Internal Economies of Scale: Internal economies of scale are those economies that are within the control of management of the business firm such as technical economies of scale, monopsony power, managerial economies of scale, financial economies of scale, network economies of scale, etc.\""
+    },
+    {
+        "question": "Technical economies of scale arise from:",
+        "options": [
+            "Bulk buying",
+            "Production process efficiencies",
+            "Specialist managers",
+            "Cheaper capital"
+        ],
+        "answer": "Production process efficiencies",
+        "reference": "\"Economies of scale - Internal Economies of Scale - Technical economies of scale: Technical economies of scale arise due to the efficiencies in the production process such as use of efficient equipments, linking of processes, etc.\""
+    },
+    {
+        "question": "Monopsony power reduces costs by:",
+        "options": [
+            "Efficient equipment",
+            "Bulk buying",
+            "Network effects",
+            "Specialist managers"
+        ],
+        "answer": "Bulk buying",
+        "reference": "\"Economies of scale - Internal Economies of Scale - Monopsony power: Monopsony power refers to the ability of large firms to reduce cost per unit of output by bulk buying of raw material, etc., at lower prices.\""
+    },
+    {
+        "question": "Managerial economies of scale result from:",
+        "options": [
+            "Bulk buying",
+            "Specialist managers",
+            "Efficient equipment",
+            "Network effects"
+        ],
+        "answer": "Specialist managers",
+        "reference": "\"Economies of scale - Internal Economies of Scale - Managerial economies of scale: Managerial economies of scale arise due to the employment of specialist managers such as production manager, marketing manager, financial manager, etc., leading to reduction in cost per unit of output.\""
+    },
+    {
+        "question": "Financial economies of scale provide:",
+        "options": [
+            "Bulk buying power",
+            "Cheaper access to capital",
+            "Production efficiencies",
+            "Specialist managers"
+        ],
+        "answer": "Cheaper access to capital",
+        "reference": "\"Economies of scale - Internal Economies of Scale - Financial economies of scale: Financial economies of scale arise due to the cheaper access to capital by large firms at lower rate of interest leading to reduction in cost per unit of output.\""
+    },
+    {
+        "question": "Network economies of scale are common in:",
+        "options": [
+            "Manufacturing",
+            "Online businesses",
+            "Agriculture",
+            "Construction"
+        ],
+        "answer": "Online businesses",
+        "reference": "\"Economies of scale - Internal Economies of Scale - Network economies of scale: Network economies of scale arise due to increase in consumer base with the expansion of business such as online businesses implying that higher the consumer base, lower the cost per unit of output.\""
+    },
+    {
+        "question": "External economies of scale often involve:",
+        "options": [
+            "Production efficiencies",
+            "Government incentives",
+            "Bulk buying",
+            "Specialist managers"
+        ],
+        "answer": "Government incentives",
+        "reference": "\"Economies of scale - External Economies of Scale: External economies of scale are those economies that are not within the control of management of the business firm such as concessions and subsidies provided by the government, joint research with universities and other firms, etc.\""
+    },
+    {
+        "question": "Diseconomies of scale occur when a firm becomes:",
+        "options": [
+            "Too small",
+            "Too large",
+            "More efficient",
+            "Less productive"
+        ],
+        "answer": "Too large",
+        "reference": "\"Diseconomies of Scale: Diseconomies of scale refer to the increase in cost per unit of output when a business firm becomes too large leading to inefficiencies in the production process.\""
+    },
+    {
+        "question": "Cost control aims to regulate costs to achieve:",
+        "options": [
+            "Sales targets",
+            "Production goals",
+            "Profit maximization",
+            "Output levels"
+        ],
+        "answer": "Sales targets",
+        "reference": "\"Cost control and cost reduction - Cost control: Cost control refers to the process of regulating the costs in such a manner that helps the business firm to achieve the target of sales with maximum profits.\""
+    },
+    {
+        "question": "The first step in cost control is:",
+        "options": [
+            "Appraisal",
+            "Planning",
+            "Motivation",
+            "Decision-making"
+        ],
+        "answer": "Planning",
+        "reference": "\"Cost control and cost reduction - Aspects of Cost Control: Planning is the first step of cost control in which standards or budgets are set by the business firm against which actual results are compared.\""
+    },
+    {
+        "question": "Cost control focuses on:",
+        "options": [
+            "Future planning",
+            "Past and present",
+            "Long-term goals",
+            "Revenue growth"
+        ],
+        "answer": "Past and present",
+        "reference": "\"Cost control and cost reduction - Cost control: The focus of cost control is on the past and present rather than future as in the case of cost reduction.\""
+    },
+    {
+        "question": "Budgetary control uses budgets for:",
+        "options": [
+            "Cost reduction only",
+            "Planning and controlling",
+            "Sales forecasting",
+            "Profit planning"
+        ],
+        "answer": "Planning and controlling",
+        "reference": "\"Tools of Cost Control - Budgetary Control: Budgetary control refers to the process of using budgets as a means for planning and controlling all aspects of producing and selling products.\""
+    },
+    {
+        "question": "Which budget is prepared for a specific output level?",
+        "options": [
+            "Flexible budget",
+            "Fixed budget",
+            "Performance budget",
+            "Zero-base budget"
+        ],
+        "answer": "Fixed budget",
+        "reference": "\"Tools of Cost Control - Types of Budgets - Fixed and Flexible Budgets: Fixed budget is that budget which is prepared keeping in mind a specific level of output and it does not change with the change in level of production.\""
+    },
+    {
+        "question": "Flexible budgets adapt to:",
+        "options": [
+            "Fixed output levels",
+            "Changes in production levels",
+            "Past performance",
+            "Zero-base planning"
+        ],
+        "answer": "Changes in production levels",
+        "reference": "\"Tools of Cost Control - Types of Budgets - Fixed and Flexible Budgets: Flexible budget is that budget which changes with the change in level of production and sales keeping fixed cost constant and varying the variable cost.\""
+    },
+    {
+        "question": "Zero-base budgeting assumes the budget starts at:",
+        "options": [
+            "Last year\u2019s level",
+            "Zero",
+            "Fixed amount",
+            "Variable amount"
+        ],
+        "answer": "Zero",
+        "reference": "\"Tools of Cost Control - Types of Budgets - Zero-Base Budgeting: Zero-base budgeting is that budgeting in which budget of each year starts with zero rather than previous year budget implying that each item of budget needs to be justified every year.\""
+    },
+    {
+        "question": "Performance budgeting emphasizes:",
+        "options": [
+            "Financial measures",
+            "Non-financial measures",
+            "Fixed costs",
+            "Variable costs"
+        ],
+        "answer": "Non-financial measures",
+        "reference": "\"Tools of Cost Control - Types of Budgets - Performance Budget: Performance budget is that budget which is prepared keeping in mind the non-financial measures of performance such as output per worker, etc.\""
+    },
+    {
+        "question": "Standard costing compares actual costs with:",
+        "options": [
+            "Budgeted costs",
+            "Standard costs",
+            "Historical costs",
+            "Forecasted costs"
+        ],
+        "answer": "Standard costs",
+        "reference": "\"Tools of Cost Control - Standard Costing: Standard costing refers to the process of comparing the actual costs with the standard costs and analyzing the variances so as to take corrective actions.\""
+    },
+    {
+        "question": "Cost reduction aims to achieve production at:",
+        "options": [
+            "Maximum cost",
+            "Minimum cost",
+            "Variable cost",
+            "Fixed cost"
+        ],
+        "answer": "Minimum cost",
+        "reference": "\"Cost Reduction: Cost reduction refers to the permanent reduction in cost per unit of output by the business firm so as to achieve the production at minimum cost without compromising on the quality of product.\""
+    },
+    {
+        "question": "Value analysis focuses on improving:",
+        "options": [
+            "Labor efficiency",
+            "Product design",
+            "Sales strategy",
+            "Budget accuracy"
+        ],
+        "answer": "Product design",
+        "reference": "\"Important Techniques of Cost Control - Value Analysis: Value analysis refers to the systematic examination of the product design before purchasing any equipment or material so as to ensure that unnecessary costs are eliminated without compromising on quality of product.\""
+    },
+    {
+        "question": "Method study aims to enhance:",
+        "options": [
+            "Product quality",
+            "Work efficiency",
+            "Sales volume",
+            "Budget planning"
+        ],
+        "answer": "Work efficiency",
+        "reference": "\"Important Techniques of Cost Control - Method Study: Method study refers to the systematic examination of the methods of work so as to improve the efficiency of work leading to reduction in cost per unit of output.\""
+    },
+    {
+        "question": "Variety reduction reduces costs by:",
+        "options": [
+            "Increasing product variety",
+            "Simplifying production",
+            "Enhancing marketing",
+            "Raising prices"
+        ],
+        "answer": "Simplifying production",
+        "reference": "\"Cost Reduction Techniques - Variety Reduction: Variety reduction refers to the reduction in variety of products manufactured by the business firm so as to simplify the production process leading to reduction in cost per unit of output.\""
+    },
+    {
+        "question": "Production control organizes:",
+        "options": [
+            "Sales and marketing",
+            "Men, machines, and materials",
+            "Budgets and costs",
+            "Labor and capital"
+        ],
+        "answer": "Men, machines, and materials",
+        "reference": "\"Cost Reduction Techniques - Production Control: Production control refers to the systematic organizing of men, machines and materials so as to produce right quality of products at least cost.\""
+    },
+    {
+        "question": "Terotechnology reduces:",
+        "options": [
+            "Variable costs",
+            "Life-cycle costs",
+            "Fixed costs",
+            "Opportunity costs"
+        ],
+        "answer": "Life-cycle costs",
+        "reference": "\"Cost Reduction Techniques - Terotechnology: Terotechnology refers to the combination of management, engineering and other techniques so as to reduce the life-cycle costs of the product such as installation cost, operational cost, maintenance cost, etc.\""
+    },
+    {
+        "question": "Cost-benefit analysis evaluates:",
+        "options": [
+            "Sales and revenue",
+            "Benefits and costs",
+            "Production and output",
+            "Labor and capital"
+        ],
+        "answer": "Benefits and costs",
+        "reference": "\"Cost Reduction Techniques - Cost-Benefit Analysis: Cost-benefit analysis refers to the systematic evaluation of benefits and costs of various alternatives so as to select that alternative which ensures maximum benefits at minimum cost.\""
+    },
+    {
+        "question": "The production function shows the relationship between:",
+        "options": [
+            "Costs and profits",
+            "Inputs and output",
+            "Sales and revenue",
+            "Labor and capital"
+        ],
+        "answer": "Inputs and output",
+        "reference": "\"Production Function - Meaning of Production Function: Production function refers to the technical relationship between inputs and output at a particular point of time under a given state of technology.\""
+    },
+    {
+        "question": "Which feature of the production function allows varying one input?",
+        "options": [
+            "Complementarity",
+            "Substitutability",
+            "Specificity",
+            "Variability"
+        ],
+        "answer": "Substitutability",
+        "reference": "\"Production Function - Following are the main features of production function - Substitutability: Substitutability refers to the feature of production function in which one factor of production can be substituted for another factor of production such as labour can be substituted for capital and vice-versa.\""
+    },
+    {
+        "question": "Inputs that must be used together reflect:",
+        "options": [
+            "Substitutability",
+            "Complementarity",
+            "Specificity",
+            "Elasticity"
+        ],
+        "answer": "Complementarity",
+        "reference": "\"Production Function - Following are the main features of production function - Complementarity: Complementarity refers to the feature of production function in which two or more factors of production must be used together such as labour and machines must be used together to produce a product.\""
+    },
+    {
+        "question": "Inputs specific to a product, like specialized machines, show:",
+        "options": [
+            "Substitutability",
+            "Complementarity",
+            "Specificity",
+            "Flexibility"
+        ],
+        "answer": "Specificity",
+        "reference": "\"Production Function - Following are the main features of production function - Specificity: Specificity refers to the feature of production function in which some factors of production are specific to a particular product such as specialized machines required to produce a specific product.\""
+    },
+    {
+        "question": "In the short run, output variation is possible by changing:",
+        "options": [
+            "All inputs",
+            "Single input",
+            "Fixed inputs",
+            "No inputs"
+        ],
+        "answer": "Single input",
+        "reference": "\"Production Function - In the production function, variation in total output...: In the production function, variation in total output is possible by varying the quantity of single factor of production in short-run such as labour keeping other factors of production constant such as capital.\""
+    },
+    {
+        "question": "The linear homogeneous production function implies:",
+        "options": [
+            "Increasing returns",
+            "Constant returns",
+            "Decreasing returns",
+            "Variable returns"
+        ],
+        "answer": "Constant returns",
+        "reference": "\"Production Function - Linear Homogeneous Production Function: Linear homogeneous production function refers to that production function in which output increases in the same proportion as increase in all inputs implying constant returns to scale such as nQ = f(nL, nK).\""
+    },
+    {
+        "question": "The Cobb-Douglas production function is expressed as:",
+        "options": [
+            "Q = AL\u03b1K\u03b2",
+            "Q = A [\u03b1K-\u03b8 + (1-\u03b1)L-\u03b8]-1/\u03b8",
+            "V/L = a + b log W + c log K/L",
+            "nQ = f(nL, nK)"
+        ],
+        "answer": "Q = AL\u03b1K\u03b2",
+        "reference": "\"Production Function - Cobb-Douglas Production Function: Cobb-Douglas production function is expressed as Q = AL\u03b1K\u03b2 where Q refers to the output, A refers to the efficiency parameter, L refers to labour input, K refers to capital input, \u03b1 and \u03b2 refer to output elasticities of labour and capital respectively.\""
+    },
+    {
+        "question": "In Cobb-Douglas, \u03b1 + \u03b2 = 1 indicates:",
+        "options": [
+            "Increasing returns",
+            "Constant returns",
+            "Decreasing returns",
+            "No returns"
+        ],
+        "answer": "Constant returns",
+        "reference": "\"Production Function - Cobb-Douglas Production Function: Cobb-Douglas production function exhibits constant returns to scale when \u03b1 + \u03b2 = 1 implying that output increases in the same proportion as increase in all inputs.\""
+    },
+    {
+        "question": "The elasticity of substitution in Cobb-Douglas is:",
+        "options": [
+            "Zero",
+            "One",
+            "Variable",
+            "Infinite"
+        ],
+        "answer": "One",
+        "reference": "\"Production Function - Properties of C-D Production Function: Elasticity of substitution between labour and capital is equal to one in Cobb-Douglas production function implying that labour can be substituted for capital at constant rate.\""
+    },
+    {
+        "question": "The CES production function has elasticity of substitution that is:",
+        "options": [
+            "Variable",
+            "Constant",
+            "Zero",
+            "Infinite"
+        ],
+        "answer": "Constant",
+        "reference": "\"Production Function - Constant Elasticity of Substitution Production Function: Constant elasticity of substitution production function refers to that production function in which elasticity of substitution between labour and capital is constant and it includes three variables namely efficiency parameter, distribution parameter and substitution parameter.\""
+    },
+    {
+        "question": "The CES function includes a parameter for:",
+        "options": [
+            "Output",
+            "Efficiency",
+            "Labor",
+            "Capital"
+        ],
+        "answer": "Efficiency",
+        "reference": "\"Production Function - Constant Elasticity of Substitution Production Function: Constant elasticity of substitution production function refers to that production function in which elasticity of substitution between labour and capital is constant and it includes three variables namely efficiency parameter, distribution parameter and substitution parameter.\""
+    },
+    {
+        "question": "The VES production function has:",
+        "options": [
+            "Constant elasticity",
+            "Variable elasticity",
+            "Zero elasticity",
+            "Infinite elasticity"
+        ],
+        "answer": "Variable elasticity",
+        "reference": "\"Production Function - Variable Elasticity Substitution Production Function: Variable elasticity substitution production function refers to that production function in which elasticity of substitution between labour and capital is variable rather than constant and it includes wage rate of labour.\""
+    },
+    {
+        "question": "The production function depends on the state of:",
+        "options": [
+            "Market demand",
+            "Technology",
+            "Labor supply",
+            "Capital availability"
+        ],
+        "answer": "Technology",
+        "reference": "\"Production Function - Meaning of Production Function: Production function refers to the technical relationship between inputs and output at a particular point of time under a given state of technology.\""
+    },
+    {
+        "question": "Cost estimation predetermines costs for purposes like:",
+        "options": [
+            "Budgeting",
+            "Sales forecasting",
+            "Market analysis",
+            "Revenue planning"
+        ],
+        "answer": "Budgeting",
+        "reference": "\"Cost Estimation: Cost estimation refers to the process of predetermining the costs of business operations for various purposes such as budgeting, fixing the product price, price policy, etc.\""
+    },
+    {
+        "question": "Future costs are important because they are:",
+        "options": [
+            "Fixed",
+            "Controllable",
+            "Historical",
+            "Sunk"
+        ],
+        "answer": "Controllable",
+        "reference": "\"Cost Estimation - Management is vitally concerned with future costs...: Management is vitally concerned with future costs rather than historical costs because future costs are controllable and relevant for decision making purposes.\""
+    },
+    {
+        "question": "The engineering technique for cost estimation uses:",
+        "options": [
+            "Historical data",
+            "Engineering estimates",
+            "Statistical analysis",
+            "Market trends"
+        ],
+        "answer": "Engineering estimates",
+        "reference": "\"Estimation of Long-Run Cost Function - The Engineering Technique: The engineering technique refers to the method of estimating long-run cost function on the basis of engineering estimates rather than actual cost data.\""
+    },
+    {
+        "question": "The survivor technique measures efficiency based on:",
+        "options": [
+            "Production costs",
+            "Market share changes",
+            "Variable costs",
+            "Fixed costs"
+        ],
+        "answer": "Market share changes",
+        "reference": "\"Estimation of Long-Run Cost Function - The Survivor Technique: The survivor technique refers to the method of estimating long-run cost function on the basis of changes in market share of firms of different sizes over a period of time assuming that market forces work efficiently.\""
+    },
+    {
+        "question": "Statistical techniques for cost estimation use:",
+        "options": [
+            "Engineering data",
+            "Historical data",
+            "Market forecasts",
+            "Budget plans"
+        ],
+        "answer": "Historical data",
+        "reference": "\"Estimation of Long-Run Cost Function - Statistical Techniques: Statistical techniques refer to the methods of estimating long-run cost function on the basis of historical data of costs and output with the help of regression analysis.\""
+    },
+    {
+        "question": "Cross-section analysis compares cost-output relationships of:",
+        "options": [
+            "Firms over time",
+            "Firms of different sizes",
+            "Single firm\u2019s history",
+            "Industry averages"
+        ],
+        "answer": "Firms of different sizes",
+        "reference": "\"Estimation of Long-Run Cost Function - Cross-Section Analysis: Cross-section analysis refers to the method of estimating long-run cost function on the basis of cost-output relationship of firms of different sizes at a particular point of time.\""
+    },
+    {
+        "question": "A limitation of the engineering technique is its inability to assess:",
+        "options": [
+            "Production costs",
+            "Imputed costs",
+            "Variable costs",
+            "Direct costs"
+        ],
+        "answer": "Imputed costs",
+        "reference": "\"Estimation of Long-Run Cost Function - The Engineering Technique - Limitations: The engineering technique suffers from certain limitations such as it does not take into account the imputed costs such as opportunity costs, depreciation, etc.\""
+    },
+    {
+        "question": "The survivor technique assumes market forces are:",
+        "options": [
+            "Inefficient",
+            "Efficient",
+            "Random",
+            "Stagnant"
+        ],
+        "answer": "Efficient",
+        "reference": "\"Estimation of Long-Run Cost Function - The Survivor Technique: The survivor technique refers to the method of estimating long-run cost function on the basis of changes in market share of firms of different sizes over a period of time assuming that market forces work efficiently.\""
+    },
+    {
+        "question": "Production function analysis helps determine:",
+        "options": [
+            "Most profitable operation rate",
+            "Market share",
+            "Sales channels",
+            "Revenue growth"
+        ],
+        "answer": "Most profitable operation rate",
+        "reference": "\"Managerial Uses of Production Function: Production function can be used to determine the most profitable rate of operation by combining it with cost analysis and demand analysis.\""
+    },
+    {
+        "question": "A managerial use of cost analysis is to:",
+        "options": [
+            "Fix product price",
+            "Increase market demand",
+            "Reduce labor supply",
+            "Enhance advertising"
+        ],
+        "answer": "Fix product price",
+        "reference": "\"Managerial Uses of Production Function: Production function can be used to fix the price of product by combining it with cost analysis and demand analysis.\""
+    },
+    {
+        "question": "Cost estimation aids in deciding:",
+        "options": [
+            "Sales targets",
+            "Cost of operations",
+            "Market expansion",
+            "Revenue forecasts"
+        ],
+        "answer": "Cost of operations",
+        "reference": "\"Managerial Uses of Production Function: Production function can be used to determine the cost of business operations in advance by combining it with cost analysis.\""
+    },
+    {
+        "question": "Indifference curves show combinations of goods yielding:",
+        "options": [
+            "Different utility",
+            "Equal utility",
+            "Maximum utility",
+            "Minimum utility"
+        ],
+        "answer": "Equal utility",
+        "reference": "\"Indifferent curves: An indifference curve shows various combinations of two goods that yield same level of satisfaction to the consumer implying that consumer is indifferent between these combinations.\""
+    },
+    {
+        "question": "The slope of an indifference curve represents:",
+        "options": [
+            "Budget constraint",
+            "Marginal rate of substitution",
+            "Total utility",
+            "Income effect"
+        ],
+        "answer": "Marginal rate of substitution",
+        "reference": "\"Indifferent curves - The slope of the indifference curve: The slope of indifference curve represents marginal rate of substitution implying that it shows the rate at which consumer is willing to substitute one good for another good.\""
+    },
+    {
+        "question": "Indifference curves are typically:",
+        "options": [
+            "Concave to the origin",
+            "Convex to the origin",
+            "Straight lines",
+            "Circular"
+        ],
+        "answer": "Convex to the origin",
+        "reference": "\"Indifferent curves - Indifference Curve Analysis: Indifference curves are convex to the origin because marginal rate of substitution diminishes as consumer moves downward along the indifference curve implying that consumer is willing to give up lesser units of one good for another good.\""
+    },
+    {
+        "question": "The optimal consumption bundle occurs where the indifference curve is:",
+        "options": [
+            "Intersecting the budget constraint",
+            "Tangent to the budget constraint",
+            "Parallel to the budget constraint",
+            "Above the budget constraint"
+        ],
+        "answer": "Tangent to the budget constraint",
+        "reference": "\"Indifferent curves - Classic analysis: The optimal consumption bundle occurs at that point where indifference curve is tangent to the budget constraint implying that marginal rate of substitution is equal to the price ratio of two goods.\""
+    },
+    {
+        "question": "Higher indifference curves indicate:",
+        "options": [
+            "Lower satisfaction",
+            "Higher satisfaction",
+            "Equal satisfaction",
+            "No satisfaction"
+        ],
+        "answer": "Higher satisfaction",
+        "reference": "\"Indifferent curves - Indifference Curve Analysis: Higher indifference curves represent higher level of satisfaction because consumer prefers more goods to less goods.\""
+    },
+    {
+        "question": "Which cost includes potential returns on capital employed elsewhere?",
+        "options": [
+            "Accounting costs",
+            "Economic costs",
+            "Outlay costs",
+            "Direct costs"
+        ],
+        "answer": "Economic costs",
+        "reference": "\"Concept of Costs in terms of Treatment - Economic costs: Economic costs include accounting costs as well as the income foregone from alternative venture or employment by utilizing the resources such as potential return on capital if employed elsewhere or salary of entrepreneur if he works elsewhere, etc.\""
+    },
+    {
+        "question": "An example of a traceable cost is:",
+        "options": [
+            "Electricity charges",
+            "Manufacturing costs",
+            "Taxes on income",
+            "Rent payments"
+        ],
+        "answer": "Manufacturing costs",
+        "reference": "\"Concept of Costs in terms of Traceability - Direct costs: Direct costs are those costs that can be directly traced to a specific product, process or department such as manufacturing costs, customer acquisition costs, etc.\""
+    },
+    {
+        "question": "Social resources like water used by firms are part of:",
+        "options": [
+            "Private costs",
+            "Social costs",
+            "Fixed costs",
+            "Variable costs"
+        ],
+        "answer": "Social costs",
+        "reference": "\"Concept of Costs in terms of Payers - Social costs: Social costs are those costs that are incurred by the society due to the business activities of private firms such as cost of environmental pollution, social resources such as water used by the firm, etc.\""
+    },
+    {
+        "question": "Interest on a loan is an example of:",
+        "options": [
+            "Variable cost",
+            "Fixed cost",
+            "Sunk cost",
+            "Incremental cost"
+        ],
+        "answer": "Fixed cost",
+        "reference": "\"Concept of Costs in terms of Variability - Fixed costs: Fixed costs are those costs that do not change with the volume of output such as rent payments, interest on loan taken, etc.\""
+    },
+    {
+        "question": "The relationship between output and fixed cost is:",
+        "options": [
+            "Temporary",
+            "Universal",
+            "Variable",
+            "Random"
+        ],
+        "answer": "Universal",
+        "reference": "\"Cost-Output Relationship in the Short Run - Average Fixed Cost Output: The relationship between output and fixed cost is universal because the greater the output, the lesser the fixed cost per unit of output.\""
+    },
+    {
+        "question": "Overcrowding of workers can increase:",
+        "options": [
+            "Average fixed cost",
+            "Average variable cost",
+            "Average total cost",
+            "Marginal cost"
+        ],
+        "answer": "Average variable cost",
+        "reference": "\"Cost-Output Relationship in the Short Run - Average Variable Cost and Output: Beyond the optimum capacity of the fixed plant, the average variable cost increases sharply due to overcrowding of variable factors of production such as labour leading to inefficient utilization of fixed factors of production.\""
+    },
+    {
+        "question": "The long-run cost of producing an output is called:",
+        "options": [
+            "Short-run cost",
+            "Long-run cost",
+            "Fixed cost",
+            "Variable cost"
+        ],
+        "answer": "Long-run cost",
+        "reference": "\"Cost Output Relationship in Long Run: The cost incurred by the entrepreneur to produce a given level of output in long-run is called long-run cost of production.\""
+    },
+    {
+        "question": "Economies of scale benefit consumers through:",
+        "options": [
+            "Higher prices",
+            "Lower prices",
+            "Constant prices",
+            "Variable prices"
+        ],
+        "answer": "Lower prices",
+        "reference": "\"Economies of scale: Economies of scale refer to the cost advantages obtained by a business firm due to increase in scale of production leading to reduction in cost per unit of output and these economies benefit both producers and consumers in terms of lower prices.\""
+    },
+    {
+        "question": "Communication in cost control involves:",
+        "options": [
+            "Setting targets",
+            "Sharing the plan",
+            "Evaluating performance",
+            "Taking corrective action"
+        ],
+        "answer": "Sharing the plan",
+        "reference": "\"Cost control and cost reduction - Aspects of Cost Control: Communication is the second step of cost control in which the plan of cost control is shared with all those who are responsible for implementation of such plan.\""
+    },
+    {
+        "question": "Budgetary control ensures:",
+        "options": [
+            "Maximum resource utilization",
+            "Minimum production",
+            "Fixed costs only",
+            "Variable costs only"
+        ],
+        "answer": "Maximum resource utilization",
+        "reference": "\"Tools of Cost Control - Characteristics of Budgetary Control: Budgetary control ensures maximum utilization of resources by integrating the activities of various departments of the business firm.\""
+    },
+    {
+        "question": "Standard costing helps fix:",
+        "options": [
+            "Selling price",
+            "Market share",
+            "Sales volume",
+            "Revenue targets"
+        ],
+        "answer": "Selling price",
+        "reference": "\"Tools of Cost Control - Standard Costing - Merits: Standard costing helps the business firm to fix the selling price of product by providing the standard cost of production.\""
+    },
+    {
+        "question": "Automation reduces costs by:",
+        "options": [
+            "Increasing human interaction",
+            "Using automatic equipment",
+            "Raising labor costs",
+            "Decreasing quality"
+        ],
+        "answer": "Using automatic equipment",
+        "reference": "\"Cost Reduction Techniques - Automation: Automation refers to the replacement of human tasks such as measurement, controlling, etc., by automatic equipments so as to reduce the cost per unit of output.\""
+    },
+    {
+        "question": "The Cobb-Douglas function is useful for:",
+        "options": [
+            "Budget planning",
+            "International comparisons",
+            "Fixed cost analysis",
+            "Short-run forecasting"
+        ],
+        "answer": "International comparisons",
+        "reference": "\"Production Function - Importance of C-D Production Function: Cobb-Douglas production function is useful for international comparisons of efficiency of labour and capital of various countries and regions.\""
+    },
+    {
+        "question": "A limitation of CES production function is:",
+        "options": [
+            "Constant elasticity",
+            "Multicollinearity issues",
+            "Two-factor focus",
+            "Fixed returns"
+        ],
+        "answer": "Multicollinearity issues",
+        "reference": "\"Production Function - Limitations of CES Production Function: CES production function suffers from certain limitations such as multicollinearity issues between labour and capital making it difficult to estimate the parameters.\""
+    },
+    {
+        "question": "The survivor technique implies a U-shaped cost curve when:",
+        "options": [
+            "Small firms dominate",
+            "Medium firms increase share",
+            "Large firms decline",
+            "All firms grow equally"
+        ],
+        "answer": "Medium firms increase share",
+        "reference": "\"Estimation of Long-Run Cost Function - The Survivor Technique: The survivor technique implies U-shaped long-run average cost curve when medium sized firms tend to increase their market share over a period of time indicating that medium sized firms are more efficient.\""
+    },
+    {
+        "question": "Cost estimation is essential for:",
+        "options": [
+            "Price policy",
+            "Market expansion",
+            "Sales growth",
+            "Revenue increase"
+        ],
+        "answer": "Price policy",
+        "reference": "\"Cost Estimation: Cost estimation refers to the process of predetermining the costs of business operations for various purposes such as budgeting, fixing the product price, price policy, etc.\""
+    },
+    {
+        "question": "Indifference curves assume consumers prefer:",
+        "options": [
+            "Lower bundles",
+            "Higher bundles",
+            "Equal bundles",
+            "Random bundles"
+        ],
+        "answer": "Higher bundles",
+        "reference": "\"Indifferent curves - Indifference Curve Analysis: Higher indifference curves represent higher level of satisfaction because consumer prefers more goods to less goods.\""
+    },
+    {
+        "question": "Supernormal profits are calculated using:",
+        "options": [
+            "Accounting costs",
+            "Economic costs",
+            "Outlay costs",
+            "Direct costs"
+        ],
+        "answer": "Economic costs",
+        "reference": "\"Concept of Costs in terms of Treatment - Economic costs: Economic costs include accounting costs as well as the income foregone from alternative venture or employment by utilizing the resources such as potential return on capital if employed elsewhere or salary of entrepreneur if he works elsewhere, etc., and these costs help the entrepreneur to calculate the supernormal profits.\""
+    },
+    {
+        "question": "Customer acquisition costs are an example of:",
+        "options": [
+            "Indirect costs",
+            "Direct costs",
+            "Fixed costs",
+            "Sunk costs"
+        ],
+        "answer": "Direct costs",
+        "reference": "\"Concept of Costs in terms of Traceability - Direct costs: Direct costs are those costs that can be directly traced to a specific product, process or department such as manufacturing costs, customer acquisition costs, etc.\""
+    },
+    {
+        "question": "The optimum output level is where:",
+        "options": [
+            "AVC is minimum",
+            "ATC is minimum",
+            "MC is maximum",
+            "AFC is zero"
+        ],
+        "answer": "ATC is minimum",
+        "reference": "\"Cost-Output Relationship in the Short Run - Average Total Cost and Output: The optimum output level or least cost-output level is that level of output at which the average total cost of production is minimum.\""
+    },
+    {
+        "question": "External economies can include:",
+        "options": [
+            "Joint research with universities",
+            "Bulk buying",
+            "Specialist managers",
+            "Network effects"
+        ],
+        "answer": "Joint research with universities",
+        "reference": "\"Economies of scale - External Economies of Scale: External economies of scale are those economies that are not within the control of management of the business firm such as concessions and subsidies provided by the government, joint research with universities and other firms, etc.\""
+    },
+    {
+        "question": "Motivation in cost control comes from:",
+        "options": [
+            "Setting budgets",
+            "Reporting performance",
+            "Comparing targets",
+            "Taking decisions"
+        ],
+        "answer": "Reporting performance",
+        "reference": "\"Cost control and cost reduction - Aspects of Cost Control: Motivation is the third step of cost control in which actual performance of employees is reported so as to motivate them to perform better in future.\""
+    },
+    {
+        "question": "Master budget summarizes:",
+        "options": [
+            "Production costs only",
+            "All types of budgets",
+            "Sales targets only",
+            "Variable costs only"
+        ],
+        "answer": "All types of budgets",
+        "reference": "\"Tools of Cost Control - Types of Budgets - Master Budget and Functional Budget: Master budget is that budget which summarizes all types of budgets such as production budget, sales budget, etc.\""
+    },
+    {
+        "question": "Work study aims to optimize:",
+        "options": [
+            "Plant and human effort",
+            "Sales and marketing",
+            "Budgets and costs",
+            "Labor and capital"
+        ],
+        "answer": "Plant and human effort",
+        "reference": "\"Cost Reduction Techniques - Work Study: Work study refers to the systematic examination of plant and human effort so as to optimize the utilization of resources leading to reduction in cost per unit of output.\""
+    },
+    {
+        "question": "The VES function includes the:",
+        "options": [
+            "Wage rate",
+            "Efficiency parameter",
+            "Distribution parameter",
+            "Substitution parameter"
+        ],
+        "answer": "Wage rate",
+        "reference": "\"Production Function - Variable Elasticity Substitution Production Function: Variable elasticity substitution production function refers to that production function in which elasticity of substitution between labour and capital is variable rather than constant and it includes wage rate of labour.\""
+    },
+    {
+        "question": "A limitation of standard costing is:",
+        "options": [
+            "Ease of application",
+            "Rigid standards",
+            "Clear goals",
+            "Cost reduction"
+        ],
+        "answer": "Rigid standards",
+        "reference": "\"Tools of Cost Control - Limitations of Standard Costing: Standard costing suffers from certain limitations such as rigid standards leading to inaccurate cost estimation in dynamic business environment.\""
+    },
+    {
+        "question": "Materials handling affects cost through:",
+        "options": [
+            "Flow and methods",
+            "Product design",
+            "Sales strategy",
+            "Budget planning"
+        ],
+        "answer": "Flow and methods",
+        "reference": "\"Cost Reduction Techniques - Materials Handling: Materials handling refers to the systematic examination of flow and methods of handling the materials so as to reduce the cost per unit of output.\""
+    },
+    {
+        "question": "Quality control ensures:",
+        "options": [
+            "Higher costs",
+            "No defective products",
+            "Increased waste",
+            "Lower quality"
+        ],
+        "answer": "No defective products",
+        "reference": "\"Cost Reduction Techniques - Quality Control: Quality control refers to the systematic examination of quality of product so as to ensure that there are no defective products leading to reduction in cost per unit of output.\""
+    },
+    {
+        "question": "Design principles emphasize:",
+        "options": [
+            "Durability and reliability",
+            "High cost",
+            "Complexity",
+            "Low quality"
+        ],
+        "answer": "Durability and reliability",
+        "reference": "\"Cost Reduction Techniques - Design: Design refers to the systematic examination of product keeping in mind the principles such as durability, reliability, safety, etc., so as to reduce the cost per unit of output.\""
+    },
+    {
+        "question": "Economic value increases when:",
+        "options": [
+            "Benefit rises at same price",
+            "Cost rises",
+            "Price increases",
+            "Quality decreases"
+        ],
+        "answer": "Benefit rises at same price",
+        "reference": "\"Economic Value: Economic value refers to the value derived by the consumer from the product in terms of benefits and price implying that economic value increases when benefit derived from the product increases at the same price.\""
+    },
+    {
+        "question": "Short-run cost estimation often uses:",
+        "options": [
+            "Time-series data",
+            "Cross-section data",
+            "Engineering estimates",
+            "Survivor analysis"
+        ],
+        "answer": "Time-series data",
+        "reference": "\"Estimation of Short-Run Cost Function: Short-run cost function is estimated on the basis of time-series data of cost and output of a particular firm with the help of regression analysis.\""
+    },
+    {
+        "question": "A problem in short-run cost estimation is:",
+        "options": [
+            "Technical homogeneity",
+            "Accurate depreciation",
+            "Fixed time periods",
+            "Opportunity cost use"
+        ],
+        "answer": "Technical homogeneity",
+        "reference": "\"Estimation of Short-Run Cost Function: Short-run cost function suffers from certain problems such as technical homogeneity implying that production technique remains same over a period of time which is not possible in real world.\""
+    },
+    {
+        "question": "Ratio analysis compares performance:",
+        "options": [
+            "Within a firm over time",
+            "With market trends",
+            "With sales forecasts",
+            "With budget plans"
+        ],
+        "answer": "Within a firm over time",
+        "reference": "\"Ratio Analysis: Ratio analysis refers to the analysis of cost ratios so as to compare the performance of business firm over a period of time.\""
+    },
+    {
+        "question": "A common cost ratio is:",
+        "options": [
+            "Net Profits/Sales",
+            "Sales/Revenue",
+            "Costs/Output",
+            "Profits/Labor"
+        ],
+        "answer": "Net Profits/Sales",
+        "reference": "\"Ratio Analysis - Some of the most commonly used ratios...: Some of the most commonly used ratios are as follows: (i) Net Profits/Sales (ii) Operating Costs/Sales (iii) Material Costs/Sales.\""
+    },
+    {
+        "question": "Variance analysis in standard costing identifies:",
+        "options": [
+            "Sales targets",
+            "Causes of deviations",
+            "Budget accuracy",
+            "Revenue growth"
+        ],
+        "answer": "Causes of deviations",
+        "reference": "\"Variance Analysis: Variance analysis refers to the analysis of variances between standard costs and actual costs so as to identify the causes of deviations and take corrective actions.\""
+    },
+    {
+        "question": "Material cost variance is the difference between:",
+        "options": [
+            "Standard and actual costs",
+            "Fixed and variable costs",
+            "Direct and indirect costs",
+            "Private and social costs"
+        ],
+        "answer": "Standard and actual costs",
+        "reference": "\"Computation and Analysis of Variances - Material Cost Variance: Material cost variance refers to the difference between standard cost of material and actual cost of material implying that it shows the deviation in material cost.\""
+    },
+    {
+        "question": "Labour efficiency variance measures:",
+        "options": [
+            "Wage rate differences",
+            "Hours spent vs. standard",
+            "Output levels",
+            "Cost reductions"
+        ],
+        "answer": "Hours spent vs. standard",
+        "reference": "\"Computation and Analysis of Variances - Labour Cost Variance: Labour efficiency variance refers to the difference between standard hours and actual hours spent by labour on production implying that it shows the efficiency of labour.\""
+    },
+    {
+        "question": "Sales variance compares:",
+        "options": [
+            "Standard and actual sales costs",
+            "Fixed and variable sales",
+            "Direct and indirect sales",
+            "Private and social sales"
+        ],
+        "answer": "Standard and actual sales costs",
+        "reference": "\"Computation and Analysis of Variances - Sales Variance: Sales variance refers to the difference between standard cost of sales and actual cost of sales implying that it shows the deviation in sales cost.\""
+    },
+    {
+        "question": "Overhead expenditure variance is due to:",
+        "options": [
+            "Efficiency differences",
+            "Standard vs. actual spending",
+            "Output changes",
+            "Labor costs"
+        ],
+        "answer": "Standard vs. actual spending",
+        "reference": "\"Computation and Analysis of Variances - Overhead Variance: Overhead expenditure variance refers to the difference between standard overhead expenditure and actual overhead expenditure implying that it shows the deviation in overhead spending.\""
+    },
+    {
+        "question": "Normal standards in standard costing include:",
+        "options": [
+            "Ideal standards",
+            "Basic standards",
+            "Current standards",
+            "Target standards"
+        ],
+        "answer": "Ideal standards",
+        "reference": "\"Basis of Setting Standard Costs - Normal Standards: Normal standards refer to the standards set by business firm keeping in mind the normal conditions and it includes ideal standards, attainable standards and expected standards.\""
+    },
+    {
+        "question": "Tolerance limits in cost control allow for:",
+        "options": [
+            "Fixed deviations",
+            "Random deviations",
+            "No deviations",
+            "High variances"
+        ],
+        "answer": "Random deviations",
+        "reference": "\"Tolerance Limit: Tolerance limit refers to the acceptable level of deviation between standard costs and actual costs implying that it allows for random deviations within permissible limit.\""
+    },
+    {
+        "question": "Capital budget relates to:",
+        "options": [
+            "Revenue generation",
+            "Facility creation",
+            "Daily operations",
+            "Sales planning"
+        ],
+        "answer": "Facility creation",
+        "reference": "\"Tools of Cost Control - Types of Budgets - Capital Budget and Revenue Budget: Capital budget is that budget which is prepared keeping in mind the creation of facilities such as purchase of fixed assets, etc.\""
+    },
+    {
+        "question": "Revenue budget covers:",
+        "options": [
+            "Facility costs",
+            "Operational activities",
+            "Fixed assets",
+            "Capital investments"
+        ],
+        "answer": "Operational activities",
+        "reference": "\"Tools of Cost Control - Types of Budgets - Capital Budget and Revenue Budget: Revenue budget is that budget which is prepared keeping in mind the operational activities such as production, sales, etc.\""
+    },
+    {
+        "question": "Budgetary control\u2019s main advantage is:",
+        "options": [
+            "Reducing sales",
+            "Integrating activities",
+            "Increasing costs",
+            "Limiting coordination"
+        ],
+        "answer": "Integrating activities",
+        "reference": "\"Tools of Cost Control - The following are the main advantages of budgetary control system: The following are the main advantages of budgetary control system: (i) It ensures maximum utilization of resources by integrating the activities of various departments of the business firm.\""
+    },
+    {
+        "question": "A limitation of budgetary control is:",
+        "options": [
+            "Clear objectives",
+            "Uncertainty of future",
+            "Easy implementation",
+            "High flexibility"
+        ],
+        "answer": "Uncertainty of future",
+        "reference": "\"Tools of Cost Control - Limitations of Budgetary Control: Budgetary control suffers from certain limitations such as uncertainty of future implying that budgets are prepared on the basis of forecasts which may not be accurate.\""
+    },
+    {
+        "question": "Cost reduction requires:",
+        "options": [
+            "Optimum resource use",
+            "Increased spending",
+            "Reduced productivity",
+            "Higher prices"
+        ],
+        "answer": "Optimum resource use",
+        "reference": "\"Cost Reduction: Cost reduction refers to the permanent reduction in cost per unit of output by the business firm so as to achieve the production at minimum cost without compromising on the quality of product and it requires optimum utilization of resources.\""
+    },
+    {
+        "question": "Organization and methods improve:",
+        "options": [
+            "Administrative work",
+            "Production output",
+            "Sales volume",
+            "Market share"
+        ],
+        "answer": "Administrative work",
+        "reference": "\"Cost Reduction Techniques - Organisation and Methods: Organisation and methods refer to the systematic examination of administrative work so as to improve the efficiency of administrative staff leading to reduction in cost per unit of output.\""
+    },
+    {
+        "question": "Materials control covers tasks from:",
+        "options": [
+            "Design to delivery",
+            "Sales to marketing",
+            "Budget to cost",
+            "Labor to capital"
+        ],
+        "answer": "Design to delivery",
+        "reference": "\"Cost Reduction Techniques - Materials Control: Materials control refers to the systematic control of material from designing stage to delivery stage so as to reduce the cost per unit of output.\""
+    },
+    {
+        "question": "Automation replaces human tasks like:",
+        "options": [
+            "Measurement",
+            "Sales",
+            "Marketing",
+            "Budgeting"
+        ],
+        "answer": "Measurement",
+        "reference": "\"Cost Reduction Techniques - Automation: Automation refers to the replacement of human tasks such as measurement, controlling, etc., by automatic equipments so as to reduce the cost per unit of output.\""
+    },
+    {
+        "question": "Value analysis eliminates:",
+        "options": [
+            "Necessary costs",
+            "Unnecessary costs",
+            "Fixed costs",
+            "Variable costs"
+        ],
+        "answer": "Unnecessary costs",
+        "reference": "\"Important Techniques of Cost Control - Value Analysis: Value analysis refers to the systematic examination of the product design before purchasing any equipment or material so as to ensure that unnecessary costs are eliminated without compromising on quality of product.\""
+    },
+    {
+        "question": "Variety reduction benefits include:",
+        "options": [
+            "Higher prices",
+            "Easier control",
+            "Increased complexity",
+            "Reduced efficiency"
+        ],
+        "answer": "Easier control",
+        "reference": "\"Cost Reduction Techniques - Variety Reduction - Benefits of Variety Reduction: Variety reduction provides various benefits such as easier control of production process, reduction in cost per unit of output, etc.\""
+    },
+    {
+        "question": "Production control\u2019s objective is:",
+        "options": [
+            "Right quality at least cost",
+            "High cost production",
+            "Low quality output",
+            "Increased waste"
+        ],
+        "answer": "Right quality at least cost",
+        "reference": "\"Cost Reduction Techniques - Production Control: Production control refers to the systematic organizing of men, machines and materials so as to produce right quality of products at least cost.\""
+    },
+    {
+        "question": "Design changes aim to meet:",
+        "options": [
+            "Customer needs",
+            "Higher costs",
+            "Lower quality",
+            "Reduced safety"
+        ],
+        "answer": "Customer needs",
+        "reference": "\"Cost Reduction Techniques - Main Approaches to the Design: Main approaches to the design are as follows: (i) Designing should be done keeping in mind the needs of customers such as durability, reliability, safety, etc.\""
+    },
+    {
+        "question": "Quality control minimizes:",
+        "options": [
+            "Product defects",
+            "Production costs",
+            "Sales volume",
+            "Revenue growth"
+        ],
+        "answer": "Product defects",
+        "reference": "\"Cost Reduction Techniques - Quality Control: Quality control refers to the systematic examination of quality of product so as to ensure that there are no defective products leading to reduction in cost per unit of output.\""
+    },
+    {
+        "question": "Terotechnology combines:",
+        "options": [
+            "Management and engineering",
+            "Sales and marketing",
+            "Budgets and costs",
+            "Labor and capital"
+        ],
+        "answer": "Management and engineering",
+        "reference": "\"Cost Reduction Techniques - Terotechnology: Terotechnology refers to the combination of management, engineering and other techniques so as to reduce the life-cycle costs of the product such as installation cost, operational cost, maintenance cost, etc.\""
+    },
+    {
+        "question": "Cost-benefit ratio less than one indicates:",
+        "options": [
+            "Costs exceed benefits",
+            "Benefits exceed costs",
+            "Equal costs and benefits",
+            "No benefits"
+        ],
+        "answer": "Benefits exceed costs",
+        "reference": "\"Cost Reduction Techniques - Cost-Benefit Analysis: Cost-benefit ratio is computed by dividing total costs by total benefits implying that if cost-benefit ratio is less than one, then benefits exceed costs.\""
+    },
+    {
+        "question": "Economic value analysis examines:",
+        "options": [
+            "Product value vs. price",
+            "Sales vs. revenue",
+            "Costs vs. output",
+            "Labor vs. capital"
+        ],
+        "answer": "Product value vs. price",
+        "reference": "\"Economic Value: Economic value refers to the value derived by the consumer from the product in terms of benefits and price implying that economic value increases when benefit derived from the product increases at the same price.\""
+    },
+    {
+        "question": "Short-run cost functions often fit a:",
+        "options": [
+            "Linear function",
+            "Quadratic function",
+            "Cubic function",
+            "Exponential function"
+        ],
+        "answer": "Linear function",
+        "reference": "\"Estimation of Short-Run Cost Function: Short-run cost function is often assumed to be linear function rather than quadratic function or cubic function implying that total cost increases at constant rate with increase in output.\""
+    },
+    {
+        "question": "The engineering technique is useful when:",
+        "options": [
+            "Historical data is unavailable",
+            "Market trends are clear",
+            "Statistical data is abundant",
+            "Budgets are fixed"
+        ],
+        "answer": "Historical data is unavailable",
+        "reference": "\"Estimation of Long-Run Cost Function - The Engineering Technique - Advantages: The engineering technique is useful when actual cost data or historical data is not available implying that it relies on engineering estimates.\""
+    },
+    {
+        "question": "A limitation of statistical techniques is:",
+        "options": [
+            "Use of opportunity costs",
+            "Different accounting methods",
+            "Accurate depreciation",
+            "Fixed time periods"
+        ],
+        "answer": "Different accounting methods",
+        "reference": "\"Estimation of Long-Run Cost Function - Statistical Techniques - Defects: Statistical techniques suffer from certain defects such as different accounting methods used by different firms leading to inaccurate cost estimation.\""
+    },
+    {
+        "question": "Cross-section analysis shows economies of scale at:",
+        "options": [
+            "High output levels",
+            "Low output levels",
+            "Constant output levels",
+            "Variable output levels"
+        ],
+        "answer": "Low output levels",
+        "reference": "\"Estimation of Long-Run Cost Function - Cross-Section Analysis: Cross-section analysis has revealed that economies of scale exist at lower levels of output because average cost declines with the increase in output due to economies of scale.\""
+    },
+    {
+        "question": "Production function helps regulate:",
+        "options": [
+            "Number of firms",
+            "Market demand",
+            "Sales channels",
+            "Revenue growth"
+        ],
+        "answer": "Number of firms",
+        "reference": "\"Managerial Uses of Production Function: Production function can be used to regulate the number of firms in the industry by combining it with cost analysis and demand analysis.\""
+    },
+    {
+        "question": "Indifference curves are criticized for:",
+        "options": [
+            "Oversimplifying behavior",
+            "Accurate predictions",
+            "Clear assumptions",
+            "Simple graphs"
+        ],
+        "answer": "Oversimplifying behavior",
+        "reference": "\"Indifferent curves - Criticisms and Complications of the Indifference Curve: Indifference curve analysis suffers from certain criticisms such as it oversimplifies the consumer behaviour by assuming that consumer is rational and has perfect knowledge of market.\""
+    },
+    {
+        "question": "The marginal rate of substitution reflects:",
+        "options": [
+            "Income changes",
+            "Substitution rate",
+            "Total utility",
+            "Budget limits"
+        ],
+        "answer": "Substitution rate",
+        "reference": "\"Indifferent curves - The slope of the indifference curve: The slope of indifference curve represents marginal rate of substitution implying that it shows the rate at which consumer is willing to substitute one good for another good.\""
+    }
+]
