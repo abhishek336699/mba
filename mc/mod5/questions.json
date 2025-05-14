@@ -1,0 +1,861 @@
+[
+    {
+      "question": "What does profit simply mean in business operations?",
+      "options": ["A positive gain after subtracting costs", "Total revenue before costs", "Gross sales value", "Cash flow from financing"],
+      "answer": "A positive gain after subtracting costs",
+      "reference": "“Profit simply means a positive gain generated from business operations or investment after subtracting all expenses or costs.”"
+    },
+    {
+      "question": "Which of these is NOT one of the three differences between profit and return?",
+      "options": ["Return is residual income", "Profit may be negative", "Profit is a residual income", "Profit has greater fluctuations than return"],
+      "answer": "Return is residual income",
+      "reference": "“Profit differs from return in three respects: profit is a residual income while return is total revenue; profits may be negative; profits have greater fluctuations than returns.”"
+    },
+    {
+      "question": "How is accounting profit calculated?",
+      "options": ["Total revenue minus explicit costs", "Total revenue minus implicit costs", "Total revenue minus marginal cost", "Total revenue minus average cost"],
+      "answer": "Total revenue minus explicit costs",
+      "reference": "“Accounting Profit = Total Revenue – Explicit Costs.”"
+    },
+    {
+      "question": "What additional cost does economic profit include that accounting profit does not?",
+      "options": ["Implicit (opportunity) costs", "Sunk costs", "Marginal costs", "Fixed costs"],
+      "answer": "Implicit (opportunity) costs",
+      "reference": "“Economic profit takes into account both explicit costs and implicit (opportunity) costs.”"
+    },
+    {
+      "question": "According to Thomas S.E., pure profit is the reward for what activity?",
+      "options": ["Bearing risk", "Market research", "Cost cutting", "Labor management"],
+      "answer": "Bearing risk",
+      "reference": "“Pure profit is a payment made exclusively for bearing risk.”"
+    },
+    {
+      "question": "Walker’s rent theory states that profit is the reward for what?",
+      "options": ["Differential (exceptional) ability of the entrepreneur", "Capital investment", "Land productivity", "Managerial effort"],
+      "answer": "Differential (exceptional) ability of the entrepreneur",
+      "reference": "“Profit is said to be the reward for the differential (exceptional) ability of the entrepreneur.”"
+    },
+    {
+      "question": "Which theory holds that profit arises only in a dynamic economy?",
+      "options": ["Clark’s dynamic theory", "Knight’s uncertainty theory", "Hawley’s risk theory", "Schumpeter’s innovation theory"],
+      "answer": "Clark’s dynamic theory",
+      "reference": "“Profit does not arise in a static economy, but arises in a dynamic economy where opportunities exist for entrepreneurial innovation.”"
+    },
+    {
+      "question": "Hawley’s theory views profit primarily as a reward for what?",
+      "options": ["Risk taking", "Innovation", "Cost reduction", "Market share"],
+      "answer": "Risk taking",
+      "reference": "“Profit is the reward of risk taking in a business. The greater the risk, the higher the expected profit.”"
+    },
+    {
+      "question": "Knight’s theory argues profit is the reward for what?",
+      "options": ["Bearing non-calculable uncertainty", "Investing capital", "Achieving economies of scale", "Market dominance"],
+      "answer": "Bearing non-calculable uncertainty",
+      "reference": "“Profit is a reward for bearing uncertainty (non-calculable risks) that cannot be insured or accurately measured.”"
+    },
+    {
+      "question": "Schumpeter’s innovation theory sees profit as the reward for what?",
+      "options": ["Introducing new products or methods", "Reducing labor costs", "Buying low and selling high", "Securing government subsidies"],
+      "answer": "Introducing new products or methods",
+      "reference": "“Profit is the reward for innovation, such as introducing a new product, new method of production, or opening a new market.”"
+    },
+    {
+      "question": "Which of these is NOT one of Peter Drucker’s main functions of profit?",
+      "options": ["Guaranteeing market share", "Measuring performance", "Covering costs", "Ensuring future capital"],
+      "answer": "Guaranteeing market share",
+      "reference": "“Drucker’s three main purposes of profit are: measuring performance, covering costs, and ensuring future capital.”"
+    },
+    {
+      "question": "Under neoclassical theory, a firm maximizes profit when which condition holds?",
+      "options": ["Marginal cost equals marginal revenue", "Total revenue equals total cost", "Average cost equals average revenue", "Price equals average variable cost"],
+      "answer": "Marginal cost equals marginal revenue",
+      "reference": "“The firm maximises its profits when marginal cost (MC) equals marginal revenue (MR).”"
+    },
+    {
+      "question": "In perfect competition, equilibrium occurs at the output level where:",
+      "options": ["MC = MR = AR", "TR = TC", "AC = MR", "P = AVC"],
+      "answer": "MC = MR = AR",
+      "reference": "“Under perfect competition, equilibrium is when MC = MR = AR (price).”"
+    },
+    {
+      "question": "For a monopoly, profit maximization requires MC = MR and which relationship between MR and AR?",
+      "options": ["MR is less than AR", "MR equals AR", "MR exceeds AR", "MR equals zero"],
+      "answer": "MR is less than AR",
+      "reference": "“Monopoly equilibrium conditions: MC = MR < AR.”"
+    },
+    {
+      "question": "What does break-even point represent?",
+      "options": ["Output where total revenue equals total cost", "Point where marginal revenue is maximized", "Level where average cost equals price", "Quantity where profit is highest"],
+      "answer": "Output where total revenue equals total cost",
+      "reference": "“The break-even point is the output level at which total revenue equals total cost.”"
+    },
+    {
+      "question": "How is contribution margin per unit defined?",
+      "options": ["Price minus average variable cost", "Total revenue minus total cost", "Price minus average total cost", "Total revenue minus fixed cost"],
+      "answer": "Price minus average variable cost",
+      "reference": "“Contribution margin per unit equals price minus average variable cost (P – AVC).”"
+    },
+    {
+      "question": "Demand-pull inflation is best described as:",
+      "options": ["When aggregate demand grows faster than production capacity", "When production costs rise", "When wages grow faster than prices", "When money supply contracts"],
+      "answer": "When aggregate demand grows faster than production capacity",
+      "reference": "“Demand-pull inflation occurs when overall demand increases more rapidly than production capacity.”"
+    },
+    {
+      "question": "Cost-push inflation results from which of the following?",
+      "options": ["Rising input prices", "Declining demand", "Government price controls", "Excess inventory"],
+      "answer": "Rising input prices",
+      "reference": "“Cost-push inflation is a result of increases in prices of inputs such as labor and raw materials.”"
+    },
+    {
+      "question": "Built-in inflation arises primarily due to:",
+      "options": ["A continuing wage-price spiral", "Excess supply in markets", "Technological advancements", "Fixed exchange rates"],
+      "answer": "A continuing wage-price spiral",
+      "reference": "“Built-in inflation arises from a wage-price spiral where higher wages raise costs, which raise prices.”"
+    },
+    {
+      "question": "The Consumer Price Index measures price changes from whose perspective?",
+      "options": ["Buyers", "Producers", "Exporters", "Investors"],
+      "answer": "Buyers",
+      "reference": "“CPI tracks price changes associated with the cost of living from the buyer’s perspective.”"
+    },
+    {
+      "question": "The Wholesale Price Index tracks price changes at which level?",
+      "options": ["Producer/wholesale", "Retail", "Service", "Import"],
+      "answer": "Producer/wholesale",
+      "reference": "“WPI measures price changes of goods at the producer or wholesale level before retail.”"
+    },
+    {
+      "question": "How do you calculate the change in inflation between two periods?",
+      "options": ["Divide final CPI by initial CPI", "Subtract initial CPI from final CPI", "Divide initial CPI by final CPI", "Add final and initial CPI"],
+      "answer": "Divide final CPI by initial CPI",
+      "reference": "“Change in inflation = final CPI index value divided by initial CPI value.”"
+    },
+    {
+      "question": "Break-even analysis helps management study relationships among sales, cost, and what?",
+      "options": ["Profit", "Market share", "Tax liability", "Inventory turnover"],
+      "answer": "Profit",
+      "reference": "“Break-even analysis investigates the interrelationship among sales revenue, cost, and profit at various output levels.”"
+    },
+    {
+      "question": "Which asset type is often considered the best hedge against inflation?",
+      "options": ["Stocks", "Bonds", "Cash", "Collectibles"],
+      "answer": "Stocks",
+      "reference": "“Stocks are considered the best hedge against inflation, as their price rises include the effects of inflation.”"
+    },
+    {
+        "question": "What does average fixed cost (AFC) do as output increases?",
+        "options": ["Declines continuously", "Rises continuously", "Remains constant", "Fluctuates randomly"],
+        "answer": "Declines continuously",
+        "reference": "“Average fixed cost declines continuously as output increases because fixed costs are spread over more units.”"
+      },
+      {
+        "question": "Marginal cost (MC) is defined as the change in total cost when output changes by how much?",
+        "options": ["One additional unit", "Ten units", "Half a unit", "Zero units"],
+        "answer": "One additional unit",
+        "reference": "“Marginal cost is the addition to total cost from producing one more unit of output.”"
+      },
+      {
+        "question": "Under cost-plus pricing, firms set price equal to marginal cost plus what?",
+        "options": ["A fixed mark-up", "Average cost", "Total revenue", "Cost of capital"],
+        "answer": "A fixed mark-up",
+        "reference": "“Under cost-plus pricing, a firm sets price equal to marginal cost plus a mark-up.”"
+      },
+      {
+        "question": "Value-based pricing sets prices based on what factor?",
+        "options": ["Perceived customer value", "Historical cost", "Market share", "Production capacity"],
+        "answer": "Perceived customer value",
+        "reference": "“Value-based pricing sets price according to the perceived value to the customer rather than cost.”"
+      },
+      {
+        "question": "What is penetration pricing aimed at?",
+        "options": ["Gaining market share quickly", "Maximizing short-term profit", "Skimming the market", "Covering fixed costs"],
+        "answer": "Gaining market share quickly",
+        "reference": "“Penetration pricing involves setting a low initial price to gain market share rapidly.”"
+      },
+      {
+        "question": "Price skimming involves what?",
+        "options": ["High initial prices that decrease over time", "Uniform prices across segments", "Cost-based mark-ups", "Price floors"],
+        "answer": "High initial prices that decrease over time",
+        "reference": "“Price skimming sets a high initial price and then lowers it over time as competition enters.”"
+      },
+      {
+        "question": "Third-degree price discrimination requires market segmentation based on what?",
+        "options": ["Differences in elasticities of demand", "Cost structures", "Production techniques", "Regulatory constraints"],
+        "answer": "Differences in elasticities of demand",
+        "reference": "“Third-degree price discrimination separates customers into groups with different demand elasticities.”"
+      },
+      {
+        "question": "What distinguishes first-degree price discrimination?",
+        "options": ["Charging each consumer their maximum willingness to pay", "Uniform pricing", "Cost-plus mark-up", "Block pricing"],
+        "answer": "Charging each consumer their maximum willingness to pay",
+        "reference": "“First-degree discrimination charges each buyer the highest price they are willing to pay.”"
+      },
+      {
+        "question": "Under monopoly, price is set where demand intersects what curve?",
+        "options": ["Marginal cost", "Average cost", "Total cost", "Average revenue"],
+        "answer": "Marginal cost",
+        "reference": "“A monopoly sets output where MR=MC, then charges the corresponding price from the demand curve.”"
+      },
+      {
+        "question": "Which concept measures how quantity demanded responds to a price change?",
+        "options": ["Price elasticity of demand", "Marginal utility", "Inventory turnover", "Contribution margin"],
+        "answer": "Price elasticity of demand",
+        "reference": "“Price elasticity of demand measures the responsiveness of quantity demanded to a change in price.”"
+      },
+      {
+        "question": "A firm with constant returns to scale has what cost behavior?",
+        "options": ["Long-run average cost remains the same", "Declining average cost", "Rising average cost", "Average cost fluctuates"],
+        "answer": "Long-run average cost remains the same",
+        "reference": "“Constant returns to scale imply that doubling inputs doubles output and leaves average cost unchanged.”"
+      },
+      {
+        "question": "Economies of scope occur when:",
+        "options": ["Producing goods jointly is cheaper", "Producing goods separately is cheaper", "Average cost rises with output", "Marginal cost equals average cost"],
+        "answer": "Producing goods jointly is cheaper",
+        "reference": "“Economies of scope exist when joint production lowers combined costs compared to separate production.”"
+      },
+      {
+        "question": "What type of inflation arises when wages and prices chase each other upward?",
+        "options": ["Built-in inflation", "Demand-pull inflation", "Cost-push inflation", "Supply-side inflation"],
+        "answer": "Built-in inflation",
+        "reference": "“Built-in inflation arises from a wage-price spiral where rising wages and prices reinforce each other.”"
+      },
+      {
+        "question": "Headline inflation includes which items?",
+        "options": ["Food and energy prices", "Only durable goods", "Only services", "Export prices"],
+        "answer": "Food and energy prices",
+        "reference": "“Headline inflation measures price changes including volatile items like food and energy.”"
+      },
+      {
+        "question": "Core inflation excludes which components?",
+        "options": ["Food and energy", "Clothing and footwear", "Housing rents", "Education costs"],
+        "answer": "Food and energy",
+        "reference": "“Core inflation excludes food and energy prices to avoid volatility.”"
+      },
+      {
+        "question": "What does the Producer Price Index (PPI) track?",
+        "options": ["Average change in selling prices received by domestic producers", "Consumer basket price changes", "Import price changes", "Export volume changes"],
+        "answer": "Average change in selling prices received by domestic producers",
+        "reference": "“PPI measures the average change in selling prices received by domestic producers for their output.”"
+      },
+      {
+        "question": "Which index uses a current-period basket of goods?",
+        "options": ["GDP deflator", "CPI", "WPI", "PPI"],
+        "answer": "GDP deflator",
+        "reference": "“The GDP deflator uses a current-period basket of all domestically produced goods and services.”"
+      },
+      {
+        "question": "If the wholesale price index (WPI) rises, what does it indicate?",
+        "options": ["Higher producer-level prices", "Higher retail prices", "Lower export prices", "Lower import duties"],
+        "answer": "Higher producer-level prices",
+        "reference": "“An increase in WPI indicates higher prices at the producer or wholesale level.”"
+      },
+      {
+        "question": "Which measure adjusts the principal of Treasury securities by inflation rate?",
+        "options": ["TIPS", "CPI", "WPI", "PPI"],
+        "answer": "TIPS",
+        "reference": "“Treasury Inflation-Protected Securities (TIPS) adjust the principal by the percentage increase in inflation.”"
+      },
+      {
+        "question": "What does the Fisher effect describe?",
+        "options": ["Nominal interest rates adjust to expected inflation", "Real interest rates adjust to money supply", "Price elasticity equals unity", "Contribution margins equal zero"],
+        "answer": "Nominal interest rates adjust to expected inflation",
+        "reference": "“The Fisher effect states that nominal interest rates equal real rates plus expected inflation.”"
+      },
+      {
+        "question": "Shoe-leather costs increase because of what?",
+        "options": ["Increased transactions to minimize cash holdings", "Higher production costs", "Rising labor costs", "Government regulations"],
+        "answer": "Increased transactions to minimize cash holdings",
+        "reference": "“Shoe-leather costs arise from more frequent transactions and bank visits to reduce cash holdings during high inflation.”"
+      },
+      {
+        "question": "Menu costs are associated with what?",
+        "options": ["Changing prices", "Changing production methods", "Changing technology", "Changing labor skills"],
+        "answer": "Changing prices",
+        "reference": "“Menu costs refer to the expenses firms incur when they adjust or reprint prices.”"
+      },
+      {
+        "question": "Adaptive expectations are based on what?",
+        "options": ["Past errors and previous expectations", "Rational forecasting", "Market surveys", "Central bank announcements"],
+        "answer": "Past errors and previous expectations",
+        "reference": "“Adaptive expectations assume that people adjust future inflation forecasts based on past forecast errors.”"
+      },
+      {
+        "question": "Rational expectations assume agents use all available information including what?",
+        "options": ["Monetary policy rules", "Personal biases", "Historical averages only", "Random guesses"],
+        "answer": "Monetary policy rules",
+        "reference": "“Rational expectations posit that agents incorporate all available information, such as known policy rules.”"
+      },
+      {
+        "question": "Stagflation refers to what combination?",
+        "options": ["Stagnant growth with high inflation", "Rapid growth with low inflation", "Deflation with high unemployment", "Stable prices with rising output"],
+        "answer": "Stagnant growth with high inflation",
+        "reference": "“Stagflation describes the coexistence of stagnant output growth and high inflation.”"
+      },
+      {
+        "question": "Which technique uses regression to estimate cost functions for break-even analysis?",
+        "options": ["Empirical cost function", "Marginal analysis", "Average-cost rule", "Price mechanism"],
+        "answer": "Empirical cost function",
+        "reference": "“Empirical cost functions are estimated via regression analysis of income and expenses.”"
+      },
+      {
+        "question": "Break-even charts illustrate relationships among output, sales, and which other variable?",
+        "options": ["Profit", "Inventory", "Tax rates", "Market share"],
+        "answer": "Profit",
+        "reference": "“Break-even charts study the effects of output and sales changes on total revenue, total cost, and profit.”"
+      },
+      {
+        "question": "Which concept refers to the additional revenue from selling one more unit?",
+        "options": ["Marginal revenue", "Average revenue", "Total revenue", "Variable revenue"],
+        "answer": "Marginal revenue",
+        "reference": "“Marginal revenue is the change in total revenue from selling one additional unit.”"
+      },
+      {
+        "question": "In price discrimination, third-degree discrimination requires what?",
+        "options": ["Separate markets by elasticity", "Uniform pricing", "Block pricing only", "Coupons distribution"],
+        "answer": "Separate markets by elasticity",
+        "reference": "“Third-degree price discrimination segments customers by differing demand elasticities.”"
+      },
+      {
+        "question": "Which pricing method sets different prices for different quantities bought?",
+        "options": ["Block pricing", "Cost-plus pricing", "Value-based pricing", "Skimming pricing"],
+        "answer": "Block pricing",
+        "reference": "“Block pricing charges different prices for different purchase quantities or blocks.”"
+      },
+      {
+        "question": "What is another term for economic profit?",
+        "options": ["Supernormal profit", "Accounting profit", "Break-even profit", "Marginal profit"],
+        "answer": "Supernormal profit",
+        "reference": "“Economic profit, also called supernormal profit, occurs when total revenue exceeds total opportunity costs.”"
+      },
+      {
+        "question": "What does normal profit represent?",
+        "options": ["Zero economic profit", "Maximum accounting profit", "Break-even point", "Total fixed cost"],
+        "answer": "Zero economic profit",
+        "reference": "“Normal profit is the level of profit that just covers all opportunity costs, yielding zero economic profit.”"
+      },
+      {
+        "question": "Which theory explains profit as the reward for bearing risk?",
+        "options": ["Hawley’s risk-bearing theory", "Clark’s dynamic theory", "Schumpeter’s innovation theory", "Walker’s rent theory"],
+        "answer": "Hawley’s risk-bearing theory",
+        "reference": "“Hawley’s theory views profit as the reward for risk-taking in business.”"
+      },
+      {
+        "question": "Which theory views profit as a reward for uncertainty-bearing?",
+        "options": ["Knight’s uncertainty-bearing theory", "Thomas’s pure profit theory", "Drucker’s functions theory", "Empirical cost function theory"],
+        "answer": "Knight’s uncertainty-bearing theory",
+        "reference": "“Knight argued that profit is the reward for bearing non-calculable uncertainty.”"
+      },
+      {
+        "question": "In the long run, firms enter and exit until economic profit equals what?",
+        "options": ["Zero", "Maximum", "Infinite", "Subnormal"],
+        "answer": "Zero",
+        "reference": "“In long-run equilibrium under perfect competition, firms earn zero economic profit.”"
+      },
+      {
+        "question": "What does markup over cost-plus pricing reflect?",
+        "options": ["Desired profit margin", "Variable cost", "Market demand", "Regulatory fees"],
+        "answer": "Desired profit margin",
+        "reference": "“The markup in cost-plus pricing reflects the firm’s targeted profit margin.”"
+      },
+      {
+        "question": "Which concept describes the extra units sold at a price above marginal cost?",
+        "options": ["Producer surplus", "Consumer surplus", "Deadweight loss", "Total surplus"],
+        "answer": "Producer surplus",
+        "reference": "“Producer surplus is the difference between price received and marginal cost for units sold.”"
+      },
+      {
+        "question": "What kind of good has zero marginal cost for the additional copy?",
+        "options": ["Digital goods", "Agricultural goods", "Automobiles", "Machinery"],
+        "answer": "Digital goods",
+        "reference": "“Digital goods like software have near-zero marginal cost for additional copies.”"
+      },
+      {
+        "question": "Which index measures inflation experienced by urban consumers in the U.S.?",
+        "options": ["CPI-U", "CPI-W", "PPI", "GDP deflator"],
+        "answer": "CPI-U",
+        "reference": "“CPI-U measures price changes faced by urban consumers.”"
+      },
+      {
+        "question": "Which measure excludes food and energy from U.S. CPI?",
+        "options": ["Core CPI", "Headline CPI", "PPI", "GDP deflator"],
+        "answer": "Core CPI",
+        "reference": "“Core CPI excludes food and energy prices to reduce volatility.”"
+      },
+      {
+        "question": "During hyperinflation, prices can rise by more than what percentage per month?",
+        "options": ["50%", "10%", "5%", "25%"],
+        "answer": "50%",
+        "reference": "“Hyperinflation is often defined as monthly inflation of 50% or more.”"
+      },
+      {
+        "question": "Which policy tool directly changes the monetary base?",
+        "options": ["Open market operations", "Fiscal stimulus", "Price controls", "Wage policies"],
+        "answer": "Open market operations",
+        "reference": "“Open market operations adjust the monetary base by buying or selling government securities.”"
+      },
+      {
+        "question": "Quantitative easing typically focuses on which part of the yield curve?",
+        "options": ["Long-term securities", "Short-term bills", "Foreign currency", "Corporate loans"],
+        "answer": "Long-term securities",
+        "reference": "“Quantitative easing involves purchasing long-term government securities to lower long-term rates.”"
+      },
+      {
+        "question": "Inflation inertia refers to persistence due to what?",
+        "options": ["Past inflation expectations", "Current fiscal policy", "Production technology", "Exchange rate regimes"],
+        "answer": "Past inflation expectations",
+        "reference": "“Inflation inertia arises when past expectations keep current inflation persistently high.”"
+      },
+      {
+        "question": "Which curve illustrates the inverse relationship between inflation and unemployment?",
+        "options": ["Phillips curve", "Supply curve", "Demand curve", "Laffer curve"],
+        "answer": "Phillips curve",
+        "reference": "“The Phillips curve shows that lower unemployment is associated with higher inflation.”"
+      },
+      {
+        "question": "Cost-push inflation can result from a sudden increase in what key input?",
+        "options": ["Oil prices", "Software prices", "Salaries", "Interest rates"],
+        "answer": "Oil prices",
+        "reference": "“A supply shock like a sharp rise in oil prices leads to cost-push inflation.”"
+      },
+      {
+        "question": "Which tool calculates break-even quantities for decision making?",
+        "options": ["Break-even analysis", "Value-based pricing", "Sensitivity analysis", "Game theory"],
+        "answer": "Break-even analysis",
+        "reference": "“Break-even analysis determines the sales level needed to cover costs and achieve target profit.”"
+      },
+      {
+        "question": "What is normal profit?",
+        "options": ["The minimum revenue needed to keep a firm in business", "Profit after taxes", "Total revenue minus explicit costs", "Excess of total revenue over total costs"],
+        "answer": "The minimum revenue needed to keep a firm in business",
+        "reference": "“Normal profit is the level of profit which just covers all opportunity costs, keeping the firm in business.”"
+      },
+      {
+        "question": "What is supernormal profit?",
+        "options": ["Profit in excess of normal profit", "Profit equal to zero economic profit", "Total revenue minus explicit costs", "Revenue needed to cover opportunity costs"],
+        "answer": "Profit in excess of normal profit",
+        "reference": "“Supernormal profit, also called economic profit, is the excess of total revenue over total opportunity costs.”"
+      },
+      {
+        "question": "The margin of safety in break-even analysis measures:",
+        "options": ["The difference between actual sales and break-even sales", "The amount by which profit exceeds cost", "The ratio of fixed to variable cost", "The percentage markup over cost"],
+        "answer": "The difference between actual sales and break-even sales",
+        "reference": "“Margin of safety is the excess of actual sales over break-even sales, indicating risk cushion.”"
+      },
+      {
+        "question": "Which cost curve is typically U-shaped?",
+        "options": ["Average cost", "Total cost", "Fixed cost", "Total revenue"],
+        "answer": "Average cost",
+        "reference": "“The average cost curve is U-shaped due to spreading of fixed cost and diminishing returns.”"
+      },
+      {
+        "question": "Marginal cost intersects average cost at:",
+        "options": ["The minimum point of average cost", "The maximum point of average cost", "Break-even output", "Zero output"],
+        "answer": "The minimum point of average cost",
+        "reference": "“Marginal cost cuts average cost at its minimum point, guiding efficient output.”"
+      },
+      {
+        "question": "In perfect competition, long-run economic profit is:",
+        "options": ["Zero", "Positive", "Negative", "Undefined"],
+        "answer": "Zero",
+        "reference": "“In the long run under perfect competition, firms earn zero economic profit due to entry and exit.”"
+      },
+      {
+        "question": "Which inflation measure removes food and energy prices?",
+        "options": ["Core inflation", "Headline inflation", "WPI", "GDP deflator"],
+        "answer": "Core inflation",
+        "reference": "“Core inflation excludes volatile food and energy components to show underlying trend.”"
+      },
+      {
+        "question": "Disinflation refers to:",
+        "options": ["A decrease in the rate of inflation", "Negative inflation", "Inflation exceeding 100%", "Stable price levels"],
+        "answer": "A decrease in the rate of inflation",
+        "reference": "“Disinflation is a slowdown in the rate at which general price levels are rising.”"
+      },
+      {
+        "question": "Reflation is the policy aimed at:",
+        "options": ["Restoring inflation to a desired level", "Reducing hyperinflation", "Achieving deflation", "Maintaining price stability"],
+        "answer": "Restoring inflation to a desired level",
+        "reference": "“Reflation refers to measures to raise the level of inflation to target after a period of too-low inflation.”"
+      },
+      {
+        "question": "Stagflation combines:",
+        "options": ["High inflation and high unemployment", "Low inflation and low growth", "High growth and low unemployment", "Deflation and high growth"],
+        "answer": "High inflation and high unemployment",
+        "reference": "“Stagflation is the simultaneous occurrence of high inflation and high unemployment.”"
+      },
+      {
+        "question": "Which policy tool directly targets short-term interest rates?",
+        "options": ["Open market operations", "Fiscal taxation", "Price controls", "Wage subsidies"],
+        "answer": "Open market operations",
+        "reference": "“Central banks use open market operations to adjust short-term interest rates via securities trades.”"
+      },
+      {
+        "question": "Which index is most comprehensive in capturing entire economy price changes?",
+        "options": ["GDP deflator", "CPI", "WPI", "PPI"],
+        "answer": "GDP deflator",
+        "reference": "“The GDP deflator covers prices of all domestically produced goods and services.”"
+      },
+      {
+        "question": "Inflation expectations become embedded when:",
+        "options": ["Wage and price contracts index to past inflation", "Taxes adjust automatically", "Government spending increases", "Interest rates fall"],
+        "answer": "Wage and price contracts index to past inflation",
+        "reference": "“Embedded expectations arise when contracts automatically adjust for past inflation.”"
+      },
+      {
+        "question": "Which theory states that only uncertainty-bearing generates profit?",
+        "options": ["Knight’s theory", "Hawley’s theory", "Schumpeter’s theory", "Drucker’s theory"],
+        "answer": "Knight’s theory",
+        "reference": "“Knight held that profit is the reward for bearing non-calculable uncertainty.”"
+      },
+      {
+        "question": "Which profit concept includes opportunity cost of owner’s capital?",
+        "options": ["Economic profit", "Accounting profit", "Gross profit", "Operating profit"],
+        "answer": "Economic profit",
+        "reference": "“Economic profit deducts implicit costs including opportunity cost of owner’s funds.”"
+      },
+      {
+        "question": "Which profit concept ignores implicit costs?",
+        "options": ["Accounting profit", "Economic profit", "Supernormal profit", "Normal profit"],
+        "answer": "Accounting profit",
+        "reference": "“Accounting profit equals total revenue minus explicit costs, ignoring implicit costs.”"
+      },
+      {
+        "question": "Which inflation rate is more volatile month to month?",
+        "options": ["Headline CPI", "Core CPI", "GDP deflator", "PPI"],
+        "answer": "Headline CPI",
+        "reference": "“Headline CPI is more volatile due to inclusion of food and energy prices.”"
+      },
+      {
+        "question": "Which pricing method charges different prices in separate markets simultaneously?",
+        "options": ["Third-degree price discrimination", "Cost-plus pricing", "Penetration pricing", "Uniform pricing"],
+        "answer": "Third-degree price discrimination",
+        "reference": "“Third-degree discrimination sets different prices for distinct market segments.”"
+      },
+      {
+        "question": "Which market structure allows price discrimination?",
+        "options": ["Monopoly", "Perfect competition", "Pure competition", "Monopolistic competition"],
+        "answer": "Monopoly",
+        "reference": "“Only firms with market power, like monopoly, can price discriminate.”"
+      },
+      {
+        "question": "What does producer surplus measure?",
+        "options": ["Difference between price received and marginal cost", "Difference between price paid and marginal cost", "Total revenue minus total cost", "Average profit per unit"],
+        "answer": "Difference between price received and marginal cost",
+        "reference": "“Producer surplus is the area above marginal cost and below price.”"
+      },
+      {
+        "question": "Which curve is downward sloping in monopoly?",
+        "options": ["Average revenue curve", "Marginal cost curve", "Supply curve", "Average cost curve"],
+        "answer": "Average revenue curve",
+        "reference": "“In monopoly, the average revenue curve (demand curve) slopes downward.”"
+      },
+      {
+        "question": "Which monopoly output rule holds?",
+        "options": ["MR = MC", "AR = AC", "P = MC", "TR = TC"],
+        "answer": "MR = MC",
+        "reference": "“Monopolists choose output where marginal revenue equals marginal cost.”"
+      },
+      {
+        "question": "What is the key assumption of perfect competition?",
+        "options": ["Firms are price takers", "Firms are price makers", "High barriers to entry", "Product differentiation"],
+        "answer": "Firms are price takers",
+        "reference": "“Perfectly competitive firms accept market price and cannot influence it.”"
+      },
+      {
+        "question": "Which profit theory emphasizes innovation as profit source?",
+        "options": ["Schumpeter’s theory", "Walker’s theory", "Thomas’s theory", "Clark’s theory"],
+        "answer": "Schumpeter’s theory",
+        "reference": "“Schumpeter saw profit as the reward for entrepreneurial innovation.”"
+      },
+      {
+        "question": "Which pricing strategy sets initial price high then lowers over time?",
+        "options": ["Skimming pricing", "Penetration pricing", "Cost-plus pricing", "Dynamic pricing"],
+        "answer": "Skimming pricing",
+        "reference": "“Price skimming charges a high initial price and reduces it as competition enters.”"
+      },
+      {
+        "question": "Which break-even concept helps evaluate new product viability?",
+        "options": ["Margin of safety", "Contribution margin", "Producer surplus", "Economic profit"],
+        "answer": "Contribution margin",
+        "reference": "“Contribution margin indicates how much revenue contributes to covering fixed costs.”"
+      },
+      {
+        "question": "Which index measures wholesale prices of primary commodities?",
+        "options": ["WPI", "CPI", "PPI", "GDP deflator"],
+        "answer": "WPI",
+        "reference": "“WPI includes prices of primary goods at wholesale level.”"
+      },
+      {
+        "question": "Which cost includes depreciation and interest on capital?",
+        "options": ["Implicit cost", "Explicit cost", "Marginal cost", "Average cost"],
+        "answer": "Implicit cost",
+        "reference": "“Implicit cost covers imputed charges like depreciation and capital interest.”"
+      },
+      {
+        "question": "Which policy tool tightens money supply to reduce inflation?",
+        "options": ["Selling government securities", "Cutting taxes", "Increasing spending", "Subsidizing exports"],
+        "answer": "Selling government securities",
+        "reference": "“Selling securities drains reserves and tightens monetary conditions.”"
+      },
+      {
+        "question": "What happens to average variable cost when output increases?",
+        "options": ["May initially fall then rise", "Always falls", "Always rises", "Remains constant"],
+        "answer": "May initially fall then rise",
+        "reference": "“Average variable cost typically falls then rises due to economies and diseconomies.”"
+      },
+      {
+        "question": "Which inflationary situation erodes purchasing power rapidly?",
+        "options": ["Hyperinflation", "Disinflation", "Deflation", "Stagflation"],
+        "answer": "Hyperinflation",
+        "reference": "“Hyperinflation is extremely rapid inflation that erodes currency value.”"
+      },
+      {
+        "question": "Which measure shows the weighted average of price relatives?",
+        "options": ["Laspeyres index", "Laspeyres index", "Paasche index", "Fisher index"],
+        "answer": "Laspeyres index",
+        "reference": "“The Laspeyres index uses base-period weights for price relatives.”"
+      },
+      {
+        "question": "Which index uses current-period weights for price relatives?",
+        "options": ["Paasche index", "Laspeyres index", "Fisher index", "GDP deflator"],
+        "answer": "Paasche index",
+        "reference": "“The Paasche index uses current-period expenditure weights for price changes.”"
+      },
+      {
+        "question": "The Fisher index is the geometric mean of Laspeyres and Paasche indices. True or false?",
+        "options": ["True", "False", "Depends on period", "Cannot be computed"],
+        "answer": "True",
+        "reference": "“The Fisher index equals the square root of Laspeyres and Paasche indices’ product.”"
+      },
+      {
+        "question": "Which concept measures cost per unit of output in the long run?",
+        "options": ["Long-run average cost", "Marginal cost", "Average fixed cost", "Average variable cost"],
+        "answer": "Long-run average cost",
+        "reference": "“Long-run average cost reflects cost per unit when all inputs are variable.”"
+      },
+      {
+        "question": "Which curve shows lowest cost of producing each output when all inputs vary?",
+        "options": ["Long-run average cost curve", "Short-run marginal cost curve", "Demand curve", "Average revenue curve"],
+        "answer": "Long-run average cost curve",
+        "reference": "“The long-run average cost curve envelops all short-run average cost curves.”"
+      },
+      {
+        "question": "Which test for index numbers requires that reversing the base and current period yields the reciprocal of the original index?",
+        "options": ["Time reversal test", "Factor reversal test", "Circular test", "Identity test"],
+        "answer": "Time reversal test",
+        "reference": "“The time reversal test requires that the index number of period 0 to t multiplied by the index from t to 0 equals unity, implying reversal gives reciprocals.”"
+      },
+      {
+        "question": "Which test for index numbers requires that the product of price and quantity indices equals the value index?",
+        "options": ["Factor reversal test", "Time reversal test", "Circular test", "Proportionality test"],
+        "answer": "Factor reversal test",
+        "reference": "“The factor reversal test holds that the price index multiplied by the quantity index should equal the value index, preserving the value measure.”"
+      },
+      {
+        "question": "Which consistency criterion demands that an index from period 0 to t multiplied by that from t to r equals the index from 0 to r?",
+        "options": ["Circular test", "Time reversal test", "Factor reversal test", "Chain base test"],
+        "answer": "Circular test",
+        "reference": "“The circular test demands consistency across periods: index(0→t) × index(t→r) = index(0→r).”"
+      },
+      {
+        "question": "Which index uses current-period weights for price relatives?",
+        "options": ["Paasche index", "Laspeyres index", "Fisher index", "Marshall-Edgeworth index"],
+        "answer": "Paasche index",
+        "reference": "“The Paasche price index uses current-period quantities as weights for price relatives.”"
+      },
+      {
+        "question": "Which index uses base-period weights for price relatives?",
+        "options": ["Laspeyres index", "Paasche index", "Fisher index", "Edgeworth index"],
+        "answer": "Laspeyres index",
+        "reference": "“The Laspeyres index employs base-period quantities to weight price relatives, keeping weights fixed.”"
+      },
+      {
+        "question": "Which index is considered the ideal index as the geometric mean of Laspeyres and Paasche?",
+        "options": ["Fisher index", "Marshall-Edgeworth index", "Paasche index", "Laspeyres index"],
+        "answer": "Fisher index",
+        "reference": "“The Fisher index is defined as the geometric mean of the Laspeyres and Paasche indices.”"
+      },
+      {
+        "question": "Which method averages prices and quantities before forming ratios?",
+        "options": ["Marshall-Edgeworth index", "Laspeyres index", "Paasche index", "Fisher index"],
+        "answer": "Marshall-Edgeworth index",
+        "reference": "“The Marshall-Edgeworth index takes the average of base and current period quantities for weights.”"
+      },
+      {
+        "question": "Which index number method most closely satisfies all reversal and proportionality tests?",
+        "options": ["Fisher index", "Laspeyres index", "Paasche index", "Carli index"],
+        "answer": "Fisher index",
+        "reference": "“The Fisher ideal index is the only method that fully satisfies both time and factor reversal tests.”"
+      },
+      {
+        "question": "Which index is most prone to substitution bias because it uses fixed weights?",
+        "options": ["Laspeyres index", "Paasche index", "Fisher index", "Edgeworth index"],
+        "answer": "Laspeyres index",
+        "reference": "“Fixed-base Laspeyres index tends to overstate cost increases due to substitution bias.”"
+      },
+      {
+        "question": "What is the primary purpose of constructing a cost-of-living index?",
+        "options": ["To measure changes in consumer welfare", "To calculate company profits", "To set interest rates", "To track wages only"],
+        "answer": "To measure changes in consumer welfare",
+        "reference": "“Cost-of-living index measures how much income consumers need to maintain a constant standard of living.”"
+      },
+      {
+        "question": "Which of these is a limitation of simple unweighted price relatives?",
+        "options": ["Ignores expenditure weights", "Complex to compute", "Satisfies all tests", "Requires chain linking"],
+        "answer": "Ignores expenditure weights",
+        "reference": "“Unweighted relatives treat each item equally, ignoring their budget significance.”"
+      },
+      {
+        "question": "Which method rebuilds an index series by linking successive short-term indices?",
+        "options": ["Chain base method", "Fixed base method", "Paasche method", "Laspeyres method"],
+        "answer": "Chain base method",
+        "reference": "“Chain base method links year-to-year indices to form a continuous series.”"
+      },
+      {
+        "question": "What does the GDP deflator measure that CPI does not?",
+        "options": ["Changes in prices of all domestically produced goods", "Changes in a fixed basket", "International prices", "Export volumes"],
+        "answer": "Changes in prices of all domestically produced goods",
+        "reference": "“GDP deflator covers the prices of all domestically produced goods and services, not just consumer items.”"
+      },
+      {
+        "question": "What is meant by imported inflation?",
+        "options": ["Inflation caused by rising import prices", "Inflation imported from data errors", "Inflation of domestic goods", "Deflation in exports"],
+        "answer": "Inflation caused by rising import prices",
+        "reference": "“Imported inflation occurs when higher prices for imported goods push up domestic price levels.”"
+      },
+      {
+        "question": "Which type of inflation is moderate and predictable, typically below 10% annually?",
+        "options": ["Creeping inflation", "Galloping inflation", "Hyperinflation", "Stagflation"],
+        "answer": "Creeping inflation",
+        "reference": "“Creeping inflation is slow, steady price rise, usually under 10% per year.”"
+      },
+      {
+        "question": "Which inflation category describes very high rates, often 20–100% per year?",
+        "options": ["Galloping inflation", "Creeping inflation", "Hyperinflation", "Stagflation"],
+        "answer": "Galloping inflation",
+        "reference": "“Galloping inflation refers to rapid price increases typically between 20% and 100% annually.”"
+      },
+      {
+        "question": "What characterizes hyperinflation?",
+        "options": ["Extremely rapid inflation often exceeding 50% per month", "Stable low inflation", "Deflation", "Moderate single-digit inflation"],
+        "answer": "Extremely rapid inflation often exceeding 50% per month",
+        "reference": "“Hyperinflation is a period of very high inflation, often over 50% monthly.”"
+      },
+      {
+        "question": "Which concept refers to the loss of purchasing power of money due to inflation?",
+        "options": ["Inflation tax", "Seigniorage", "Nominal growth", "Real interest"],
+        "answer": "Inflation tax",
+        "reference": "“Inflation tax describes the erosion of money’s value, acting like a tax on cash holders.”"
+      },
+      {
+        "question": "What is the effect of unexpected inflation on borrowers and lenders?",
+        "options": ["Borrowers gain, lenders lose", "Lenders gain, borrowers lose", "No effect", "Both gain equally"],
+        "answer": "Borrowers gain, lenders lose",
+        "reference": "“Unexpected inflation reduces the real burden of debt, benefiting borrowers at lenders’ expense.”"
+      },
+      {
+        "question": "Which index is commonly used for cost-of-living adjustments in wage contracts?",
+        "options": ["Consumer Price Index", "Producer Price Index", "GDP deflator", "Wholesale Price Index"],
+        "answer": "Consumer Price Index",
+        "reference": "“CPI is frequently used to adjust wages and pensions for changes in living costs.”"
+      },
+      {
+        "question": "Which inflation measure excludes food and energy to gauge core trends?",
+        "options": ["Core CPI", "Headline CPI", "WPI", "GDP deflator"],
+        "answer": "Core CPI",
+        "reference": "“Core CPI excludes volatile food and energy prices to reflect underlying inflation.”"
+      },
+      {
+        "question": "What is stagflation?",
+        "options": ["High inflation with stagnant growth", "Rapid growth with low inflation", "Deflationary growth", "Hyperinflation with growth"],
+        "answer": "High inflation with stagnant growth",
+        "reference": "“Stagflation is the simultaneous occurrence of high inflation and stagnant economic output.”"
+      },
+      {
+        "question": "Which policy involves central bank buying long-term securities to increase money supply?",
+        "options": ["Quantitative easing", "Open market operations", "Fiscal stimulus", "Discount policy"],
+        "answer": "Quantitative easing",
+        "reference": "“Quantitative easing expands the monetary base by purchasing long-term government bonds.”"
+      },
+      {
+        "question": "Which short-term policy tool affects overnight interest rates directly?",
+        "options": ["Open market operations", "Quantitative easing", "Fiscal policy", "Regulatory policy"],
+        "answer": "Open market operations",
+        "reference": "“Open market operations target short-term rates by trading government securities.”"
+      },
+      {
+        "question": "Which price index is rebased when authorities change the reference year?",
+        "options": ["Any fixed-base index", "Paasche index only", "Fisher index only", "Chain index only"],
+        "answer": "Any fixed-base index",
+        "reference": "“Authorities periodically rebase fixed-base indices to a new reference year for accuracy.”"
+      },
+      {
+        "question": "Which error arises when index weights are outdated and do not reflect current consumption patterns?",
+        "options": ["Outdated weight bias", "Measurement bias", "Selection bias", "Survivorship bias"],
+        "answer": "Outdated weight bias",
+        "reference": "“Using old weights can misstate current price changes due to shifting consumption patterns.”"
+      },
+      {
+        "question": "What does an increase in the Producer Price Index often signal?",
+        "options": ["Upcoming consumer price increases", "Lower wholesale costs", "Stable inflation", "Falling consumer demand"],
+        "answer": "Upcoming consumer price increases",
+        "reference": "“Rising PPI often precedes higher consumer prices as producer costs pass through.”"
+      },
+      {
+        "question": "Which index tracks changes in prices received by rural producers in agriculture?",
+        "options": ["Agricultural PPI", "CPI-U", "GDP deflator", "WPI"],
+        "answer": "Agricultural PPI",
+        "reference": "“Agricultural PPI measures price changes received by farmers for their produce.”"
+      },
+      {
+        "question": "How is value index defined?",
+        "options": ["Ratio of total value in current period to base period", "Ratio of total price in base period to current", "Arithmetic mean of relatives", "Geometric mean of relatives"],
+        "answer": "Ratio of total value in current period to base period",
+        "reference": "“Value index = (Σ p_t q_t) / (Σ p_0 q_0), comparing total values across periods.”"
+      },
+      {
+        "question": "What does the circular test ensure for chain indices?",
+        "options": ["Consistency across multiple linking periods", "Reciprocal reversal", "Equality with value index", "Symmetry of weights"],
+        "answer": "Consistency across multiple linking periods",
+        "reference": "“Circular test for chain indices checks that linking through intermediate periods yields consistent results.”"
+      },
+      {
+        "question": "Which index method reduces bias by updating weights periodically?",
+        "options": ["Chain-weighted index", "Fixed-base index", "Laspeyres index", "Paasche index"],
+        "answer": "Chain-weighted index",
+        "reference": "“Chain-weighted indices update weights each period, reducing fixed-base bias.”"
+      },
+      {
+        "question": "Which measure of inflation reflects the cost of a constant standard of living basket?",
+        "options": ["Cost-of-living index", "GDP deflator", "PPI", "M2 growth rate"],
+        "answer": "Cost-of-living index",
+        "reference": "“Cost-of-living index tracks how much income is needed to maintain a constant welfare level.”"
+      },
+      {
+        "question": "Which index is often used by governments to adjust social security payments?",
+        "options": ["CPI", "PPI", "WPI", "GDP deflator"],
+        "answer": "CPI",
+        "reference": "“Governments use CPI to index pensions and social benefits to inflation.”"
+      },
+      {
+        "question": "What is the main drawback of the Paasche index?",
+        "options": ["Understates inflation when prices rise", "Requires current-period weights", "Suffers from substitution bias", "Ignores rural prices"],
+        "answer": "Requires current-period weights",
+        "reference": "“Paasche index needs up-to-date quantities each period, making data collection harder.”"
+      },
+      {
+        "question": "Which inflation metric uses a fixed basket of goods updated infrequently?",
+        "options": ["Fixed-base CPI", "Chain CPI", "PPI", "GDP deflator"],
+        "answer": "Fixed-base CPI",
+        "reference": "“Fixed-base CPI relies on a basket updated every few years, potentially missing new goods.”"
+      },
+      {
+        "question": "Which price index test checks that an index of identical prices equals one?",
+        "options": ["Identity test", "Time reversal test", "Factor reversal test", "Circular test"],
+        "answer": "Identity test",
+        "reference": "“Identity test requires that if prices do not change, the index should equal unity.”"
+      }
+  ]
+  

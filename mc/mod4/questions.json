@@ -1,0 +1,746 @@
+[
+    {
+        "question": "Which of the following is an external factor influencing pricing decisions?",
+        "options": ["Cost of product or service", "Total demand for product or service", "Firm’s profit objectives", "Markup percentage"],
+        "answer": "Total demand for product or service",
+        "reference": "Needles, Anderson and Caldwell have suggested external factors and internal factors to be considered for setting a price by a business firm. External Factors: i. Total demand for product or service and its elasticity."
+    },
+    {
+        "question": "What is a key internal factor affecting pricing decisions?",
+        "options": ["Customer preferences for quality", "Economic and political climate", "Quality of competing products", "Cost of product or service"],
+        "answer": "Cost of product or service",
+        "reference": "Internal Factors: a. Cost of product or service i. Variable costs ii. Full absorption costs iii. Total costs iv. Replacements, Standard or any other cost base."
+    },
+    {
+        "question": "In markets with low competition, what primarily influences pricing decisions?",
+        "options": ["Competitors’ pricing strategies", "Customers’ willingness to pay", "Variable costs", "Government guidelines"],
+        "answer": "Customers’ willingness to pay",
+        "reference": "As competition further decreases, the key factor affecting pricing decisions is the customers’ willingness to pay, not costs or competitors."
+    },
+    {
+        "question": "How do competitors’ actions impact pricing decisions?",
+        "options": ["They have no impact", "They force higher prices", "Aggressive pricing may lower prices", "They only affect product quality"],
+        "answer": "Aggressive pricing may lower prices",
+        "reference": "Competitors: No business operates in a vacuum. Competitors’ reactions also influence pricing decisions. A competitor’s aggressive pricing may force a business to lower its prices to be competitive."
+    },
+    {
+        "question": "What is a primary advantage of full cost plus pricing?",
+        "options": ["It accounts for demand fluctuations", "It ensures recovery of total costs", "It focuses on variable costs", "It simplifies competitor analysis"],
+        "answer": "It ensures recovery of total costs",
+        "reference": "Full cost plus method has the following advantages: (3) It ensures recovery of total costs and also provides a reasonable rate of return to the firm."
+    },
+    {
+        "question": "What is a disadvantage of full cost plus pricing?",
+        "options": ["It is too complex to implement", "It ignores demand and competition", "It guarantees profits", "It excludes fixed costs"],
+        "answer": "It ignores demand and competition",
+        "reference": "Full cost method has the following disadvantages too: (1) It ignores demand and competition and may result into under-pricing or over-pricing of products."
+    },
+    {
+        "question": "What forms the basis for marginal cost plus pricing?",
+        "options": ["Fixed costs only", "Variable costs only", "Total costs", "Standard costs"],
+        "answer": "Variable costs only",
+        "reference": "This method, also known as contribution approach, uses only variable costs as the basis for pricing. Fixed costs are not added to the product, service or contract."
+    },
+    {
+        "question": "When is marginal cost plus pricing most effective?",
+        "options": ["For long-term pricing strategies", "When utilizing spare capacity", "When fixed costs are high", "In highly competitive markets"],
+        "answer": "When utilizing spare capacity",
+        "reference": "Marginal cost approach helps a business firm to enter into new markets easily, to increase its competitive position in the existing markets, to survive during trade depressions, to utilise spare available capacity, to dispose off surplus or obsolete stock, to make profitable special order decisions."
+    },
+    {
+        "question": "What does differential cost plus pricing include in its cost base?",
+        "options": ["Variable costs only", "Fixed costs only", "Both variable and fixed costs", "Standard costs only"],
+        "answer": "Both variable and fixed costs",
+        "reference": "This method involves adding a markup on differential cost which is the increase in total cost resulting from the production of additional units. Differential cost pricing differs from variable cost pricing in which a mark up on variable cost is added, whereas both variable costs and fixed costs are included in the differential costs on which a markup is determined."
+    },
+    {
+        "question": "What is the purpose of standard costs in pricing decisions?",
+        "options": ["To reflect inefficient operations", "To use costs from efficient operations", "To include wasteful operations", "To ignore production costs"],
+        "answer": "To use costs from efficient operations",
+        "reference": "Standard costs represent the costs that should be attained under efficient operating conditions at a normal capacity. The cost-based methods have some adverse implications and include costs due to inefficient manufacturing, wasteful operations etc. That is, it is likely that unnecessary costs may be assigned to the product. On the other hand, standard costs use costs from efficient operations plus the agreed profit."
+    },
+    {
+        "question": "What is the first step in developing target pricing?",
+        "options": ["Estimate actual cost", "Choose a target price", "Develop a product", "Derive a target cost"],
+        "answer": "Develop a product",
+        "reference": "Developing target prices and target costs requires the following four steps: Step 1: Develop a product that satisfies the needs of potential customers."
+    },
+    {
+        "question": "What does life cycle costing track?",
+        "options": ["Costs of competitors’ products", "Costs attributable to each product from start to finish", "Short-term variable costs", "Customer acquisition costs only"],
+        "answer": "Costs attributable to each product from start to finish",
+        "reference": "Life cycle costing tracks costs attributable to each product from start to finish. Life cycle costs provide important information for pricing."
+    },
+    {
+        "question": "What does Pareto analysis suggest about product pricing in a multiproduct company?",
+        "options": ["All products contribute equally to sales", "80% of sales come from 20% of products", "Pricing is unrelated to sales volume", "Fixed costs drive pricing decisions"],
+        "answer": "80% of sales come from 20% of products",
+        "reference": "In pricing decisions, Pareto Analysis is very useful to a multiproduct company. Pareto Analysis may indicate that 80% of a firm’s sales revenue come from 20% of its products."
+    },
+    {
+        "question": "In economic theory, profits are maximized when?",
+        "options": ["Marginal revenue equals marginal cost", "Total revenue equals total cost", "Price equals average cost", "Demand equals supply"],
+        "answer": "Marginal revenue equals marginal cost",
+        "reference": "In economic theory, profits are maximised at the sales volume where marginal revenues equal marginal costs. Firms continue to produce as long as the marginal revenue derived from the sale of each additional unit exceeds the marginal cost of producing that unit."
+    },
+    {
+        "question": "What is a key condition for price discrimination to exist?",
+        "options": ["Perfect market competition", "Difference in elasticity of demand", "Identical products across markets", "No market imperfections"],
+        "answer": "Difference in elasticity of demand",
+        "reference": "Conditions for Price Discrimination: For price discrimination to exist, it requires the basic conditions. These are: 1. Difference in Elasticity of Demand: Price discrimination is possible only when elasticity of demand will be different in different markets."
+    },
+    {
+        "question": "Which type of price discrimination charges different prices for different quantities consumed?",
+        "options": ["First-degree", "Second-degree", "Third-degree", "Personal"],
+        "answer": "Second-degree",
+        "reference": "Second-degree Price Discrimination: Second-degree price discrimination occurs when a company charges a different price for different quantities consumed, such as quantity discounts on bulk purchases."
+    },
+    {
+        "question": "Under perfect competition, what determines the market price?",
+        "options": ["Individual firms", "Government regulations", "Intersection of demand and supply", "Monopolist’s decisions"],
+        "answer": "Intersection of demand and supply",
+        "reference": "In perfect competition, the price of a product is determined at a point at which the demand and supply curve intersect each other. This point is known as equilibrium point as well as the price is known as equilibrium price."
+    },
+    {
+        "question": "In a monopoly, what is the relationship between average revenue (AR) and marginal revenue (MR)?",
+        "options": ["MR is always greater than AR", "MR is equal to AR", "MR is less than AR", "MR is unrelated to AR"],
+        "answer": "MR is less than AR",
+        "reference": "In addition, in monopoly, AR curve and Marginal Revenue (MR) curve are different from each other. However, both of them slope downward. ... MR is less than AR."
+    },
+    {
+        "question": "In monopolistic competition, what characterizes the demand for products?",
+        "options": ["Perfectly inelastic", "Highly elastic", "Completely fixed", "Unresponsive to price changes"],
+        "answer": "Highly elastic",
+        "reference": "In the long run, demand is highly elastic, meaning that it is sensitive to price changes."
+    },
+    {
+        "question": "What is a characteristic of oligopolistic pricing?",
+        "options": ["Prices change frequently", "Prices are inflexible", "Prices are set independently", "Prices are always low"],
+        "answer": "Prices are inflexible",
+        "reference": "In-spite of these difficulties, two interrelated characteristics of oligopolistic pricing stand out: 1. Oligopolistic prices tend to be inflexible or Sticky Price change less frequently in Oligopoly than they happen under other competitions like perfect, competition, monopoly and monopolistic competition."
+    },
+    {
+        "question": "What is the focus of short-run pricing decisions?",
+        "options": ["Long-term contractual agreements", "Incremental costs for one-time orders", "Full cost recovery", "Target profit margins"],
+        "answer": "Incremental costs for one-time orders",
+        "reference": "Short-run decisions include pricing for a one-time-only special order with no long term implications. The time horizon is typically six months or less. ... In this situation, only the incremental costs of undertaking the order should be taken into account."
+    },
+    {
+        "question": "What is the price indifference point?",
+        "options": ["The price at which demand equals supply", "The sales level where net income is the same for two pricing alternatives", "The maximum price customers will pay", "The cost below which a firm incurs losses"],
+        "answer": "The sales level where net income is the same for two pricing alternatives",
+        "reference": "A price indifference point is the sales level at which a firm’s net income is same between two pricing alternatives. The price indifference point indicates the volume of sales at which the new price gives a profit equal to the profit of old sales volume and price."
+    },
+    {
+        "question": "In a monopoly with zero marginal cost, where is equilibrium achieved?",
+        "options": ["Where MR equals AR", "Where MR equals zero", "Where AR equals total cost", "Where demand is inelastic"],
+        "answer": "Where MR equals zero",
+        "reference": "In such a case, the total cost is zero; therefore, AR and MR are also zero. As shown in Figure-12, equilibrium position is achieved at the point where MR equals zero that is at output OQ and price P."
+    },
+    {
+        "question": "What is a feature of collusive oligopoly?",
+        "options": ["Firms act independently", "Firms join to maximize joint profits", "Prices are highly flexible", "No market sharing occurs"],
+        "answer": "Firms join to maximize joint profits",
+        "reference": "Collusive oligopoly is a situation in which firms in a particular industry decide to join together as a single unit for the purpose of maximising their joint profits and to negotiate among themselves so as to share the market."
+    },
+    {
+        "question": "Which external factor considers the number of suppliers in the market?",
+        "options": ["Sole source versus heavy competition", "Customer’s preferences for quality", "Variable costs", "Firm’s profit objectives"],
+        "answer": "Sole source versus heavy competition",
+        "reference": "External Factors: vi. Sole source versus heavy competition (Number of suppliers in the market)."
+    },
+    {
+        "question": "What internal factor involves the choice between a loss leader or main product?",
+        "options": ["Economic and political climate", "Loss leader or main product", "Current prices of competitors", "Seasonal demand"],
+        "answer": "Loss leader or main product",
+        "reference": "Internal Factors: c. Loss leader or main product."
+    },
+    {
+        "question": "How do costs influence pricing decisions?",
+        "options": ["They have no impact on supply", "Lower costs increase supply willingness", "They only affect demand", "They determine customer preferences"],
+        "answer": "Lower costs increase supply willingness",
+        "reference": "Costs: Costs influence prices because they affect supply. The lower the cost relative to the price, the greater the quantity of product the company is willing to supply."
+    },
+    {
+        "question": "In highly competitive markets, what must companies often accept?",
+        "options": ["The market price", "Higher profit margins", "Customer-driven prices", "Government-set prices"],
+        "answer": "The market price",
+        "reference": "In making pricing decisions, all above three factors are important. However, when setting prices, companies weigh customers, competitors and costs differently. Companies selling homogeneous products in highly competitive markets must accept the market price."
+    },
+    {
+        "question": "What advantage does full cost plus pricing offer in contracting industries?",
+        "options": ["It ignores fixed costs", "It simplifies demand estimation", "It determines contract prices with fixed costs", "It focuses on variable costs"],
+        "answer": "It determines contract prices with fixed costs",
+        "reference": "Full cost plus method has the following advantages: (5) This pricing method is important in contracting industries where price of the contracts needs to be determined considering fixed costs also."
+    },
+    {
+        "question": "Why might full cost plus pricing lead to over-pricing?",
+        "options": ["It includes demand analysis", "It ignores competition", "It focuses on variable costs", "It guarantees profit"],
+        "answer": "It ignores competition",
+        "reference": "Full cost method has the following disadvantages too: (1) It ignores demand and competition and may result into under-pricing or over-pricing of products."
+    },
+    {
+        "question": "What is a benefit of marginal cost plus pricing during trade depressions?",
+        "options": ["It ensures fixed cost recovery", "It helps firms survive", "It sets long-term prices", "It ignores spare capacity"],
+        "answer": "It helps firms survive",
+        "reference": "Marginal cost approach helps a business firm to enter into new markets easily, to increase its competitive position in the existing markets, to survive during trade depressions, to utilise spare available capacity, to dispose off surplus or obsolete stock, to make profitable special order decisions."
+    },
+    {
+        "question": "What is a potential drawback of marginal cost plus pricing?",
+        "options": ["It guarantees fixed cost recovery", "It may lead to undesirable price competition", "It is too complex to implement", "It ignores variable costs"],
+        "answer": "It may lead to undesirable price competition",
+        "reference": "Marginal cost-plus pricing brings some disadvantages to the firm as well. For instance, recovery of fixed costs may be doubted. There is likely to be undesirable competition for cutting prices to a lower level."
+    },
+    {
+        "question": "When is differential cost plus pricing most applicable?",
+        "options": ["When fixed costs are excluded", "When additional revenue contributes to fixed costs", "When demand is ignored", "When variable costs are irrelevant"],
+        "answer": "When additional revenue contributes to fixed costs",
+        "reference": "This method can be applied where some revenue above differential cost may be received rather than no revenue at all. Such additional revenue makes some contribution towards the recovery of fixed costs which are already incurred."
+    },
+    {
+        "question": "Why must standard costs reflect current conditions before pricing?",
+        "options": ["To include inefficient costs", "To ensure realistic production costs", "To ignore variances", "To simplify cost allocation"],
+        "answer": "To ensure realistic production costs",
+        "reference": "However, before standards are used as a basis for pricing decisions, care should be taken to see that the standards established reflect current conditions. While using standard costs, variances must be controlled carefully to ensure that prices reflect realistic production costs."
+    },
+    {
+        "question": "What is the second step in target pricing?",
+        "options": ["Develop a product", "Choose a target price", "Derive a target cost", "Estimate actual cost"],
+        "answer": "Choose a target price",
+        "reference": "Developing target prices and target costs requires the following four steps: Step 2: Choose a target price based on customers’ perceived value for the product and the prices competitors charge."
+    },
+    {
+        "question": "What does customer life cycle costing focus on?",
+        "options": ["Product development costs", "Total costs incurred by a customer", "Competitor pricing strategies", "Short-term operational costs"],
+        "answer": "Total costs incurred by a customer",
+        "reference": "A different notion of life cycle costs is customer life cycle costs. Customer life cycle costs focus on the total costs incurred by a customer to acquire and use a product or service until it is replaced."
+    },
+    {
+        "question": "How can Pareto analysis guide pricing strategies?",
+        "options": ["By ignoring product contributions", "By focusing on low-revenue products", "By targeting high-revenue products", "By equalizing all product prices"],
+        "answer": "By targeting high-revenue products",
+        "reference": "Such analysis helps the management to design appropriate pricing strategies for 80% of its product groups so that they can contribute more in overall sales revenue of the firm."
+    },
+    {
+        "question": "Why is the economic approach to pricing rarely used in practice?",
+        "options": ["It is too simple", "It requires estimating demand and cost curves", "It ignores marginal costs", "It guarantees maximum profits"],
+        "answer": "It requires estimating demand and cost curves",
+        "reference": "Two big factors have limited the applicability of the economists’ pricing model: 1. Difficulty in estimating the demand curve 2. Difficulty in estimating the cost curve."
+    },
+    {
+        "question": "What is another condition for price discrimination?",
+        "options": ["Perfect competition", "Market imperfections", "Identical demand elasticity", "No monopoly power"],
+        "answer": "Market imperfections",
+        "reference": "Conditions for Price Discrimination: These are: 2. Market Imperfections: Generally, price discrimination is possible only when there is some degree of market imperfections."
+    },
+    {
+        "question": "Which type of price discrimination charges the maximum price per unit?",
+        "options": ["Second-degree", "Third-degree", "First-degree", "Geographical"],
+        "answer": "First-degree",
+        "reference": "First-degree Price Discrimination: First-degree discrimination, or perfect price discrimination, occurs when a business charges the maximum possible price for each unit consumed."
+    },
+    {
+        "question": "In perfect competition, what is the demand curve for an individual firm?",
+        "options": ["Downward sloping", "Horizontal at equilibrium price", "Upward sloping", "Perfectly inelastic"],
+        "answer": "Horizontal at equilibrium price",
+        "reference": "A perfectly competitive firm faces a demand curve is a horizontal line equal to the equilibrium price of the entire market."
+    },
+    {
+        "question": "In a monopoly, how does a monopolist increase sales?",
+        "options": ["By increasing price", "By reducing price", "By keeping price constant", "By ignoring demand"],
+        "answer": "By reducing price",
+        "reference": "If the monopolist wants to sell more, he/she can reduce the price of a product."
+    },
+    {
+        "question": "What is a feature of monopolistic competition?",
+        "options": ["High barriers to entry", "Identical products", "Low barriers to entry", "Single seller"],
+        "answer": "Low barriers to entry",
+        "reference": "Barriers to entry and exit in a monopolistic competitive industry are low, and the decisions of any one firm do not directly affect those of its competitors."
+    },
+    {
+        "question": "In an oligopoly, what happens when firms change prices together?",
+        "options": ["They act independently", "They engage in collusion", "They ignore market share", "They reduce profits"],
+        "answer": "They engage in collusion",
+        "reference": "When oligopolistic prices change, firms are likely to change their prices together they act in collusion in setting and changing prices."
+    },
+    {
+        "question": "Which external factor involves the quality of competing products?",
+        "options": ["Quality of competing products or services", "Firm’s pricing objectives", "Variable costs", "Markup percentage"],
+        "answer": "Quality of competing products or services",
+        "reference": "External Factors: iii. Quality of competing products or services."
+    },
+    {
+        "question": "What internal factor considers the usage of scarce resources?",
+        "options": ["Seasonal demand", "Usage of scarce resources", "Economic climate", "Competitor prices"],
+        "answer": "Usage of scarce resources",
+        "reference": "Internal Factors: g. Usage of scarce resources."
+    },
+    {
+        "question": "Why might a firm with excess capacity price aggressively in export markets?",
+        "options": ["To increase domestic demand", "Due to low domestic demand", "To raise fixed costs", "To ignore competitors"],
+        "answer": "Due to low domestic demand",
+        "reference": "Firms with excess capacity because demand is low in domestic markets may price aggressively in their export markets."
+    },
+    {
+        "question": "In less competitive markets, what gives managers pricing discretion?",
+        "options": ["Homogeneous products", "Product differentiation", "High fixed costs", "Government regulations"],
+        "answer": "Product differentiation",
+        "reference": "In less competitive markets, products are differentiated and managers have some discretion in setting prices."
+    },
+    {
+        "question": "What does full cost plus pricing standardize?",
+        "options": ["Demand estimation", "Pricing decisions", "Variable costs", "Competitor analysis"],
+        "answer": "Pricing decisions",
+        "reference": "Full cost plus method has the following advantages: (2) The pricing decision under full cost approach becomes standardised and such decisions can easily be delegated to lower management."
+    },
+    {
+        "question": "What issue arises in full cost plus pricing due to fixed cost apportionment?",
+        "options": ["It simplifies cost allocation", "It leads to arbitrary cost distribution", "It ensures accurate pricing", "It ignores variable costs"],
+        "answer": "It leads to arbitrary cost distribution",
+        "reference": "Full cost method has the following disadvantages too: (2) Fixed costs are likely to be distributed on some arbitrary basis as there are different methods of apportionment and thus total costs of different products will be different depending on which apportionment method is used."
+    },
+    {
+        "question": "How does marginal cost plus pricing help with special orders?",
+        "options": ["It ensures fixed cost recovery", "It makes special orders profitable", "It sets high prices", "It ignores demand"],
+        "answer": "It makes special orders profitable",
+        "reference": "Marginal cost approach helps a business firm to enter into new markets easily, to increase its competitive position in the existing markets, to survive during trade depressions, to utilise spare available capacity, to dispose off surplus or obsolete stock, to make profitable special order decisions."
+    },
+    {
+        "question": "What happens if marginal cost plus pricing uses a low profit margin long-term?",
+        "options": ["It recovers fixed costs", "It leads to insufficient revenue", "It guarantees high profits", "It simplifies pricing"],
+        "answer": "It leads to insufficient revenue",
+        "reference": "For a long-term pricing policy, it is necessary that a higher profit margin should be added to marginal cost to recover both variable and fixed costs in the long run. A smaller profit margin will lead to low sales revenue which will not be sufficient to recover fixed costs."
+    },
+    {
+        "question": "What is the cost base for conversion cost plus pricing?",
+        "options": ["Variable costs only", "Fixed costs only", "Conversion costs", "Total costs"],
+        "answer": "Conversion costs",
+        "reference": "Conversion Cost plus Pricing: Conversion cost plus pricing uses conversion cost for determining the selling price and to this cost a profit margin is added."
+    },
+    {
+        "question": "When is conversion cost plus pricing typically used?",
+        "options": ["When the firm provides materials", "When the customer provides materials", "When demand is high", "When fixed costs are low"],
+        "answer": "When the customer provides materials",
+        "reference": "This pricing method is generally followed when the customer provides the materials."
+    },
+    {
+        "question": "What is the third step in target pricing?",
+        "options": ["Develop a product", "Choose a target price", "Derive a target cost", "Estimate actual cost"],
+        "answer": "Derive a target cost",
+        "reference": "Developing target prices and target costs requires the following four steps: Step 3: Derive a target cost by subtracting the desired profit margin from the target price."
+    },
+    {
+        "question": "What does a life cycle budget highlight for managers?",
+        "options": ["Competitor pricing", "Covering all life cycle costs", "Short-term profits", "Variable cost savings"],
+        "answer": "Covering all life cycle costs",
+        "reference": "A product life cycle budget highlights to managers the importance of setting prices that will cover all life cycle costs."
+    },
+    {
+        "question": "What does Pareto analysis suggest for the 20% of products?",
+        "options": ["Ignore them", "Use competitive pricing", "Reduce their prices", "Increase their costs"],
+        "answer": "Use competitive pricing",
+        "reference": "Those products which constitute 20% of the total products may require a different pricing strategy. This may signal to the management to adopt a more sophisticated and competitive advantage pricing because these products are essential for the company survival."
+    },
+    {
+        "question": "What assumption does the economic pricing model make?",
+        "options": ["Firms ignore profits", "Firms aim to maximize profits", "Costs are irrelevant", "Demand is fixed"],
+        "answer": "Firms aim to maximize profits",
+        "reference": "In economics, the basic assumption is that a firm will attempt to set the selling price at a level where profits are maximised."
+    },
+    {
+        "question": "What is a type of price discrimination based on location?",
+        "options": ["Personal", "Geographical", "Second-degree", "Third-degree"],
+        "answer": "Geographical",
+        "reference": "Geographical Price Discrimination: Under geographical price discrimination, the monopolist charges different prices in different markets for the same product."
+    },
+    {
+        "question": "What is required for price discrimination according to use?",
+        "options": ["Identical product use", "Different product uses", "No market separation", "Perfect competition"],
+        "answer": "Different product uses",
+        "reference": "Price Discrimination according to Use: When the monopolist charges different prices for the different uses of the same commodity is called the price discrimination according to use."
+    },
+    {
+        "question": "In perfect competition, what happens if a firm charges above the market price?",
+        "options": ["It sells more products", "It sells no products", "It increases profits", "It attracts competitors"],
+        "answer": "It sells no products",
+        "reference": "The horizontal demand curve indicates that the elasticity of demand for the good is perfectly elastic. This means that if any individual firm charged a price slightly above market price, it would not sell any products."
+    },
+    {
+        "question": "In a monopoly, what does the AR curve represent?",
+        "options": ["Marginal cost", "Price of the product", "Total revenue", "Fixed costs"],
+        "answer": "Price of the product",
+        "reference": "Here, AR is the price of a product, as we know, AR falls under monopoly; thus, MR is less than AR."
+    },
+    {
+        "question": "What is a characteristic of monopolistic competition in the short run?",
+        "options": ["Zero economic profit", "Positive economic profit", "High barriers to entry", "Inelastic demand"],
+        "answer": "Positive economic profit",
+        "reference": "In the short run, economic profit is positive, but it approaches zero in the long run."
+    },
+    {
+        "question": "What type of oligopoly involves two or three firms dominating the market?",
+        "options": ["Loose oligopoly", "Tight oligopoly", "Collusive oligopoly", "Non-collusive oligopoly"],
+        "answer": "Tight oligopoly",
+        "reference": "It consists of the ‘tight’ oligopoly situation in which two or three firms dominate the entire market and the ‘loose’ oligopoly situation where six or seven firms occupy the maximum share of the market."
+    },
+    {
+        "question": "Which external factor involves governmental guidelines?",
+        "options": ["Governmental guidelines", "Variable costs", "Profit objectives", "Markup percentage"],
+        "answer": "Governmental guidelines",
+        "reference": "External Factors: xi. Governmental guidelines, if any."
+    },
+    {
+        "question": "What internal factor relates to labour-intensive or automated processes?",
+        "options": ["Economic climate", "Labour intensive or automated process", "Seasonal demand", "Competitor quality"],
+        "answer": "Labour intensive or automated process",
+        "reference": "Internal Factors: e. Labour intensive or automated process."
+    },
+    {
+        "question": "How do customers influence pricing decisions?",
+        "options": ["They set fixed costs", "Higher prices may lose customers", "They determine supply", "They ignore competitors"],
+        "answer": "Higher prices may lose customers",
+        "reference": "Customers: Managers examine pricing problems through the eyes of their customers. Increasing prices may cause the loss of a customer to a competitor or it may cause a customer to choose a less expensive substitute product."
+    },
+    {
+        "question": "What is a benefit of full cost plus pricing for price stability?",
+        "options": ["It ignores cost structures", "It leads to price fluctuations", "It promotes price stability", "It excludes fixed costs"],
+        "answer": "It promotes price stability",
+        "reference": "If similar technologies and techniques are employed within an industry, such that there is likely to be broad comparability of cost structures between different firms operating in the industry, then widespread use of cost-plus methods can lead to a high degree of price stability."
+    },
+    {
+        "question": "What challenge does full cost plus pricing face with volume changes?",
+        "options": ["It simplifies pricing", "It causes a downward spiral", "It ensures profit", "It ignores demand"],
+        "answer": "It causes a downward spiral",
+        "reference": "As volume decreases, full cost increases. As price goes up, demand falls and volume declines again — a downward spiral. Hence, any attempt to consider the demand situation in establishing the full cost of the product involves circular reasoning."
+    },
+    {
+        "question": "What does marginal cost plus pricing help dispose of?",
+        "options": ["Fixed costs", "Surplus or obsolete stock", "Competitor products", "Long-term contracts"],
+        "answer": "Surplus or obsolete stock",
+        "reference": "Marginal cost approach helps a business firm to enter into new markets easily, to increase its competitive position in the existing markets, to survive during trade depressions, to utilise spare available capacity, to dispose off surplus or obsolete stock, to make profitable special order decisions."
+    },
+    {
+        "question": "What is a risk of increasing prices in marginal cost plus pricing?",
+        "options": ["It ensures fixed cost recovery", "It may cause consumer dissatisfaction", "It simplifies pricing", "It guarantees profits"],
+        "answer": "It may cause consumer dissatisfaction",
+        "reference": "In case management decides to increase lower marginal cost pricing, it may face dissatisfaction from the consumers."
+    },
+    {
+        "question": "What does differential cost plus pricing aim to achieve?",
+        "options": ["Ignore fixed costs", "Contribute to fixed cost recovery", "Set prices below variable costs", "Eliminate competition"],
+        "answer": "Contribute to fixed cost recovery",
+        "reference": "Such additional revenue makes some contribution towards the recovery of fixed costs which are already incurred."
+    },
+    {
+        "question": "What must be controlled when using standard costs for pricing?",
+        "options": ["Demand fluctuations", "Cost variances", "Competitor prices", "Fixed costs"],
+        "answer": "Cost variances",
+        "reference": "While using standard costs, variances must be controlled carefully to ensure that prices reflect realistic production costs."
+    },
+    {
+        "question": "What is the fourth step in target pricing?",
+        "options": ["Develop a product", "Choose a target price", "Derive a target cost", "Estimate actual cost"],
+        "answer": "Estimate actual cost",
+        "reference": "Developing target prices and target costs requires the following four steps: Step 4: Estimate the actual cost of the product."
+    },
+    {
+        "question": "What is a key consideration in life cycle costing for pricing?",
+        "options": ["Short-term variable costs", "Customer acquisition costs", "Covering all life cycle costs", "Competitor pricing"],
+        "answer": "Covering all life cycle costs",
+        "reference": "Life cycle costs provide important information for pricing. A product life cycle budget highlights to managers the importance of setting prices that will cover all life cycle costs."
+    },
+    {
+        "question": "What should firms do with the 80% of products in Pareto analysis?",
+        "options": ["Ignore them", "Reduce their prices", "Convert them to profit-making", "Increase their costs"],
+        "answer": "Convert them to profit-making",
+        "reference": "Further, attempts should be made by a firm to convert 80% products (which currently contribute poorly to total sales) into more profit making products."
+    },
+    {
+        "question": "What does the economic pricing model assume about cost and revenue functions?",
+        "options": ["They are unknown", "They are known", "They are irrelevant", "They are fixed"],
+        "answer": "They are known",
+        "reference": "The firm has a profit maximising goal and known cost and revenue functions."
+    },
+    {
+        "question": "What condition enables legal sanction for price discrimination?",
+        "options": ["Perfect competition", "Market imperfections", "Legal sanction", "Identical products"],
+        "answer": "Legal sanction",
+        "reference": "Conditions for Price Discrimination: These are: 4. Legal Sanction: In some cases price discrimination is legally sanctioned."
+    },
+    {
+        "question": "Which industry commonly uses price discrimination through discounts?",
+        "options": ["Automotive industry", "Airline industry", "Construction industry", "Mining industry"],
+        "answer": "Airline industry",
+        "reference": "Many industries, such as the airline industry, the arts and entertainment industry, and the pharmaceutical industry, use price discrimination strategies. Examples of price discrimination include issuing coupons, applying specific discounts (e.g., age discounts), and creating loyalty programs."
+    },
+    {
+        "question": "In perfect competition, what is the market demand curve like?",
+        "options": ["Horizontal", "Downward sloping", "Upward sloping", "Perfectly elastic"],
+        "answer": "Downward sloping",
+        "reference": "In a perfectly competitive market the market demand curve is a downward sloping line, reflecting the fact that as the price of an ordinary good increases, the quantity demanded of that good decreases."
+    },
+    {
+        "question": "In a monopoly, what happens if MR is less than AR?",
+        "options": ["AR rises", "AR remains constant", "AR falls", "AR equals MR"],
+        "answer": "AR falls",
+        "reference": "The negative AR and MR curve depicts the following facts: iii. When MR is lesser than AR, then AR falls."
+    },
+    {
+        "question": "What is a feature of monopolistic competition in marketing?",
+        "options": ["No advertising", "Heavy advertising", "Fixed prices", "Single product offering"],
+        "answer": "Heavy advertising",
+        "reference": "Firms in monopolistic competition tend to advertise heavily."
+    },
+    {
+        "question": "What is a type of price leadership in an oligopoly?",
+        "options": ["Competitive leadership", "Low-cost firm leadership", "Independent leadership", "Market-sharing leadership"],
+        "answer": "Low-cost firm leadership",
+        "reference": "Price leadership is of three types: low-cost firm, dominant firm, and barometric."
+    },
+    {
+        "question": "Which external factor involves seasonal demand?",
+        "options": ["Seasonal demand or continual demand", "Variable costs", "Profit objectives", "Markup percentage"],
+        "answer": "Seasonal demand or continual demand",
+        "reference": "External Factors: vii. Seasonal demand or continual demand."
+    },
+    {
+        "question": "What internal factor involves pricing as a long-run or short-run decision?",
+        "options": ["Economic climate", "Pricing decision as a long-run or short-run decision", "Competitor quality", "Seasonal demand"],
+        "answer": "Pricing decision as a long-run or short-run decision",
+        "reference": "Internal Factors: i. Pricing decision as a long-run decision or short term decision or a onetime spare capacity decision."
+    },
+    {
+        "question": "What knowledge helps a firm estimate competitors’ costs for pricing?",
+        "options": ["Customer preferences", "Competitors’ technology and capacity", "Variable costs", "Government guidelines"],
+        "answer": "Competitors’ technology and capacity",
+        "reference": "A business with knowledge of its competitor’s technology, plant capacity and operating policies is able to estimate its competitors’ cost, which is valuable information in setting prices."
+    },
+    {
+        "question": "What does full cost plus pricing align with in accounting?",
+        "options": ["Marginal costing", "Absorption costing", "Variable costing", "Differential costing"],
+        "answer": "Absorption costing",
+        "reference": "Full cost pricing is consistent with absorption costing system."
+    },
+    {
+        "question": "What is a limitation of full cost plus pricing regarding capacity?",
+        "options": ["It simplifies capacity planning", "It causes price fluctuations with capacity choice", "It ignores capacity", "It ensures stable prices"],
+        "answer": "It causes price fluctuations with capacity choice",
+        "reference": "In full cost pricing, the choice of volume or capacity base is very important. There are different concepts of capacity starting from maximum to normal or lower, or expected and different unit product costs will emerge under these concepts. It means selling prices will be subject to wider fluctuations."
+    },
+    {
+        "question": "What does marginal cost plus pricing allow firms to do in new markets?",
+        "options": ["Set high prices", "Enter easily", "Ignore competition", "Recover fixed costs"],
+        "answer": "Enter easily",
+        "reference": "Marginal cost approach helps a business firm to enter into new markets easily, to increase its competitive position in the existing markets."
+    },
+    {
+        "question": "What is a condition for short-run pricing of one-time orders?",
+        "options": ["Long-term pricing focus", "Sufficient available capacity", "High fixed costs", "No incremental costs"],
+        "answer": "Sufficient available capacity",
+        "reference": "According to Colin Drury, any bid for one-time special orders that is based on covering only short-term incremental costs must meet all of the following conditions: 1. Sufficient capacity is available for all resources that are required to fulfill the order."
+    },
+    {
+        "question": "What is the fifth step in target pricing if actual cost exceeds target cost?",
+        "options": ["Choose a target price", "Reduce actual cost to target cost", "Develop a new product", "Increase profit margin"],
+        "answer": "Reduce actual cost to target cost",
+        "reference": "Developing target prices and target costs requires the following four steps: Step 5: If estimated actual cost exceeds the target cost, investigate ways of driving down the actual cost to the target cost."
+    },
+    {
+        "question": "What does life cycle costing consider from start to finish?",
+        "options": ["Customer acquisition costs", "Competitor costs", "Product costs", "Variable costs"],
+        "answer": "Product costs",
+        "reference": "Life cycle costing tracks costs attributable to each product from start to finish."
+    },
+    {
+        "question": "What does the economic approach consider besides costs for pricing?",
+        "options": ["Fixed costs only", "Demand considerations", "Variable costs only", "Competitor costs"],
+        "answer": "Demand considerations",
+        "reference": "Economists argue that pricing should be set with a recognition of demand considerations not just of costs."
+    },
+    {
+        "question": "What is a condition for price discrimination involving monopoly?",
+        "options": ["Perfect competition", "No market imperfections", "Monopoly existence", "Identical demand"],
+        "answer": "Monopoly existence",
+        "reference": "Conditions for Price Discrimination: These are: 5. Monopoly Existence: Price discrimination is also called discrimination monopoly. It is evident that price discrimination is possible only under conditions of monopoly."
+    },
+    {
+        "question": "What is an example of third-degree price discrimination?",
+        "options": ["Quantity discounts", "Different prices for seniors", "Maximum price per unit", "Geographical pricing"],
+        "answer": "Different prices for seniors",
+        "reference": "Third-degree Price Discrimination: Third-degree price discrimination occurs when a company charges a different price to different consumer groups. For example, a theater may divide moviegoers into seniors, adults, and children, each paying a different price when seeing the same movie."
+    },
+    {
+        "question": "In perfect competition, what are firms considered to be?",
+        "options": ["Price makers", "Price takers", "Monopolists", "Oligopolists"],
+        "answer": "Price takers",
+        "reference": "Once the market price has been determined by market supply and demand forces, individual firms become price takers."
+    },
+    {
+        "question": "In a monopoly, what is the equilibrium point based on?",
+        "options": ["AR equals MC", "MR equals MC", "AR equals MR", "MC equals TC"],
+        "answer": "MR equals MC",
+        "reference": "Unlike perfect competition, the equilibrium, under monopoly, is attained at the point where profit is maximum that is where MR=MC."
+    },
+    {
+        "question": "What does monopolistic competition rely on for differentiation?",
+        "options": ["Identical products", "Brand differentiation", "High barriers to entry", "Fixed pricing"],
+        "answer": "Brand differentiation",
+        "reference": "Monopolistic competition is closely related to the business strategy of brand differentiation."
+    },
+    {
+        "question": "What is a characteristic of loose oligopoly?",
+        "options": ["Two or three firms dominate", "Six or seven firms share the market", "Firms act independently", "No collusion occurs"],
+        "answer": "Six or seven firms share the market",
+        "reference": "It consists of the ‘tight’ oligopoly situation in which two or three firms dominate the entire market and the ‘loose’ oligopoly situation where six or seven firms occupy the maximum share of the market."
+    },
+    {
+        "question": "Which external factor involves the economic and political climate?",
+        "options": ["Economic and political climate", "Variable costs", "Profit objectives", "Markup percentage"],
+        "answer": "Economic and political climate",
+        "reference": "External Factors: v. Economic and political climate."
+    },
+    {
+        "question": "What internal factor involves the firm’s pricing objectives?",
+        "options": ["Seasonal demand", "Firm’s pricing objectives", "Competitor quality", "Economic climate"],
+        "answer": "Firm’s pricing objectives",
+        "reference": "Internal Factors: b. Firm’s pricing objectives."
+    },
+    {
+        "question": "How do customer preferences influence pricing decisions?",
+        "options": ["They determine fixed costs", "They balance quality and price", "They set supply levels", "They ignore competition"],
+        "answer": "They balance quality and price",
+        "reference": "External Factors: ii. Customer’s preferences for quality versus price."
+    },
+    {
+        "question": "What does full cost plus pricing typically include?",
+        "options": ["Variable costs only", "Fixed costs only", "Profit margin", "Demand fluctuations"],
+        "answer": "Profit margin",
+        "reference": "Under full cost plus pricing, the firm determines the total cost and then adds a profit margin to arrive at the selling price."
+    },
+    {
+        "question": "How does marginal cost plus pricing strengthen a firm’s market position?",
+        "options": ["By setting high prices", "By increasing competitive position", "By recovering fixed costs", "By ignoring demand"],
+        "answer": "By increasing competitive position",
+        "reference": "Marginal cost approach helps a business firm to enter into new markets easily, to increase its competitive position in the existing markets."
+    },
+    {
+        "question": "What does differential cost plus pricing consider for additional units?",
+        "options": ["Only variable costs", "Only fixed costs", "Increase in total cost", "Standard costs"],
+        "answer": "Increase in total cost",
+        "reference": "This method involves adding a markup on differential cost which is the increase in total cost resulting from the production of additional units."
+    },
+    {
+        "question": "Why are standard costs preferred over actual costs in pricing?",
+        "options": ["They include inefficiencies", "They reflect efficient operations", "They ignore variances", "They simplify demand"],
+        "answer": "They reflect efficient operations",
+        "reference": "Standard costs represent the costs that should be attained under efficient operating conditions at a normal capacity."
+    },
+    {
+        "question": "What does target pricing base the target price on?",
+        "options": ["Fixed costs", "Customer perceived value", "Variable costs", "Standard costs"],
+        "answer": "Customer perceived value",
+        "reference": "Step 2: Choose a target price based on customers’ perceived value for the product and the prices competitors charge."
+    },
+    {
+        "question": "What is a purpose of life cycle costing in pricing?",
+        "options": ["To ignore fixed costs", "To set short-term prices", "To cover all product costs", "To simplify competitor analysis"],
+        "answer": "To cover all product costs",
+        "reference": "A product life cycle budget highlights to managers the importance of setting prices that will cover all life cycle costs."
+    },
+    {
+        "question": "What is a type of price discrimination based on customer type?",
+        "options": ["Personal discrimination", "Geographical discrimination", "Quantity discrimination", "Use-based discrimination"],
+        "answer": "Personal discrimination",
+        "reference": "Personal Price Discrimination: This is based on charging different prices to different customers for the same product."
+    },
+    {
+        "question": "In perfect competition, what characterizes the demand for a firm’s product?",
+        "options": ["Inelastic demand", "Perfectly elastic demand", "Fixed demand", "Unresponsive demand"],
+        "answer": "Perfectly elastic demand",
+        "reference": "The horizontal demand curve indicates that the elasticity of demand for the good is perfectly elastic."
+    },
+    {
+        "question": "In a monopoly, what is the goal of the monopolist?",
+        "options": ["Minimize costs", "Maximize profits", "Increase competition", "Set fixed prices"],
+        "answer": "Maximize profits",
+        "reference": "Unlike perfect competition, the equilibrium, under monopoly, is attained at the point where profit is maximum that is where MR=MC."
+    },
+    {
+        "question": "What happens to economic profit in monopolistic competition in the long run?",
+        "options": ["It remains positive", "It approaches zero", "It increases", "It becomes negative"],
+        "answer": "It approaches zero",
+        "reference": "In the short run, economic profit is positive, but it approaches zero in the long run."
+    },
+    {
+        "question": "What is a type of price leadership in an oligopoly besides low-cost firm?",
+        "options": ["Competitive leadership", "Dominant firm leadership", "Independent leadership", "Market-sharing leadership"],
+        "answer": "Dominant firm leadership",
+        "reference": "Price leadership is of three types: low-cost firm, dominant firm, and barometric."
+    },
+    {
+        "question": "Which external factor involves current prices of competitors?",
+        "options": ["Current prices of competitors", "Variable costs", "Profit objectives", "Markup percentage"],
+        "answer": "Current prices of competitors",
+        "reference": "External Factors: iv. Current prices of competitors."
+    },
+    {
+        "question": "What internal factor involves the choice of capacity for pricing?",
+        "options": ["Economic climate", "Choice of capacity", "Seasonal demand", "Competitor quality"],
+        "answer": "Choice of capacity",
+        "reference": "Internal Factors: f. Choice of capacity."
+    },
+    {
+        "question": "What is a feature of full cost plus pricing in cost allocation?",
+        "options": ["It ignores costs", "It is purely cost-based", "It focuses on demand", "It excludes profit"],
+        "answer": "It is purely cost-based",
+        "reference": "Under full cost plus pricing, the firm determines the total cost and then adds a profit margin to arrive at the selling price."
+    },
+    {
+        "question": "What is a challenge of marginal cost plus pricing in long-term pricing?",
+        "options": ["It ensures fixed cost recovery", "It may not recover fixed costs", "It simplifies pricing", "It guarantees profits"],
+        "answer": "It may not recover fixed costs",
+        "reference": "Marginal cost-plus pricing brings some disadvantages to the firm as well. For instance, recovery of fixed costs may be doubted."
+    },
+    {
+        "question": "What is a condition for price discrimination to be effective?",
+        "options": ["No market separation", "Separation of markets", "Perfect competition", "Identical products"],
+        "answer": "Separation of markets",
+        "reference": "Conditions for Price Discrimination: These are: 3. Separation of Markets: The markets must be separable so that the buyers cannot buy the product at a low price in one market and sell at a high price in another market."
+    },
+    {
+        "question": "In perfect competition, what control do firms have over price?",
+        "options": ["Full control", "No control", "Partial control", "Monopolistic control"],
+        "answer": "No control",
+        "reference": "Once the market price has been determined by market supply and demand forces, individual firms become price takers."
+    },
+    {
+        "question": "In a monopoly, what is the slope of the marginal revenue curve?",
+        "options": ["Horizontal", "Upward sloping", "Downward sloping", "Constant"],
+        "answer": "Downward sloping",
+        "reference": "In addition, in monopoly, AR curve and Marginal Revenue (MR) curve are different from each other. However, both of them slope downward."
+    },
+    {
+        "question": "In monopolistic competition, what does the variety of products reflect?",
+        "options": ["Product differentiation", "Identical products", "High entry barriers", "Fixed pricing"],
+        "answer": "Product differentiation",
+        "reference": "Monopolistic competition is a market structure in which many firms sell a differentiated product."
+    },
+    {
+        "question": "What is a type of price leadership in an oligopoly?",
+        "options": ["Competitive leadership", "Barometric leadership", "Independent leadership", "Market-sharing leadership"],
+        "answer": "Barometric leadership",
+        "reference": "Price leadership is of three types: low-cost firm, dominant firm, and barometric."
+    },
+    {
+        "question": "What is a condition for short-run pricing of one-time special orders?",
+        "options": ["Long-term pricing strategy", "High fixed costs", "No long-term implications", "Full cost recovery"],
+        "answer": "No long-term implications",
+        "reference": "Short-run decisions include pricing for a one-time-only special order with no long term implications."
+    },
+    {
+        "question": "What does the price indifference point help evaluate?",
+        "options": ["Maximum customer price", "Profit equality between pricing options", "Demand elasticity", "Fixed cost recovery"],
+        "answer": "Profit equality between pricing options",
+        "reference": "A price indifference point is the sales level at which a firm’s net income is same between two pricing alternatives."
+    }
+]
