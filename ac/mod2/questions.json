@@ -1,0 +1,596 @@
+[
+    {
+        "question": "What is the journal primarily known as in accounting?",
+        "options": ["Book of Final Entry", "Book of Original Entry", "Ledger Book", "Trial Balance"],
+        "answer": "Book of Original Entry",
+        "reference": "It is the first book of entry. It is also called as Book of Original entry."
+    },
+    {
+        "question": "Which French word is the term 'Journal' derived from?",
+        "options": ["Jour", "Livre", "Compte", "Bilan"],
+        "answer": "Jour",
+        "reference": "The term Journal arrived from French word 'JOUR' which means a day."
+    },
+    {
+        "question": "What is one of the key contributions of a journal to the recording process?",
+        "options": ["It prepares financial statements", "It provides complete information about transactions at one place", "It calculates taxes", "It manages employee records"],
+        "answer": "It provides complete information about transactions at one place",
+        "reference": "A journal makes several contributions to recording process: 1. Journal provides complete information about transaction at one place."
+    },
+    {
+        "question": "How does a journal help in error prevention or location?",
+        "options": ["By summarizing transactions", "By comparing debit and credit amounts", "By calculating profits", "By forecasting cash flows"],
+        "answer": "By comparing debit and credit amounts",
+        "reference": "3. Helps to prevent or locate errors as debit and credit amounts for each entry can be compared."
+    },
+    {
+        "question": "What does the narration in a journal entry provide?",
+        "options": ["A detailed financial analysis", "A brief explanation of the transaction", "A forecast of future transactions", "A summary of ledger balances"],
+        "answer": "A brief explanation of the transaction",
+        "reference": "4. The narration provides a brief explanation about the transactions. It helps to increase the clarity of every transactions."
+    },
+    {
+        "question": "What is the process of entering transaction data in the journal called?",
+        "options": ["Posting", "Casting", "Journalising", "Balancing"],
+        "answer": "Journalising",
+        "reference": "Entering or recording the transaction data in the journal is known as journalizing."
+    },
+    {
+        "question": "Which software is mentioned as simplifying the journalising process?",
+        "options": ["Excel", "Tally", "QuickBooks", "SAP"],
+        "answer": "Tally",
+        "reference": "However, these days they can use software programs like Tally. This has made the procedure of journalising very simple and effective."
+    },
+    {
+        "question": "How many columns are typically found in a journal?",
+        "options": ["Three", "Four", "Five", "Six"],
+        "answer": "Five",
+        "reference": "There are five columns in Journal."
+    },
+    {
+        "question": "In which journal column is the date of the transaction recorded?",
+        "options": ["Particulars", "Ledger Folio", "Date", "Amount"],
+        "answer": "Date",
+        "reference": "i. Date: In this column, the date, month and year on which each transaction takes place is recorded."
+    },
+    {
+        "question": "What does the Particulars column of a journal show?",
+        "options": ["The date of the transaction", "The accounts debited and credited", "The ledger page number", "The total amount"],
+        "answer": "The accounts debited and credited",
+        "reference": "ii. Particulars: This column contains the journal entries for each transaction. It shows which account is debited and which one is credited in the entry."
+    },
+    {
+        "question": "What is written in front of the debited account in the Particulars column?",
+        "options": ["Cr", "Dr", "To", "By"],
+        "answer": "Dr",
+        "reference": "The word 'Dr' is written in front of debited account just near L.F. Column."
+    },
+    {
+        "question": "How is the credited account indicated in the Particulars column?",
+        "options": ["With the word 'Dr'", "With the word 'To'", "With the word 'Cr'", "With the word 'By'"],
+        "answer": "With the word 'To'",
+        "reference": "The account to be credited is written on the next line beginning with the word 'To' after leaving short space just near date column."
+    },
+    {
+        "question": "What is the purpose of the Ledger Folio (L.F.) column in a journal?",
+        "options": ["To record the transaction date", "To mention the ledger page number", "To list the debit amounts", "To provide narration"],
+        "answer": "To mention the ledger page number",
+        "reference": "iii. L.F. (Ledger Folio): The transaction entered in the journal are posted to the Ledger. This column just mentions the page number of the ledger in which accounts from the Particulars column are posted."
+    },
+    {
+        "question": "In which journal column is the debited amount recorded?",
+        "options": ["Date", "Particulars", "Debit Amount", "Credit Amount"],
+        "answer": "Debit Amount",
+        "reference": "iv. Debit Amount: In this column, debited amount is mentioned opposite the debited account."
+    },
+    {
+        "question": "Where is the credited amount recorded in a journal?",
+        "options": ["Debit Amount column", "Credit Amount column", "Ledger Folio column", "Particulars column"],
+        "answer": "Credit Amount column",
+        "reference": "v. Credit Amount: In this column, the credited amount is mentioned opposite the credited account."
+    },
+    {
+        "question": "What is calculated at the end of each journal page to check arithmetical accuracy?",
+        "options": ["Total of debit and credit amounts", "Total of ledger folio numbers", "Total of narrations", "Total of dates"],
+        "answer": "Total of debit and credit amounts",
+        "reference": "At the end of each page of Journal, the total of debit amount and credit amount calculated to check arithmetical accuracy of the transaction."
+    },
+    {
+        "question": "What term is used when the total of a journal page is carried forward to the next page?",
+        "options": ["Grand Total", "Total c/f", "Total b/f", "Casting"],
+        "answer": "Total c/f",
+        "reference": "The total of amount column is carried forward to the next page by writing 'Total c/f' in particulars column."
+    },
+    {
+        "question": "How is the total from the previous page recorded on a new journal page?",
+        "options": ["As 'Grand Total'", "As 'Total b/f'", "As 'Total c/f'", "As 'Page Total'"],
+        "answer": "As 'Total b/f'",
+        "reference": "The next page will begin with the total brought forward from previous page, by writing 'Total b/f'."
+    },
+    {
+        "question": "What is the very first entry in the books of accounts at the start of a new year?",
+        "options": ["Closing Entry", "Opening Entry", "Simple Entry", "Compound Entry"],
+        "answer": "Opening Entry",
+        "reference": "It is the very first entry in the books of accounts. When a business starts the book for a new year, it has to make what is known as the opening entry in the journal."
+    },
+    {
+        "question": "What does an opening journal entry show?",
+        "options": ["Future transactions", "Opening balances of assets and liabilities", "Daily sales", "Employee expenses"],
+        "answer": "Opening balances of assets and liabilities",
+        "reference": "When the financial year begins, a journal entry is passed at the beginning of every financial year which shows all the opening balance of assets and all the liabilities include capital."
+    },
+    {
+        "question": "How are assets recorded in an opening journal entry?",
+        "options": ["Credited", "Debited", "Not recorded", "Adjusted"],
+        "answer": "Debited",
+        "reference": "Because all assets have a debit balance, so these are debited in an opening journal entry."
+    },
+    {
+        "question": "How are liabilities recorded in an opening journal entry?",
+        "options": ["Debited", "Credited", "Not recorded", "Balanced"],
+        "answer": "Credited",
+        "reference": "All liabilities have a credit balance, hence these are credited in an opening journal entry."
+    },
+    {
+        "question": "What becomes the opening balance for the next accounting year in an operating entity?",
+        "options": ["Daily transactions", "Closing balance of the previous period", "Future projections", "Cash receipts"],
+        "answer": "Closing balance of the previous period",
+        "reference": "In an operating entity, the closing balance at the end of one month or year becomes the opening balance for the beginning of the next month or accounting year."
+    },
+    {
+        "question": "What characterizes a simple journal entry?",
+        "options": ["Multiple debits and credits", "One debit and one credit", "No narration", "Multiple transactions"],
+        "answer": "One debit and one credit",
+        "reference": "A simple journal entry has one debit and one credit."
+    },
+    {
+        "question": "Which of the following is an example of a simple journal entry?",
+        "options": ["Purchase of a building with cash and loan", "Payment of a utility bill", "Sale of goods on credit", "Multiple expense payments"],
+        "answer": "Payment of a utility bill",
+        "reference": "In payment of the utility bill, only two accounts are affected, cash and accounts payable. Therefore, this would be an example of a simple journal entry."
+    },
+    {
+        "question": "What defines a compound journal entry?",
+        "options": ["One debit and one credit", "Multiple debits and/or credits", "No narration", "Single transaction"],
+        "answer": "Multiple debits and/or credits",
+        "reference": "A compound journal entry is an accounting entry in which there is more than one debit, more than one credit, or more than one of both debits and credits."
+    },
+    {
+        "question": "Which scenario is an example of a compound journal entry?",
+        "options": ["Paying a utility bill", "Borrowing money to purchase a building", "Receiving cash from sales", "Paying employee salaries"],
+        "answer": "Borrowing money to purchase a building",
+        "reference": "Suppose a business borrows money to purchase an asset, such as a building. If the company pays cash for a portion of the cost and borrows the remainder, the corresponding entries in the journal could affect cash, in this case credited for the amount paid on the building."
+    },
+    {
+        "question": "What is one advantage of using a journal in accounting?",
+        "options": ["It eliminates the need for a ledger", "It records transactions as soon as they occur", "It simplifies tax filing", "It forecasts future profits"],
+        "answer": "It records transactions as soon as they occur",
+        "reference": "Each transaction is recorded as soon as it takes place (Day to day basis). So there is no possibility of any transaction being omitted from the books of account."
+    },
+    {
+        "question": "How does the journal’s chronological record benefit accounting?",
+        "options": ["It reduces transaction volume", "It helps identify when transactions occurred", "It eliminates narration", "It simplifies ledger posting"],
+        "answer": "It helps identify when transactions occurred",
+        "reference": "Chronological record: Journal is prepared in chronological order with narration, so we can easily identify when did a transaction took place."
+    },
+    {
+        "question": "How does the journal minimize errors in accounting?",
+        "options": ["By omitting transactions", "By ensuring debits and credits for each transaction", "By reducing ledger entries", "By automating calculations"],
+        "answer": "By ensuring debits and credits for each transaction",
+        "reference": "Minimize the possibility of errors: For each and every transaction there are two concerned accounts. One will be debited and one account credited. So, there is no possibility of committing any mistake in writing the ledger."
+    },
+    {
+        "question": "What is a characteristic of the journal as a record?",
+        "options": ["It is temporary", "It is permanent", "It is optional", "It is incomplete"],
+        "answer": "It is permanent",
+        "reference": "Journal is an permanent record."
+    },
+    {
+        "question": "What role does narration play in journal entries?",
+        "options": ["It provides an explanation for transactions", "It calculates total amounts", "It lists ledger folio numbers", "It forecasts cash flows"],
+        "answer": "It provides an explanation for transactions",
+        "reference": "Narration: There is explanation for every recorded transaction."
+    },
+    {
+        "question": "How does the journal assist in preparing final accounts?",
+        "options": ["By forecasting profits", "By serving as the basis for ledger posting", "By reducing transactions", "By automating tax calculations"],
+        "answer": "By serving as the basis for ledger posting",
+        "reference": "It is the basis of ledger posting and the ultimate trial balance. Hence it helps to finalize the accounts."
+    },
+    {
+        "question": "Why is it unnecessary to repeat journal details in the ledger?",
+        "options": ["Because the ledger is automated", "Because journal entries include all details", "Because the ledger is temporary", "Because the journal is incomplete"],
+        "answer": "Because journal entries include all details",
+        "reference": "As journal entries include all the details, it is not important to add those details in ledger again. This is really helpful to keep your ledger concise and tidy."
+    },
+    {
+        "question": "What is the left side of an account called in accounting?",
+        "options": ["Credit Side", "Debit Side", "Balance Side", "Entry Side"],
+        "answer": "Debit Side",
+        "reference": "In accounting, the left side of an account is called the 'Debit Side' and the right side of an account is called the 'Credit Side'."
+    },
+    {
+        "question": "What is an entry made on the right side of an account called?",
+        "options": ["Debit Entry", "Credit Entry", "Balance Entry", "Journal Entry"],
+        "answer": "Credit Entry",
+        "reference": "The entries made on the left side of an account is called a 'Debit Entry' and the entries made on the right side of an account is called a 'Credit Entry'."
+    },
+    {
+        "question": "What does a debit represent in accounting?",
+        "options": ["Giver of benefit", "Receiver of benefit", "Reduction in assets", "Increase in liabilities"],
+        "answer": "Receiver of benefit",
+        "reference": "Debit is receiver of Benefit whereas Credit is giver of Benefit."
+    },
+    {
+        "question": "What effect does a debit have on an asset account?",
+        "options": ["Decreases it", "Increases it", "No effect", "Balances it"],
+        "answer": "Increases it",
+        "reference": "A debit increases asset or expense accounts, and decreases liability, revenue or equity accounts."
+    },
+    {
+        "question": "What effect does a credit have on a liability account?",
+        "options": ["Decreases it", "Increases it", "No effect", "Balances it"],
+        "answer": "Increases it",
+        "reference": "A credit increases liability, revenue or equity accounts and decreases asset or expense accounts."
+    },
+    {
+        "question": "What is the first step in finding the debit and credit aspects of a transaction?",
+        "options": ["Apply debit and credit rules", "Check the account type", "Identify the two accounts involved", "Record the transaction date"],
+        "answer": "Identify the two accounts involved",
+        "reference": "Steps for finding the debit and credit aspects of a particular transaction: Find out the two accounts involved in the transaction."
+    },
+    {
+        "question": "What must be checked after identifying the accounts in a transaction?",
+        "options": ["The transaction date", "Whether it is a personal, real, or nominal account", "The ledger folio number", "The narration"],
+        "answer": "Whether it is a personal, real, or nominal account",
+        "reference": "Check whether it belongs to Personal, Real or Nominal account."
+    },
+    {
+        "question": "What is recorded in a journal?",
+        "options": ["Monetary transactions", "Employee performance", "Market trends", "Future projections"],
+        "answer": "Monetary transactions",
+        "reference": "Book keeping records Monetory transactions."
+    },
+    {
+        "question": "What is a brief explanation of a journal entry called?",
+        "options": ["Journalising", "Narration", "Casting", "Posting"],
+        "answer": "Narration",
+        "reference": "Brief explanation of an entry is called as Narration."
+    },
+    {
+        "question": "Which journal column is not filled at the time of journalising?",
+        "options": ["Date", "Particulars", "Ledger Folio", "Debit Amount"],
+        "answer": "Ledger Folio",
+        "reference": "The Ledger Folio column of the jounal is not entered at the time of journalising."
+    },
+    {
+        "question": "What is brokerage paid for in accounting?",
+        "options": ["Purchasing goods", "Paying rent", "Buying and selling shares and securities", "All of the above"],
+        "answer": "Buying and selling shares and securities",
+        "reference": "Brokerage is paid to broker for buying and selling the shares and securities."
+    },
+    {
+        "question": "Which account is debited when the proprietor takes goods for personal use?",
+        "options": ["Sales A/c", "Drawings A/c", "Purchases A/c", "Cash A/c"],
+        "answer": "Drawings A/c",
+        "reference": "Goods or Amount taken by proprietor for his personal use should be debited to Drawings A/c."
+    },
+    {
+        "question": "Which statement about journal entries is true?",
+        "options": ["Narration is mandatory for every entry", "Cash discount is not recorded in the books", "Premium paid on the proprietor’s life policy is debited to insurance account", "Narration is not necessary for each and every journal entry"],
+        "answer": "Narration is not necessary for each and every journal entry",
+        "reference": "Which of the following statements is true? Narration is not necessary for each and every journal entry."
+    },
+    {
+        "question": "What is the book of original entry in accounting?",
+        "options": ["Ledger", "Journal", "Sales Book", "Cash Book"],
+        "answer": "Journal",
+        "reference": "A book of original entry. Journal."
+    },
+    {
+        "question": "What involves recording transactions in a journal with debit and credit terms?",
+        "options": ["Posting", "Casting", "Journalising", "Balancing"],
+        "answer": "Journalising",
+        "reference": "Which of the following is not true about journalising? It involves recording the transactions in a journal. It has records in terms of debit and credit."
+    },
+    {
+        "question": "What does the journal provide for easy reference to ledger accounts?",
+        "options": ["Date column", "Particulars column", "Ledger Folio column", "Amount column"],
+        "answer": "Ledger Folio column",
+        "reference": "Ledger folio column facilitate easy reference to the account opened in the ledger."
+    },
+    {
+        "question": "What type of entry involves more than one account being debited or credited?",
+        "options": ["Simple entry", "Compound entry", "Opening entry", "Closing entry"],
+        "answer": "Compound entry",
+        "reference": "More than one account are to be debited or credited in Compound entry."
+    },
+    {
+        "question": "What does the journal’s chronological order help achieve?",
+        "options": ["Reducing transaction volume", "Tracking transaction timing", "Simplifying narration", "Eliminating ledger posting"],
+        "answer": "Tracking transaction timing",
+        "reference": "Journal is prepared in chronological order with narration, so we can easily identify when did a transaction took place."
+    },
+    {
+        "question": "How does the journal contribute to the preparation of the trial balance?",
+        "options": ["By forecasting cash flows", "By serving as the basis for ledger posting", "By reducing transactions", "By automating calculations"],
+        "answer": "By serving as the basis for ledger posting",
+        "reference": "It is the basis of ledger posting and the ultimate trial balance."
+    },
+    {
+        "question": "What is a benefit of the journal’s permanent record?",
+        "options": ["It simplifies tax filing", "It provides a reliable transaction history", "It reduces ledger entries", "It forecasts profits"],
+        "answer": "It provides a reliable transaction history",
+        "reference": "Journal is an permanent record."
+    },
+    {
+        "question": "What does the Debit Amount column in a journal record?",
+        "options": ["Credited amounts", "Debited amounts", "Ledger folio numbers", "Transaction dates"],
+        "answer": "Debited amounts",
+        "reference": "In this column, debited amount is mentioned opposite the debited account."
+    },
+    {
+        "question": "What is the purpose of casting the journal?",
+        "options": ["To prepare financial statements", "To check arithmetical accuracy", "To forecast cash flows", "To simplify narration"],
+        "answer": "To check arithmetical accuracy",
+        "reference": "At the end of each page of Journal, the total of debit amount and credit amount calculated to check arithmetical accuracy of the transaction."
+    },
+    {
+        "question": "What is recorded in the opening journal entry for a new financial year?",
+        "options": ["Daily transactions", "Opening balances of assets and liabilities", "Future projections", "Cash receipts"],
+        "answer": "Opening balances of assets and liabilities",
+        "reference": "When the financial year begins, a journal entry is passed at the beginning of every financial year which shows all the opening balance of assets and all the liabilities include capital."
+    },
+    {
+        "question": "What is an example of a transaction recorded in a simple journal entry?",
+        "options": ["Purchase of a building with cash and loan", "Payment of a utility bill", "Multiple expense payments", "Borrowing for equipment"],
+        "answer": "Payment of a utility bill",
+        "reference": "In payment of the utility bill, only two accounts are affected, cash and accounts payable. Therefore, this would be an example of a simple journal entry."
+    },
+    {
+        "question": "What accounts might be affected in a compound journal entry for purchasing a building?",
+        "options": ["Cash and Sales", "Cash, Notes Payable, and Buildings", "Cash and Drawings", "Cash and Purchases"],
+        "answer": "Cash, Notes Payable, and Buildings",
+        "reference": "Suppose a business borrows money to purchase an asset, such as a building. If the company pays cash for a portion of the cost and borrows the remainder, the corresponding entries in the journal could affect cash, in this case credited for the amount paid on the building. Notes payable would also be credited for the balance owed on the building. Real property or, specifically, buildings would be debited for the full purchase price."
+    },
+    {
+        "question": "How does a debit affect an expense account?",
+        "options": ["Decreases it", "Increases it", "No effect", "Balances it"],
+        "answer": "Increases it",
+        "reference": "A debit increases asset or expense accounts, and decreases liability, revenue or equity accounts."
+    },
+    {
+        "question": "How does a credit affect a revenue account?",
+        "options": ["Decreases it", "Increases it", "No effect", "Balances it"],
+        "answer": "Increases it",
+        "reference": "A credit increases liability, revenue or equity accounts and decreases asset or expense accounts."
+    },
+    {
+        "question": "What is the final step in determining debit and credit aspects of a transaction?",
+        "options": ["Identify the accounts", "Check the account type", "Apply debit and credit rules", "Record the narration"],
+        "answer": "Apply debit and credit rules",
+        "reference": "Apply the debit and credit rules for the two accounts."
+    },
+    {
+        "question": "What does the journal’s narration begin with?",
+        "options": ["To", "Dr", "Being", "By"],
+        "answer": "Being",
+        "reference": "Narration is to be written just below the journal entry. It is written in the bracket and begins with word, 'Being'."
+    },
+    {
+        "question": "What is the significance of the journal’s debit and credit comparison?",
+        "options": ["It forecasts profits", "It prevents or locates errors", "It simplifies narration", "It reduces transactions"],
+        "answer": "It prevents or locates errors",
+        "reference": "Helps to prevent or locate errors as debit and credit amounts for each entry can be compared."
+    },
+    {
+        "question": "What type of transactions does bookkeeping primarily record?",
+        "options": ["Non-monetary transactions", "Monetary transactions", "Employee activities", "Market trends"],
+        "answer": "Monetary transactions",
+        "reference": "Book keeping records Monetory transactions."
+    },
+    {
+        "question": "What is the role of the journal in maintaining a tidy ledger?",
+        "options": ["It eliminates the ledger", "It includes all transaction details", "It reduces ledger entries", "It automates ledger posting"],
+        "answer": "It includes all transaction details",
+        "reference": "As journal entries include all the details, it is not important to add those details in ledger again. This is really helpful to keep your ledger concise and tidy."
+    },
+    {
+        "question": "What is the total called on the last page of a journal?",
+        "options": ["Page Total", "Grand Total", "Total c/f", "Total b/f"],
+        "answer": "Grand Total",
+        "reference": "On the last page of journal 'Grand Total' is casted."
+    },
+    {
+        "question": "What does the journal’s chronological order ensure?",
+        "options": ["Reduced transaction volume", "Clear transaction timing", "Simplified narration", "Eliminated ledger posting"],
+        "answer": "Clear transaction timing",
+        "reference": "Journal is prepared in chronological order with narration, so we can easily identify when did a transaction took place."
+    },
+    {
+        "question": "What is the benefit of recording transactions immediately in the journal?",
+        "options": ["It simplifies tax filing", "It prevents omission of transactions", "It reduces ledger entries", "It forecasts cash flows"],
+        "answer": "It prevents omission of transactions",
+        "reference": "Each transaction is recorded as soon as it takes place (Day to day basis). So there is no possibility of any transaction being omitted from the books of account."
+    },
+    {
+        "question": "What does the journal’s permanent record provide?",
+        "options": ["Temporary data", "Reliable transaction history", "Future projections", "Simplified tax records"],
+        "answer": "Reliable transaction history",
+        "reference": "Journal is an permanent record."
+    },
+    {
+        "question": "What is the purpose of the Ledger Folio column’s distinct ink color?",
+        "options": ["To highlight transaction dates", "To distinguish it from amounts", "To simplify narration", "To reduce errors"],
+        "answer": "To distinguish it from amounts",
+        "reference": "The Folio number may be written in different coloured ink (generally red is used) to distinguish them from the amount."
+    },
+    {
+        "question": "What type of journal entry affects only two accounts?",
+        "options": ["Compound entry", "Simple entry", "Opening entry", "Closing entry"],
+        "answer": "Simple entry",
+        "reference": "A simple journal entry has one debit and one credit whereas a compound journal entries includes one or more debits and/or credits than a simple journal entry."
+    },
+    {
+        "question": "What is recorded in the Credit Amount column of a journal?",
+        "options": ["Debited amounts", "Credited amounts", "Ledger folio numbers", "Transaction dates"],
+        "answer": "Credited amounts",
+        "reference": "In this column, the credited amount is mentioned opposite the credited account."
+    },
+    {
+        "question": "What does the journal’s structure help achieve in accounting?",
+        "options": ["Forecasting profits", "Error prevention through debit-credit comparison", "Simplifying tax calculations", "Reducing transaction volume"],
+        "answer": "Error prevention through debit-credit comparison",
+        "reference": "Helps to prevent or locate errors as debit and credit amounts for each entry can be compared."
+    },
+    {
+        "question": "What is the role of the journal in the accounting cycle?",
+        "options": ["Finalizing financial statements", "Recording transactions for ledger posting", "Calculating taxes", "Forecasting cash flows"],
+        "answer": "Recording transactions for ledger posting",
+        "reference": "At the end of each accounting period, journal entries are posted to the ledger. Recording journal entries is an important step in the accounting cycle."
+    },
+    {
+        "question": "What is the primary purpose of the journal according to L.C. Cropper?",
+        "options": ["To prepare financial statements", "To classify transactions for ledger entries", "To calculate taxes", "To forecast cash flows"],
+        "answer": "To classify transactions for ledger entries",
+        "reference": "According to L.C.Cropper, 'Journal is a book employed to classify or sort out transaction in a form convenient for their subsequent entries in Ledger.'"
+    },
+    {
+        "question": "What does the journal record on a daily basis?",
+        "options": ["Future projections", "Day-to-day business transactions", "Employee performance", "Market trends"],
+        "answer": "Day-to-day business transactions",
+        "reference": "Journal records day to day transaction of business."
+    },
+    {
+        "question": "What is a key feature of journal entries?",
+        "options": ["They exclude debit and credit details", "They include names of accounts and narration", "They are recorded monthly", "They are optional"],
+        "answer": "They include names of accounts and narration",
+        "reference": "Journal entries consist of the names of debit and credit involved in the financial transaction with a brief narration."
+    },
+    {
+        "question": "What must be equal when casting a journal page?",
+        "options": ["Total of dates and amounts", "Total of debit and credit amounts", "Total of narrations", "Total of ledger folio numbers"],
+        "answer": "Total of debit and credit amounts",
+        "reference": "Both the totals should be equal."
+    },
+    {
+        "question": "What does casting of a journal page ensure?",
+        "options": ["Future profitability", "Arithmetical accuracy", "Simplified narration", "Reduced transaction volume"],
+        "answer": "Arithmetical accuracy",
+        "reference": "At the end of each page of Journal, the total of debit amount and credit amount calculated to check arithmetical accuracy of the transaction."
+    },
+    {
+        "question": "What type of journal entry is made at the start of a business year?",
+        "options": ["Simple entry", "Compound entry", "Opening entry", "Closing entry"],
+        "answer": "Opening entry",
+        "reference": "When a business starts the book for a new year, it has to make what is known as the opening entry in the journal."
+    },
+    {
+        "question": "Which accounts are typically involved in a simple journal entry for cash sales?",
+        "options": ["Cash and Notes Payable", "Cash and Sales", "Sales and Purchases", "Cash and Drawings"],
+        "answer": "Cash and Sales",
+        "reference": "A simple journal entry has one debit and one credit."
+    },
+    {
+        "question": "What makes a journal entry a compound entry?",
+        "options": ["It involves a single account", "It has multiple debits and/or credits", "It excludes narration", "It is recorded annually"],
+        "answer": "Multiple debits and/or credits",
+        "reference": "A compound journal entry is an accounting entry in which there is more than one debit, more than one credit, or more than one of both debits and credits."
+    },
+    {
+        "question": "Which of the following is a compound journal entry?",
+        "options": ["Paying rent in cash", "Purchasing equipment with cash and a loan", "Receiving cash from a customer", "Paying a utility bill"],
+        "answer": "Purchasing equipment with cash and a loan",
+        "reference": "Suppose a business borrows money to purchase an asset, such as a building. If the company pays cash for a portion of the cost and borrows the remainder, the corresponding entries in the journal could affect cash, in this case credited for the amount paid on the building."
+    },
+    {
+        "question": "What is a key advantage of the journal’s structure?",
+        "options": ["It eliminates the need for financial statements", "It provides a chronological record of transactions", "It simplifies tax calculations", "It forecasts future profits"],
+        "answer": "It provides a chronological record of transactions",
+        "reference": "2. Provides a chronological record of transactions."
+    },
+    {
+        "question": "How does the journal support ledger accuracy?",
+        "options": ["By reducing transactions", "By ensuring debits equal credits", "By automating calculations", "By forecasting cash flows"],
+        "answer": "By ensuring debits equal credits",
+        "reference": "Minimize the possibility of errors: For each and every transaction there are two concerned accounts. One will be debited and one account credited. So, there is no possibility of committing any mistake in writing the ledger."
+    },
+    {
+        "question": "What does the journal’s permanent nature ensure?",
+        "options": ["Temporary storage", "Reliable transaction history", "Simplified tax filing", "Future projections"],
+        "answer": "Reliable transaction history",
+        "reference": "Journal is an permanent record."
+    },
+    {
+        "question": "What type of account is a personal account in debit and credit rules?",
+        "options": ["The receiver is debited, the giver is credited", "What comes in is debited, what goes out is credited", "Expenses are debited, incomes are credited", "Assets are debited, liabilities are credited"],
+        "answer": "The receiver is debited, the giver is credited",
+        "reference": "Steps for finding the debit and credit aspects of a particular transaction ... Check whether it belongs to Personal, Real or Nominal account."
+    },
+    {
+        "question": "What is the debit and credit rule for a real account?",
+        "options": ["The receiver is debited, the giver is credited", "What comes in is debited, what goes out is credited", "Expenses are debited, incomes are credited", "Assets are debited, liabilities are credited"],
+        "answer": "What comes in is debited, what goes out is credited",
+        "reference": "Steps for finding the debit and credit aspects of a particular transaction ... Check whether it belongs to Personal, Real or Nominal account."
+    },
+    {
+        "question": "What is the debit and credit rule for a nominal account?",
+        "options": ["The receiver is debited, the giver is credited", "What comes in is debited, what goes out is credited", "Expenses are debited, incomes are credited", "Assets are debited, liabilities are credited"],
+        "answer": "Expenses are debited, incomes are credited",
+        "reference": "Steps for finding the debit and credit aspects of a particular transaction ... Check whether it belongs to Personal, Real or Nominal account."
+    },
+    {
+        "question": "What account is credited when a proprietor takes cash for personal use?",
+        "options": ["Cash A/c", "Drawings A/c", "Sales A/c", "Purchases A/c"],
+        "answer": "Cash A/c",
+        "reference": "Goods or Amount taken by proprietor for his personal use should be debited to Drawings A/c."
+    },
+    {
+        "question": "What is recorded when a cash discount is given?",
+        "options": ["It is not recorded in the books", "It is recorded as an expense", "It is recorded as revenue", "It is recorded as a liability"],
+        "answer": "It is not recorded in the books",
+        "reference": "Which of the following statements is true? ... Cash discount does not appear in the books of accounts."
+    },
+    {
+        "question": "What account is debited for the premium paid on the proprietor’s life policy?",
+        "options": ["Insurance Premium A/c", "Drawings A/c", "Cash A/c", "Capital A/c"],
+        "answer": "Drawings A/c",
+        "reference": "Which of the following statements is true? ... Premium paid on the life policy of the proprietor should be debited to insurance premium account. [Correct answer is Drawings A/c, as implied by the false statement.]"
+    },
+    {
+        "question": "Is a journal voucher required for all journal transactions?",
+        "options": ["Yes, always", "No, not always", "Only for cash transactions", "Only for credit transactions"],
+        "answer": "No, not always",
+        "reference": "Which of the following statements is true? ... A journal voucher is must for all transactions recorded in the journal. [Correct answer is false, implying not always required.]"
+    },
+    {
+        "question": "What does the journal’s format ensure for each transaction?",
+        "options": ["Future projections", "Complete entry with date, accounts, and narration", "Simplified tax calculations", "Reduced transaction volume"],
+        "answer": "Complete entry with date, accounts, and narration",
+        "reference": "A complete entry consists of: 1. the date of the transaction, 2. the accounts and amounts to be debited and credited, 3. a brief explanation of transaction."
+    },
+    {
+        "question": "What is the benefit of using software like Tally for journalising?",
+        "options": ["It complicates the process", "It simplifies and enhances efficiency", "It eliminates the need for a journal", "It forecasts cash flows"],
+        "answer": "It simplifies and enhances efficiency",
+        "reference": "However, these days they can use software programs like Tally. This has made the procedure of journalising very simple and effective."
+    },
+    {
+        "question": "How are journal entries typically recorded?",
+        "options": ["Annually", "Monthly", "Date-wise", "By account type"],
+        "answer": "Date-wise",
+        "reference": "All transactions are recorded date wise."
+    },
+    {
+        "question": "What does the Particulars column include for each journal entry?",
+        "options": ["Ledger folio numbers", "Debit and credit account names", "Transaction dates", "Total amounts"],
+        "answer": "Debit and credit account names",
+        "reference": "In this column, the entry is written in three parts: a. Debit A/c: It records the name of the account to be debited. b. Credit A/c: It records the name of the account to be credited."
+    },
+    {
+        "question": "What is the purpose of the journal in relation to the ledger?",
+        "options": ["To replace the ledger", "To provide data for ledger posting", "To simplify tax filing", "To forecast profits"],
+        "answer": "To provide data for ledger posting",
+        "reference": "It is the basis of ledger posting and the ultimate trial balance."
+    }
+]

@@ -1,0 +1,590 @@
+[
+    {
+        "question": "What is a subsidiary book primarily defined as?",
+        "options": ["A book of final entry", "A book of prime entry", "A ledger account", "A trial balance"],
+        "answer": "A book of prime entry",
+        "reference": "Subsidiary book may be defined as a book of prime entry in which transactions of a particular category are recorded."
+    },
+    {
+        "question": "Why are subsidiary books also called books of original entries?",
+        "options": ["They summarize ledger accounts", "Transactions are first recorded in them", "They replace the ledger", "They are used for financial statements"],
+        "answer": "Transactions are first recorded in them",
+        "reference": "These books are also called as Books of Original entries or Prime entries because the transactions are first recorded in Subsidiary Books and then posted in the Ledger."
+    },
+    {
+        "question": "What is the main purpose of subdividing the journal into subsidiary books?",
+        "options": ["To prepare financial statements", "To record similar transactions in separate books", "To calculate taxes", "To forecast cash flows"],
+        "answer": "To record similar transactions in separate books",
+        "reference": "In other words, in order to save time and energy, the transactions which are of similar character are recorded in separate books, these are called subsidiary books or subdivision of journal."
+    },
+    {
+        "question": "What happens to the journal in a large business without subsidiary books?",
+        "options": ["It becomes less accurate", "It becomes bulky and voluminous", "It is replaced by the ledger", "It is simplified"],
+        "answer": "It becomes bulky and voluminous",
+        "reference": "If there is only one journal it becomes bulky and voluminous."
+    },
+    {
+        "question": "How do subsidiary books facilitate the accounting process?",
+        "options": ["By eliminating the ledger", "By allowing division of labor", "By automating calculations", "By reducing transactions"],
+        "answer": "By allowing division of labor",
+        "reference": "Subdivision of the journal permits division of labor and increase efficiency of accounting work."
+    },
+    {
+        "question": "What is a key benefit of recording transactions in special journals?",
+        "options": ["It increases transaction volume", "It saves clerical labor", "It eliminates narration", "It complicates posting"],
+        "answer": "It saves clerical labor",
+        "reference": "A considerable saving of clerical labor can be brought about if transactions of similar nature are recorded in separate special journals."
+    },
+    {
+        "question": "How does the subdivision of the journal aid in internal checks?",
+        "options": ["By automating transactions", "By facilitating an internal check system", "By reducing ledger entries", "By forecasting cash flows"],
+        "answer": "By facilitating an internal check system",
+        "reference": "Subdivision of the journal would facilitate the installation of internal check system."
+    },
+    {
+        "question": "What advantage does the use of subsidiary books provide in terms of information access?",
+        "options": ["It delays information retrieval", "It provides information promptly", "It eliminates the need for information", "It complicates data analysis"],
+        "answer": "It provides information promptly",
+        "reference": "Subdivision of the journal would provide the information on a prompt basis."
+    },
+    {
+        "question": "How do subsidiary books help in error detection?",
+        "options": ["By omitting transactions", "By allowing quick error detection", "By reducing ledger postings", "By automating calculations"],
+        "answer": "By allowing quick error detection",
+        "reference": "The existence of separate books help in the detection of errors quickly in case of disagreement of trial balance."
+    },
+    {
+        "question": "What is a use of subsidiary books in terms of personnel efficiency?",
+        "options": ["It reduces personnel efficiency", "It increases efficiency through repetitive tasks", "It eliminates accounting personnel", "It complicates accounting tasks"],
+        "answer": "It increases efficiency through repetitive tasks",
+        "reference": "It enables the division of work among accounting personnel by assigning with separate books and it increases efficiency of personnel as they perform same activities daily."
+    },
+    {
+        "question": "What type of purchases are recorded in the purchase book?",
+        "options": ["Cash purchases", "Credit purchases of goods", "Purchase of furniture", "Purchase of stationery"],
+        "answer": "Credit purchases of goods",
+        "reference": "Purchase book or purchases day book is a book of original entry maintained to record credit purchases."
+    },
+    {
+        "question": "Why are cash purchases not recorded in the purchase book?",
+        "options": ["They are recorded in the sales book", "They are recorded in the cash book", "They are not monetary transactions", "They are recorded in the ledger"],
+        "answer": "They are recorded in the cash book",
+        "reference": "You must note that cash purchases will not be entered in purchases day book because entries in respect of cash purchases must have been entered in the cash book."
+    },
+    {
+        "question": "What is deducted from the invoice price in the purchase book?",
+        "options": ["Cash discount", "Trade discount", "Sales tax", "Shipping costs"],
+        "answer": "Trade discount",
+        "reference": "Goods purchased on credit are always recorded at net value. Amount of trade discount received if any, must be deducted from the invoice price or gross value of purchase to get the net value."
+    },
+    {
+        "question": "What document is used to write the purchase book?",
+        "options": ["Outward invoice", "Inward invoice", "Credit note", "Debit note"],
+        "answer": "Inward invoice",
+        "reference": "Purchase book is written on the basis of Inward Invoice, Bill or Credit memo. It is received along with the goods at the time of purchase and is therefore known as inward invoice."
+    },
+    {
+        "question": "What does the total of the purchase book show at the end of the month?",
+        "options": ["Total cash purchases", "Total credit purchases of goods", "Total sales", "Total returns"],
+        "answer": "Total credit purchases of goods",
+        "reference": "At the end of each month, the purchases book is totaled. The total shows the total amount of goods purchased on credit."
+    },
+    {
+        "question": "Which of the following is not recorded in the purchase book?",
+        "options": ["Credit purchase of goods", "Purchase of office equipment", "Credit purchase of spare parts", "Credit purchase with trade discount"],
+        "answer": "Purchase of office equipment",
+        "reference": "Similarly credit purchases other than goods like purchase of office equipment, furniture, stationary and building are not recorded in purchase book."
+    },
+    {
+        "question": "What is recorded in the column of inward invoice number in the purchase book?",
+        "options": ["Transaction date", "Serial number of the invoice", "Supplier name", "Amount of purchase"],
+        "answer": "Serial number of the invoice",
+        "reference": "It contains a serial number which is recorded in the column of inward invoice number. The invoices are consecutively numbered."
+    },
+    {
+        "question": "For a business dealing in machinery spare parts, what is recorded in the purchase book?",
+        "options": ["Cash purchases of spare parts", "Credit purchases of spare parts", "Purchase of machinery", "Purchase of stationery"],
+        "answer": "Credit purchases of spare parts",
+        "reference": "For example, a business dealing in machinery spare parts will record only credit purchase of machinery spare parts in purchase book."
+    },
+    {
+        "question": "What is prepared when goods are returned to the supplier?",
+        "options": ["Credit note", "Debit note", "Inward invoice", "Outward invoice"],
+        "answer": "Debit note",
+        "reference": "For every return, a debit note (in duplicate) is prepared. The original one is sent to the supplier for making necessary entries in his book."
+    },
+    {
+        "question": "What is another name for the purchase return book?",
+        "options": ["Sales return book", "Returns inward book", "Returns outward book", "Cash book"],
+        "answer": "Returns outward book",
+        "reference": "It is also known as Returns Outward Book."
+    },
+    {
+        "question": "Why are goods returned to the supplier in the purchase return book?",
+        "options": ["To increase inventory", "Due to defective goods or non-specification", "To record cash purchases", "To prepare financial statements"],
+        "answer": "Due to defective goods or non-specification",
+        "reference": "Sometimes goods purchased are returned to the supplier for various reasons such as the goods are not of the required quality, or are defective."
+    },
+    {
+        "question": "What does the supplier prepare when goods are returned?",
+        "options": ["Debit note", "Credit note", "Inward invoice", "Outward invoice"],
+        "answer": "Credit note",
+        "reference": "The supplier also prepare a note, which is called the credit note."
+    },
+    {
+        "question": "What type of transactions are recorded in the purchase return book?",
+        "options": ["Credit sales returns", "Credit purchase returns", "Cash purchase returns", "Cash sales returns"],
+        "answer": "Credit purchase returns",
+        "reference": "The transactions relating to return of goods to the supplier which were purchased on credit are recorded in Purchase Return Book."
+    },
+    {
+        "question": "What is the purpose of the sales book?",
+        "options": ["To record cash sales", "To record credit sales of goods", "To record purchase returns", "To record cash payments"],
+        "answer": "To record credit sales of goods",
+        "reference": "This book is meant for recording credit sale of goods. This book is also known as Sales Journal or Sold Book or Sales Day Book."
+    },
+    {
+        "question": "Why are cash sales not recorded in the sales book?",
+        "options": ["They are recorded in the purchase book", "They are recorded in the cash book", "They are not monetary transactions", "They are recorded in the ledger"],
+        "answer": "They are recorded in the cash book",
+        "reference": "Cash sale of goods and sale of articles other than goods are not recorded in this book."
+    },
+    {
+        "question": "What is deducted from the invoice price in the sales book?",
+        "options": ["Cash discount", "Trade discount", "Sales tax", "Shipping costs"],
+        "answer": "Trade discount",
+        "reference": "Goods sold on credit are always recorded at net value. Amount of trade discount allowed if any, must be deducted from the invoice price or gross value of sales to arrive at net value."
+    },
+    {
+        "question": "What document is used to write the sales book?",
+        "options": ["Inward invoice", "Outward invoice", "Debit note", "Credit note"],
+        "answer": "Outward invoice",
+        "reference": "Sales book is written on the basis of Outward invoice, bill or credit memo. This is issued along with the goods sold and therefore is known as outward invoice."
+    },
+    {
+        "question": "What is posted to the credit side of the sales account at the end of a period?",
+        "options": ["Total of purchase book", "Total of sales book", "Total of cash book", "Total of returns book"],
+        "answer": "Total of sales book",
+        "reference": "At the end of a certain period, the total of Sales Book is posted to the credit side of Sales Account and the customers accounts will be debited with the respective amounts."
+    },
+    {
+        "question": "For a furniture business, what is recorded in the sales book?",
+        "options": ["Cash sales of furniture", "Credit sales of furniture", "Sales of office equipment", "Sales of stationery"],
+        "answer": "Credit sales of furniture",
+        "reference": "E.g. A businessman dealing in furniture will record only credit sale of Furniture in sales book."
+    },
+    {
+        "question": "What is another name for the sales return book?",
+        "options": ["Returns outward book", "Returns inward book", "Purchase return book", "Cash book"],
+        "answer": "Returns inward book",
+        "reference": "When goods sold on credit are returned by the customers, they are recorded in Sales Return Book or Returns Inward Book."
+    },
+    {
+        "question": "What document supports the recording of transactions in the sales return book?",
+        "options": ["Debit note", "Credit note", "Inward invoice", "Outward invoice"],
+        "answer": "Credit note",
+        "reference": "The document that supports the recording of transactions in sales return book is known as Credit Note."
+    },
+    {
+        "question": "What is prepared by the buyer in response to a credit note?",
+        "options": ["Credit note", "Debit note", "Inward invoice", "Outward invoice"],
+        "answer": "Debit note",
+        "reference": "Buyer then sends a debit note in acknowledgement of the credit note."
+    },
+    {
+        "question": "What is debited at the end of a period in the sales return book?",
+        "options": ["Sales account", "Returns inward account", "Purchase account", "Cash account"],
+        "answer": "Returns inward account",
+        "reference": "At the end of a certain period, the total of this book is debited to Returns Inward Account and the customers’ accounts, who have returned the goods, are credited with the respective amounts in the ledger book."
+    },
+    {
+        "question": "What types of transactions are recorded in the cash book?",
+        "options": ["Credit purchases", "Cash and cheque transactions", "Sales returns", "Purchase returns"],
+        "answer": "Cash and cheque transactions",
+        "reference": "Transactions held in cash or by cheque are recorded in this book."
+    },
+    {
+        "question": "Why does the cash book serve as both a journal and a ledger?",
+        "options": ["It records non-monetary transactions", "It eliminates the need for a ledger", "It records cash transactions and acts as a cash account", "It simplifies tax calculations"],
+        "answer": "It records cash transactions and acts as a cash account",
+        "reference": "Cash Book is a Journal since it is a Book of Original entries and it is also a ledger since it constitutes a classified record of all cash transactions in the form of Ledger."
+    },
+    {
+        "question": "What is recorded on the left-hand side of the cash book?",
+        "options": ["Cash payments", "Cash receipts", "Bank withdrawals", "Discounts allowed"],
+        "answer": "Cash receipts",
+        "reference": "There are two sides in cash book. In the left-hand side all cash receipts are recorded and in the right hand side all cash payments are recorded."
+    },
+    {
+        "question": "What is a feature of the single column cash book?",
+        "options": ["It includes bank transactions", "It records only cash receipts and payments", "It includes discount columns", "It records credit sales"],
+        "answer": "It records only cash receipts and payments",
+        "reference": "In the single column cash book only receipt of cash (Debit) and payment of cash (Credit) are recorded."
+    },
+    {
+        "question": "What is recorded in the debit side of the single column cash book?",
+        "options": ["Cash payments", "Cash, bearer cheques, and drafts received", "Bank withdrawals", "Discounts received"],
+        "answer": "Cash, bearer cheques, and drafts received",
+        "reference": "This is the receipt side. Cash, bearer cheques and drafts received are recorded in this side of the cash book."
+    },
+    {
+        "question": "What is written in the particulars column of the debit side of the cash book?",
+        "options": ["By account name", "To account name", "Credit account name", "Ledger folio number"],
+        "answer": "To account name",
+        "reference": "Particulars: The account that is affected is mentioned along with a brief narration. It always begins with the word 'To'."
+    },
+    {
+        "question": "How is the opening balance recorded in the single column cash book?",
+        "options": ["As By Balance b/d", "As To Balance b/d", "As By Balance c/d", "As To Balance c/d"],
+        "answer": "As To Balance b/d",
+        "reference": "While recording in the simple cash book, the previous month’s balance (opening balance) appears on the receipt side as 'To Balance b/d' (brought down)."
+    },
+    {
+        "question": "What is the purpose of balancing the single column cash book?",
+        "options": ["To record credit sales", "To find the cash balance", "To calculate discounts", "To prepare the ledger"],
+        "answer": "To find the cash balance",
+        "reference": "After recording transactions of a particular period simple cash is balanced to find out balance cash in hand."
+    },
+    {
+        "question": "What is included in the double column cash book?",
+        "options": ["Cash and discount columns", "Cash and bank columns", "Bank and discount columns", "Cash and sales columns"],
+        "answer": "Cash and bank columns",
+        "reference": "This has an additional bank column on each side of the cash book."
+    },
+    {
+        "question": "What type of account is the bank column in the double column cash book?",
+        "options": ["Nominal account", "Personal account", "Real account", "Expense account"],
+        "answer": "Personal account",
+        "reference": "Bank column : Bank account is a Personal Account."
+    },
+    {
+        "question": "What is recorded in the bank column of the double column cash book?",
+        "options": ["Cash transactions", "Banking transactions", "Discount transactions", "Sales transactions"],
+        "answer": "Banking transactions",
+        "reference": "In the ‘Bank’ column, only banking transactions are recorded."
+    },
+    {
+        "question": "What is a bank overdraft in the double column cash book?",
+        "options": ["Excess receipts over payments", "Excess payments over receipts", "Equal receipts and payments", "Cash balance"],
+        "answer": "Excess payments over receipts",
+        "reference": "When the total amount of payment side is greater than the total amount of receipt side the difference is known as bank overdraft or credit balance."
+    },
+    {
+        "question": "How is a bank overdraft recorded in the double column cash book?",
+        "options": ["As To Balance b/d", "As By Balance b/d", "As To Balance c/d", "As By Balance c/d"],
+        "answer": "As To Balance c/d",
+        "reference": "This is recorded on the receipt side in the bank column as 'To Balance c/d'."
+    },
+    {
+        "question": "What is added to the double column cash book to create a triple column cash book?",
+        "options": ["Sales column", "Discount column", "Purchase column", "Returns column"],
+        "answer": "Discount column",
+        "reference": "When one more column of discount is added in both sides of the double column cash book to post all discount transactions, it is called triple column cash book."
+    },
+    {
+        "question": "What does the debit side discount column in the triple column cash book represent?",
+        "options": ["Discount received from suppliers", "Discount allowed to customers", "Cash discounts", "Trade discounts"],
+        "answer": "Discount allowed to customers",
+        "reference": "The debit side column of discount represents the discount to debtors of the company."
+    },
+    {
+        "question": "What is posted to the 'Discount Allowed to Customers' account from the triple column cash book?",
+        "options": ["Total of cash column", "Total of bank column", "Total of debit discount column", "Total of credit discount column"],
+        "answer": "Total of debit discount column",
+        "reference": "The total of discount column of debit side of cash book is posted in the ledger account of ‘Discount Allowed to Customers’ account as ‘To Total As Per Cash Book’."
+    },
+    {
+        "question": "Why is the discount column in the triple column cash book not balanced?",
+        "options": ["It is not an account", "It is balanced monthly", "It is a cash account", "It is a bank account"],
+        "answer": "It is not an account",
+        "reference": "The discount column is only totaled. It is not balanced because it does not work as an account."
+    },
+    {
+        "question": "What type of expense is discount allowed in the triple column cash book?",
+        "options": ["Revenue", "Liability", "Expense", "Asset"],
+        "answer": "Expense",
+        "reference": "Discount allowed is an expense and discount received is an income of the business."
+    },
+    {
+        "question": "What is the purpose of the petty cash book?",
+        "options": ["To record large transactions", "To record small expenses", "To record credit sales", "To record bank transactions"],
+        "answer": "To record small expenses",
+        "reference": "So this book is maintained for recording small expenses which cannot be paid by cheque."
+    },
+    {
+        "question": "What types of expenses are recorded in the petty cash book?",
+        "options": ["Stationery, postage, and refreshments", "Purchases and sales", "Loans and investments", "Salaries and rent"],
+        "answer": "Stationery, postage, and refreshments",
+        "reference": "There are various departments spending small amount on stationary, postage and telegram, refreshment carriage, etc."
+    },
+    {
+        "question": "What are the two types of petty cash book?",
+        "options": ["Single and double column", "Simple and analytical columnar", "Cash and bank", "Debit and credit"],
+        "answer": "Simple and analytical columnar",
+        "reference": "There are two types of Petty Cash Book: Simple petty cash book and Analytical Columnar petty cash book."
+    },
+    {
+        "question": "Who maintains the petty cash book?",
+        "options": ["Main cashier", "Petty cashier", "Accountant", "Manager"],
+        "answer": "Petty cashier",
+        "reference": "The Petty cashier is given certain amount by the main cashier as an advance at the beginning of every month from which all petty expenses are paid and recorded by petty cashier."
+    },
+    {
+        "question": "The return of goods by a customer should be debited to?",
+        "options": ["Return outward", "Return inward account", "Goods account", "Accounts receivable"],
+        "answer": "Return inward account",
+        "reference": "The return of goods by a customer should be debited to Return inward account."
+    },
+    {
+        "question": "An alternative name for a sales journal is?",
+        "options": ["Sales invoice", "Sales ledger", "Daily sales", "Sales day book"],
+        "answer": "Sales day book",
+        "reference": "An alternative name for a sales journal is Sales day book."
+    },
+    {
+        "question": "Which of the following is not a book of prime or original entry?",
+        "options": ["Sales daybook", "Purchase daybook", "Debtor’s account", "Cashbook"],
+        "answer": "Debtor’s account",
+        "reference": "Debtor’s account is not a book of prime or original entry."
+    },
+    {
+        "question": "There are two books of account, they are?",
+        "options": ["Journal and ledger", "Journal and trial balance", "Trial balance and ledger", "None of these"],
+        "answer": "Journal and ledger",
+        "reference": "There are two books of account they are Journal and ledger."
+    },
+    {
+        "question": "X sends back Rs. 80 of faulty goods to Y. In which book of prime entry would Y record this transaction?",
+        "options": ["General journal", "Purchase return journal", "Sales journal", "Sales return journal"],
+        "answer": "Sales return journal",
+        "reference": "X sends back Rs. 80 of faulty goods to Y. In which book of prime entry would Y record this transaction? Sales return journal."
+    },
+    {
+        "question": "Which of the following are books of prime entry?",
+        "options": ["Sales day book and trial balance", "Petty cash book and accounts receivable ledger", "Petty cash book and journal", "Cash book and assets register"],
+        "answer": "Petty cash book and journal",
+        "reference": "Petty cash book and journal are books of prime entry."
+    },
+    {
+        "question": "Transactions are initially recorded in the?",
+        "options": ["Book of prime entry", "Book of original entry", "Journal", "All of the above"],
+        "answer": "All of the above",
+        "reference": "Transactions are initially recorded in the Book of prime entry, Book of original entry, Journal."
+    },
+    {
+        "question": "What is another term for subsidiary books?",
+        "options": ["Final entry books", "Special journals", "Ledger accounts", "Trial balance books"],
+        "answer": "Special journals",
+        "reference": "Special journal refers to the journals meant for specific transactions of similar nature. Special journals are also known as subsidiary books or day books."
+    },
+    {
+        "question": "Why are subsidiary books used in large businesses?",
+        "options": ["To reduce the number of transactions", "To handle increased transaction volume", "To eliminate the journal", "To simplify ledger posting"],
+        "answer": "To handle increased transaction volume",
+        "reference": "A small business may be able to record all transactions in single Journal but as the business expands the number of transactions increases, hence the Journal is required to be sub-divided into Special Journals which are called Subsidiary Books."
+    },
+    {
+        "question": "How do subsidiary books assist in maintaining accounts?",
+        "options": ["By increasing journal entries", "By avoiding the need for journal entries", "By complicating ledger posting", "By reducing cash transactions"],
+        "answer": "By avoiding the need for journal entries",
+        "reference": "It helps to maintain accounts and thus avoids the necessity of journal entries."
+    },
+    {
+        "question": "What is a characteristic of subsidiary books?",
+        "options": ["They are temporary records", "They record transactions of a specific category", "They replace the ledger", "They are used only for cash transactions"],
+        "answer": "They record transactions of a specific category",
+        "reference": "Subsidiary book may be defined as a book of prime entry in which transactions of a particular category are recorded."
+    },
+    {
+        "question": "What does the use of subsidiary books enable in terms of accounting work?",
+        "options": ["Elimination of accounting personnel", "Division of work among personnel", "Automation of all transactions", "Reduction in transaction volume"],
+        "answer": "Division of work among personnel",
+        "reference": "It enables the division of work among accounting personnel by assigning with separate books and it increases efficiency of personnel as they perform same activities daily."
+    },
+    {
+        "question": "What is recorded in the purchase book for a business dealing in electronics?",
+        "options": ["Credit purchases of office furniture", "Cash purchases of electronics", "Credit purchases of electronics", "Purchase of stationery"],
+        "answer": "Credit purchases of electronics",
+        "reference": "For example, a business dealing in machinery spare parts will record only credit purchase of machinery spare parts in purchase book."
+    },
+    {
+        "question": "How are invoices numbered in the purchase book?",
+        "options": ["Randomly", "Consecutively", "By supplier name", "By transaction date"],
+        "answer": "Consecutively",
+        "reference": "The invoices are consecutively numbered."
+    },
+    {
+        "question": "What is the net value in the purchase book?",
+        "options": ["Gross value plus trade discount", "Gross value minus trade discount", "Gross value plus cash discount", "Gross value minus sales tax"],
+        "answer": "Gross value minus trade discount",
+        "reference": "Goods purchased on credit are always recorded at net value. Amount of trade discount received if any, must be deducted from the invoice price or gross value of purchase to get the net value."
+    },
+    {
+        "question": "Which document is sent to the supplier along with returned goods?",
+        "options": ["Credit note", "Debit note", "Inward invoice", "Outward invoice"],
+        "answer": "Debit note",
+        "reference": "For every return, a debit note (in duplicate) is prepared. The original one is sent to the supplier for making necessary entries in his book."
+    },
+    {
+        "question": "What is the purpose of the purchase return book?",
+        "options": ["To record cash purchases", "To record returns of credit purchases", "To record credit sales", "To record cash sales"],
+        "answer": "To record returns of credit purchases",
+        "reference": "The transactions relating to return of goods to the supplier which were purchased on credit are recorded in Purchase Return Book."
+    },
+    {
+        "question": "What is recorded in the sales book for a business dealing in tea?",
+        "options": ["Cash sales of tea", "Credit sales of tea", "Sales of sugar", "Sales of furniture"],
+        "answer": "Credit sales of tea",
+        "reference": "E.g. A businessman dealing in furniture will record only credit sale of Furniture in sales book."
+    },
+    {
+        "question": "How are goods sold on credit recorded in the sales book?",
+        "options": ["At gross value", "At net value", "With cash discount", "With sales tax"],
+        "answer": "At net value",
+        "reference": "Goods sold on credit are always recorded at net value."
+    },
+    {
+        "question": "What is the purpose of the outward invoice in the sales book?",
+        "options": ["To record purchase returns", "To issue with goods sold", "To record cash purchases", "To record bank transactions"],
+        "answer": "To issue with goods sold",
+        "reference": "Sales book is written on the basis of Outward invoice, bill or credit memo. This is issued along with the goods sold and therefore is known as outward invoice."
+    },
+    {
+        "question": "Why are goods returned by customers recorded in the sales return book?",
+        "options": ["They are cash sales", "They are defective or not per specification", "They are credit purchases", "They are bank transactions"],
+        "answer": "They are defective or not per specification",
+        "reference": "When goods sold on credit are not according to specification, sample or are damaged in transit, buyer or debtor can return them to us."
+    },
+    {
+        "question": "What is the difference between a credit note and a debit note in the sales return book?",
+        "options": ["Credit note is prepared by the buyer", "Debit note is prepared by the seller", "Credit note is prepared by the seller", "Debit note is sent to the supplier"],
+        "answer": "Credit note is prepared by the seller",
+        "reference": "The difference between the credit and the debit note is that the former is prepared by the seller and the latter is prepared by the buyer."
+    },
+    {
+        "question": "What types of transactions are recorded on the right-hand side of the cash book?",
+        "options": ["Cash receipts", "Cash payments", "Credit sales", "Purchase returns"],
+        "answer": "Cash payments",
+        "reference": "In the left-hand side all cash receipts are recorded and in the right hand side all cash payments are recorded."
+    },
+    {
+        "question": "What is written in the particulars column of the credit side of the cash book?",
+        "options": ["To account name", "By account name", "Debit account name", "Ledger folio number"],
+        "answer": "By account name",
+        "reference": "Particulars: The account which is affected is mentioned along with a brief narration. It always begins with the word 'By'."
+    },
+    {
+        "question": "How is the cash balance recorded at the end of a period in the single column cash book?",
+        "options": ["As To Balance c/d", "As By Balance c/d", "As To Balance b/d", "As By Balance b/d"],
+        "answer": "As By Balance c/d",
+        "reference": "This is done by recording the excess or receipts on the payment side or excess of debit on the credit side as 'By Balance c/d' (carried down) to make the two sides equal."
+    },
+    {
+        "question": "What is the benefit of the double column cash book?",
+        "options": ["It records only cash transactions", "It groups cash and bank transactions", "It eliminates bank transactions", "It simplifies sales recording"],
+        "answer": "It groups cash and bank transactions",
+        "reference": "In order to make recording of bank transactions easy, a cash book with cash and bank column is prepared. It helps in grouping transactions which are interrelated thereby reducing time required to access cash and bank balances."
+    },
+    {
+        "question": "What is recorded in the credit side discount column of the triple column cash book?",
+        "options": ["Discount allowed to customers", "Discount received from suppliers", "Cash discounts", "Trade discounts"],
+        "answer": "Discount received from suppliers",
+        "reference": "The credit side of discount column means the discount received from our suppliers or creditors while making payments."
+    },
+    {
+        "question": "What is the source of funds for the petty cash book?",
+        "options": ["Bank deposits", "Main cashier’s advance", "Sales revenue", "Customer payments"],
+        "answer": "Main cashier’s advance",
+        "reference": "The Petty cashier is given certain amount by the main cashier as an advance at the beginning of every month from which all petty expenses are paid and recorded by petty cashier."
+    },
+    {
+        "question": "Why are small expenses recorded in the petty cash book?",
+        "options": ["They are paid by cheque", "They cannot be paid by cheque", "They are credit transactions", "They are large transactions"],
+        "answer": "They cannot be paid by cheque",
+        "reference": "So this book is maintained for recording small expenses which cannot be paid by cheque."
+    },
+    {
+        "question": "What is a benefit of using subsidiary books for transaction recording?",
+        "options": ["It complicates ledger posting", "It saves time by grouping similar transactions", "It increases journal entries", "It eliminates the cash book"],
+        "answer": "It saves time by grouping similar transactions",
+        "reference": "It helps to save time and labor by recording similar type of transactions in a separate book."
+    },
+    {
+        "question": "How do subsidiary books improve access to transaction details?",
+        "options": ["By reducing transaction volume", "By recording transactions in separate books", "By eliminating narration", "By automating calculations"],
+        "answer": "By recording transactions in separate books",
+        "reference": "It becomes easy to access the detailed information relating to a particular transaction as the transactions relating to one head are recorded in a separate book."
+    },
+    {
+        "question": "What is the role of subsidiary books in internal checks?",
+        "options": ["They eliminate checks", "They allow automatic checks by different clerks", "They reduce transaction volume", "They simplify ledger posting"],
+        "answer": "They allow automatic checks by different clerks",
+        "reference": "It helps to install internal check system as the subsidiary book maintained by a clerk is automatically checked by another clerk."
+    },
+    {
+        "question": "What type of purchases are excluded from the purchase book?",
+        "options": ["Credit purchases of goods", "Cash purchases of goods", "Credit purchases with trade discount", "Credit purchases of spare parts"],
+        "answer": "Cash purchases of goods",
+        "reference": "You must note that cash purchases will not be entered in purchases day book because entries in respect of cash purchases must have been entered in the cash book."
+    },
+    {
+        "question": "What is the purpose of the inward invoice in the purchase book?",
+        "options": ["To record sales transactions", "To provide details of credit purchases", "To record purchase returns", "To issue with goods sold"],
+        "answer": "To provide details of credit purchases",
+        "reference": "Purchase book is written on the basis of Inward Invoice, Bill or Credit memo. It is received along with the goods at the time of purchase and is therefore known as inward invoice."
+    },
+    {
+        "question": "How are purchase returns recorded in the purchase return book?",
+        "options": ["As cash transactions", "As credit transactions", "As sales transactions", "As bank transactions"],
+        "answer": "As credit transactions",
+        "reference": "The transactions relating to return of goods to the supplier which were purchased on credit are recorded in Purchase Return Book."
+    },
+    {
+        "question": "What is the effect of recording a purchase return in the purchase return book?",
+        "options": ["It increases accounts payable", "It decreases accounts payable", "It increases accounts receivable", "It decreases accounts receivable"],
+        "answer": "It decreases accounts payable",
+        "reference": "The transactions relating to return of goods to the supplier which were purchased on credit are recorded in Purchase Return Book."
+    },
+    {
+        "question": "What is recorded in the sales book at the end of a period?",
+        "options": ["Total cash sales", "Total credit sales", "Total purchase returns", "Total cash payments"],
+        "answer": "Total credit sales",
+        "reference": "At the end of a certain period, the total of Sales Book is posted to the credit side of Sales Account and the customers accounts will be debited with the respective amounts."
+    },
+    {
+        "question": "What is the role of the credit note in the sales return book?",
+        "options": ["To record purchase returns", "To indicate the account is credited", "To record cash sales", "To issue with goods purchased"],
+        "answer": "To indicate the account is credited",
+        "reference": "The credit note indicates that the account of the person to whom the goods are returned is credited."
+    },
+    {
+        "question": "What is the effect of a sales return in the sales return book?",
+        "options": ["It increases accounts receivable", "It decreases accounts receivable", "It increases accounts payable", "It decreases accounts payable"],
+        "answer": "It decreases accounts receivable",
+        "reference": "At the end of a certain period, the total of this book is debited to Returns Inward Account and the customers’ accounts, who have returned the goods, are credited with the respective amounts in the ledger book."
+    },
+    {
+        "question": "What is a feature of the cash book?",
+        "options": ["It records only credit transactions", "It serves as both journal and ledger", "It eliminates bank transactions", "It records only sales transactions"],
+        "answer": "It serves as both journal and ledger",
+        "reference": "Cash Book is a Journal since it is a Book of Original entries and it is also a ledger since it constitutes a classified record of all cash transactions in the form of Ledger."
+    },
+    {
+        "question": "What is recorded in the triple column cash book besides cash and bank transactions?",
+        "options": ["Sales transactions", "Purchase transactions", "Discount transactions", "Return transactions"],
+        "answer": "Discount transactions",
+        "reference": "When one more column of discount is added in both sides of the double column cash book to post all discount transactions, it is called triple column cash book."
+    },
+    {
+        "question": "What is posted to the 'Discount Received' account from the triple column cash book?",
+        "options": ["Total of debit discount column", "Total of credit discount column", "Total of cash column", "Total of bank column"],
+        "answer": "Total of credit discount column",
+        "reference": "Similarly, credit column of cash book is posted in ledger account of ‘Discount Received’ as ‘By total of cash book’."
+    },
+    {
+        "question": "What is the origin of the term 'petty' in petty cash book?",
+        "options": ["From the Latin word 'petit'", "From the French word 'petit'", "From the English word 'small'", "From the Greek word 'petit'"],
+        "answer": "From the French word 'petit'",
+        "reference": "The term petty is derived from the French word 'Petit' which means 'small'."
+    }
+]

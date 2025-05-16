@@ -1,0 +1,927 @@
+[
+    {
+      "question": "What is the primary purpose of preparing a trial balance?",
+      "options": [
+        "To test the arithmetical accuracy of the books",
+        "To summarize financial transactions",
+        "To provide the base for preparing final accounts",
+        "To locate accounting errors"
+      ],
+      "answer": "To test the arithmetical accuracy of the books",
+      "reference": "\"Trial balance is a statement, prepared with the debit and credit balances of ledger accounts to test the arithmetical accuracy of the books.\"\n— Ebook.docx, Meaning section :contentReference[oaicite:0]{index=0}:contentReference[oaicite:1]{index=1}"
+    },
+    {
+      "question": "Which principle ensures that the debit and credit columns of a trial balance must always be equal?",
+      "options": [
+        "Subsidiary entry principle",
+        "Double-entry principle",
+        "Matching principle",
+        "Revenue recognition principle"
+      ],
+      "answer": "Double-entry principle",
+      "reference": "\"Trial balance is based on the double-entry principle of debit equals credit or credit equals debit. As a result, the debit and credit columns of trial balance must always be equal.\"\n— Ebook.docx, Objectives of trial balance :contentReference[oaicite:2]{index=2}:contentReference[oaicite:3]{index=3}"
+    },
+    {
+      "question": "Which of the following is NOT an objective of trial balance?",
+      "options": [
+        "To check the arithmetical accuracy",
+        "To help locate accounting errors",
+        "To determine profit or loss",
+        "To summarize financial transactions"
+      ],
+      "answer": "To determine profit or loss",
+      "reference": "\"It does not give information about the profit or loss made by the business in the accounting period or financial position of the business as at the close of the period.\"\n— Ebook.docx, Disadvantages/Limitations of Trial Balance :contentReference[oaicite:4]{index=4}:contentReference[oaicite:5]{index=5}"
+    },
+    {
+      "question": "A trial balance prepared with the debit and credit balances of each ledger account is called:",
+      "options": [
+        "Gross Trial Balance",
+        "Net Trial Balance",
+        "Total Trial Balance",
+        "Balanced Trial Balance"
+      ],
+      "answer": "Net Trial Balance",
+      "reference": "\"Net Trial Balance: Only the balances of each ledger account are shown against its name... This Trial Balance is used in practice very commonly.\"\n— Ebook.docx, Types of Trial Balance :contentReference[oaicite:6]{index=6}:contentReference[oaicite:7]{index=7}"
+    },
+    {
+      "question": "In the journal (vertical) format of trial balance, which column shows liabilities?",
+      "options": [
+        "Debit balance column",
+        "Credit balance column",
+        "Particulars column",
+        "LF column"
+      ],
+      "answer": "Credit balance column",
+      "reference": "\"All liabilities, income and gain must be on credit side.\"\n— Ebook.docx, Formats section :contentReference[oaicite:8]{index=8}:contentReference[oaicite:9]{index=9}"
+    },
+    {
+      "question": "Which error will NOT be detected by a trial balance?",
+      "options": [
+        "Omission of a transaction",
+        "Transposition error",
+        "Recording equal debits and credits in wrong accounts",
+        "Arithmetic addition error"
+      ],
+      "answer": "Recording equal debits and credits in wrong accounts",
+      "reference": "\"If equal debits and credits are entered into the wrong accounts ... a trial balance would still show a perfect balance between total debits and credits.\"\n— Ebook.docx, Disadvantages/Limitations of Trial Balance :contentReference[oaicite:10]{index=10}:contentReference[oaicite:11]{index=11}"
+    },
+    {
+      "question": "Which method involves totaling ledger account entries without balancing them?",
+      "options": [
+        "Balance Method",
+        "Total Method",
+        "Trial Method",
+        "Combined Method"
+      ],
+      "answer": "Total Method",
+      "reference": "\"Total Method: In this method, ledger accounts are not balanced. They are totaled. These totals are entered in the debit and credit columns.\"\n— Ebook.docx, Methods of Preparation of Trial Balance :contentReference[oaicite:12]{index=12}:contentReference[oaicite:13]{index=13}"
+    },
+    {
+      "question": "What does ‘c/d’ indicate when shown in a trial balance ledger account?",
+      "options": [
+        "Opening balance",
+        "Closing balance",
+        "Contra balance",
+        "Current balance"
+      ],
+      "answer": "Closing balance",
+      "reference": "\"If the debit side total is more than the credit side then difference will be shown on credit side as ‘By Balance c/d’...\"\n— Ebook.docx, Balancing section :contentReference[oaicite:14]{index=14}:contentReference[oaicite:15]{index=15}"
+    },
+    {
+      "question": "Which type of account always shows a debit balance in the trial balance?",
+      "options": [
+        "Liability accounts",
+        "Revenue accounts",
+        "Expense accounts",
+        "Capital accounts"
+      ],
+      "answer": "Expense accounts",
+      "reference": "\"The accounts of expenses and losses always show debit balance as they appear in debit balance column of trial balance.\"\n— Ebook.docx, Meaning of balances for ledger accounts :contentReference[oaicite:16]{index=16}:contentReference[oaicite:17]{index=17}"
+    },
+    {
+      "question": "Which of these is the first step in preparing a trial balance?",
+      "options": [
+        "Summarize financial transactions",
+        "Close and balance each ledger account",
+        "Prepare final accounts",
+        "Locate accounting errors"
+      ],
+      "answer": "Close and balance each ledger account",
+      "reference": "\"Ensure that all ledger accounts are balanced. It requires adding up debit entries and credit entries and finding the difference between them.\"\n— Ebook.docx, Preparation of Trial Balance :contentReference[oaicite:18]{index=18}:contentReference[oaicite:19]{index=19}"
+    },
+    {
+      "question": "Which advantage of trial balance provides an up-to-date summary of all transactions?",
+      "options": [
+        "Lists accounts as per date",
+        "Detects all types of errors",
+        "Gives complete profit and loss details",
+        "Prepares final accounts automatically"
+      ],
+      "answer": "Lists accounts as per date",
+      "reference": "\"It lists accounts as per date. Hence it is the up-to-date data of all the transactions.\"\n— Ebook.docx, Advantages of Trial Balance :contentReference[oaicite:20]{index=20}:contentReference[oaicite:21]{index=21}"
+    },
+    {
+      "question": "After balancing, the closing balance of the debit side is brought down in the next period as:",
+      "options": [
+        "By Balance b/d",
+        "To Balance b/d",
+        "By Balance c/d",
+        "To Balance c/d"
+      ],
+      "answer": "By Balance b/d",
+      "reference": "\"Closing balance shown on debit side of ledger account will be shown as Opening Balance on the credit side at the beginning of the period as ‘By Balance b/d’.\"\n— Ebook.docx, Balancing section :contentReference[oaicite:22]{index=22}:contentReference[oaicite:23]{index=23}"
+    },
+    {
+      "question": "Which statement best describes a trial balance?",
+      "options": [
+        "A statement of cash flows",
+        "A list of debit and credit balances of ledger accounts",
+        "A schedule of fixed assets",
+        "A reconciliation of bank statements"
+      ],
+      "answer": "A list of debit and credit balances of ledger accounts",
+      "reference": "\"It is a list or abstract of the balances or of total debits and total credits of accounts in a ledger...\"\n— Ebook.docx, Meaning section :contentReference[oaicite:24]{index=24}:contentReference[oaicite:25]{index=25}"
+    },
+    {
+      "question": "Which of the following ensures that every transaction is recorded on the correct side of the trial balance?",
+      "options": [
+        "Posting to ledger",
+        "Balancing ledgers",
+        "Subsidiary journals",
+        "Closing entries"
+      ],
+      "answer": "Posting to ledger",
+      "reference": "\"Balance of each and every ledger account has been transferred accurately and on the correct side of the sheet on which trial balance has been prepared.\"\n— Ebook.docx, Advantages of Trial Balance :contentReference[oaicite:26]{index=26}:contentReference[oaicite:27]{index=27}"
+    },
+    {
+      "question": "What does a gross trial balance show?",
+      "options": [
+        "Only balances of ledger accounts",
+        "Totals of debit and credit sides without balancing",
+        "Detailed transaction listings",
+        "Account classifications"
+      ],
+      "answer": "Totals of debit and credit sides without balancing",
+      "reference": "\"Gross Trial Balance: The total of debit side of a particular account is shown... It is prepared without balancing the accounts.\"\n— Ebook.docx, Types of Trial Balance :contentReference[oaicite:28]{index=28}:contentReference[oaicite:29]{index=29}"
+    },
+    {
+      "question": "Which of these is the final step when totals of debit and credit columns are equal?",
+      "options": [
+        "Prepare final accounts",
+        "Rectify errors",
+        "Close the journals",
+        "Post to T-accounts"
+      ],
+      "answer": "Prepare final accounts",
+      "reference": "\"If the total of debit and credit amount column is equal, we assume our books of accounts to be arithmetically correct... but do not take it as the conclusive proof of arithmetical accuracy.\"\n— Ebook.docx, Meaning section :contentReference[oaicite:30]{index=30}:contentReference[oaicite:31]{index=31}"
+    },
+    {
+      "question": "Which is NOT a benefit of trial balance according to the ebook?",
+      "options": [
+        "Ensures equal debits and credits",
+        "Provides condensed account information",
+        "Offers holistic view of transactions",
+        "Summarizes all ledgers"
+      ],
+      "answer": "Provides condensed account information",
+      "reference": "\"A trial balance gives only condensed information of each account.\"\n— Ebook.docx, Disadvantages/Limitations of Trial Balance :contentReference[oaicite:32]{index=32}:contentReference[oaicite:33]{index=33}"
+    },
+    {
+      "question": "Which section of the trial balance worksheet contains ledger account numbers?",
+      "options": [
+        "Particulars",
+        "Column totals",
+        "LF (Ledger Folio)",
+        "Balance column"
+      ],
+      "answer": "LF (Ledger Folio)",
+      "reference": "\"A worksheet with headers like account name, number, debit and credit balances.\"\n— Ebook.docx, Preparation of Trial Balance :contentReference[oaicite:34]{index=34}:contentReference[oaicite:35]{index=35}"
+    },
+    {
+      "question": "Which of the following errors will a trial balance detect?",
+      "options": [
+        "Complete omission of a transaction",
+        "Posting to wrong side",
+        "Arithmetic addition error",
+        "Compensating errors"
+      ],
+      "answer": "Arithmetic addition error",
+      "reference": "\"It is prepared to ascertain the arithmetical accuracy of Books of Accounts.\"\n— Ebook.docx, Meaning section :contentReference[oaicite:36]{index=36}:contentReference[oaicite:37]{index=37}"
+    },
+    {
+      "question": "Which rule applies when balancing personal accounts?",
+      "options": [
+        "Debit what comes in, credit what goes out",
+        "Debit the receiver, credit the giver",
+        "Debit expenses, credit incomes",
+        "Debit liabilities, credit assets"
+      ],
+      "answer": "Debit the receiver, credit the giver",
+      "reference": "\"If personal account shows a debit balance it shows the amount due from person... If personal account shows a credit balance, it shows the amount due to the person.\"\n— Ebook.docx, Meaning of balances for ledger accounts :contentReference[oaicite:38]{index=38}:contentReference[oaicite:39]{index=39}"
+    },
+    {
+      "question": "Which account always appears on the debit side of a gross trial balance?",
+      "options": [
+        "All asset accounts",
+        "All liability accounts",
+        "All capital accounts",
+        "All revenue accounts"
+      ],
+      "answer": "All asset accounts",
+      "reference": "\"All assets, expense and losses must be on the debit side.\"\n— Ebook.docx, Formats section :contentReference[oaicite:40]{index=40}:contentReference[oaicite:41]{index=41}"
+    },
+    {
+      "question": "Which of these is a limitation of trial balance?",
+      "options": [
+        "Detects all bookkeeping errors",
+        "Shows profit and loss",
+        "Does not give final account base",
+        "Does not detect offsetting errors"
+      ],
+      "answer": "Does not detect offsetting errors",
+      "reference": "\"If... offsetting errors are made with a debit and credit at the same time, a trial balance would still show a perfect balance.\"\n— Ebook.docx, Disadvantages/Limitations of Trial Balance :contentReference[oaicite:42]{index=42}:contentReference[oaicite:43]{index=43}"
+    },
+    {
+      "question": "How often can a trial balance be prepared according to the ebook?",
+      "options": [
+        "Only at year-end",
+        "Periodically if required",
+        "Only monthly",
+        "Only weekly"
+      ],
+      "answer": "Periodically if required",
+      "reference": "\"Usually... at the end of the financial year. However it can be prepared periodically depending upon requirement of the business.\"\n— Ebook.docx, Meaning section :contentReference[oaicite:44]{index=44}:contentReference[oaicite:45]{index=45}"
+    },
+    {
+      "question": "Which ledger format uses two separate sections for debit and credit balances?",
+      "options": [
+        "Vertical format",
+        "Horizontal format",
+        "Gross format",
+        "Net format"
+      ],
+      "answer": "Horizontal format",
+      "reference": "\"Ledger format: Also known as T or Horizontal format. The trial balance has two sides, left side includes debit balances and right side includes credit balances.\"\n— Ebook.docx, Formats section :contentReference[oaicite:46]{index=46}:contentReference[oaicite:47]{index=47}"
+    },
+    {
+      "question": "Which of these is the base for preparing final accounts?",
+      "options": [
+        "Journal entries",
+        "Trial balance",
+        "Cash book",
+        "Bank reconciliation"
+      ],
+      "answer": "Trial balance",
+      "reference": "\"A trial balance... provides the base for the preparation of the final accounts.\"\n— Ebook.docx, Objectives of trial balance :contentReference[oaicite:48]{index=48}:contentReference[oaicite:49]{index=49}"
+    },
+    {
+      "question": "Why is agreement of trial balance not conclusive proof of accuracy?",
+      "options": [
+        "Because final accounts may still be wrong",
+        "Because errors of omission remain",
+        "Because equal debits and credits can be wrongly recorded",
+        "Because ledger folio errors may exist"
+      ],
+      "answer": "Because equal debits and credits can be wrongly recorded",
+      "reference": "\"If equal debits and credits are entered into the wrong accounts... a trial balance would still show a perfect balance.\"\n— Ebook.docx, Disadvantages/Limitations of Trial Balance :contentReference[oaicite:50]{index=50}:contentReference[oaicite:51]{index=51}"
+    },
+    {
+      "question": "Which method tabulates closing balances brought down for each ledger account?",
+      "options": [
+        "Total Method",
+        "Balance Method",
+        "Combined Method",
+        "Summary Method"
+      ],
+      "answer": "Balance Method",
+      "reference": "\"Balance Method: Under this method, the closing balances of ledger accounts are tabulated in a separate statement.\"\n— Ebook.docx, Methods of Preparation of Trial Balance :contentReference[oaicite:52]{index=52}:contentReference[oaicite:53]{index=53}"
+    },
+    {
+      "question": "Which one of these is prepared after posting journal entries to the ledger?",
+      "options": [
+        "Final accounts",
+        "Cash flow statement",
+        "Trial balance",
+        "Bank reconciliation"
+      ],
+      "answer": "Trial balance",
+      "reference": "\"A trial balance is prepared after entering every financial transaction into the journals and then concisely mentioning on the ledger statements.\"\n— Ebook.docx, Preparation of Trial Balance :contentReference[oaicite:54]{index=54}:contentReference[oaicite:55]{index=55}"
+    },
+    {
+      "question": "In a trial balance worksheet, where are debit balances of ledger accounts shown?",
+      "options": [
+        "Particulars column",
+        "Debit balance column",
+        "Credit balance column",
+        "LF column"
+      ],
+      "answer": "Debit balance column",
+      "reference": "\"All debit balances are shown in the debit column and all credit balances in the credit column.\"\n— Ebook.docx, Balance Method section :contentReference[oaicite:56]{index=56}:contentReference[oaicite:57]{index=57}"
+    },
+    {
+      "question": "Which of the following accounts would appear in the credit column of a trial balance?",
+      "options": [
+        "Cash account",
+        "Salary account",
+        "Goodwill account",
+        "Rent expense account"
+      ],
+      "answer": "Goodwill account",
+      "reference": "\"Goodwill A/c\" appears in credit balance column.\"\n— Objective Question Bank.docx :contentReference[oaicite:58]{index=58}:contentReference[oaicite:59]{index=59}"
+    },
+    {
+      "question": "Which formula defines the balance of a ledger account?",
+      "options": [
+        "Difference between totals of debit and credit sides",
+        "Sum of debit entries only",
+        "Sum of credit entries only",
+        "Sum of all entries"
+      ],
+      "answer": "Difference between totals of debit and credit sides",
+      "reference": "\"It may show either debit balance or credit balance... It is the difference between the total of credit and debit in ledger account.\"\n— Ebook.docx, Balancing section :contentReference[oaicite:60]{index=60}:contentReference[oaicite:61]{index=61}"
+    },
+    {
+      "question": "Which trial balance format is also known as the vertical format?",
+      "options": [
+        "Ledger format",
+        "Journal format",
+        "T-account format",
+        "Summary format"
+      ],
+      "answer": "Journal format",
+      "reference": "\"Journal format: Also known as Vertical format. It has four columns...\"\n— Ebook.docx, Formats section :contentReference[oaicite:62]{index=62}:contentReference[oaicite:63]{index=63}"
+    },
+    {
+      "question": "Which type of account is always shown on the debit side in the trial balance?",
+      "options": [
+        "Expense accounts",
+        "Liability accounts",
+        "Capital accounts",
+        "Income accounts"
+      ],
+      "answer": "Expense accounts",
+      "reference": "\"The accounts of expenses and losses always show debit balance...\"\n— Ebook.docx, Meaning of balances for ledger accounts :contentReference[oaicite:64]{index=64}:contentReference[oaicite:65]{index=65}"
+    },
+    {
+      "question": "What must you do if debit and credit totals in the trial balance do not agree?",
+      "options": [
+        "Proceed to final accounts",
+        "Locate and rectify errors",
+        "Ignore minor differences",
+        "Repost all entries"
+      ],
+      "answer": "Locate and rectify errors",
+      "reference": "\"In case of a difference, find out the mistake and rectify it.\"\n— Ebook.docx, Preparation of Trial Balance :contentReference[oaicite:66]{index=66}:contentReference[oaicite:67]{index=67}"
+    },
+    {
+      "question": "Which account type shows the amount due to creditors?",
+      "options": [
+        "Personal account with debit balance",
+        "Personal account with credit balance",
+        "Real account",
+        "Nominal account"
+      ],
+      "answer": "Personal account with credit balance",
+      "reference": "\"If personal account shows a credit balance... it appears in credit balance column as Sundry Creditors.\"\n— Ebook.docx, Meaning of balances for ledger accounts :contentReference[oaicite:68]{index=68}:contentReference[oaicite:69]{index=69}"
+    },
+    {
+      "question": "Which ledger account balances become opening balances for the next period?",
+      "options": [
+        "Subsidiary ledger balances",
+        "Closing balances of ledger accounts",
+        "Trial balance totals",
+        "Journal totals"
+      ],
+      "answer": "Closing balances of ledger accounts",
+      "reference": "\"Closing balances of different ledger accounts are shown as Opening Balances for the next period.\"\n— Ebook.docx, Balancing section :contentReference[oaicite:70]{index=70}:contentReference[oaicite:71]{index=71}"
+    },
+    {
+      "question": "Which of the following is summarized by the trial balance?",
+      "options": [
+        "Final accounts",
+        "All financial transactions of a period",
+        "Detailed journal entries",
+        "Bank statements"
+      ],
+      "answer": "All financial transactions of a period",
+      "reference": "\"A business performs several numbers of financial transactions... The trial balance is prepared with a view to summarize all the financial transactions of the business.\"\n— Ebook.docx, Objectives of trial balance :contentReference[oaicite:72]{index=72}:contentReference[oaicite:73]{index=73}"
+    },
+    {
+      "question": "Which account’s balance always appears under liabilities in the trial balance?",
+      "options": [
+        "Expense account",
+        "Asset account",
+        "Capital account",
+        "Nominal account"
+      ],
+      "answer": "Capital account",
+      "reference": "\"Capital: This account is always balanced. It usually has a credit balance.\"\n— Ebook.docx, Balancing of accounts - Rules :contentReference[oaicite:74]{index=74}:contentReference[oaicite:75]{index=75}"
+    },
+    {
+      "question": "Which of these is a drawback of the gross trial balance?",
+      "options": [
+        "Does not show total balances",
+        "Does not disclose individual balances",
+        "Is never used in practice",
+        "Requires balancing each account"
+      ],
+      "answer": "Does not disclose individual balances",
+      "reference": "\"Gross Trial Balance... does not disclose the balance of each account.\"\n— Ebook.docx, Types of Trial Balance :contentReference[oaicite:76]{index=76}:contentReference[oaicite:77]{index=77}"
+    },
+    {
+      "question": "Which statement best captures the purpose of the balance method?",
+      "options": [
+        "Totals ledger entries without balancing",
+        "Lists only closing balances",
+        "Reconciles cash at bank",
+        "Summarizes journal vouchers"
+      ],
+      "answer": "Lists only closing balances",
+      "reference": "\"Balance Method... Only the balances of each ledger account are shown against its name.\"\n— Ebook.docx, Methods of Preparation of Trial Balance :contentReference[oaicite:78]{index=78}:contentReference[oaicite:79]{index=79}"
+    },
+    {
+        "question": "What is the first step in the accounting cycle as described in the ebook?",
+        "options": [
+          "Recording business transactions in the journal",
+          "Posting journal entries to the ledger",
+          "Preparing the trial balance worksheet",
+          "Closing and balancing ledger accounts"
+        ],
+        "answer": "Recording business transactions in the journal",
+        "reference": "\"As and when any business transaction takes place, it is recorded in books of original entries (Journal or Subsidiary).\"\n— Ebook.docx, Introduction :contentReference[oaicite:0]{index=0}:contentReference[oaicite:1]{index=1}"
+      },
+      {
+        "question": "Which book is referred to as the book of original entry?",
+        "options": [
+          "Ledger",
+          "Journal",
+          "Trial balance worksheet",
+          "Subsidiary ledger"
+        ],
+        "answer": "Journal",
+        "reference": "\"It is recorded in books of original entries (Journal or Subsidiary). Then these transactions are posted to ledger in respective accounts.\"\n— Ebook.docx, Introduction :contentReference[oaicite:2]{index=2}:contentReference[oaicite:3]{index=3}"
+      },
+      {
+        "question": "What term describes the process of transferring journal entries into ledger accounts?",
+        "options": [
+          "Journalizing",
+          "Posting",
+          "Balancing",
+          "Summarizing"
+        ],
+        "answer": "Posting",
+        "reference": "\"Then these transactions are posted to ledger in respective accounts.\"\n— Ebook.docx, Introduction :contentReference[oaicite:4]{index=4}:contentReference[oaicite:5]{index=5}"
+      },
+      {
+        "question": "Why is the trial balance called a \"statement of balance\"?",
+        "options": [
+          "Because it lists closing and opening balances together",
+          "Because it tests arithmetical equality of debits and credits",
+          "Because it summarizes the statement of financial position",
+          "Because it reconciles bank statements"
+        ],
+        "answer": "Because it tests arithmetical equality of debits and credits",
+        "reference": "\"Trial balance is a statement, prepared with the debit and credit balances of ledger accounts to test the arithmetical accuracy of the books. It is also called as “Statement of Balance”.\"\n— Ebook.docx, Meaning :contentReference[oaicite:6]{index=6}:contentReference[oaicite:7]{index=7}"
+      },
+      {
+        "question": "According to Kohler’s definition, what is the primary purpose of trial balance?",
+        "options": [
+          "To prepare cash flow statements",
+          "To establish equality of posted debits and credits",
+          "To calculate net profit or loss",
+          "To value closing inventory"
+        ],
+        "answer": "To establish equality of posted debits and credits",
+        "reference": "\"It is a list or abstract of the balances or of total debits and total credits of accounts in a ledger, with the purpose being to determine the equality of posted debits and credits and to establish a basic summary for final statements\" --------By Eric Kohler.\n— Ebook.docx, Meaning :contentReference[oaicite:8]{index=8}:contentReference[oaicite:9]{index=9}"
+      },
+      {
+        "question": "When can a trial balance be prepared, according to the ebook?",
+        "options": [
+          "Only at financial year-end",
+          "Periodically depending on business requirements",
+          "Only after monthly bank reconciliation",
+          "Only after preparing final accounts"
+        ],
+        "answer": "Periodically depending on business requirements",
+        "reference": "\"Usually, Trial Balance is prepared at the end of the financial year. However it can be prepared periodicaly depending upon requirement of the business.\"\n— Ebook.docx, Meaning :contentReference[oaicite:10]{index=10}:contentReference[oaicite:11]{index=11}"
+      },
+      {
+        "question": "Which of these is NOT an objective of preparing a trial balance?",
+        "options": [
+          "To check arithmetical accuracy",
+          "To locate accounting errors",
+          "To prepare bank reconciliation statements",
+          "To provide the base for preparing final accounts"
+        ],
+        "answer": "To prepare bank reconciliation statements",
+        "reference": "\"It is prepared to ascertain the arithmetical accuracy of Books of Accounts. It is a base for the preparation of final accounts.\"\n— Ebook.docx, Meaning :contentReference[oaicite:12]{index=12}:contentReference[oaicite:13]{index=13}"
+      },
+      {
+        "question": "Which function of trial balance helps pinpoint mistakes in journals and ledgers?",
+        "options": [
+          "Summarizing transactions",
+          "Checking arithmetical accuracy",
+          "Locating accounting errors",
+          "Providing up-to-date balances"
+        ],
+        "answer": "Locating accounting errors",
+        "reference": "\"Since the trial balance indicates if there is any error committed in the journal and the ledger, it helps the accountant to locate the error because the starting point of locating errors is trial balance itself.\"\n— Ebook.docx, Purpose of Trial Balance :contentReference[oaicite:14]{index=14}:contentReference[oaicite:15]{index=15}"
+      },
+      {
+        "question": "How does trial balance provide the base for preparing final accounts?",
+        "options": [
+          "By listing all expense details",
+          "By summarizing debit and credit balances of ledger accounts",
+          "By reconciling bank statements",
+          "By calculating depreciation"
+        ],
+        "answer": "By summarizing debit and credit balances of ledger accounts",
+        "reference": "\"Final accounts are prepared by using the debit and credit of all ledger accounts. Therefore, since the trial balance is a statement of the debit and credit balances of the ledger accounts, it provides the basis for the preparation of the final accounts.\"\n— Ebook.docx, Purpose of Trial Balance :contentReference[oaicite:16]{index=16}:contentReference[oaicite:17]{index=17}"
+      },
+      {
+        "question": "Which advantage of trial balance ensures all transactions have matched entries?",
+        "options": [
+          "Lists accounts as per date",
+          "Ensures identical debit and credit amounts",
+          "Provides condensed information",
+          "Detects all types of errors"
+        ],
+        "answer": "Ensures identical debit and credit amounts",
+        "reference": "\"It ensures that the transactions recorded in the books of accounts have identical debit and credit amount. Due to double entry system, every transaction has two equal yet opposite entries at every step.\"\n— Ebook.docx, Advantages of Trial Balance :contentReference[oaicite:18]{index=18}:contentReference[oaicite:19]{index=19}"
+      },
+      {
+        "question": "Why is a trial balance considered \"up-to-date data of all the transactions\"?",
+        "options": [
+          "Because it lists accounts as per date",
+          "Because it calculates profit and loss",
+          "Because it values inventory",
+          "Because it reconciles cash"
+        ],
+        "answer": "Because it lists accounts as per date",
+        "reference": "\"It lists accounts as per date. Hence it is the up-to-date data of all the transactions.\"\n— Ebook.docx, Advantages of Trial Balance :contentReference[oaicite:20]{index=20}:contentReference[oaicite:21]{index=21}"
+      },
+      {
+        "question": "What is one holistic view benefit of a trial balance?",
+        "options": [
+          "It offers a more holistic view of ledgers",
+          "It predicts future cash flows",
+          "It automates journal entries",
+          "It inventories fixed assets"
+        ],
+        "answer": "It offers a more holistic view of ledgers",
+        "reference": "\"It is basically a summary of all ledgers. Hence, it offers a more holistic view of a company’s accounts and transactions within a specific period.\"\n— Ebook.docx, Advantages of Trial Balance :contentReference[oaicite:22]{index=22}:contentReference[oaicite:23]{index=23}"
+      },
+      {
+        "question": "Which limitation of trial balance relates to incomplete account details?",
+        "options": [
+          "Gives only condensed information",
+          "Detects offsetting errors",
+          "Gives profit and loss details",
+          "Detects omission of transactions"
+        ],
+        "answer": "Gives only condensed information",
+        "reference": "\"A trial balance gives only condensed information of each account.\"\n— Ebook.docx, Disadvantages/Limitations of Trial Balance :contentReference[oaicite:24]{index=24}:contentReference[oaicite:25]{index=25}"
+      },
+      {
+        "question": "Why is agreement of trial balance not conclusive proof of accuracy?",
+        "options": [
+          "Because it does not detect simple mathematical mistakes",
+          "Because equal debits and credits can be entered into wrong accounts",
+          "Because it only lists condensed data",
+          "Because it cannot summarize financial transactions"
+        ],
+        "answer": "Because equal debits and credits can be entered into wrong accounts",
+        "reference": "\"If equal debits and credits are entered into the wrong accounts... a trial balance would still show a perfect balance...\"\n— Ebook.docx, Disadvantages/Limitations of Trial Balance :contentReference[oaicite:26]{index=26}:contentReference[oaicite:27]{index=27}"
+      },
+      {
+        "question": "Which error type will a trial balance detect?",
+        "options": [
+          "Compensating errors",
+          "Complete omission of transaction",
+          "Posting to wrong accounts",
+          "Arithmetic addition error"
+        ],
+        "answer": "Arithmetic addition error",
+        "reference": "\"It is prepared to ascertain the arithmetical accuracy of Books of Accounts.\"\n— Ebook.docx, Disadvantages/Limitations of Trial Balance :contentReference[oaicite:28]{index=28}:contentReference[oaicite:29]{index=29}"
+      },
+      {
+        "question": "Under which method are closing balances brought down into a separate statement?",
+        "options": [
+          "Balance Method",
+          "Total Method",
+          "Combined Method",
+          "Gross Method"
+        ],
+        "answer": "Balance Method",
+        "reference": "\"Balance Method: Under this method, the closing balances of ledger accounts are tabulated in a separate statement.\"\n— Ebook.docx, Methods of Preparation of Trial Balance :contentReference[oaicite:30]{index=30}:contentReference[oaicite:31]{index=31}"
+      },
+      {
+        "question": "Which method of preparation does NOT balance individual accounts?",
+        "options": [
+          "Total Method",
+          "Balance Method",
+          "Gross Method",
+          "Net Method"
+        ],
+        "answer": "Total Method",
+        "reference": "\"Total Method: In this method, ledger accounts are not balanced. They are totaled. These totals are entered in the debit and credit columns.\"\n— Ebook.docx, Methods of Preparation of Trial Balance :contentReference[oaicite:32]{index=32}:contentReference[oaicite:33]{index=33}"
+      },
+      {
+        "question": "In the gross trial balance, what is NOT shown?",
+        "options": [
+          "Total of credit side",
+          "Total of debit side",
+          "Individual account balances",
+          "Grand totals"
+        ],
+        "answer": "Individual account balances",
+        "reference": "\"Gross Trial Balance... It is prepared without balancing the accounts. This is not in common use as it does not disclose the balance of each account.\"\n— Ebook.docx, Types of Trial Balance :contentReference[oaicite:34]{index=34}:contentReference[oaicite:35]{index=35}"
+      },
+      {
+        "question": "Which trial balance type is most commonly used in practice?",
+        "options": [
+          "Net Trial Balance",
+          "Gross Trial Balance",
+          "Combined Trial Balance",
+          "Total Trial Balance"
+        ],
+        "answer": "Net Trial Balance",
+        "reference": "\"Net Trial Balance: Only the balances of each ledger account are shown against its name... This Trial Balance is used in practice very commonly.\"\n— Ebook.docx, Types of Trial Balance :contentReference[oaicite:36]{index=36}:contentReference[oaicite:37]{index=37}"
+      },
+      {
+        "question": "What does ‘To Balance c/d’ indicate in ledger balancing?",
+        "options": [
+          "Closing balance on debit side",
+          "Closing balance on credit side",
+          "Opening balance on debit side",
+          "Opening balance on credit side"
+        ],
+        "answer": "Closing balance on debit side",
+        "reference": "\"If the credit side total is higher than the debit side total then the difference amount is shown on debit side as ‘To Balance c/d’...\"\n— Ebook.docx, Balancing :contentReference[oaicite:38]{index=38}:contentReference[oaicite:39]{index=39}"
+      },
+      {
+        "question": "Upon balancing, how is a debit closing balance carried forward?",
+        "options": [
+          "As ‘By Balance b/d’ on credit side",
+          "As ‘To Balance b/d’ on debit side",
+          "As ‘By Balance c/d’ on credit side",
+          "As ‘To Balance c/d’ on debit side"
+        ],
+        "answer": "As ‘By Balance b/d’ on credit side",
+        "reference": "\"Closing balance shown on debit side... will be shown as Opening Balance on the credit side... as ‘By Balance b/d’.\"\n— Ebook.docx, Balancing :contentReference[oaicite:40]{index=40}:contentReference[oaicite:41]{index=41}"
+      },
+      {
+        "question": "Which account type always shows a debit balance in trial balance?",
+        "options": [
+          "Expense accounts",
+          "Liability accounts",
+          "Capital accounts",
+          "Income accounts"
+        ],
+        "answer": "Expense accounts",
+        "reference": "\"Nominal Accounts: The accounts of expenses and losses always show debit balance as they appear in debit balance column of trial balance.\"\n— Ebook.docx, Meaning of balances for ledger accounts :contentReference[oaicite:42]{index=42}:contentReference[oaicite:43]{index=43}"
+      },
+      {
+        "question": "Real accounts in trial balance relate to:",
+        "options": [
+          "Assets and properties",
+          "Incomes and gains",
+          "Expenses and losses",
+          "Liabilities only"
+        ],
+        "answer": "Assets and properties",
+        "reference": "\"Real accounts: Accounts which are related to assets and properties are real accounts. e.g.: Cash A/c, Furniture A/c etc. It always shows debit balance.\"\n— Ebook.docx, Meaning of balances for ledger accounts :contentReference[oaicite:44]{index=44}:contentReference[oaicite:45]{index=45}"
+      },
+      {
+        "question": "Personal accounts may show which of the following balances?",
+        "options": [
+          "Debit, credit, or nil",
+          "Only debit",
+          "Only credit",
+          "Always nil"
+        ],
+        "answer": "Debit, credit, or nil",
+        "reference": "\"Personal accounts: It may show either debit balance or credit balance or nil balance.\"\n— Ebook.docx, Meaning of balances for ledger accounts :contentReference[oaicite:46]{index=46}:contentReference[oaicite:47]{index=47}"
+      },
+      {
+        "question": "Which format of trial balance is also called the T-account format?",
+        "options": [
+          "Ledger format",
+          "Journal format",
+          "Total format",
+          "Balance format"
+        ],
+        "answer": "Ledger format",
+        "reference": "\"Ledger format: Also known as T or Horizontal format. The trial balance has two sides, left side includes debit balances and right side includes credit balances.\"\n— Ebook.docx, Formats :contentReference[oaicite:48]{index=48}:contentReference[oaicite:49]{index=49}"
+      },
+      {
+        "question": "In the journal (vertical) format, how many columns are there?",
+        "options": [
+          "Four: Particulars, LF, Debit, Credit",
+          "Three: Debit, LF, Credit",
+          "Five: Date, Particulars, LF, Debit, Credit",
+          "Two: Debit and Credit"
+        ],
+        "answer": "Four: Particulars, LF, Debit, Credit",
+        "reference": "\"Journal format: Also known as Vertical format. It has four columns: Particulars, LF, Debit balance and credit balance.\"\n— Ebook.docx, Formats :contentReference[oaicite:50]{index=50}:contentReference[oaicite:51]{index=51}"
+      },
+      {
+        "question": "Which of these rules applies to balancing capital accounts?",
+        "options": [
+          "Always have a credit balance",
+          "Always have a debit balance",
+          "May have nil balance",
+          "Total only, not balance"
+        ],
+        "answer": "Always have a credit balance",
+        "reference": "\"Capital: This account is always balanced. It usually has a credit balance.\"\n— Ebook.docx, Balancing of accounts – Rules :contentReference[oaicite:52]{index=52}:contentReference[oaicite:53]{index=53}"
+      },
+      {
+        "question": "What appears in the LF column of the trial balance worksheet?",
+        "options": [
+          "Ledger Folio numbers",
+          "Ledger balances",
+          "Journal page numbers",
+          "Date of transaction"
+        ],
+        "answer": "Ledger Folio numbers",
+        "reference": "\"Prepare a worksheet with headers like account name, number, debit and credit balances.\"\n— Ebook.docx, Preparation of Trial Balance :contentReference[oaicite:54]{index=54}:contentReference[oaicite:55]{index=55}"
+      },
+      {
+        "question": "Which step follows balancing ledger accounts when preparing trial balance?",
+        "options": [
+          "Filling the trial balance worksheet",
+          "Performing bank reconciliation",
+          "Closing the journals",
+          "Calculating depreciation"
+        ],
+        "answer": "Filling the trial balance worksheet",
+        "reference": "\"Prepare a worksheet with headers like account name, number, debit and credit balances. Fill up this worksheet by transferring the data from ledger accounts.\"\n— Ebook.docx, Preparation of Trial Balance :contentReference[oaicite:56]{index=56}:contentReference[oaicite:57]{index=57}"
+      },
+      {
+        "question": "Which purpose of trial balance helps verify correctness of individual ledger account computations?",
+        "options": [
+          "To know final balance of any ledger account",
+          "To summarize financial transactions",
+          "To prepare final accounts",
+          "To reconcile bank statements"
+        ],
+        "answer": "To know final balance of any ledger account",
+        "reference": "\"To know the final balance of any ledger account. To check arithmetical accuracy of each and every account.\"\n— Ebook.docx, Purpose of Trial Balance :contentReference[oaicite:58]{index=58}:contentReference[oaicite:59]{index=59}"
+      },
+      {
+        "question": "Which of these statements is part of the trial balance introduction?",
+        "options": [
+          "It is the evaluation stage of accounting",
+          "It calculates profit and loss directly",
+          "It determines tax liabilities",
+          "It records cash receipts"
+        ],
+        "answer": "It is the evaluation stage of accounting",
+        "reference": "\"Trial balance is the evaluation stage of the process of accounting.\"\n— Ebook.docx, Introduction :contentReference[oaicite:60]{index=60}:contentReference[oaicite:61]{index=61}"
+      },
+      {
+        "question": "Which item is NOT listed as part of the advantages of trial balance?",
+        "options": [
+          "Helps detect arithmetic errors",
+          "Provides base for final accounts",
+          "Lists accounts as per date",
+          "Detects every type of bookkeeping error"
+        ],
+        "answer": "Detects every type of bookkeeping error",
+        "reference": "\"A trial balance cannot detect bookkeeping errors that are not simple mathematical mistakes.\"\n— Ebook.docx, Disadvantages/Limitations of Trial Balance :contentReference[oaicite:62]{index=62}:contentReference[oaicite:63]{index=63}"
+      },
+      {
+        "question": "Which function ensures that every account’s balance is correctly transferred to the trial balance?",
+        "options": [
+          "Accurate posting from ledger",
+          "Bank reconciliation",
+          "Cash book balancing",
+          "Depreciation calculation"
+        ],
+        "answer": "Accurate posting from ledger",
+        "reference": "\"Balance of each and every ledger account has been transferred accurately and on the correct side of the sheet on which trial balance has been prepared.\"\n— Ebook.docx, Advantages of Trial Balance :contentReference[oaicite:64]{index=64}:contentReference[oaicite:65]{index=65}"
+      },
+      {
+        "question": "Which limitation arises when transactions are omitted entirely?",
+        "options": [
+          "Trial balance shows equal totals",
+          "Trial balance lists condensed information",
+          "Errors of omission cannot be detected",
+          "Offsets errors are detected"
+        ],
+        "answer": "Errors of omission cannot be detected",
+        "reference": "\"A trial balance cannot detect bookkeeping errors that are not simple mathematical mistakes.\"\n— Ebook.docx, Disadvantages/Limitations of Trial Balance :contentReference[oaicite:66]{index=66}:contentReference[oaicite:67]{index=67}"
+      },
+      {
+        "question": "Which of the following is a general purpose of producing a trial balance?",
+        "options": [
+          "To ensure entries are mathematically correct",
+          "To calculate inventory values",
+          "To prepare cash flow statements",
+          "To assess credit risk"
+        ],
+        "answer": "To ensure entries are mathematically correct",
+        "reference": "\"The general purpose of producing a trial balance is to ensure the entries in a company's bookkeeping system are mathematically correct.\"\n— Ebook.docx, Purpose of Trial Balance :contentReference[oaicite:68]{index=68}:contentReference[oaicite:69]{index=69}"
+      },
+      {
+        "question": "Which of these balances is carried down as opening balance for next period?",
+        "options": [
+          "Closing balances of ledger accounts",
+          "Totals of journal vouchers",
+          "Bank statement closing balance",
+          "Final accounts totals"
+        ],
+        "answer": "Closing balances of ledger accounts",
+        "reference": "\"Closing balances of different ledger accounts are shown as Opening Balances for the next period.\"\n— Ebook.docx, Balancing :contentReference[oaicite:70]{index=70}:contentReference[oaicite:71]{index=71}"
+      },
+      {
+        "question": "Which statement describes a net trial balance?",
+        "options": [
+          "Shows only individual account balances",
+          "Totals debit and credit without balancing",
+          "Lists transactions by date",
+          "Prepares final accounts automatically"
+        ],
+        "answer": "Shows only individual account balances",
+        "reference": "\"Net Trial Balance: Only the balances of each ledger account are shown against its name...\"\n— Ebook.docx, Types of Trial Balance :contentReference[oaicite:72]{index=72}:contentReference[oaicite:73]{index=73}"
+      },
+      {
+        "question": "Which of these is recorded in the credit column of a trial balance worksheet?",
+        "options": [
+          "Liabilities, income and gains",
+          "Assets and expenses",
+          "All capital withdrawals",
+          "All purchases"
+        ],
+        "answer": "Liabilities, income and gains",
+        "reference": "\"All liabilities, income and gain must be on credit side.\"\n— Ebook.docx, Formats :contentReference[oaicite:74]{index=74}:contentReference[oaicite:75]{index=75}"
+      },
+      {
+        "question": "What indicates a debit balance when balancing ledger accounts?",
+        "options": [
+          "Debit side total exceeds credit side total",
+          "Credit side total exceeds debit side total",
+          "Only credit entries recorded",
+          "Only debit entries recorded"
+        ],
+        "answer": "Debit side total exceeds credit side total",
+        "reference": "\"If the debit side total is more than the credit side then difference will be shown on credit side as ‘By Balance c/d’...\"\n— Ebook.docx, Balancing :contentReference[oaicite:76]{index=76}:contentReference[oaicite:77]{index=77}"
+      },
+      {
+        "question": "Which part of the trial balance worksheet shows the account name?",
+        "options": [
+          "Particulars column",
+          "Debit column",
+          "Credit column",
+          "Balance column"
+        ],
+        "answer": "Particulars column",
+        "reference": "\"It has four columns: Particulars, LF, Debit balance and credit balance.\"\n— Ebook.docx, Formats :contentReference[oaicite:78]{index=78}:contentReference[oaicite:79]{index=79}"
+      },
+      {
+        "question": "Which of the following appears in debit balance column?",
+        "options": [
+          "Expense accounts",
+          "Income accounts",
+          "Liability accounts",
+          "Capital accounts"
+        ],
+        "answer": "Expense accounts",
+        "reference": "\"The accounts of expenses and losses always show debit balance as they appear in debit balance column of trial balance.\"\n— Ebook.docx, Meaning of balances for ledger accounts :contentReference[oaicite:80]{index=80}:contentReference[oaicite:81]{index=81}"
+      },
+      {
+        "question": "Which account’s balance reflects amount due to creditors?",
+        "options": [
+          "Personal account with credit balance",
+          "Personal account with debit balance",
+          "Real account",
+          "Nominal account"
+        ],
+        "answer": "Personal account with credit balance",
+        "reference": "\"If personal account shows a credit balance... it appears in credit balance column as Sundry Creditors.\"\n— Ebook.docx, Meaning of balances for ledger accounts :contentReference[oaicite:82]{index=82}:contentReference[oaicite:83]{index=83}"
+      },
+      {
+        "question": "Which of the following is NOT part of the trial balance preparation steps?",
+        "options": [
+          "Transferring balances to worksheet",
+          "Balancing individual ledger accounts",
+          "Summarizing debit and credit totals",
+          "Calculating depreciation expense"
+        ],
+        "answer": "Calculating depreciation expense",
+        "reference": "\"After finishing up the entries, add-up the amounts of debit and credit columns. In case, the total on both sides are the same...\"\n— Ebook.docx, Preparation of Trial Balance :contentReference[oaicite:84]{index=84}:contentReference[oaicite:85]{index=85}"
+      },
+      {
+        "question": "Which is a key objective of preparing trial balance in accounting?",
+        "options": [
+          "To summarize financial transactions",
+          "To value inventory at cost",
+          "To calculate tax payable",
+          "To prepare bank statements"
+        ],
+        "answer": "To summarize financial transactions",
+        "reference": "\"The trial balance is prepared with a view to summarize all the financial transactions of the business.\"\n— Ebook.docx, Objectives of Trial Balance :contentReference[oaicite:86]{index=86}:contentReference[oaicite:87]{index=87}"
+      }
+  ]
+  

@@ -1,0 +1,620 @@
+[
+    {
+        "question": "What is accounting primarily understood as in the context of a business organization?",
+        "options": ["The Language of Business", "The Art of Writing", "The Science of Production", "The Process of Marketing"],
+        "answer": "The Language of Business",
+        "reference": "Usually, accounting is understood as the Language of Business."
+    },
+    {
+        "question": "Which of the following best describes the role of financial statements in accounting?",
+        "options": ["They manage employee performance", "They communicate business performance in monetary terms", "They set business goals", "They regulate market competition"],
+        "answer": "They communicate business performance in monetary terms",
+        "reference": "The documents, which communicate these findings about the performance of an organization in monetary terms, are called financial statements."
+    },
+    {
+        "question": "What is a better way to describe accounting beyond being the Language of Business?",
+        "options": ["The Language of Financial Decisions", "The Language of Employee Management", "The Language of Product Development", "The Language of Market Analysis"],
+        "answer": "The Language of Financial Decisions",
+        "reference": "As such, a better way to understand accounting could be to call it The Language of Financial Decisions."
+    },
+    {
+        "question": "Why is accounting considered a continuous cycle in a business organization?",
+        "options": ["It involves hiring and training employees", "It measures and reports results to decision-makers", "It develops new products", "It conducts market surveys"],
+        "answer": "It measures and reports results to decision-makers",
+        "reference": "It is a continuous cycle of measurement of results and reporting of results to decision makers."
+    },
+    {
+        "question": "What is the procedural element of accounting, similar to arithmetic in mathematics?",
+        "options": ["Financial planning", "Book keeping", "Cost analysis", "Tax preparation"],
+        "answer": "Book keeping",
+        "reference": "Just like arithmetic is a procedural element of mathematics, book keeping is the procedural element of accounting."
+    },
+    {
+        "question": "Where can the origins of accounting records be traced back to?",
+        "options": ["Industrial Revolution", "Ancient civilizations", "Renaissance Europe", "Modern corporations"],
+        "answer": "Ancient civilizations",
+        "reference": "Accounting records can be traced back to the ancient civilizations of China, Babylonia, Greece and Egypt."
+    },
+    {
+        "question": "What development in the 1400s contributed to the growth of accounting?",
+        "options": ["Industrial revolution", "Double entry book keeping", "Corporate governance", "Tax legislation"],
+        "answer": "Double entry book keeping",
+        "reference": "During 1400s, accounting grew further because the needs for information of merchants in the Venis City of Italy increased. The first known description of double entry book keeping was first published in 1994 by Lucas Pacioli."
+    },
+    {
+        "question": "Why did accounting become a formal branch of study during the industrial revolution?",
+        "options": ["Due to increased competition and mass production", "Due to government regulations", "Due to reduced business complexity", "Due to fewer companies"],
+        "answer": "Due to increased competition and mass production",
+        "reference": "The onset of the industrial revolution necessitated the development of more sophisticated accounting system, rather than pricing the goods based on guesses about the costs. The increase in competition and mass production of goods led to the rise of accounting as a formal branch of study."
+    },
+    {
+        "question": "How did the separation of ownership and management in the nineteenth century affect accounting?",
+        "options": ["It simplified accounting processes", "It led to structured systems for reporting performance", "It eliminated the need for financial statements", "It reduced the role of accountants"],
+        "answer": "It led to structured systems for reporting performance",
+        "reference": "As the complexities of business grew, ownership and management of business was divorced. As such, managers had to come up with well-defined, structured systems of accounting to report the performance of the business to its owners."
+    },
+    {
+        "question": "What role does the government play in accounting developments?",
+        "options": ["It reduces the need for accounting", "It demands stringent accountability in the corporate sector", "It eliminates tax obligations", "It simplifies financial reporting"],
+        "answer": "It demands stringent accountability in the corporate sector",
+        "reference": "As such, the government demands stringent accountability in the corporate sector, which forces the accounting process to be as objective and formal as possible."
+    },
+    {
+        "question": "Who uses accounting information to evaluate the profitability and solvency of a company?",
+        "options": ["Employees", "Investors and creditors", "Customers", "Competitors"],
+        "answer": "Investors and creditors",
+        "reference": "Investors and creditors are keen to evaluate the profitability and solvency of a company before they decide to provide money to the organization."
+    },
+    {
+        "question": "What do business managers use accounting information for?",
+        "options": ["Setting goals and evaluating progress", "Designing products", "Conducting market research", "Hiring employees"],
+        "answer": "Setting goals and evaluating progress",
+        "reference": "Business Managers have to set goals, evaluate progress and initiate corrective action in case of unfavorable deviation from the planned course of action."
+    },
+    {
+        "question": "Why do government and regulatory agencies need accounting information?",
+        "options": ["To promote competition", "To guide the socio-economic system", "To manage employee wages", "To develop new products"],
+        "answer": "To guide the socio-economic system",
+        "reference": "Government and Regulatory agencies are charged with the responsibility of guiding the socio-economic system of a country in such a way that it promotes common good."
+    },
+    {
+        "question": "How do employees and trade unions utilize accounting information?",
+        "options": ["To design marketing strategies", "To settle issues related to wages and bonuses", "To develop new products", "To reduce taxes"],
+        "answer": "To settle issues related to wages and bonuses",
+        "reference": "Employees and trade unions use the accounting information to settle various issues related to wages, bonus, profit sharing, etc."
+    },
+    {
+        "question": "What is the primary focus of financial accounting?",
+        "options": ["Cost analysis", "Preparation of financial statements", "Future planning", "Employee management"],
+        "answer": "Preparation of financial statements",
+        "reference": "Financial accounting is primarily concerned with the preparation of financial statements."
+    },
+    {
+        "question": "What is a key characteristic of management accounting?",
+        "options": ["It is historical in nature", "It is forward looking", "It follows strict principles", "It focuses on external reporting"],
+        "answer": "It is forward looking",
+        "reference": "An important characteristic of management accounting is that it is forward looking. Its basic focus is one future activity to be performed and not what has already happened in the past."
+    },
+    {
+        "question": "What does cost accounting primarily provide?",
+        "options": ["Detailed breakup of costs", "General financial statements", "Market analysis", "Employee performance data"],
+        "answer": "Detailed breakup of costs",
+        "reference": "The basic purpose of cost accounting is to provide a detailed breakup of cost of different departments, processes, jobs, products, sales territories, etc."
+    },
+    {
+        "question": "Which type of accounting is concerned with external reporting to stakeholders like creditors and investors?",
+        "options": ["Cost accounting", "Management accounting", "Financial accounting", "Tax accounting"],
+        "answer": "Financial accounting",
+        "reference": "Financial accounting is charged with the primary responsibility of external reporting. The users of information generated by financial accounting, like bankers, financial institutions, regulatory authorities, government, investors, etc."
+    },
+    {
+        "question": "What is a limitation of financial accounting?",
+        "options": ["It provides detailed cost breakdowns", "It is consolidated and lacks departmental break-up", "It is forward looking", "It distinguishes between fixed and variable costs"],
+        "answer": "It is consolidated and lacks departmental break-up",
+        "reference": "The information provided by financial accounting is consolidated in nature. It does not indicate a break-up for different departments, processes, products and jobs."
+    },
+    {
+        "question": "How does management accounting assist in business operations?",
+        "options": ["By preparing tax returns", "By facilitating planning and control", "By conducting market surveys", "By designing products"],
+        "answer": "By facilitating planning and control",
+        "reference": "Management accounting, therefore, specifically helps in planning and control."
+    },
+    {
+        "question": "What is a key advantage of cost accounting over financial accounting?",
+        "options": ["It provides consolidated data", "It helps segregate and analyze individual cost items", "It is historical in nature", "It avoids cost control"],
+        "answer": "It helps segregate and analyze individual cost items",
+        "reference": "It is easier to segregate and analyse individual cost items and to minimize losses and wastages arising from the manufacturing process."
+    },
+    {
+        "question": "Who are the primary users of financial accounting information?",
+        "options": ["Business managers only", "Outside parties and managers", "Employees only", "Customers only"],
+        "answer": "Outside parties and managers",
+        "reference": "Basis of distinction financial accounting Management accounting 1. Primary user outside parties and manager of the business Business managers."
+    },
+    {
+        "question": "What is the time focus of management accounting?",
+        "options": ["Past orientation", "Future orientation", "Current operations only", "Historical data only"],
+        "answer": "Future orientation",
+        "reference": "Time focus past orientation Future orientation."
+    },
+    {
+        "question": "How does financial accounting differ from management accounting in terms of decision criteria?",
+        "options": ["It uses cost-benefit analysis", "It is based on generally accepted accounting principles", "It focuses on employee behavior", "It avoids external reporting"],
+        "answer": "It is based on generally accepted accounting principles",
+        "reference": "Decision criterion Accounts are based on generally accepted accounting principles Comparison of costs and benefits of proposed action."
+    },
+    {
+        "question": "What is the behavioral implication concern of management accounting?",
+        "options": ["Adequacy of disclosure", "How reports affect employee behavior", "Historical accuracy", "Market trends"],
+        "answer": "How reports affect employee behavior",
+        "reference": "Behavioral implications Concern about adequacy of disclosure. Behavioral implications are secondary behavior Concern about how reports will affect employee."
+    },
+    {
+        "question": "What does the term ‘accrual’ mean in accounting?",
+        "options": ["Recognition of revenues and costs as they are earned or incurred", "Payment of cash for expenses", "Recording of historical data", "Estimation of future profits"],
+        "answer": "Recognition of revenues and costs as they are earned or incurred",
+        "reference": "Accrual: Recognition of revenues and costs as they are earned or incurred. It includes recognition of transaction relating to assets and liabilities as they occur irrespective of the actual receipts or payment."
+    },
+    {
+        "question": "What is the definition of ‘income’ in accounting?",
+        "options": ["Excess of expenses over revenue", "Excess of revenue over expenses", "Total amount invested", "Cost of production"],
+        "answer": "Excess of revenue over expenses",
+        "reference": "Income: Excess of revenue over expenses."
+    },
+    {
+        "question": "What does the term ‘loss’ refer to in accounting?",
+        "options": ["Excess of revenue over expenses", "Excess of expenses over revenue", "Total sales revenue", "Capital investment"],
+        "answer": "Excess of expenses over revenue",
+        "reference": "Loss: Excess of expenses over revenue."
+    },
+    {
+        "question": "What is meant by ‘capital’ in accounting?",
+        "options": ["Amount invested by the owner", "Total revenue earned", "Cost of goods sold", "Employee wages"],
+        "answer": "Amount invested by the owner",
+        "reference": "Capital: Generally refers to the amount invested in an enterprise by its owner."
+    },
+    {
+        "question": "What is an ‘investment’ in accounting terms?",
+        "options": ["Expenditure on assets to earn income or profit", "Payment of employee salaries", "Cost of raw materials", "Tax payments"],
+        "answer": "Expenditure on assets to earn income or profit",
+        "reference": "Investment: Expenditure on assets held to earn interest, income, profit or other benefits."
+    },
+    {
+        "question": "What does the separate business entity concept assume about the business and its owner?",
+        "options": ["They are the same entity", "They are distinct entities", "They share liabilities", "They have no financial relationship"],
+        "answer": "They are distinct entities",
+        "reference": "In accounting we make a distinction between business and the owner. All the books of accounts records day to day financial transactions from the view point of the business rather than from that of the owner."
+    },
+    {
+        "question": "How is the owner’s capital treated under the separate business entity concept?",
+        "options": ["As an expense", "As a liability of the business", "As revenue", "As an asset"],
+        "answer": "As a liability of the business",
+        "reference": "The proprietor is considered as a creditor to the extent of the capital brought in business by him. For instance, when a person invests Rs. 10 lakh into a business, it will be treated that the business has borrowed that much money from the owner and it will be shown as a ‘liability’ in the books of accounts of business."
+    },
+    {
+        "question": "What is a limitation of the money measurement concept in accounting?",
+        "options": ["It records all transactions", "It ignores non-monetary events", "It adjusts for inflation", "It includes personal biases"],
+        "answer": "It ignores non-monetary events",
+        "reference": "Firstly, there are several facts which though very important to the business, cannot be recorded in the books of accounts because they cannot be expressed in money terms."
+    },
+    {
+        "question": "What does the dual aspect concept state about business transactions?",
+        "options": ["They have a single effect", "They have a dual effect", "They are recorded only in cash", "They are historical"],
+        "answer": "They have a dual effect",
+        "reference": "According to this concept every business transactions has dual effect."
+    },
+    {
+        "question": "What is the accounting equation derived from the dual aspect concept?",
+        "options": ["Assets = Revenue + Expenses", "Assets = Liabilities + Owners Equity", "Liabilities = Assets + Equity", "Equity = Revenue - Expenses"],
+        "answer": "Assets = Liabilities + Owners Equity",
+        "reference": "It follows from ‘dual aspect concept’ that at any point of time owners’ equity and liabilities for any accounting entity will be equal to assets owned by that entity. This idea is fundamental to accounting and could be expressed as the following equalities: Assets = Liabilities + Owners Equity."
+    },
+    {
+        "question": "What assumption does the going concern concept make about a business?",
+        "options": ["It will cease operations soon", "It will continue to operate for a long time", "It will liquidate its assets", "It will reduce its operations"],
+        "answer": "It will continue to operate for a long time",
+        "reference": "Accounting assumes that the business entity will continue to operate for a long time in the future unless there is good evidence to the contrary."
+    },
+    {
+        "question": "Why does the going concern concept avoid using forced sale values for assets?",
+        "options": ["To simplify accounting", "Because the business is assumed to continue", "To increase profits", "To reduce liabilities"],
+        "answer": "Because the business is assumed to continue",
+        "reference": "Because of this assumption, the accountant while valuing the assets does not take into account forced sale value of them."
+    },
+    {
+        "question": "What does the accounting period concept require for financial reporting?",
+        "options": ["Reporting every transaction daily", "Dividing the business life into segments", "Reporting only at liquidation", "Ignoring short-term results"],
+        "answer": "Dividing the business life into segments",
+        "reference": "This concept requires that the life of the business should be divided into appropriate segments for studying the financial results shown by the enterprise after each segment."
+    },
+    {
+        "question": "What is the most common interval for external financial reporting?",
+        "options": ["One month", "One year", "Six months", "Three months"],
+        "answer": "One year",
+        "reference": "A year is the most common interval on account of prevailing practice, tradition and government requirements."
+    },
+    {
+        "question": "How are assets recorded under the cost concept?",
+        "options": ["At their market value", "At their original purchase price", "At their future value", "At their replacement cost"],
+        "answer": "At their original purchase price",
+        "reference": "According to this concept an asset is ordinarily entered on the accounting records at the price paid to acquire it."
+    },
+    {
+        "question": "What is the primary purpose of depreciation under the cost concept?",
+        "options": ["To adjust asset market value", "To allocate asset cost over its useful life", "To increase profits", "To reduce taxes"],
+        "answer": "To allocate asset cost over its useful life",
+        "reference": "The prime purpose of depreciation is to allocate the cost of an asset over its useful life and not to adjust its cost."
+    },
+    {
+        "question": "What does the matching concept involve in financial reporting?",
+        "options": ["Matching revenues with expenses", "Matching assets with liabilities", "Matching cash inflows with outflows", "Matching capital with revenue"],
+        "answer": "Matching revenues with expenses",
+        "reference": "In reality we match revenues and expenses during the accounting periods. Matching is the entire process of periodic earnings measurement, often described as a process of matching expenses with revenues."
+    },
+    {
+        "question": "What does the accrual concept distinguish between?",
+        "options": ["Cash receipts and the right to receive cash", "Revenue and expenses", "Assets and liabilities", "Capital and income"],
+        "answer": "Cash receipts and the right to receive cash",
+        "reference": "Accrual concept makes a distinction between the receipt of cash and the right to receive it, and the payment of cash and the legal obligation to pay it."
+    },
+    {
+        "question": "When is revenue recognized under the realisation concept?",
+        "options": ["When cash is received", "When sale is made", "When expenses are incurred", "When assets are purchased"],
+        "answer": "When sale is made",
+        "reference": "According to realisation concept revenue is recognised when sale is made."
+    },
+    {
+        "question": "What is the convention of materiality concerned with in accounting?",
+        "options": ["Recording only significant items", "Ensuring historical accuracy", "Ignoring all transactions", "Focusing on future projections"],
+        "answer": "Recording only significant items",
+        "reference": "The term ‘convention’ is used to signify customs or tradition as a guide to the preparation of accounting statement, main conventions of accounting are- (i) convention of materiality."
+    },
+    {
+        "question": "What does the convention of conservatism emphasize?",
+        "options": ["Overstating profits", "Following the safe side", "Ignoring losses", "Maximizing revenue"],
+        "answer": "Following the safe side",
+        "reference": "Conservatism means to follow safe side."
+    },
+    {
+        "question": "What is the purpose of the convention of consistency in accounting?",
+        "options": ["To change accounting methods frequently", "To ensure comparability over time", "To reduce financial reporting", "To focus on short-term results"],
+        "answer": "To ensure comparability over time",
+        "reference": "Generally accepted principles and standards provide a common financial language to enable informed users to read and interpret financial statements."
+    },
+    {
+        "question": "What type of asset is goodwill classified as?",
+        "options": ["Tangible", "Intangible", "Movable", "Fixed"],
+        "answer": "Intangible",
+        "reference": "Goodwill is an Intangible Asset."
+    },
+    {
+        "question": "Which concept defines that the business and its owner are two separate entities?",
+        "options": ["Going concern", "Business entity", "Accrual", "Matching"],
+        "answer": "Business entity",
+        "reference": "Business and owner of business are two separate entity is defined by Business entity concept."
+    },
+    {
+        "question": "What is the surplus of income over expenses called?",
+        "options": ["Loss", "Profit", "Discount", "Deficit"],
+        "answer": "Profit",
+        "reference": "Surplus income over-expenses is called as Profit."
+    },
+    {
+        "question": "Which principle requires footnotes in financial statements for important information?",
+        "options": ["Conservatism", "Economic Entity", "Full Disclosure", "Matching"],
+        "answer": "Full Disclosure",
+        "reference": "Which principle/guideline requires the company's financial statements to have footnotes containing information that is important to users of the financial statements? Full Disclosure."
+    },
+    {
+        "question": "Is Mr. Ram considered a Real Account in accounting?",
+        "options": ["True", "False", "Partially true", "Not applicable"],
+        "answer": "True",
+        "reference": "Mr. Ram is Real Account."
+    },
+    {
+        "question": "What type of accounting includes cost accounting as a variant?",
+        "options": ["Financial accounting", "Management accounting", "Tax accounting", "Forensic accounting"],
+        "answer": "Management accounting",
+        "reference": "One important variant of management accounting is the cost analysis."
+    },
+    {
+        "question": "What does financial accounting not distinguish between, unlike cost accounting?",
+        "options": ["Revenue and expenses", "Fixed and variable costs", "Assets and liabilities", "Income and loss"],
+        "answer": "Fixed and variable costs",
+        "reference": "Financial accounting does not help in knowing the cost behaviour as it does not distinguish between fixed and variable costs."
+    },
+    {
+        "question": "What is the focus of cost accounting in terms of decision-making?",
+        "options": ["Marketing strategies", "Pricing and product-mix decisions", "Employee training", "Market expansion"],
+        "answer": "Pricing and product-mix decisions",
+        "reference": "Cost accounting also helps in making revenue decisions such as those related to pricing, product-mix, profit-volume decisions, expansion of business, replacement decisions, etc."
+    },
+    {
+        "question": "What does the money measurement concept assume about the value of money?",
+        "options": ["It fluctuates constantly", "It remains stable", "It is irrelevant", "It is subjective"],
+        "answer": "It remains stable",
+        "reference": "Secondly, use of money implies that we assume stable or constant value of rupee."
+    },
+    {
+        "question": "What is a challenge posed by the accounting period concept?",
+        "options": ["Allocation of long-term costs", "Recording daily transactions", "Estimating future profits", "Reducing liabilities"],
+        "answer": "Allocation of long-term costs",
+        "reference": "This concept poses difficulty for the process of allocation of long term costs."
+    },
+    {
+        "question": "What is the term ‘book value’ associated with in the cost concept?",
+        "options": ["Market value of assets", "Amount shown in accounting records", "Future value of assets", "Replacement cost"],
+        "answer": "Amount shown in accounting records",
+        "reference": "The term ‘book value’ is used for amount shown in the accounting records."
+    },
+    {
+        "question": "What is the rationale behind the realisation concept for revenue recognition?",
+        "options": ["Delivery validates a claim against the customer", "Cash payment is received", "Expenses are incurred", "Assets are acquired"],
+        "answer": "Delivery validates a claim against the customer",
+        "reference": "The rationale is that delivery validates a claim against the customer."
+    },
+    {
+        "question": "What are accounting principles accepted for, according to the documents?",
+        "options": ["Their complexity", "Their usefulness", "Their historical basis", "Their regulatory enforcement"],
+        "answer": "Their usefulness",
+        "reference": "Accounting principles are accepted because they are believed to be useful."
+    },
+    {
+        "question": "What are the three basic norms for accepting an accounting principle?",
+        "options": ["Complexity, subjectivity, cost", "Usefulness, objectiveness, feasibility", "Historical accuracy, flexibility, simplicity", "Regulation, consistency, profitability"],
+        "answer": "Usefulness, objectiveness, feasibility",
+        "reference": "The general acceptance of an accounting principle usually depends on how well it meets the following three basic norms: (a) Usefulness; (b) Objectiveness; and (c) Feasibility."
+    },
+    {
+        "question": "What does the term ‘convention’ signify in accounting?",
+        "options": ["Legal requirements", "Customs or traditions", "Mathematical formulas", "Future projections"],
+        "answer": "Customs or traditions",
+        "reference": "The term ‘convention’ is used to signify customs or tradition as a guide to the preparation of accounting statement."
+    },
+    {
+        "question": "Which of the following is an accounting convention?",
+        "options": ["Dual aspect", "Conservatism", "Accrual", "Cost"],
+        "answer": "Conservatism",
+        "reference": "The term ‘convention’ is used to signify customs or tradition as a guide to the preparation of accounting statement, main conventions of accounting are- (i) convention of materiality, convention of conservatism."
+    },
+    {
+        "question": "What is the purpose of financial statements in financial accounting?",
+        "options": ["To train employees", "To provide information to stakeholders", "To reduce taxes", "To design products"],
+        "answer": "To provide information to stakeholders",
+        "reference": "Financial accounting deals with the preparation of financial statements for the basic purpose of providing information to various interested groups like creditors, banks, shareholders, financial institutions, government, consumers, etc."
+    },
+    {
+        "question": "What is a drawback of financial accounting’s historical nature?",
+        "options": ["It is too complex", "It has limited predictability", "It ignores costs", "It avoids reporting"],
+        "answer": "It has limited predictability",
+        "reference": "The information provided by financial accounting is historical in nature and as such the predictability of such information is limited."
+    },
+    {
+        "question": "What type of reports does management accounting generate?",
+        "options": ["Summary reports for the entire entity", "Detailed reports on parts of the entity", "Historical financial statements", "Tax compliance reports"],
+        "answer": "Detailed reports on parts of the entity",
+        "reference": "Reports Summary reports regarding the whole entity Detailed reports on the parts of the entity."
+    },
+    {
+        "question": "What does cost accounting help minimize in the manufacturing process?",
+        "options": ["Employee turnover", "Losses and wastages", "Market competition", "Tax liabilities"],
+        "answer": "Losses and wastages",
+        "reference": "It is easier to segregate and analyse individual cost items and to minimize losses and wastages arising from the manufacturing process."
+    },
+    {
+        "question": "What is the focus of accounting principles according to the Canadian Institute of Chartered Accountants?",
+        "options": ["Explaining current practices and guiding procedures", "Enforcing tax regulations", "Simplifying financial reporting", "Predicting market trends"],
+        "answer": "Explaining current practices and guiding procedures",
+        "reference": "Accounting principles have been defined by the Canadian Institute of Chartered Accountants as ‘The body of doctrines commonly associated with the theory and procedure of accounting serving as an explanation of current practices and as a guide for the selection of conventions or procedures where alternatives exists.’"
+    },
+    {
+        "question": "What does the American Institute of Certified Public Accountants (AICPA) describe as the role of accounting principles?",
+        "options": ["To complicate financial reporting", "To provide a common financial language", "To reduce accounting standards", "To focus on tax evasion"],
+        "answer": "To provide a common financial language",
+        "reference": "Thus, generally accepted principles and standards provide a common financial language to enable informed users to read and interpret financial statements."
+    },
+    {
+        "question": "What is a key feature of accounting principles according to their general acceptance?",
+        "options": ["They are legally enforced", "They are universally adopted", "They meet norms of usefulness, objectiveness, feasibility", "They are temporary"],
+        "answer": "They meet norms of usefulness, objectiveness, feasibility",
+        "reference": "The general acceptance of an accounting principle usually depends on how well it meets the following three basic norms: (a) Usefulness; (b) Objectiveness; and (c) Feasibility."
+    },
+    {
+        "question": "What is an example of a non-monetary event not recorded under the money measurement concept?",
+        "options": ["Purchase of equipment", "Employee dissatisfaction", "Sale of goods", "Payment of wages"],
+        "answer": "Employee dissatisfaction",
+        "reference": "For example, general health condition of the Managing Director of the company, working conditions in which a worker has to work, sales policy pursued by the enterprise, quality of product introduced by the enterprise, though exert a great influence on the productivity and profitability of the enterprise, are not recorded in the books."
+    },
+    {
+        "question": "What does the dual aspect concept ensure in accounting records?",
+        "options": ["Single entry for each transaction", "Total debits equal total credits", "Cash-based recording", "Historical data only"],
+        "answer": "Total debits equal total credits",
+        "reference": "In fact, the term ‘double entry’ book keeping has come into vogue and in this system the total amount debited always equals the total amount credited."
+    },
+    {
+        "question": "What happens if the going concern concept is not followed, according to International Accounting Standards?",
+        "options": ["Financial statements are simplified", "Disclosure of the fact is required", "Assets are revalued annually", "Liabilities are ignored"],
+        "answer": "Disclosure of the fact is required",
+        "reference": "If this concept is not followed, International Accounting Standard requires the disclosure of the fact in the financial statements together with reasons."
+    },
+    {
+        "question": "What is adjusted for in the matching concept during financial reporting?",
+        "options": ["Prepaid expenses and accrued income", "Future profits", "Market values", "Employee performance"],
+        "answer": "Prepaid expenses and accrued income",
+        "reference": "On account of this concept, adjustments are made for all prepaid expenses, outstanding expenses, accrued income, etc, while preparing periodic reports."
+    },
+    {
+        "question": "What is an exception to the realisation concept’s rule of revenue recognition at sale?",
+        "options": ["Cash sales", "Long-run construction contracts", "Daily transactions", "Employee wages"],
+        "answer": "Long-run construction contracts",
+        "reference": "However, in case of long run construction contracts revenue is often recognised on the basis of a proportionate or partial completion method."
+    },
+    {
+        "question": "What type of assets can be seen, touched, and felt?",
+        "options": ["Intangible", "Tangible", "Movable", "Financial"],
+        "answer": "Tangible",
+        "reference": "-------------------- assets can be seen, touched and felt. Tangible."
+    },
+    {
+        "question": "Which types of accounting are combined in managerial accounting?",
+        "options": ["Tax and Fiduciary", "Financial and Cost", "Standard and Costing", "Forensic and Tax"],
+        "answer": "Financial and Cost",
+        "reference": "Managerial Accounting is based on Financial and Cost Accounting."
+    },
+    {
+        "question": "Is it true that accounting is useful only to the owner of the business?",
+        "options": ["True", "False", "Partially true", "Depends on the business"],
+        "answer": "False",
+        "reference": "Accounting is useful only to the owner. False."
+    },
+    {
+        "question": "What is the term for the financial obligation of an enterprise other than owners’ funds?",
+        "options": ["Capital", "Revenue", "Liability", "Expense"],
+        "answer": "Liability",
+        "reference": "Liability: The financial obligation of an enterprise other than owners’ funds."
+    },
+    {
+        "question": "What does the term ‘revenue’ represent in accounting?",
+        "options": ["Total amount received from sales", "Excess of expenses over income", "Amount invested by the owner", "Cost of production"],
+        "answer": "Total amount received from sales",
+        "reference": "Revenue: Total amount received from sales of goods/services."
+    },
+    {
+        "question": "What is the purpose of cost accounting in terms of resource utilization?",
+        "options": ["To increase employee turnover", "To ensure maximum utilization of resources", "To reduce financial reporting", "To complicate cost analysis"],
+        "answer": "To ensure maximum utilization of resources",
+        "reference": "It would not be an exaggeration if it is said that a cost accounting system ensures maximum utilization of physical and human resources."
+    },
+    {
+        "question": "What does cost accounting help detect in an organization?",
+        "options": ["Market trends", "Frauds and manipulations", "Employee performance", "Future profits"],
+        "answer": "Frauds and manipulations",
+        "reference": "It checks frauds and manipulations and directs the employer and employees towards achieving the organizational goal."
+    },
+    {
+        "question": "How does financial accounting assist management in decision-making?",
+        "options": ["By providing future projections", "By aiding in directing and controlling activities", "By reducing tax liabilities", "By designing marketing strategies"],
+        "answer": "By aiding in directing and controlling activities",
+        "reference": "The significance of financial accounting lies in the fact that it aids the management in directing and controlling the activities of the firm and to frame relevant managerial policies related to areas like production, sales, financing, etc."
+    },
+    {
+        "question": "What is a key objective of cost accounting?",
+        "options": ["To prepare tax returns", "To determine costs", "To conduct market surveys", "To train employees"],
+        "answer": "To determine costs",
+        "reference": "The objectives of cost accounting, therefore, can be summarized in the form of three important statements, viz. to determine costs, to facilitate planning and control of business activities and to supply information for short- and long-term decision."
+    },
+    {
+        "question": "What does the money measurement concept exclude from accounting records?",
+        "options": ["Cash transactions", "Non-monetary events", "Revenue", "Liabilities"],
+        "answer": "Non-monetary events",
+        "reference": "In accounting, only those business transactions are recorded which can be expressed in terms of money. In other words, a fact or transaction or happening which cannot be expressed in terms of money is not recorded in the accounting books."
+    },
+    {
+        "question": "What is the significance of the dual aspect concept in double-entry bookkeeping?",
+        "options": ["It records only cash transactions", "It ensures debits equal credits", "It focuses on historical data", "It simplifies financial reporting"],
+        "answer": "It ensures debits equal credits",
+        "reference": "In fact, the term ‘double entry’ book keeping has come into vogue and in this system the total amount debited always equals the total amount credited."
+    },
+    {
+        "question": "What does the going concern concept imply about asset valuation?",
+        "options": ["Assets are valued at market price", "Assets are valued at forced sale value", "Assets are valued at original cost", "Assets are not valued"],
+        "answer": "Assets are valued at original cost",
+        "reference": "Because of this assumption, the accountant while valuing the assets does not take into account forced sale value of them."
+    },
+    {
+        "question": "What is a difficulty associated with the accounting period concept?",
+        "options": ["Recording daily transactions", "Matching revenues and expenses", "Allocating long-term costs", "Estimating market trends"],
+        "answer": "Allocating long-term costs",
+        "reference": "This concept poses difficulty for the process of allocation of long term costs."
+    },
+    {
+        "question": "How does the cost concept affect the recording of assets in financial statements?",
+        "options": ["Assets are recorded at market value", "Assets are recorded at original purchase price", "Assets are recorded at future value", "Assets are not recorded"],
+        "answer": "Assets are recorded at original purchase price",
+        "reference": "According to this concept an asset is ordinarily entered on the accounting records at the price paid to acquire it."
+    },
+    {
+        "question": "What is the role of depreciation in the context of the cost concept?",
+        "options": ["To increase asset value", "To allocate asset cost over its useful life", "To reduce revenue", "To adjust market value"],
+        "answer": "To allocate asset cost over its useful life",
+        "reference": "The prime purpose of depreciation is to allocate the cost of an asset over its useful life and not to adjust its cost."
+    },
+    {
+        "question": "What does the matching concept ensure in financial reporting?",
+        "options": ["Revenue equals expenses", "Income is measured by comparing revenues and expenses", "Assets equal liabilities", "Cash inflows equal outflows"],
+        "answer": "Income is measured by comparing revenues and expenses",
+        "reference": "In other words, income made by the enterprise during a period can be measured only when the revenue earned during a period is compared with the expenditure incurred for earning that revenue."
+    },
+    {
+        "question": "What does the accrual concept evaluate in transactions?",
+        "options": ["Cash payments only", "Impact on owner’s equity", "Market value of assets", "Employee performance"],
+        "answer": "Impact on owner’s equity",
+        "reference": "Accrual principle tries to evaluate every transaction in terms of its impact on the owner’s equity."
+    },
+    {
+        "question": "What is the basis for revenue recognition in the realisation concept?",
+        "options": ["Cash receipt", "Delivery of goods or services", "Incurrence of expenses", "Purchase of assets"],
+        "answer": "Delivery of goods or services",
+        "reference": "Sale is considered to be made at the point when the property in goods passes to the buyer and he becomes legally liable to pay. This implies that revenue is generally realised when goods are delivered or services are rendered."
+    },
+    {
+        "question": "What does the convention of materiality allow accountants to do?",
+        "options": ["Ignore significant transactions", "Focus only on material items", "Overstate profits", "Change accounting methods annually"],
+        "answer": "Focus only on material items",
+        "reference": "The term ‘convention’ is used to signify customs or tradition as a guide to the preparation of accounting statement, main conventions of accounting are- (i) convention of materiality."
+    },
+    {
+        "question": "How does the convention of conservatism affect financial reporting?",
+        "options": ["It encourages overstating profits", "It promotes a cautious approach", "It ignores potential losses", "It focuses on future gains"],
+        "answer": "It promotes a cautious approach",
+        "reference": "Conservatism means to follow safe side."
+    },
+    {
+        "question": "Why is the convention of consistency important in accounting?",
+        "options": ["It allows frequent changes in methods", "It ensures comparability of financial statements", "It reduces the need for reporting", "It focuses on short-term profits"],
+        "answer": "It ensures comparability of financial statements",
+        "reference": "Generally accepted principles and standards provide a common financial language to enable informed users to read and interpret financial statements."
+    },
+    {
+        "question": "What type of information does financial accounting primarily provide?",
+        "options": ["Future projections", "Historical financial data", "Employee performance metrics", "Market trends"],
+        "answer": "Historical financial data",
+        "reference": "The information provided by financial accounting is historical in nature and as such the predictability of such information is limited."
+    },
+    {
+        "question": "What is a benefit of management accounting’s tailored reports?",
+        "options": ["They simplify tax filing", "They meet specific decision-making needs", "They focus on historical data", "They reduce employee costs"],
+        "answer": "They meet specific decision-making needs",
+        "reference": "Its basic purpose is to communicate the facts according to the specific needs of decision-makers by presenting the information in a systematic and meaningful manner."
+    },
+    {
+        "question": "What does cost accounting enable in terms of production methods?",
+        "options": ["Standardizing employee training", "Varying methods to minimize costs", "Ignoring cost control", "Reducing financial reporting"],
+        "answer": "Varying methods to minimize costs",
+        "reference": "Production methods can be varied so as to minimize costs and increase profits."
+    },
+    {
+        "question": "What is the role of accounting principles according to Hendriksen (1997)?",
+        "options": ["To complicate accounting practices", "To provide a logical framework for evaluation", "To eliminate financial reporting", "To focus on tax compliance"],
+        "answer": "To provide a logical framework for evaluation",
+        "reference": "According to Hendriksen (1997), Accounting theory may be defined as logical reasoning in the form of a set of broad principles that (i) provide a general frame of reference by which accounting practice can be evaluated, and (ii) guide the development of new practices and procedures."
+    },
+    {
+        "question": "What does the term ‘expense’ refer to in accounting?",
+        "options": ["Cost related to operations in an accounting period", "Total revenue earned", "Amount invested by the owner", "Profit from sales"],
+        "answer": "Cost related to operations in an accounting period",
+        "reference": "Expenses: A cost relating to the operations of an accounting period."
+    },
+    {
+        "question": "What is the definition of ‘net profit’ in accounting?",
+        "options": ["Excess of expenses over revenue", "Excess of revenue over expenses", "Total sales revenue", "Capital investment"],
+        "answer": "Excess of revenue over expenses",
+        "reference": "Net Profit: The excess of revenue over expenses during a particular accounting period."
+    },
+    {
+        "question": "What is the purpose of accounting standards according to Prof. P.N. Abroal?",
+        "options": ["To complicate financial reporting", "To provide rules for measurement and disclosure", "To reduce accounting principles", "To focus on market trends"],
+        "answer": "To provide rules for measurement and disclosure",
+        "reference": "According to ‘Dictionary of Accounting’ prepared by Prof. P.N. Abroal, ‘Accounting standards refer to accounting rules and procedures which are relating to measurement, valuation and disclosure prepared by such bodies as the Accounting Standards Committee (ASC) of a particular country’."
+    }
+]
