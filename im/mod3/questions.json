@@ -1,0 +1,578 @@
+[
+    {
+        "question": "What does social responsibility obligate a business firm to do?",
+        "options": ["Maximize profits only", "Enhance society’s condition alongside its interests", "Focus solely on shareholder value", "Ignore external stakeholders"],
+        "answer": "Enhance society’s condition alongside its interests",
+        "reference": "Social responsibility refers to the obligation of a business firm to enhance the condition of society along with its own interests."
+    },
+    {
+        "question": "Which groups are business firms primarily accountable to?",
+        "options": ["Shareholders only", "Employees and customers only", "Shareholders, employees, customers, creditors, society, government", "Government only"],
+        "answer": "Shareholders, employees, customers, creditors, society, government",
+        "reference": "Business firms are accountable to six major stakeholder groups: shareholders, employees, customers, creditors and suppliers, society and the government."
+    },
+    {
+        "question": "What does social responsiveness involve for a firm?",
+        "options": ["Ignoring societal needs", "Implementing policies benefiting society and the firm", "Focusing only on profit", "Avoiding stakeholder engagement"],
+        "answer": "Implementing policies benefiting society and the firm",
+        "reference": "Social responsiveness refers to the ability of a firm to implement policies and take part in activities that would benefit both society and the firm."
+    },
+    {
+        "question": "Which of the following is a category of social responsiveness?",
+        "options": ["Profit maximization", "Volunteerism", "Cost reduction", "Market expansion"],
+        "answer": "Volunteerism",
+        "reference": "The following categories are generally considered when measuring social responsiveness: contributions, fund-raising, volunteerism, recycling, diversity policies, direct corporate investment, quality of work life, attention to consumers and pollution control."
+    },
+    {
+        "question": "What is the purpose of a social audit?",
+        "options": ["To measure financial performance", "To evaluate social performance", "To assess employee productivity", "To monitor market trends"],
+        "answer": "To evaluate social performance",
+        "reference": "Social audit is 'a systematic study and evaluation of the social, rather than the economic, performance of an organisation.'"
+    },
+    {
+        "question": "What type of social audit is performed voluntarily by organizations?",
+        "options": ["Government-required audit", "Voluntary audit", "Financial audit", "Compliance audit"],
+        "answer": "Voluntary audit",
+        "reference": "Social audits are of two types - audits required by the government and voluntary audits."
+    },
+    {
+        "question": "Why do many organizations include social involvement disclosures in annual reports?",
+        "options": ["To meet legal requirements", "To show concern for social responsibility", "To reduce operational costs", "To attract new employees"],
+        "answer": "To show concern for social responsibility",
+        "reference": "Although social audits are not legally mandatory, many organizations make social involvement disclosures in their annual reports. This shows the growing concern among major firms about their social responsibility."
+    },
+    {
+        "question": "What is a key argument for business social responsibility?",
+        "options": ["It increases short-term costs", "Business is a part of society", "It reduces stakeholder engagement", "It conflicts with profit motives"],
+        "answer": "Business is a part of society",
+        "reference": "Business is a part of society. Society is a system and business is one of its subsystems."
+    },
+    {
+        "question": "How does social responsibility benefit a business in the long term?",
+        "options": ["By reducing employee morale", "By ensuring continued existence through stakeholder satisfaction", "By increasing government regulations", "By focusing only on shareholders"],
+        "answer": "By ensuring continued existence through stakeholder satisfaction",
+        "reference": "Social responsibility is in the long-term self-interest of the business. Existence of any business is because of existence of various social organs like financiers, employees, customers, society as a whole, etc., and not otherwise."
+    },
+    {
+        "question": "What moral justification supports social responsibility?",
+        "options": ["Profit maximization", "Equitable exchange with society", "Avoiding government oversight", "Reducing operational costs"],
+        "answer": "Equitable exchange with society",
+        "reference": "Social responsibility has moral justification. This moral justification emerges from the fact that if any one takes something from others, he must give something to them in return."
+    },
+    {
+        "question": "How does fulfilling societal aspirations impact a business’s public image?",
+        "options": ["It has no impact", "It creates a better public image", "It worsens public perception", "It increases regulatory scrutiny"],
+        "answer": "It creates a better public image",
+        "reference": "Any business which involves in fulfilling the aspirations of the society creates better image in the public."
+    },
+    {
+        "question": "Why might businesses adopt social responsibility to avoid government regulations?",
+        "options": ["To increase costs", "To avoid actions with negative long-term impact", "To reduce stakeholder trust", "To ignore societal needs"],
+        "answer": "To avoid actions with negative long-term impact",
+        "reference": "In order to avoid such actions having long-term negative impact, it is preferable to adopt social responsibility."
+    },
+    {
+        "question": "What is an argument against social responsibility based on classical economics?",
+        "options": ["It enhances public image", "It conflicts with the profit motive", "It benefits stakeholders", "It maintains societal equilibrium"],
+        "answer": "It conflicts with the profit motive",
+        "reference": "Social responsibility is in conflict with profit motive of business."
+    },
+    {
+        "question": "How does social responsibility potentially affect resource allocation?",
+        "options": ["It optimizes resource use", "It distorts resource allocation", "It has no effect on resources", "It reduces resource availability"],
+        "answer": "It distorts resource allocation",
+        "reference": "Social responsibility leads to distortion of resource allocation."
+    },
+    {
+        "question": "What is a criticism of social responsibility regarding business values?",
+        "options": ["It promotes social values", "It imposes business values on society", "It enhances stakeholder trust", "It reduces operational costs"],
+        "answer": "It imposes business values on society",
+        "reference": "By undertaking social responsibility, a business is likely to impose its own values on the society, thereby replacing the social values with business values."
+    },
+    {
+        "question": "Why might social responsibility lead to system inefficiency?",
+        "options": ["It enhances self-interest", "It replaces self-interest with social goals", "It reduces operational costs", "It improves resource allocation"],
+        "answer": "It replaces self-interest with social goals",
+        "reference": "Social responsibility tends to replace self-interest of business defined in terms of profit motive to a great extent, thus, making the business as a system inefficient."
+    },
+    {
+        "question": "What stake do customers have in a business?",
+        "options": ["Financial returns", "Product/service quality and value", "Employment income", "Tax contributions"],
+        "answer": "Product/service quality and value",
+        "reference": "Stake: Product/service quality and value. Many would argue that businesses exist to serve their customers."
+    },
+    {
+        "question": "What is the primary stake of employees in a business?",
+        "options": ["Revenues and safety", "Health and economic development", "Employment income and safety", "Taxes and GDP"],
+        "answer": "Employment income and safety",
+        "reference": "Stake: Employment income and safety. Employees have a direct stake in the company in that they earn an income to support themselves, along with other benefits."
+    },
+    {
+        "question": "What do investors primarily expect from a business?",
+        "options": ["Product quality", "Financial returns", "Community development", "Employee safety"],
+        "answer": "Financial returns",
+        "reference": "Stake: Financial returns. Investors include both shareholders and debtholders."
+    },
+    {
+        "question": "What stake do suppliers and vendors have in a business?",
+        "options": ["Revenues and safety", "Taxes and GDP", "Employment income", "Health and safety"],
+        "answer": "Revenues and safety",
+        "reference": "Stake: Revenues and safety. Suppliers and vendors sell goods and/or services to a business and rely on it for revenue generation and on-going income."
+    },
+    {
+        "question": "What is the stake of communities in large businesses?",
+        "options": ["Financial returns", "Health, safety, economic development", "Product quality", "Tax contributions"],
+        "answer": "Health, safety, economic development",
+        "reference": "Stake: Health, safety, economic development. Communities are major stakeholders in large businesses located in them."
+    },
+    {
+        "question": "What do governments gain from businesses as stakeholders?",
+        "options": ["Product quality", "Employment income", "Taxes and GDP", "Community health"],
+        "answer": "Taxes and GDP",
+        "reference": "Stake: Taxes and GDP. Governments can also be considered a major stakeholder in a business, as they collect taxes from the company."
+    },
+    {
+        "question": "How does Jack Ma prioritize stakeholders at Alibaba?",
+        "options": ["Investors, employees, customers", "Customers, employees, investors", "Employees, customers, investors", "Shareholders, customers, employees"],
+        "answer": "Customers, employees, investors",
+        "reference": "Jack Ma, the CEO of Alibaba, has famously said that, in his company, they rank stakeholders in the following priority sequence: Customers, Employees, Investors."
+    },
+    {
+        "question": "What is a key element of social responsiveness in planning?",
+        "options": ["Ignoring societal desires", "Incorporating social goals into overall planning", "Focusing only on profits", "Reducing stakeholder engagement"],
+        "answer": "Incorporating social goals into overall planning",
+        "reference": "Social goals should be planned and incorporated into the overall planning process."
+    },
+    {
+        "question": "What does managerial ethics primarily affect?",
+        "options": ["Financial performance", "Employee behavior", "Market expansion", "Product development"],
+        "answer": "Employee behavior",
+        "reference": "Managerial ethics is a basic part of business ethics. It is the set of moral principles or beliefs that affect the behavior of employees."
+    },
+    {
+        "question": "What is included in managerial ethics policies?",
+        "options": ["Only legal compliance", "Compensation, community involvement, corporate giving", "Only financial strategies", "Product development plans"],
+        "answer": "Compensation, community involvement, corporate giving",
+        "reference": "Compensation and benefit packages, community involvement and corporate giving are all components of managerial ethics."
+    },
+    {
+        "question": "What distinguishes moral ethics from legal ethics in managerial ethics?",
+        "options": ["Moral ethics align with laws", "Moral ethics go beyond legal requirements", "Moral ethics focus on profits", "Moral ethics ignore regulations"],
+        "answer": "Moral ethics go beyond legal requirements",
+        "reference": "Moral standards of ethics don't necessarily need to align with a company's legal standards."
+    },
+    {
+        "question": "What is a legal ethics requirement for companies?",
+        "options": ["Offering paternity leave", "Ensuring a safe work environment", "Providing profit-sharing", "Enhancing customer satisfaction"],
+        "answer": "Ensuring a safe work environment",
+        "reference": "There are human resource issues such as making sure that people are hired in a fair process, given a safe work environment and fair pay."
+    },
+    {
+        "question": "Why is managerial ethics important for a company?",
+        "options": ["It reduces employee morale", "Leaders’ actions influence employee behavior", "It increases operational costs", "It focuses only on profits"],
+        "answer": "Leaders’ actions influence employee behavior",
+        "reference": "Managerial ethics is important for every company, because people will follow what leaders do."
+    },
+    {
+        "question": "What happens when leaders ignore ethics policies?",
+        "options": ["Employee morale increases", "It resonates negatively throughout the company", "Customer loyalty improves", "Productivity rises"],
+        "answer": "It resonates negatively throughout the company",
+        "reference": "Even if a company has ethics policies in place, when top leaders ignore these standards, it resonates throughout the company."
+    },
+    {
+        "question": "What is an example of a morally ethical policy?",
+        "options": ["Minimizing wages", "Offering generous profit-sharing", "Ignoring customer complaints", "Reducing safety standards"],
+        "answer": "Offering generous profit-sharing",
+        "reference": "Giving employees a generous profit-sharing plan based on the company's performance, demonstrates that leaders care not only about their personal profit but also about the growth and success of their people."
+    },
+    {
+        "question": "How should a company ethically handle a sexual harassment claim?",
+        "options": ["Ignore the claim", "Keep accusations confidential and evidence-based", "Publicize the claim", "Dismiss the accuser"],
+        "answer": "Keep accusations confidential and evidence-based",
+        "reference": "An ethical policy keeps accusations, witness testimony and mitigating factors as confidential as possible, and then comes to a conclusion based on evidence."
+    },
+    {
+        "question": "What factor influences managerial ethics through moral judgment?",
+        "options": ["Organizational culture", "Stage of moral development", "Structural variables", "Issue intensity"],
+        "answer": "Stage of moral development",
+        "reference": "The first factor that affects managerial ethics is the stage of moral development. The individual’s moral judgement of what is right and wrong influences ethics."
+    },
+    {
+        "question": "How do individual characteristics affect managerial ethics?",
+        "options": ["They have no impact", "They influence ethical behavior", "They reduce ethical dilemmas", "They standardize decisions"],
+        "answer": "They influence ethical behavior",
+        "reference": "Individual characteristics are another factor that influence ethical behaviour."
+    },
+    {
+        "question": "What structural variable impacts managerial ethics?",
+        "options": ["Employee motivation", "Formal rules and regulations", "Market competition", "Product quality"],
+        "answer": "Formal rules and regulations",
+        "reference": "Structural variable through the existence of formal rules and regulations strongly affect managerial ethics."
+    },
+    {
+        "question": "How does organizational culture influence managerial ethics?",
+        "options": ["It has no effect", "It shapes ethical behavior", "It reduces regulations", "It increases costs"],
+        "answer": "It shapes ethical behavior",
+        "reference": "The organisation's culture is another factor that influences ethical behaviour."
+    },
+    {
+        "question": "What role does issue intensity play in ethical decisions?",
+        "options": ["It has no impact", "It affects ethical decision-making", "It standardizes ethics", "It reduces ethical concerns"],
+        "answer": "It affects ethical decision-making",
+        "reference": "The intensity of the issue can affect ethical decisions."
+    },
+    {
+        "question": "What characterizes Kohlberg’s preconventional level of moral development?",
+        "options": ["Abstract principles", "Externally controlled morality", "Societal relationships", "Universal ethical principles"],
+        "answer": "Externally controlled morality",
+        "reference": "Throughout the preconventional level, a child’s sense of morality is externally controlled."
+    },
+    {
+        "question": "What drives behavior in Kohlberg’s Stage 1: Obedience-and-Punishment Orientation?",
+        "options": ["Desire for approval", "Avoidance of punishment", "Social contracts", "Universal principles"],
+        "answer": "Avoidance of punishment",
+        "reference": "Stage 1 focuses on the child’s desire to obey rules and avoid being punished."
+    },
+    {
+        "question": "What defines Kohlberg’s Stage 2: Instrumental Orientation?",
+        "options": ["Societal order", "Self-interest and reciprocity", "Abstract justice", "Group approval"],
+        "answer": "Self-interest and reciprocity",
+        "reference": "Stage 2 expresses the 'what’s in it for me?' position, in which right behavior is defined by whatever the individual believes to be in their best interest."
+    },
+    {
+        "question": "What motivates behavior in Kohlberg’s Stage 3: Good Boy, Nice Girl Orientation?",
+        "options": ["Punishment avoidance", "Seeking approval from others", "Universal principles", "Legal obligations"],
+        "answer": "Seeking approval from others",
+        "reference": "In stage 3, children want the approval of others and act in ways to avoid disapproval."
+    },
+    {
+        "question": "What is the focus of Kohlberg’s Stage 4: Law-and-Order Orientation?",
+        "options": ["Individual interests", "Maintaining societal order", "Abstract ethical principles", "Mutual respect"],
+        "answer": "Maintaining societal order",
+        "reference": "In stage 4, the child blindly accepts rules and convention because of their importance in maintaining a functioning society."
+    },
+    {
+        "question": "What characterizes Kohlberg’s conventional level of moral development?",
+        "options": ["Externally controlled morality", "Personal and societal relationships", "Abstract principles", "Universal justice"],
+        "answer": "Personal and societal relationships",
+        "reference": "Throughout the conventional level, a child’s sense of morality is tied to personal and societal relationships."
+    },
+    {
+        "question": "What defines Kohlberg’s Stage 5: Social-Contract Orientation?",
+        "options": ["Obedience to rules", "Mutual respect and social contracts", "Self-interest", "Societal approval"],
+        "answer": "Mutual respect and social contracts",
+        "reference": "In stage 5, the world is viewed as holding different opinions, rights, and values. Such perspectives should be mutually respected as unique to each person or community."
+    },
+    {
+        "question": "What guides moral reasoning in Kohlberg’s Stage 6: Universal-Ethical-Principal Orientation?",
+        "options": ["Societal laws", "Abstract universal principles", "Personal gain", "Group approval"],
+        "answer": "Abstract universal principles",
+        "reference": "In stage 6, moral reasoning is based on abstract reasoning using universal ethical principles."
+    },
+    {
+        "question": "What is a critique of Kohlberg’s theory regarding gender?",
+        "options": ["It overemphasizes women’s moral reasoning", "It suggests women are deficient in moral reasoning", "It ignores gender differences", "It focuses only on women"],
+        "answer": "It suggests women are deficient in moral reasoning",
+        "reference": "Kohlberg has been criticized for his assertion that women seem to be deficient in their moral reasoning abilities when compared to men."
+    },
+    {
+        "question": "What does Carol Gilligan argue about moral reasoning in women?",
+        "options": ["It is inferior to men’s", "It focuses on relationships and connections", "It is based on justice", "It ignores societal norms"],
+        "answer": "It focuses on relationships and connections",
+        "reference": "She argued that women are not deficient in their moral reasoning and instead proposed that males and females’ reason differently: girls and women focus more on staying connected and maintaining interpersonal relationships."
+    },
+    {
+        "question": "What is a key guideline for managing ethics as a process?",
+        "options": ["Focus only on deliverables", "Recognize ethics as a process of reflection", "Avoid stakeholder involvement", "Standardize all decisions"],
+        "answer": "Recognize ethics as a process of reflection",
+        "reference": "Recognize that managing ethics is a process. Ethics is a matter of values and associated behaviors. Values are discerned through the process of ongoing reflection."
+    },
+    {
+        "question": "What is the primary goal of an ethics management program?",
+        "options": ["Increase profits", "Achieve preferred workplace behaviors", "Reduce regulations", "Enhance market share"],
+        "answer": "Achieve preferred workplace behaviors",
+        "reference": "The bottom line of an ethics program is accomplishing preferred behaviors in the workplace."
+    },
+    {
+        "question": "What role does business play in society according to arguments for social responsibility?",
+        "options": ["An independent entity", "A subsystem of society", "A profit-driven organization", "A regulatory body"],
+        "answer": "A subsystem of society",
+        "reference": "Society is a system and business is one of its subsystems."
+    },
+    {
+        "question": "How does social responsibility contribute to the maintenance of society?",
+        "options": ["By increasing profits", "By preventing anti-social activities", "By reducing stakeholder engagement", "By ignoring legal provisions"],
+        "answer": "By preventing anti-social activities",
+        "reference": "Therefore, the business has to be socially responsible in order to avoid anti-social activities so that society is maintained on continuous basis."
+    },
+    {
+        "question": "What is a long-term benefit of social responsibility for a business?",
+        "options": ["Increased government regulations", "Satisfaction of social organs for continued existence", "Reduced public image", "Higher operational costs"],
+        "answer": "Satisfaction of social organs for continued existence",
+        "reference": "By discharging social responsibility, the business may provide this satisfaction."
+    },
+    {
+        "question": "What moral principle supports the argument for social responsibility?",
+        "options": ["Profit maximization", "Equitable exchange with society", "Cost reduction", "Regulatory compliance"],
+        "answer": "Equitable exchange with society",
+        "reference": "This moral justification emerges from the fact that if any one takes something from others, he must give something to them in return."
+    },
+    {
+        "question": "How does social responsibility help businesses avoid government intervention?",
+        "options": ["By increasing costs", "By meeting social requirements", "By reducing stakeholder trust", "By ignoring regulations"],
+        "answer": "By meeting social requirements",
+        "reference": "Since business is an organ of the society, government may take actions against those business organizations which involve in activities not meeting social requirements."
+    },
+    {
+        "question": "What is a key argument against social responsibility?",
+        "options": ["It enhances public image", "It is contrary to the basic function of business", "It benefits stakeholders", "It maintains societal equilibrium"],
+        "answer": "It is contrary to the basic function of business",
+        "reference": "The basic function of a business is to provide a product to its customers at a price which is lower than the level of satisfaction provided by the use of the product."
+    },
+    {
+        "question": "Why does social responsibility conflict with the profit motive?",
+        "options": ["It increases profit margins", "It reduces profit margins", "It enhances efficiency", "It improves resource allocation"],
+        "answer": "It reduces profit margins",
+        "reference": "If social responsibility is added as an objective of business, it reduces profit margin which is against the concept of profit optimization."
+    },
+    {
+        "question": "What operational challenge is associated with implementing social responsibility?",
+        "options": ["Clear guidelines", "Conceptual and operational confusion", "Low costs", "High efficiency"],
+        "answer": "Conceptual and operational confusion",
+        "reference": "Conceptually as well as operationally, social responsibility is a confusing term."
+    },
+    {
+        "question": "What is the stake of shareholders in a business?",
+        "options": ["Product quality", "Financial returns", "Employment income", "Community development"],
+        "answer": "Financial returns",
+        "reference": "Investors include both shareholders and debtholders. Shareholders invest capital in the business and expect to earn a certain rate of return."
+    },
+    {
+        "question": "What do employees primarily seek from a business as stakeholders?",
+        "options": ["Taxes and GDP", "Health, safety, economic development", "Employment income and safety", "Revenues and safety"],
+        "answer": "Employment income and safety",
+        "reference": "Stake: Employment income and safety. Employees have a direct stake in the company in that they earn an income to support themselves."
+    },
+    {
+        "question": "What is the primary concern of customers as stakeholders?",
+        "options": ["Financial returns", "Product/service quality and value", "Tax contributions", "Community health"],
+        "answer": "Product/service quality and value",
+        "reference": "Stake: Product/service quality and value. Many would argue that businesses exist to serve their customers."
+    },
+    {
+        "question": "What stake do suppliers have in a business?",
+        "options": ["Employment income", "Revenues and safety", "Taxes and GDP", "Health and safety"],
+        "answer": "Revenues and safety",
+        "reference": "Stake: Revenues and safety. Suppliers and vendors sell goods and/or services to a business and rely on it for revenue generation."
+    },
+    {
+        "question": "What do communities expect from businesses as stakeholders?",
+        "options": ["Product quality", "Health, safety, economic development", "Financial returns", "Tax contributions"],
+        "answer": "Health, safety, economic development",
+        "reference": "Stake: Health, safety, economic development. Communities are major stakeholders in large businesses located in them."
+    },
+    {
+        "question": "What is the government’s stake in a business?",
+        "options": ["Product quality", "Taxes and GDP", "Employment income", "Community health"],
+        "answer": "Taxes and GDP",
+        "reference": "Stake: Taxes and GDP. Governments can also be considered a major stakeholder in a business, as they collect taxes from the company."
+    },
+    {
+        "question": "How might a startup prioritize its stakeholders?",
+        "options": ["Shareholders first", "Customers and employees first", "Government first", "Suppliers first"],
+        "answer": "Customers and employees first",
+        "reference": "Much of the prioritization will be based on the stage a company is in. For example, if it’s a startup or an early-stage business, then customers and employees are more likely to be the stakeholders considered foremost."
+    },
+    {
+        "question": "What distinguishes a stakeholder from a shareholder?",
+        "options": ["Stakeholders own shares", "Shareholders have any stake", "Stakeholders have any stake, shareholders own shares", "There is no difference"],
+        "answer": "Stakeholders have any stake, shareholders own shares",
+        "reference": "A stakeholder is anyone who has any type of stake in a business, while a shareholder is someone who owns shares (stock) in a business."
+    },
+    {
+        "question": "What should managers do to assess social responsiveness?",
+        "options": ["Ignore societal desires", "Examine how other companies meet social desires", "Focus only on profits", "Reduce stakeholder engagement"],
+        "answer": "Examine how other companies meet social desires",
+        "reference": "Firms should examine the desires of society and assess how other companies are meeting the social desires."
+    },
+    {
+        "question": "What is a step involved in conducting a social audit?",
+        "options": ["Ignoring social performance", "Monitoring activities of social programs", "Focusing only on financial audits", "Reducing stakeholder involvement"],
+        "answer": "Monitoring activities of social programs",
+        "reference": "A social audit involves the following steps: ... (b) Monitoring activities in carrying out these programmes."
+    },
+    {
+        "question": "What is a merit of conducting a social audit?",
+        "options": ["It increases operational costs", "It identifies areas for socially productive programs", "It reduces stakeholder trust", "It ignores social performance"],
+        "answer": "It identifies areas for socially productive programs",
+        "reference": "It helps in locating potential areas for carrying out the socially productive programmes."
+    },
+    {
+        "question": "What is a challenge faced by social auditors of their own making?",
+        "options": ["Well-designed programs", "Attitude of the social auditor", "Adequate information", "Immediate impact assessment"],
+        "answer": "Attitude of the social auditor",
+        "reference": "These problems may arise on account of the following factors: 1. Attitude of the social auditor."
+    },
+    {
+        "question": "What defines managerial ethics?",
+        "options": ["Financial strategies", "Moral principles affecting employee behavior", "Market expansion plans", "Product development goals"],
+        "answer": "Moral principles affecting employee behavior",
+        "reference": "Managerial ethics is a basic part of business ethics. It is the set of moral principles or beliefs that affect the behavior of employees."
+    },
+    {
+        "question": "What aspect of managerial ethics goes beyond legal requirements?",
+        "options": ["Legal ethics", "Moral ethics", "Financial ethics", "Operational ethics"],
+        "answer": "Moral ethics",
+        "reference": "Moral standards of ethics don't necessarily need to align with a company's legal standards."
+    },
+    {
+        "question": "What is an example of a legal ethics policy?",
+        "options": ["Offering paternity leave", "Ensuring fair hiring processes", "Providing profit-sharing", "Enhancing customer satisfaction"],
+        "answer": "Ensuring fair hiring processes",
+        "reference": "There are human resource issues such as making sure that people are hired in a fair process."
+    },
+    {
+        "question": "What impact does high managerial ethics have on a company?",
+        "options": ["Reduced morale", "High morale and productivity", "Increased turnover", "Lower customer loyalty"],
+        "answer": "High morale and productivity",
+        "reference": "Companies that follow the highest standards of leadership ethics generally have high morale and very high levels of productivity and low turnover."
+    },
+    {
+        "question": "What happens when employees perceive leaders as unethical?",
+        "options": ["Increased morale", "Decreased morale and higher turnover", "Improved productivity", "Enhanced customer loyalty"],
+        "answer": "Decreased morale and higher turnover",
+        "reference": "When employees don't think that their leaders care about doing the right thing, they might feel that their efforts to do right are not valued. Morale drops, employee turnover increases."
+    },
+    {
+        "question": "What demonstrates a morally ethical policy in compensation?",
+        "options": ["Minimizing wages", "Paying above local minimum wage", "Reducing benefits", "Ignoring employee performance"],
+        "answer": "Paying above local minimum wage",
+        "reference": "A company that gives entry-level workers a level of compensation and benefits that are well above the local minimum wage has morally ethical policies."
+    },
+    {
+        "question": "How should a company ethically address customer complaints?",
+        "options": ["Ignore complaints", "Ensure positive customer experiences", "Publicize complaints", "Dismiss complainants"],
+        "answer": "Ensure positive customer experiences",
+        "reference": "Moral ethics could also be how the company deals with customer complaints to ensure that people feel good about their experience with the company."
+    },
+    {
+        "question": "Which factor affects managerial ethics through formal rules?",
+        "options": ["Stage of moral development", "Structural variables", "Individual characteristics", "Issue intensity"],
+        "answer": "Structural variables",
+        "reference": "Structural variable through the existence of formal rules and regulations strongly affect managerial ethics."
+    },
+    {
+        "question": "How does issue intensity influence managerial ethics?",
+        "options": ["It standardizes decisions", "It affects ethical decisions", "It reduces ethical concerns", "It has no impact"],
+        "answer": "It affects ethical decisions",
+        "reference": "The intensity of the issue can affect ethical decisions."
+    },
+    {
+        "question": "What role does organizational culture play in managerial ethics?",
+        "options": ["It reduces regulations", "It influences ethical behavior", "It increases costs", "It has no effect"],
+        "answer": "It influences ethical behavior",
+        "reference": "The organisation's culture is another factor that influences ethical behaviour."
+    },
+    {
+        "question": "What characterizes Kohlberg’s postconventional level of moral development?",
+        "options": ["Externally controlled morality", "Societal relationships", "Abstract principles and values", "Obedience to authority"],
+        "answer": "Abstract principles and values",
+        "reference": "Throughout the postconventional level, a person’s sense of morality is defined in terms of more abstract principles and values."
+    },
+    {
+        "question": "What motivates behavior in Kohlberg’s Stage 1?",
+        "options": ["Social contracts", "Avoidance of punishment", "Group approval", "Universal principles"],
+        "answer": "Avoidance of punishment",
+        "reference": "Stage 1 focuses on the child’s desire to obey rules and avoid being punished."
+    },
+    {
+        "question": "What drives moral reasoning in Kohlberg’s Stage 2?",
+        "options": ["Societal order", "Self-interest and reciprocity", "Abstract justice", "Group approval"],
+        "answer": "Self-interest and reciprocity",
+        "reference": "Stage 2 expresses the 'what’s in it for me?' position."
+    },
+    {
+        "question": "What is the focus of Kohlberg’s Stage 3?",
+        "options": ["Punishment avoidance", "Seeking approval from others", "Universal principles", "Legal obligations"],
+        "answer": "Seeking approval from others",
+        "reference": "In stage 3, children want the approval of others and act in ways to avoid disapproval."
+    },
+    {
+        "question": "What defines Kohlberg’s Stage 4 moral reasoning?",
+        "options": ["Individual interests", "Maintaining societal order", "Abstract ethical principles", "Mutual respect"],
+        "answer": "Maintaining societal order",
+        "reference": "In stage 4, the child blindly accepts rules and convention because of their importance in maintaining a functioning society."
+    },
+    {
+        "question": "What is a key feature of Kohlberg’s Stage 5?",
+        "options": ["Obedience to rules", "Social contracts and mutual respect", "Self-interest", "Societal approval"],
+        "answer": "Social contracts and mutual respect",
+        "reference": "In stage 5, the world is viewed as holding different opinions, rights, and values. Such perspectives should be mutually respected."
+    },
+    {
+        "question": "What guides behavior in Kohlberg’s Stage 6?",
+        "options": ["Societal laws", "Universal ethical principles", "Personal gain", "Group approval"],
+        "answer": "Universal ethical principles",
+        "reference": "In stage 6, moral reasoning is based on abstract reasoning using universal ethical principles."
+    },
+    {
+        "question": "What is a criticism of Kohlberg’s theory regarding cultural bias?",
+        "options": ["It is universally applicable", "It reflects Western individualistic ideals", "It ignores justice", "It focuses only on non-Western societies"],
+        "answer": "It reflects Western individualistic ideals",
+        "reference": "Kohlberg’s stages are culturally biased—that the highest stages in particular reflect a westernized ideal of justice based on individualistic thought."
+    },
+    {
+        "question": "Why is Kohlberg’s theory criticized for moral inconsistencies?",
+        "options": ["It accounts for all inconsistencies", "People show inconsistent moral judgments", "It ignores moral dilemmas", "It focuses only on justice"],
+        "answer": "People show inconsistent moral judgments",
+        "reference": "Another criticism of Kohlberg’s theory is that people frequently demonstrate significant inconsistency in their moral judgements."
+    },
+    {
+        "question": "What does Carol Gilligan emphasize in her critique of Kohlberg?",
+        "options": ["Justice-based reasoning", "Relationship-focused reasoning in women", "Individualistic reasoning", "Punishment avoidance"],
+        "answer": "Relationship-focused reasoning in women",
+        "reference": "She argued that women are not deficient in their moral reasoning and instead proposed that males and females’ reason differently: girls and women focus more on staying connected."
+    },
+    {
+        "question": "How should ethics programs translate values into behaviors?",
+        "options": ["Ignore policies", "Generate policies, procedures, and training", "Focus only on codes", "Reduce employee involvement"],
+        "answer": "Generate policies, procedures, and training",
+        "reference": "The best of ethical values and intentions are relatively meaningless unless they generate fair and just behaviors in the workplace."
+    },
+    {
+        "question": "Why are codes of ethics important in ethics management?",
+        "options": ["They increase ethical dilemmas", "They sensitize employees to ethical considerations", "They standardize profits", "They reduce stakeholder trust"],
+        "answer": "They sensitize employees to ethical considerations",
+        "reference": "That’s why practices such as developing codes of ethics and codes of conduct are so important. Their development sensitizes employees to ethical considerations."
+    },
+    {
+        "question": "What improves the quality of ethics decisions?",
+        "options": ["Individual decision-making", "Group decision-making with public disclosure", "Ignoring diverse perspectives", "Centralized control"],
+        "answer": "Group decision-making with public disclosure",
+        "reference": "Make ethics decisions in groups, and make decisions public, as appropriate. This usually produces better quality decisions by including diverse interests."
+    },
+    {
+        "question": "How should ethics management be integrated with other practices?",
+        "options": ["Keep it separate", "Include ethical values in strategic planning", "Ignore personnel policies", "Focus only on profits"],
+        "answer": "Include ethical values in strategic planning",
+        "reference": "Integrate ethics management with other management practices. When developing the values statement during strategic planning, include ethical values."
+    },
+    {
+        "question": "Why should cross-functional teams be used in ethics programs?",
+        "options": ["To reduce employee participation", "To enhance employee ownership", "To centralize control", "To ignore ethical values"],
+        "answer": "To enhance employee ownership",
+        "reference": "Use cross-functional teams when developing and implementing the ethics management program. It’s vital that the organization’s employees feel a sense of participation and ownership."
+    },
+    {
+        "question": "What role does forgiveness play in ethics management?",
+        "options": ["It increases ethical issues", "It supports ethical behavior", "It reduces accountability", "It ignores mistakes"],
+        "answer": "It supports ethical behavior",
+        "reference": "Value forgiveness. The most important ingredient for remaining ethical is trying to be ethical."
+    },
+    {
+        "question": "Why is trying to be ethical more important than perfection?",
+        "options": ["Mistakes are unacceptable", "Trying brings peace of mind", "Perfection is easily achieved", "Ethics programs avoid mistakes"],
+        "answer": "Trying brings peace of mind",
+        "reference": "It’s the trying that counts and brings peace of mind — not achieving an heroic status in society."
+    }
+]

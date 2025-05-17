@@ -1,0 +1,590 @@
+[
+    {
+        "question": "What is management primarily defined as in the context of organizational goals?",
+        "options": ["A process of financial auditing", "A process of optimizing resources for goal achievement", "A process of marketing products", "A process of legal compliance"],
+        "answer": "A process of optimizing resources for goal achievement",
+        "reference": "Management helps in doing and getting things done through others. It is the process that optimises human, material and financial resources of the organisation for effective achievement of its goals."
+    },
+    {
+        "question": "According to Terry and Franklin, what is management?",
+        "options": ["A process of decision-making only", "A process of planning, organizing, actuating, and controlling", "A process of hiring employees", "A process of financial reporting"],
+        "answer": "A process of planning, organizing, actuating, and controlling",
+        "reference": "Terry and Franklin- 'Management is a distinct process consisting of activities planning, organising, actuating and controlling, performed to determine and accomplish stated objectives with the use of human beings and other resources.'"
+    },
+    {
+        "question": "How does Koontz and Weihrich define management?",
+        "options": ["As an art of leadership", "As a process of designing and maintaining an environment for group efficiency", "As a science of financial analysis", "As a process of product development"],
+        "answer": "As a process of designing and maintaining an environment for group efficiency",
+        "reference": "Koontz and Weihrich- 'Management is the process of designing and maintaining an environment in which individuals, working together in groups, efficiently accomplish selected aims.'"
+    },
+    {
+        "question": "What does F. W. Taylor emphasize in his definition of management?",
+        "options": ["Forecasting and planning", "Knowing what to do and doing it in the best way", "Coordinating human resources", "Controlling financial outcomes"],
+        "answer": "Knowing what to do and doing it in the best way",
+        "reference": "F. W. Taylor- 'Management is an art of knowing what is to be done and seeing that it is done in the best possible manner.'"
+    },
+    {
+        "question": "According to Henri Fayol, what is a key function of management?",
+        "options": ["To develop products", "To forecast and plan", "To conduct market research", "To manage inventory"],
+        "answer": "To forecast and plan",
+        "reference": "Henri Fayol- 'Management is to forecast, to plan, to organise, to command, to co-ordinate and control activities of others.'"
+    },
+    {
+        "question": "What does Peter F. Drucker say about the role of management in institutions?",
+        "options": ["It is optional for institutions", "It is the organ on which institutional performance depends", "It is only for non-profit organizations", "It is unrelated to institutional success"],
+        "answer": "It is the organ on which institutional performance depends",
+        "reference": "Peter F. Drucker: 'Without institution there is no management. But without management there is no institution. Management is the specific organ of the modern institution.'"
+    },
+    {
+        "question": "How does Louis Allen define management?",
+        "options": ["As what a manager does", "As a science of decision-making", "As a process of product innovation", "As a method of cost reduction"],
+        "answer": "As what a manager does",
+        "reference": "'Management is what a manager does'. –– Louis Allen"
+    },
+    {
+        "question": "What aspect of management does Harold Koontz emphasize?",
+        "options": ["Financial planning", "Getting things done through people in groups", "Market expansion", "Technological innovation"],
+        "answer": "Getting things done through people in groups",
+        "reference": "'Management is the art of getting things done through and with people informally organized groups'. –– Harold Koontz"
+    },
+    {
+        "question": "According to John F. Mee, what is the goal of management?",
+        "options": ["Maximizing employee turnover", "Securing maximum prosperity with minimum effort", "Reducing organizational goals", "Focusing only on customer service"],
+        "answer": "Securing maximum prosperity with minimum effort",
+        "reference": "'Management may be defined as the art of securing maximum prosperity with a minimum of effort so as to secure maximum prosperity and happiness for both employer and employee and give the public the best possible service'. –– John. F. Mee"
+    },
+    {
+        "question": "What does E.F.L. Breech describe management as?",
+        "options": ["A technical process", "A social process entailing responsibility for planning and regulation", "A marketing strategy", "A legal framework"],
+        "answer": "A social process entailing responsibility for planning and regulation",
+        "reference": "According to E.F.L. Breech – 'Management may be defined as a social process entailing responsibility for the effective or efficient planning and regulation of the operations of an enterprise.'"
+    },
+    {
+        "question": "What is the basic function of management according to Koontz?",
+        "options": ["Controlling", "Planning", "Staffing", "Directing"],
+        "answer": "Planning",
+        "reference": "According to KOONTZ, 'Planning is deciding in advance - what to do, when to do & how to do. It bridges the gap from where we are & where we want to be.'"
+    },
+    {
+        "question": "What does the organizing function of management involve?",
+        "options": ["Setting financial budgets", "Bringing together physical, financial, and human resources", "Conducting market surveys", "Developing new products"],
+        "answer": "Bringing together physical, financial, and human resources",
+        "reference": "It is the process of bringing together physical, financial and human resources and developing productive relationship amongst them for achievement of organizational goals."
+    },
+    {
+        "question": "What is the main purpose of the staffing function?",
+        "options": ["To design organizational structures", "To put the right person in the right job", "To monitor financial performance", "To coordinate marketing efforts"],
+        "answer": "To put the right person in the right job",
+        "reference": "The main purpose of staffing is to put right man on right job i.e. square pegs in square holes and round pegs in round holes."
+    },
+    {
+        "question": "Which element is part of the directing function of management?",
+        "options": ["Budget preparation", "Motivation", "Inventory management", "Financial auditing"],
+        "answer": "Motivation",
+        "reference": "Direction has following elements: Supervision, Motivation, Leadership, Communication."
+    },
+    {
+        "question": "What does the controlling function of management ensure?",
+        "options": ["Product innovation", "Achievement of organizational goals", "Market expansion", "Employee turnover"],
+        "answer": "Achievement of organizational goals",
+        "reference": "It implies measurement of accomplishment against the standards and correction of deviation if any to ensure achievement of organizational goals."
+    },
+    {
+        "question": "What is a key step in the controlling function?",
+        "options": ["Developing new products", "Establishment of standard performance", "Conducting market research", "Hiring new employees"],
+        "answer": "Establishment of standard performance",
+        "reference": "Controlling has following steps: Establishment of standard performance."
+    },
+    {
+        "question": "What does planning involve according to the management process?",
+        "options": ["Correcting employee behavior", "Deciding in advance what to do and how", "Monitoring daily operations", "Reducing staff numbers"],
+        "answer": "Deciding in advance what to do and how",
+        "reference": "According to KOONTZ, 'Planning is deciding in advance - what to do, when to do & how to do.'"
+    },
+    {
+        "question": "What is a component of the organizing process?",
+        "options": ["Financial forecasting", "Delegation of authority", "Performance appraisal", "Market analysis"],
+        "answer": "Delegation of authority",
+        "reference": "Organizing as a process involves: Delegation of authority and creation of responsibility."
+    },
+    {
+        "question": "What does staffing include in the management functions?",
+        "options": ["Product design", "Recruitment, selection, and placement", "Sales forecasting", "Cost reduction"],
+        "answer": "Recruitment, selection, and placement",
+        "reference": "Staffing involves: Recruitment, Selection & Placement."
+    },
+    {
+        "question": "Which function of management is considered the life-spark of the enterprise?",
+        "options": ["Planning", "Organizing", "Directing", "Controlling"],
+        "answer": "Directing",
+        "reference": "It is considered life-spark of the enterprise which sets it in motion the action of people because planning, organizing and staffing are the mere preparations for doing the work."
+    },
+    {
+        "question": "What is a purpose of the controlling function?",
+        "options": ["To predict deviations before they occur", "To develop new markets", "To hire new staff", "To design products"],
+        "answer": "To predict deviations before they occur",
+        "reference": "An efficient system of control helps to predict deviations before they actually occur."
+    },
+    {
+        "question": "What does the directing function primarily deal with?",
+        "options": ["Financial planning", "Influencing and motivating subordinates", "Inventory control", "Market expansion"],
+        "answer": "Influencing and motivating subordinates",
+        "reference": "Direction is that inert-personnel aspect of management which deals directly with influencing, guiding, supervising, motivating sub-ordinate for the achievement of organizational goals."
+    },
+    {
+        "question": "Why are management principles important for improving understanding?",
+        "options": ["They reduce employee training", "They indicate how to manage an organization", "They eliminate the need for managers", "They focus only on financial outcomes"],
+        "answer": "They indicate how to manage an organization",
+        "reference": "Improves Understanding - From the knowledge of principles managers get indication on how to manage an organization."
+    },
+    {
+        "question": "How do management principles aid in training managers?",
+        "options": ["By reducing training costs", "By identifying areas for manager training", "By eliminating training needs", "By focusing on product development"],
+        "answer": "By identifying areas for manager training",
+        "reference": "Direction for Training of Managers - Principles of management provide understanding of management process what managers would do to accomplish what."
+    },
+    {
+        "question": "What role do management principles play in research?",
+        "options": ["They guide research to make management more effective", "They eliminate the need for research", "They focus only on financial research", "They reduce research efforts"],
+        "answer": "They guide research to make management more effective",
+        "reference": "Guide to Research in Management - The body of management principles indicate lines along which research should be undertaken to make management practical and more effective."
+    },
+    {
+        "question": "How do management principles enhance managerial efficiency?",
+        "options": ["By complicating processes", "By providing guidelines for operations", "By reducing staff numbers", "By eliminating planning"],
+        "answer": "By providing guidelines for operations",
+        "reference": "Management principles provide guidelines to managers as to how they should operate in different situations."
+    },
+    {
+        "question": "What is a need for management principles in coordinating resources?",
+        "options": ["To reduce resource use", "To optimize utilization of human and material resources", "To eliminate resource allocation", "To focus only on financial resources"],
+        "answer": "To optimize utilization of human and material resources",
+        "reference": "Management principles widen the scope for optimum utilization of natural resources. They also help to coordinate the material and human resources."
+    },
+    {
+        "question": "Why are management principles necessary for training future managers?",
+        "options": ["They replace practical experience", "They provide an organized body of knowledge", "They eliminate the need for training", "They focus only on technical skills"],
+        "answer": "They provide an organized body of knowledge",
+        "reference": "In the words of Henri Fayol, 'Management principles are necessary to train and educate future managers.'"
+    },
+    {
+        "question": "How do management principles facilitate research in management?",
+        "options": ["By reducing research scope", "By providing new strategies and ideas", "By eliminating research needs", "By focusing only on past data"],
+        "answer": "By providing new strategies and ideas",
+        "reference": "Management principles help to amplify knowledge and carry out further research in the field of management. It provides new strategies and imaginations to the organization."
+    },
+    {
+        "question": "What is a benefit of management principles for organizational functioning?",
+        "options": ["They complicate decision-making", "They ensure smooth functioning of the organization", "They reduce organizational goals", "They eliminate coordination"],
+        "answer": "They ensure smooth functioning of the organization",
+        "reference": "This leads to smooth functioning of the organization which in turn enhances managerial efficiency."
+    },
+    {
+        "question": "Why is management considered an art?",
+        "options": ["It is based on universal principles", "It involves systematic application of skill", "It is a purely theoretical discipline", "It lacks practical application"],
+        "answer": "It involves systematic application of skill",
+        "reference": "An art is often regarded as the systematic application of skill or knowledge in effecting accomplishment of results."
+    },
+    {
+        "question": "What is a key element of management as an art?",
+        "options": ["Universal applicability", "Personal skill in coordinating activities", "Predictable outcomes", "Scientific observation"],
+        "answer": "Personal skill in coordinating activities",
+        "reference": "Like any other artist, a manager also uses his knowledge and skill in coordinating the activities of people in the organisation."
+    },
+    {
+        "question": "Why is management considered a science?",
+        "options": ["It is based on personal intuition", "It is a systematised body of knowledge", "It lacks universal principles", "It avoids observation"],
+        "answer": "It is a systematised body of knowledge",
+        "reference": "Management is viewed as a science as it is an organised body of knowledge built up by management practitioners, thinkers and philosophers over a period of years."
+    },
+    {
+        "question": "What feature of science does management exhibit?",
+        "options": ["Random application", "Cause and effect relationship", "Personal creativity", "Unverifiable principles"],
+        "answer": "Cause and effect relationship",
+        "reference": "When applied to management, the principles of management also establish cause and effect relationship, e.g., poor planning and plant layout cause low productivity."
+    },
+    {
+        "question": "Why is management considered an inexact science?",
+        "options": ["It has universal principles", "It deals with unpredictable human behavior", "It lacks observation", "It is purely theoretical"],
+        "answer": "It deals with unpredictable human behavior",
+        "reference": "The main reason for the inexactness of the science of management is that it deals with human beings whose behaviour cannot be predicted."
+    },
+    {
+        "question": "How is management both an art and a science?",
+        "options": ["It avoids practical application", "It combines scientific principles with practical skill", "It is only theoretical", "It lacks creativity"],
+        "answer": "It combines scientific principles with practical skill",
+        "reference": "In fact, it is a science as well as an art because science and art are both complementary to each other."
+    },
+    {
+        "question": "Who is part of the top level of management?",
+        "options": ["Supervisors", "Board of directors", "Foremen", "Section officers"],
+        "answer": "Board of directors",
+        "reference": "It consists of board of directors, chief executive or managing director."
+    },
+    {
+        "question": "What is a primary role of top-level management?",
+        "options": ["Assigning daily tasks", "Laying down objectives and policies", "Supervising workers", "Training employees"],
+        "answer": "Laying down objectives and policies",
+        "reference": "Top management lays down the objectives and broad policies of the enterprise."
+    },
+    {
+        "question": "Who constitutes the middle level of management?",
+        "options": ["Chief executive officer", "Branch managers", "Supervisors", "Foremen"],
+        "answer": "Branch managers",
+        "reference": "The branch managers and departmental managers constitute middle level."
+    },
+    {
+        "question": "What is a key responsibility of middle-level managers?",
+        "options": ["Setting enterprise goals", "Executing plans per top management directives", "Assigning daily tasks to workers", "Maintaining external contacts"],
+        "answer": "Executing plans per top management directives",
+        "reference": "They execute the plans of the organization in accordance with the policies and directives of the top management."
+    },
+    {
+        "question": "What is the role of lower-level management?",
+        "options": ["Setting strategic plans", "Supervising and guiding workers", "Appointing departmental managers", "Maintaining shareholder relations"],
+        "answer": "Supervising and guiding workers",
+        "reference": "They supervise & guide the sub-ordinates."
+    },
+    {
+        "question": "What do lower-level managers ensure in production?",
+        "options": ["Financial planning", "Quality and quantity of production", "Market expansion", "Policy formulation"],
+        "answer": "Quality and quantity of production",
+        "reference": "They are responsible for the quality as well as quantity of production."
+    },
+    {
+        "question": "What skill is most imperative for lower-level managers?",
+        "options": ["Conceptual skills", "Technical skills", "Human skills", "Decision-making skills"],
+        "answer": "Technical skills",
+        "reference": "Technical Skills: An imperative skill for managers at the lower levels of management."
+    },
+    {
+        "question": "What do human skills in management involve?",
+        "options": ["Financial analysis", "Working well with people in a group", "Designing organizational structures", "Predicting market trends"],
+        "answer": "Working well with people in a group",
+        "reference": "Human skills or interpersonal skills refer to the ability of a person to work well with other people in a group."
+    },
+    {
+        "question": "Which skill is most important for top-level management?",
+        "options": ["Technical skills", "Human skills", "Conceptual skills", "Operational skills"],
+        "answer": "Conceptual skills",
+        "reference": "These skills are most important for the top management level; as they have the greatest need to view the ‘big picture’."
+    },
+    {
+        "question": "What is an interpersonal role of a manager according to Mintzberg?",
+        "options": ["Resource allocator", "Figurehead", "Monitor", "Entrepreneur"],
+        "answer": "Figurehead",
+        "reference": "Figurehead – As a manager, you have social, ceremonial and legal responsibilities."
+    },
+    {
+        "question": "What does the monitor role of a manager involve?",
+        "options": ["Solving organizational disputes", "Seeking information about the organization", "Allocating resources", "Leading negotiations"],
+        "answer": "Seeking information about the organization",
+        "reference": "Monitor – In this role, you regularly seek out information related to your organization and industry."
+    },
+    {
+        "question": "What is a decisional role of a manager?",
+        "options": ["Liaison", "Spokesperson", "Entrepreneur", "Disseminator"],
+        "answer": "Entrepreneur",
+        "reference": "Entrepreneur – As a manager, you create and control change within the organization."
+    },
+    {
+        "question": "What does J. D. Moony and A. C. Railey emphasize in their definition of management?",
+        "options": ["Decision-making", "Directing and inspiring people", "Financial planning", "Product development"],
+        "answer": "Directing and inspiring people",
+        "reference": "'Management is the art of directing and inspiring people'. –– J. D. Moony and A. C. Railey"
+    },
+    {
+        "question": "According to George Terry, what is the role of a manager in management?",
+        "options": ["To conduct market research", "To accomplish objectives by directing others", "To design products", "To manage inventory"],
+        "answer": "To accomplish objectives by directing others",
+        "reference": "'Management consists of getting things done through others. Manager is one who accomplishes the objectives by directing the efforts of others'. –– George Terry"
+    },
+    {
+        "question": "How does Donald J. Clough define management?",
+        "options": ["As a process of financial auditing", "As the art and science of decision-making and leadership", "As a method of cost control", "As a marketing strategy"],
+        "answer": "As the art and science of decision-making and leadership",
+        "reference": "'Management is the art and science of decision making and leadership'. –– Donald J. Clough"
+    },
+    {
+        "question": "What does Keith and Gubellini view management as?",
+        "options": ["A process of integrating human and material resources", "A process of financial forecasting", "A process of market expansion", "A process of legal compliance"],
+        "answer": "A process of integrating human and material resources",
+        "reference": "'Management is the force that integrates man and physical plant into an effective operating unit'. –– Keith and Gubellini"
+    },
+    {
+        "question": "According to Oliver Sheldon, what does management cover?",
+        "options": ["Only financial management", "Policy formation and execution", "Only employee training", "Only product design"],
+        "answer": "Policy formation and execution",
+        "reference": "'The term management in commonly used to cover the formation of policy, its execution, the designing of the organisation and its employment.' –– Oliver Sheldon"
+    },
+    {
+        "question": "What does Appley L. emphasize about management?",
+        "options": ["It is about directing things", "It is the development of human resources", "It is only about financial outcomes", "It is about market analysis"],
+        "answer": "It is the development of human resources",
+        "reference": "'Management is the development of people and not the direction of things.' –– Appley L."
+    },
+    {
+        "question": "How does the American Management Association define management?",
+        "options": ["As a process of cost reduction", "As guiding resources into dynamic organizational units", "As a marketing function", "As a legal process"],
+        "answer": "As guiding resources into dynamic organizational units",
+        "reference": "'Management is guiding human and physical resources into dynamic organisation units which attain their objectives to the satisfaction of those served.'"
+    },
+    {
+        "question": "According to Kimball and Kimball, what does management involve?",
+        "options": ["Only employee supervision", "Applying economic principles to control resources", "Only market research", "Only product innovation"],
+        "answer": "Applying economic principles to control resources",
+        "reference": "'Management may be defined as the art of applying the economic principles that underline the control of men and materials in the enterprise under consideration'. –– Kimball and Kimball"
+    },
+    {
+        "question": "What does P. Drucker stress as a job of management?",
+        "options": ["Managing only financial resources", "Managing a business, managers, and workers", "Managing only market strategies", "Managing only legal compliance"],
+        "answer": "Managing a business, managers, and workers",
+        "reference": "Drucker stresses three jobs of management – (i) Managing a business; (ii) Managing a manager; and (iii) Managing workers and work."
+    },
+    {
+        "question": "What is a key aspect of management according to Koontz and O’Donnell?",
+        "options": ["Creating a favorable performance environment", "Reducing employee numbers", "Focusing only on profits", "Eliminating organizational goals"],
+        "answer": "Creating a favorable performance environment",
+        "reference": "'Management has been defined as the creation and maintenance of internal environment in an enterprise where individuals working together in groups, can perform efficiency towards the attainment of group goals'. –– Koontz and O’Donnell"
+    },
+    {
+        "question": "What is an effective planning program based on?",
+        "options": ["Only internal factors", "Both external and internal factors", "Only employee feedback", "Only financial data"],
+        "answer": "Both external and internal factors",
+        "reference": "An effective planning program incorporates the effect of both external as well as internal factors."
+    },
+    {
+        "question": "What does the organizing function require?",
+        "options": ["A formal structure of authority", "A financial audit", "A marketing plan", "A product design"],
+        "answer": "A formal structure of authority",
+        "reference": "Organizing requires a formal structure of authority."
+    },
+    {
+        "question": "What is the staffing function concerned with?",
+        "options": ["Hiring and retaining a suitable workforce", "Developing new products", "Conducting market surveys", "Managing inventory"],
+        "answer": "Hiring and retaining a suitable workforce",
+        "reference": "Staffing is the function of hiring and retaining a suitable work-force."
+    },
+    {
+        "question": "What are key elements of the directing function?",
+        "options": ["Financial planning and auditing", "Leadership, communication, and motivation", "Inventory and supply chain management", "Market research and sales"],
+        "answer": "Leadership, communication, and motivation",
+        "reference": "The directing function is concerned with leadership, communication, motivation."
+    },
+    {
+        "question": "What does the controlling function involve?",
+        "options": ["Product innovation", "Establishment of standards and corrective action", "Employee recruitment", "Market expansion"],
+        "answer": "Establishment of standards and corrective action",
+        "reference": "The controlling function involves establishment of standard performance, measurement of actual performance, taking corrective action."
+    },
+    {
+        "question": "What is a key activity in the planning function?",
+        "options": ["Supervising daily tasks", "Determining courses of action", "Conducting performance appraisals", "Managing inventory"],
+        "answer": "Determining courses of action",
+        "reference": "Planning is determination of courses of action to achieve desired goals."
+    },
+    {
+        "question": "What does organizing involve in terms of activities?",
+        "options": ["Financial forecasting", "Classification and grouping of activities", "Sales forecasting", "Product testing"],
+        "answer": "Classification and grouping of activities",
+        "reference": "Organizing as a process involves: Classification of grouping of activities."
+    },
+    {
+        "question": "What is included in the staffing process?",
+        "options": ["Market analysis", "Training and development", "Financial planning", "Product design"],
+        "answer": "Training and development",
+        "reference": "Staffing involves: Training & Development."
+    },
+    {
+        "question": "What does the directing function set in motion?",
+        "options": ["Financial strategies", "The action of people", "Market campaigns", "Product development"],
+        "answer": "The action of people",
+        "reference": "It is considered life-spark of the enterprise which sets it in motion the action of people."
+    },
+    {
+        "question": "What is a step in the controlling process?",
+        "options": ["Developing new products", "Comparison of actual performance with standards", "Hiring new employees", "Conducting market research"],
+        "answer": "Comparison of actual performance with standards",
+        "reference": "Controlling has following steps: Comparison of actual performance with the standards and finding out deviation if any."
+    },
+    {
+        "question": "What does planning help avoid in an organization?",
+        "options": ["Profit maximization", "Confusion, uncertainties, and risks", "Employee retention", "Market growth"],
+        "answer": "Confusion, uncertainties, and risks",
+        "reference": "Planning is necessary to ensure proper utilization of human & non-human resources. It also helps in avoiding confusion, uncertainties, risks, wastages etc."
+    },
+    {
+        "question": "What is a responsibility of the staffing function?",
+        "options": ["Performance appraisal", "Financial budgeting", "Market expansion", "Product innovation"],
+        "answer": "Performance appraisal",
+        "reference": "Staffing involves: Performance Appraisal."
+    },
+    {
+        "question": "What does the directing function include besides motivation?",
+        "options": ["Financial auditing", "Supervision and leadership", "Inventory management", "Sales forecasting"],
+        "answer": "Supervision and leadership",
+        "reference": "Direction has following elements: Supervision, Motivation, Leadership, Communication."
+    },
+    {
+        "question": "How do management principles help managers make decisions?",
+        "options": ["By complicating processes", "By acting as a ready reference", "By eliminating decisions", "By reducing staff input"],
+        "answer": "By acting as a ready reference",
+        "reference": "Management principles act as ready reference to the managers to check whether their decisions are appropriate."
+    },
+    {
+        "question": "What is a benefit of management principles for managerial roles?",
+        "options": ["They eliminate the need for managers", "They define managerial activities in practical terms", "They reduce organizational goals", "They focus only on financial outcomes"],
+        "answer": "They define managerial activities in practical terms",
+        "reference": "They tell what a manager is expected to do in specific situation."
+    },
+    {
+        "question": "How do management principles assist in organizational efficiency?",
+        "options": ["By increasing transaction volume", "By providing guidelines for smooth functioning", "By eliminating planning", "By reducing employee training"],
+        "answer": "By providing guidelines for smooth functioning",
+        "reference": "This leads to smooth functioning of the organization which in turn enhances managerial efficiency."
+    },
+    {
+        "question": "What do management principles help comprehend?",
+        "options": ["Market trends", "The nature of management", "Product designs", "Financial audits"],
+        "answer": "The nature of management",
+        "reference": "A sound knowledge of management principles helps to identify the efficiency level of a manager’s job, cull out the scope of his duties."
+    },
+    {
+        "question": "Why are management principles important for resource coordination?",
+        "options": ["They reduce resource availability", "They help coordinate material and human resources", "They eliminate resource use", "They focus only on financial resources"],
+        "answer": "They help coordinate material and human resources",
+        "reference": "Management principles widen the scope for optimum utilization of natural resources. They also help to coordinate the material and human resources."
+    },
+    {
+        "question": "What is a role of management principles in research?",
+        "options": ["They eliminate research needs", "They guide research to improve management practice", "They reduce research scope", "They focus only on past data"],
+        "answer": "They guide research to improve management practice",
+        "reference": "Anything which makes management research more exact & pointed will help improve management practice."
+    },
+    {
+        "question": "How do management principles support manager training?",
+        "options": ["By eliminating training", "By identifying areas for training", "By reducing training costs", "By focusing only on technical skills"],
+        "answer": "By identifying areas for training",
+        "reference": "Principles of management provide understanding of management process what managers would do to accomplish what."
+    },
+    {
+        "question": "What makes management an art in terms of results?",
+        "options": ["It is based on universal truths", "It is result-oriented through deliberate efforts", "It lacks practical application", "It is purely theoretical"],
+        "answer": "It is result-oriented through deliberate efforts",
+        "reference": "The function of art is to effect change and accomplish results through deliberate efforts."
+    },
+    {
+        "question": "What is a creative aspect of management as an art?",
+        "options": ["Predictable outcomes", "Motivating and coordinating activities", "Universal applicability", "Scientific observation"],
+        "answer": "Motivating and coordinating activities",
+        "reference": "Management is one of the most creative art as it is concerned with getting work done through others by motivating them to work and coordinating their activities."
+    },
+    {
+        "question": "Why is management considered a science in terms of observation?",
+        "options": ["It relies on intuition", "It uses scientific methods for observation", "It avoids principles", "It lacks verification"],
+        "answer": "It uses scientific methods for observation",
+        "reference": "The principles of management make use of scientific methods for observation."
+    },
+    {
+        "question": "What is a limitation of management as a pure science?",
+        "options": ["It has universal principles", "It lacks certainty about results", "It is based on intuition", "It avoids human behavior"],
+        "answer": "It lacks certainty about results",
+        "reference": "Management lacks certainty about results."
+    },
+    {
+        "question": "How does management qualify as a social science?",
+        "options": ["It deals with predictable outcomes", "It deals with human behavior", "It is a pure science", "It avoids observation"],
+        "answer": "It deals with human behavior",
+        "reference": "Thus, we can say that management is a ‘soft science’ or ‘behavioural science’ and it belongs to a group of social sciences like sociology, political science."
+    },
+    {
+        "question": "What is the relationship between art and science in management?",
+        "options": ["They are mutually exclusive", "They are complementary", "They are unrelated", "They are identical"],
+        "answer": "They are complementary",
+        "reference": "Science requires art, art requires science, each being complementary to each other."
+    },
+    {
+        "question": "Who is an example of top-level management?",
+        "options": ["Foreman", "Chief executive officer", "Supervisor", "Section officer"],
+        "answer": "Chief executive officer",
+        "reference": "It consists of board of directors, chief executive or managing director."
+    },
+    {
+        "question": "What do top-level managers primarily focus on?",
+        "options": ["Daily supervision", "Planning and coordinating functions", "Assigning tasks", "Training workers"],
+        "answer": "Planning and coordinating functions",
+        "reference": "The top management is the ultimate source of authority and it manages goals and policies for an enterprise. It devotes more time on planning and coordinating functions."
+    },
+    {
+        "question": "What is a role of middle-level managers?",
+        "options": ["Setting enterprise objectives", "Interpreting top-level policies to lower levels", "Supervising daily tasks", "Maintaining shareholder relations"],
+        "answer": "Interpreting top-level policies to lower levels",
+        "reference": "They interpret and explain policies from top level management to lower level."
+    },
+    {
+        "question": "What do middle-level managers coordinate?",
+        "options": ["Shareholder meetings", "Activities within their division or department", "Daily worker tasks", "External marketing campaigns"],
+        "answer": "Activities within their division or department",
+        "reference": "They are responsible for coordinating the activities within the division or department."
+    },
+    {
+        "question": "What is a responsibility of lower-level managers?",
+        "options": ["Setting strategic goals", "Maintaining good relations in the organization", "Appointing executives", "Formulating policies"],
+        "answer": "Maintaining good relations in the organization",
+        "reference": "They are also entrusted with the responsibility of maintaining good relation in the organization."
+    },
+    {
+        "question": "What do lower-level managers communicate to higher levels?",
+        "options": ["Strategic plans", "Workers’ problems and suggestions", "Financial budgets", "Market strategies"],
+        "answer": "Workers’ problems and suggestions",
+        "reference": "They communicate workers problems, suggestions, and recommendatory appeals etc to the higher level."
+    },
+    {
+        "question": "What is a task of lower-level managers in production?",
+        "options": ["Policy formulation", "Arranging materials and tools", "Market analysis", "Financial planning"],
+        "answer": "Arranging materials and tools",
+        "reference": "They arrange necessary materials, machines, tools etc for getting the things done."
+    },
+    {
+        "question": "What skill helps managers work effectively with others?",
+        "options": ["Technical skills", "Conceptual skills", "Human skills", "Financial skills"],
+        "answer": "Human skills",
+        "reference": "Human skills or interpersonal skills refer to the ability of a person to work well with other people in a group."
+    },
+    {
+        "question": "What do conceptual skills enable managers to do?",
+        "options": ["Supervise daily tasks", "Understand and coordinate corporate objectives", "Perform technical tasks", "Manage financial budgets"],
+        "answer": "Understand and coordinate corporate objectives",
+        "reference": "Conceptual skill refers to the ability of a person to think and conceptualize abstract situations. It is ability to understand and coordinate the full range of corporate objectives and activities."
+    },
+    {
+        "question": "What is a role of a manager as a leader according to Mintzberg?",
+        "options": ["Allocating resources", "Providing leadership for the team", "Monitoring industry changes", "Speaking for the organization"],
+        "answer": "Providing leadership for the team",
+        "reference": "Leader – This is where you provide leadership for your team, your department or perhaps your entire organization."
+    },
+    {
+        "question": "What does the liaison role of a manager involve?",
+        "options": ["Solving disputes", "Networking with internal and external contacts", "Generating new ideas", "Monitoring team productivity"],
+        "answer": "Networking with internal and external contacts",
+        "reference": "Liaison – Managers must communicate with internal and external contacts. You need to be able to network effectively on behalf of your organization."
+    },
+    {
+        "question": "What is the disseminator role of a manager?",
+        "options": ["Allocating resources", "Communicating useful information to colleagues", "Handling disturbances", "Negotiating deals"],
+        "answer": "Communicating useful information to colleagues",
+        "reference": "Disseminator – This is where you communicate potentially useful information to your colleagues and your team."
+    },
+    {
+        "question": "What does the disturbance handler role involve?",
+        "options": ["Monitoring industry trends", "Taking charge during unexpected roadblocks", "Speaking for the organization", "Leading negotiations"],
+        "answer": "Taking charge during unexpected roadblocks",
+        "reference": "Disturbance Handler – When an organization or team hits an unexpected roadblock, it's the manager who must take charge."
+    },
+    {
+        "question": "What is a task in the resource allocator role of a manager?",
+        "options": ["Monitoring team well-being", "Determining where resources are best applied", "Communicating with external contacts", "Generating new ideas"],
+        "answer": "Determining where resources are best applied",
+        "reference": "Resource Allocator – You'll also need to determine where organizational resources are best applied."
+    }
+]

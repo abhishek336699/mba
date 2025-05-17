@@ -1,0 +1,625 @@
+[
+    {
+        "question": "What marked the starting point for the development of management concepts and theories?",
+        "options": ["The digital revolution", "The industrial revolution", "The agricultural revolution", "The scientific revolution"],
+        "answer": "The industrial revolution",
+        "reference": "The industrial revolution was the starting point for the development of management concepts and theories."
+    },
+    {
+        "question": "What did Robert Owen emphasize as a key factor influencing workers' performance?",
+        "options": ["Financial incentives", "Work environment", "Technological advancements", "Market competition"],
+        "answer": "Work environment",
+        "reference": "He believed workers performance was influenced by the environment in which they worked."
+    },
+    {
+        "question": "What reform did Robert Owen propose to improve working conditions?",
+        "options": ["Increased wages", "Limiting working hours and restricting child labor", "Mandatory overtime", "Reducing employee benefits"],
+        "answer": "Limiting working hours and restricting child labor",
+        "reference": "He proposed legislative reform that would limit the number of working hours and restrict the use of child labour."
+    },
+    {
+        "question": "What concept did Charles Babbage advocate to improve efficiency?",
+        "options": ["Centralized management", "Division of labor", "Automated production", "Employee motivation"],
+        "answer": "Division of labor",
+        "reference": "He advocates the concept of division of labour."
+    },
+    {
+        "question": "What is the modern-day Scanlon Plan based on?",
+        "options": ["Robert Owen’s welfare programs", "Charles Babbage’s profit-sharing ideas", "Andrew Ure’s automation plans", "Henry Towne’s gain-sharing system"],
+        "answer": "Charles Babbage’s profit-sharing ideas",
+        "reference": "The modern-day Scanlon Plan under which workers offer suggestions to improve productivity and then share the resulting profits is based on the Babbage’s idea."
+    },
+    {
+        "question": "What did Andrew Ure advocate to maintain harmony in factories?",
+        "options": ["Strict supervision", "An automatic plan", "Employee empowerment", "Flexible work hours"],
+        "answer": "An automatic plan",
+        "reference": "Ure advocated an 'automatic plan' to provide harmony and to keep any individual worker from stopping production."
+    },
+    {
+        "question": "What concept did Charles Dupin introduce in his writings?",
+        "options": ["Profit-sharing", "Time study", "Employee training", "Mechanization"],
+        "answer": "Time study",
+        "reference": "This manuscript included concepts such as time study and the need to balance workloads after introducing division of labor."
+    },
+    {
+        "question": "What did Henry Towne suggest in his paper 'The Engineer as an Economist'?",
+        "options": ["ASME should focus on technical engineering", "ASME should become a clearinghouse for managerial practices", "ASME should develop new machinery", "ASME should reduce production costs"],
+        "answer": "ASME should become a clearinghouse for managerial practices",
+        "reference": "In 1866 he wrote a paper, The Engineer as an Economist, that suggested that ASME become a clearinghouse for information on managerial practices."
+    },
+    {
+        "question": "What is the Classical Approach to management also known as?",
+        "options": ["Behavioral Approach", "Empirical Approach", "Quantitative Approach", "Systems Approach"],
+        "answer": "Empirical Approach",
+        "reference": "The Classical Approach is one of the oldest approaches in management and is also known by various names, i.e., Empirical, Functional and Management Process Approach."
+    },
+    {
+        "question": "What does the Classical Approach primarily concentrate on?",
+        "options": ["Employee motivation", "Organization structure", "External environment", "Informal groups"],
+        "reference": "The theory concentrates on organisation structure and their management."
+    },
+    {
+        "question": "Who is associated with the Scientific Management viewpoint in the Classical Approach?",
+        "options": ["Henri Fayol", "Max Weber", "F.W. Taylor", "Mary Parker Follett"],
+        "answer": "F.W. Taylor",
+        "reference": "This theory incorporates three viewpoints: (i) Taylor’s view point, (ii) Fayol’s Administrative theory, (iii) Weber’s Bureaucracy."
+    },
+    {
+        "question": "What is a key feature of the Classical Approach?",
+        "options": ["Focus on human relations", "Division of labor and specialization", "Decentralized authority", "Informal organization"],
+        "answer": "Division of labor and specialization",
+        "reference": "Classical theory concentrates on anatomy of formal organisation through division of labour, specialization, structure, scalar, functional processes and span of control."
+    },
+    {
+        "question": "What is a limitation of the Classical Approach?",
+        "options": ["It emphasizes human relations", "It ignores the human factor", "It promotes decentralization", "It relies on empirical data"],
+        "answer": "It ignores the human factor",
+        "reference": "The classical ignored the human relations aspects and undermines the role of human factor."
+    },
+    {
+        "question": "What is the main objective of Scientific Management?",
+        "options": ["Improving employee morale", "Enhancing labor productivity", "Decentralizing authority", "Promoting team spirit"],
+        "answer": "Enhancing labor productivity",
+        "reference": "Its main objective is improving economic efficiency, especially labor productivity."
+    },
+    {
+        "question": "Which principle of Scientific Management emphasizes developing new techniques?",
+        "options": ["Harmony, Not Discord", "Science, Not Rule of Thumb", "Cooperation, Not Individualism", "Development of Each Person"],
+        "answer": "Science, Not Rule of Thumb",
+        "reference": "This principle says that we should not get stuck in a set routine with the old techniques of doing work, rather we should be constantly experimenting to develop new techniques."
+    },
+    {
+        "question": "What does Taylor’s 'Harmony, Not Discord' principle aim to achieve?",
+        "options": ["Centralized control", "Mutual cooperation between labor and management", "Individual competition", "Technological innovation"],
+        "answer": "Mutual cooperation between labor and management",
+        "reference": "As per this principle, such an atmosphere should be created in the organisation that labour (the major factor of production) and management consider each other indispensable."
+    },
+    {
+        "question": "What is the focus of Taylor’s 'Cooperation, Not Individualism' principle?",
+        "options": ["Independent work", "Mutual cooperation", "Strict supervision", "Economic incentives"],
+        "answer": "Mutual cooperation",
+        "reference": "According to this principle, all the activities done by different people must be carried on with a spirit of mutual cooperation."
+    },
+    {
+        "question": "What does Taylor’s principle of 'Development of Each Person' emphasize?",
+        "options": ["Standardized tools", "Employee training and efficiency", "Centralized decision-making", "Profit maximization"],
+        "answer": "Employee training and efficiency",
+        "reference": "According to this principle, the efficiency of each and every person should be taken care of right from his selection."
+    },
+    {
+        "question": "What is a key aspect of Taylor’s Scientific Management?",
+        "options": ["Informal group dynamics", "Functional foremanship", "Decentralized authority", "Employee empowerment"],
+        "answer": "Functional foremanship",
+        "reference": "Functional foremanship."
+    },
+    {
+        "question": "What does Taylor’s differential piece-rate system aim to do?",
+        "options": ["Reduce production costs", "Motivate workers to meet standard output", "Increase employee turnover", "Standardize work hours"],
+        "answer": "Motivate workers to meet standard output",
+        "reference": "In order to motivate workers positively as also negatively to produce the standard output, Taylor devised a scheme of wage payment, known as the ‘Differential piece-rate system of wage-payment.’"
+    },
+    {
+        "question": "What is a merit of Scientific Management?",
+        "options": ["Increased unemployment", "Higher production and profits", "Reduced job satisfaction", "Limited scalability"],
+        "answer": "Higher production and profits",
+        "reference": "Scientific management makes for a more systematized way of managing-enabling employers (of course, through their managements) to have more production at the minimum cost; and ultimately reap higher profits."
+    },
+    {
+        "question": "What is a criticism of Scientific Management?",
+        "options": ["It promotes job satisfaction", "It retards human development", "It is cost-effective for small firms", "It encourages initiative"],
+        "answer": "It retards human development",
+        "reference": "According to psychologist, scientific management aims efficiency at the cost of initiative. It totally takes away initiative from workers."
+    },
+    {
+        "question": "What does Fayol’s Administrative Theory aim to achieve?",
+        "options": ["Rational organization design", "Employee empowerment", "Informal group dynamics", "Technological innovation"],
+        "answer": "Rational organization design",
+        "reference": "Administrative management theory attempts to find a rational way to design an organization as a whole."
+    },
+    {
+        "question": "Which of Fayol’s principles emphasizes specialized tasks for employees?",
+        "options": ["Authority", "Division of Work", "Discipline", "Unity of Command"],
+        "answer": "Division of Work",
+        "reference": "Division of Work – When employees are specialized, output can increase because they become increasingly skilled and efficient."
+    },
+    {
+        "question": "What does Fayol’s 'Authority' principle state?",
+        "options": ["Managers should avoid giving orders", "Managers must have authority with responsibility", "Managers should decentralize all decisions", "Managers should focus on employee welfare"],
+        "answer": "Managers must have authority with responsibility",
+        "reference": "Authority – Managers must have the authority to give orders, but they must also keep in mind that with authority comes responsibility."
+    },
+    {
+        "question": "What does Fayol’s 'Unity of Command' principle ensure?",
+        "options": ["Multiple supervisors for each employee", "One supervisor per employee", "Decentralized decision-making", "Flexible work hours"],
+        "answer": "One supervisor per employee",
+        "reference": "Unity of Command – Employees should have only one direct supervisor."
+    },
+    {
+        "question": "What is the focus of Fayol’s 'Esprit de Corps' principle?",
+        "options": ["Individual achievement", "Team spirit and unity", "Centralized control", "Economic incentives"],
+        "answer": "Team spirit and unity",
+        "reference": "Esprit de Corps – Organizations should strive to promote team spirit and unity."
+    },
+    {
+        "question": "What does Fayol’s 'Stability of Tenure' principle aim to minimize?",
+        "options": ["Employee turnover", "Production costs", "Managerial authority", "Work specialization"],
+        "answer": "Employee turnover",
+        "reference": "Stability of Tenure of Personnel – Managers should strive to minimize employee turnover."
+    },
+    {
+        "question": "What does Fayol’s 'Scalar Chain' principle refer to?",
+        "options": ["Employee motivation", "Organizational hierarchy", "Production processes", "Informal groups"],
+        "answer": "Organizational hierarchy",
+        "reference": "Scalar Chain – Employees should be aware of where they stand in the organization’s hierarchy, or chain of command."
+    },
+    {
+        "question": "What does Fayol’s 'Equity' principle emphasize?",
+        "options": ["Strict discipline", "Fair treatment of staff", "Centralized decision-making", "Economic rewards"],
+        "answer": "Fair treatment of staff",
+        "reference": "Equity – Managers should be fair to staff at all times, both maintaining discipline as necessary and acting with kindness where appropriate."
+    },
+    {
+        "question": "Who is considered the father of Bureaucratic Management Theory?",
+        "options": ["F.W. Taylor", "Henri Fayol", "Max Weber", "Elton Mayo"],
+        "answer": "Max Weber",
+        "reference": "One of the most important thinkers in modern organisational theory, Max Weber, is the 'father of the bureaucratic management theory.'"
+    },
+    {
+        "question": "What is a key element of Weber’s Bureaucratic Management Theory?",
+        "options": ["Informal relationships", "Organizational hierarchy", "Employee empowerment", "Flexible rules"],
+        "answer": "Organizational hierarchy",
+        "reference": "First, it entails structuring an organisation into a hierarchy."
+    },
+    {
+        "question": "What does Weber’s 'Formal Rules and Norms' principle ensure?",
+        "options": ["Employee creativity", "Strict discipline", "Informal communication", "Decentralized authority"],
+        "answer": "Strict discipline",
+        "reference": "This principle implies the need of strict rules and regulations to be followed by all in the organisation. By this principle, the management can maintain strict discipline."
+    },
+    {
+        "question": "What is a feature of Weber’s 'Administrative Class' in bureaucracy?",
+        "options": ["Part-time employees", "Paid full-time employees", "Temporary workers", "Volunteer staff"],
+        "answer": "Paid full-time employees",
+        "reference": "People are paid and are whole-time employees."
+    },
+    {
+        "question": "What is a criticism of Weber’s Bureaucratic Management Theory?",
+        "options": ["It promotes creativity", "It leads to red tape and delays", "It encourages decentralization", "It focuses on human relations"],
+        "answer": "It leads to red tape and delays",
+        "reference": "The excessive reliance on rules and regulations lead to red tape, excessive paperwork and delay in decision-making."
+    },
+    {
+        "question": "What does Mary Parker Follett’s management theory emphasize?",
+        "options": ["Strict hierarchy", "Coordination among workers", "Centralized control", "Economic incentives"],
+        "answer": "Coordination among workers",
+        "reference": "Mary Parker Follett’s management theory exists to increase coordination among workers."
+    },
+    {
+        "question": "What does Follett’s 'Power with' principle advocate?",
+        "options": ["Strict hierarchical power", "Co-active power with the team", "Individual power over others", "Centralized decision-making"],
+        "answer": "Co-active power with the team",
+        "reference": "Rather than establishing a strict hierarchy and delegating power to certain individuals over others, Follett believed that workers should practice co-active power."
+    },
+    {
+        "question": "What is a key principle of Follett’s management theory?",
+        "options": ["Direct contact between employees and managers", "Centralized authority", "Strict discipline", "Economic rewards"],
+        "answer": "Direct contact between employees and managers",
+        "reference": "Direct contact. Direct contact between employees and managers helps organizations avoid conflict and misunderstandings."
+    },
+    {
+        "question": "What did Elton Mayo’s Hawthorne Experiments reveal about productivity?",
+        "options": ["It depends only on physical conditions", "It is influenced by social factors", "It is unrelated to supervision", "It relies solely on economic incentives"],
+        "answer": "It is influenced by social factors",
+        "reference": "These studies brought out for the first time the important relationships between social factors and productivity."
+    },
+    {
+        "question": "What was a key finding of Mayo’s Relay Assembly Test Room Experiment?",
+        "options": ["Physical conditions are the only factor", "Socio-psychological factors increase productivity", "Strict supervision reduces morale", "Economic incentives are irrelevant"],
+        "answer": "Socio-psychological factors increase productivity",
+        "reference": "The researchers concluded that socio-psychological factors such as the feelings of being important, recognition, participation, informal work group, non-directive supervision etc. held the key for higher productivity."
+    },
+    {
+        "question": "What did Mayo’s Mass Interviewing Program confirm?",
+        "options": ["Importance of economic rewards", "Impact of social and psychological needs", "Need for strict supervision", "Irrelevance of informal groups"],
+        "answer": "Impact of social and psychological needs",
+        "reference": "The results again confirmed the importance of informal relation, social and psychological needs and their impact on the behaviour of the workers."
+    },
+    {
+        "question": "What is a conclusion from Mayo’s Hawthorne Experiments?",
+        "options": ["Workers act as individuals", "Informal groups influence behavior", "Physical conditions have no impact", "Economic rewards are the only motivator"],
+        "answer": "Informal groups influence behavior",
+        "reference": "The workers spontaneously form small informal groups. The norms and values of such groups have significant influence on the behaviour and performance of the workers."
+    },
+    {
+        "question": "Why is Elton Mayo known as the 'Father of Human Relations Movement'?",
+        "options": ["His focus on scientific methods", "His emphasis on human and social factors", "His development of bureaucratic systems", "His advocacy for economic incentives"],
+        "answer": "His emphasis on human and social factors",
+        "reference": "He is rightly called the ‘Founder of the Human Relations Approach’ to management."
+    },
+    {
+        "question": "What is the basis of Maslow’s Hierarchy of Needs theory?",
+        "options": ["Economic incentives", "Hierarchically ranked human needs", "Technological advancements", "Organizational hierarchy"],
+        "answer": "Hierarchically ranked human needs",
+        "reference": "Maslow’s theory is based on a simple premise: human beings have needs that are hierarchically ranked."
+    },
+    {
+        "question": "What is the most basic level in Maslow’s Hierarchy of Needs?",
+        "options": ["Safety needs", "Physiological needs", "Esteem needs", "Self-actualization"],
+        "answer": "Physiological needs",
+        "reference": "The most basic of Maslow’s needs are physiological needs, such as the need for air, food, and water."
+    },
+    {
+        "question": "What motivates behavior once physiological needs are satisfied, according to Maslow?",
+        "options": ["Esteem needs", "Safety needs", "Love/belonging needs", "Self-actualization"],
+        "answer": "Safety needs",
+        "reference": "Once physiological needs are satisfied, people tend to become concerned about safety needs."
+    },
+    {
+        "question": "What does Maslow’s self-actualization need involve?",
+        "options": ["Achieving job security", "Forming social bonds", "Achieving one’s full potential", "Gaining peer respect"],
+        "answer": "Achieving one’s full potential",
+        "reference": "At the highest level of the hierarchy, attention shifts to the need for self-actualization, which is a need that essentially equates to achieving one’s full potential."
+    },
+    {
+        "question": "What does McGregor’s Theory X assume about employees?",
+        "options": ["They are self-motivated", "They dislike work and need close supervision", "They seek responsibility", "They are creative and innovative"],
+        "answer": "They dislike work and need close supervision",
+        "reference": "An average employee intrinsically does not like work and tries to escape it whenever possible."
+    },
+    {
+        "question": "What does McGregor’s Theory Y encourage in organizations?",
+        "options": ["Strict supervision", "Decentralization and participative decision-making", "Centralized control", "Economic penalties"],
+        "answer": "Decentralization and participative decision-making",
+        "reference": "Theory Y encourages decentralization of authority, teamwork and participative decision making in an organization."
+    },
+    {
+        "question": "What does Chris Argyris’s management theory focus on?",
+        "options": ["Scientific methods", "Organizational learning", "Bureaucratic structures", "Economic efficiency"],
+        "answer": "Organizational learning",
+        "reference": "Chris Argyris explored the concept of organizational learning and its impact on a company’s growth, effectiveness and adaptability."
+    },
+    {
+        "question": "What is a focus of the Quantitative Management Approach?",
+        "options": ["Human behavior", "Mathematical and statistical techniques", "Informal groups", "Organizational hierarchy"],
+        "answer": "Mathematical and statistical techniques",
+        "reference": "The quantitative management approach is given by the mathematical school that recommends the use of computers and mathematical techniques to solve complex management issues."
+    },
+    {
+        "question": "What is a branch of the Quantitative Management Approach?",
+        "options": ["Human Relations", "Management Science", "Behavioral Science", "Contingency Theory"],
+        "answer": "Management Science",
+        "reference": "The three main branches of the quantitative approach are: 1. Management Science, 2. Operations Management, 3. Management Information System."
+    },
+    {
+        "question": "What characterizes an open system in Systems Theory?",
+        "options": ["No interaction with the environment", "Interaction with the external environment", "Self-contained operations", "Fixed processes"],
+        "answer": "Interaction with the external environment",
+        "reference": "Open System: A system that interacts with this environment is regarded as an open system."
+    },
+    {
+        "question": "What is the basis of the Contingency Theory of Management?",
+        "options": ["Universal principles", "Fixed management solutions", "Adaptation to specific situations", "Centralized decision-making"],
+        "answer": "Adaptation to specific situations",
+        "reference": "A contingency approach to management is based on the assumption that the optimal course of management action is contingent (dependent) upon the internal and external situation."
+    },
+    {
+        "question": "What necessitated the development of management theories during the industrial revolution?",
+        "options": ["Technological advancements", "Coordination of large workforces", "Market competition", "Financial auditing"],
+        "answer": "Coordination of large workforces",
+        "reference": "The rapid growth in the number of factories during this period and the need to coordinate the efforts of large number of people in the production process necessitated the development of management theories and principles."
+    },
+    {
+        "question": "What action did Robert Owen take in his factory to improve worker conditions?",
+        "options": ["Increased wages", "Introduced a 10.5-hour workday", "Implemented automation", "Reduced employee training"],
+        "answer": "Introduced a 10.5-hour workday",
+        "reference": "In his own factory, he introduced a standard working day of 10.5 hours a day and no child labour below 10-year-old."
+    },
+    {
+        "question": "What was Charles Babbage’s contribution to management thought?",
+        "options": ["Employee welfare programs", "Work specialization and division of labor", "Bureaucratic hierarchy", "Human relations approach"],
+        "answer": "Work specialization and division of labor",
+        "reference": "He was impressed by the idea of work specialization or the degree to which work is divided into various tasks."
+    },
+    {
+        "question": "What was Andrew Ure’s stance on the factory system?",
+        "options": ["He opposed mechanization", "He defended its benefits", "He ignored its impact", "He focused on employee welfare"],
+        "answer": "He defended its benefits",
+        "reference": "He was a defender of the factory system and believed workers must recognize the benefits of mechanization and not resist its introduction."
+    },
+    {
+        "question": "What did Charles Dupin emphasize in his work?",
+        "options": ["Profit-sharing plans", "Clear instructions and workload balance", "Centralized management", "Informal group dynamics"],
+        "answer": "Clear instructions and workload balance",
+        "reference": "He wrote of the need for workers to receive concise instructions and the need to discover and publish the best way to perform work with the least amount of worker energy."
+    },
+    {
+        "question": "What did Henry Towne advocate in his book 'Evolution of Industrial Management'?",
+        "options": ["Employee empowerment", "Gain-sharing to increase productivity", "Decentralized authority", "Informal organizations"],
+        "answer": "Gain-sharing to increase productivity",
+        "reference": "Towne also published several papers and a book, Evolution of Industrial Management, on the use of 'gain sharing' to increase worker productivity."
+    },
+    {
+        "question": "What was Robert Owen’s approach to employee living conditions?",
+        "options": ["Providing financial incentives", "Improving basic amenities like housing", "Reducing work hours only", "Implementing strict supervision"],
+        "answer": "Improving basic amenities like housing",
+        "reference": "He tried to improve the living conditions of his employees by ensuring basic amenities like better streets, houses etc."
+    },
+    {
+        "question": "What idea of Charles Babbage influenced the concept of the assembly line?",
+        "options": ["Employee training", "Work specialization", "Profit-sharing", "Centralized control"],
+        "answer": "Work specialization",
+        "reference": "The concept of assembly line in which each worker is responsible for a different repetitive task is based on Babbage’s ideas."
+    },
+    {
+        "question": "What is a characteristic of the Classical Approach to management?",
+        "options": ["Focus on informal groups", "Centralization of authority", "Emphasis on external environment", "Decentralized decision-making"],
+        "answer": "Centralization of authority",
+        "reference": "Classical approach emphasized on ‘centralization of authority’."
+    },
+    {
+        "question": "What assumption does the Classical Approach make about the workforce?",
+        "options": ["They are motivated by social needs", "They are rational and economic", "They resist economic incentives", "They prefer informal structures"],
+        "answer": "They are rational and economic",
+        "reference": "Work force were supposed to be rational economic force, they could be motivated through economic incentives."
+    },
+    {
+        "question": "What study is part of Taylor’s Scientific Management for determining a fair day’s task?",
+        "options": ["Market analysis", "Time study", "Employee satisfaction survey", "Financial audit"],
+        "answer": "Time study",
+        "reference": "For determining a fair day’s task for each worker, Taylor recommended the use of scientific methods involving the conduct of the following three types of work studies, viz., (a) Time study."
+    },
+    {
+        "question": "What does Taylor’s functional foremanship introduce at the shop level?",
+        "options": ["Employee empowerment", "Managerial specialization", "Decentralized authority", "Informal supervision"],
+        "answer": "Managerial specialization",
+        "reference": "The scheme of functional foremanship recommended by Taylor is, in fact, an introduction of managerial specialisation-at the shop-level."
+    },
+    {
+        "question": "What is the role of the 'Route Clerk' in Taylor’s functional foremanship?",
+        "options": ["Maintain discipline", "Lay down the production route", "Record time and costs", "Inspect quality"],
+        "answer": "Lay down the production route",
+        "reference": "The route clerk is a foreman who would lay down the route (or journey) of raw materials from the raw-material stage to the finished product stage."
+    },
+    {
+        "question": "How does Taylor’s differential piece-rate system penalize inefficient workers?",
+        "options": ["Higher wages for all units", "Lower wages for all units produced", "No wage payment", "Fixed salary reduction"],
+        "answer": "Lower wages for all units produced",
+        "reference": "Those workers who are unable to come up to the standard are paid according to the lower rate for all the units produced by them."
+    },
+    {
+        "question": "What is a benefit of Scientific Management for workers?",
+        "options": ["Increased unemployment", "Job satisfaction from standardized conditions", "Reduced productivity", "Limited training opportunities"],
+        "answer": "Job satisfaction from standardized conditions",
+        "reference": "Under scientific management, a standardized work-environment (raw materials, tools, machines, conditions of work etc.) is provided to workers which would enable them to derive what is known as ‘job satisfaction’."
+    },
+    {
+        "question": "Why is Scientific Management unsuitable for small employers?",
+        "options": ["It is too cost-effective", "Techniques are too costly", "It promotes initiative", "It reduces unemployment"],
+        "answer": "Techniques are too costly",
+        "reference": "Scientific management is wholly unsuitable for the small employers. Techniques like time, and motion studies, introduction of managerial specialization, etc. are too costly to be afforded to by the small employers."
+    },
+    {
+        "question": "What does Taylor’s 'Mental Revolution' concept aim to achieve?",
+        "options": ["Technological innovation", "Mutual benefit for labor and management", "Centralized control", "Individual competition"],
+        "answer": "Mutual benefit for labor and management",
+        "reference": "Taylor firmly believed that the occurrence of a mental revolution would end all conflicts between the two parties and would be beneficial to both of them."
+    },
+    {
+        "question": "What is a focus of Taylor’s standardization in Scientific Management?",
+        "options": ["Employee motivation", "Uniform work facilities", "Informal group dynamics", "Flexible work hours"],
+        "answer": "Uniform work facilities",
+        "reference": "Another variety of standardization which Taylor refers to is uniformity in providing work-facilities and work conditions to all workers, doing a similar type of job."
+    },
+    {
+        "question": "What does Fayol’s 'Discipline' principle involve?",
+        "options": ["Flexible work arrangements", "Upholding organizational rules", "Decentralized decision-making", "Economic incentives"],
+        "answer": "Upholding organizational rules",
+        "reference": "Discipline – Discipline must be upheld in organizations, but methods for doing so can vary."
+    },
+    {
+        "question": "What does Fayol’s 'Unity of Direction' principle ensure?",
+        "options": ["Multiple plans for teams", "Coordinated action under one plan", "Individual objectives", "Decentralized authority"],
+        "answer": "Coordinated action under one plan",
+        "reference": "Unity of Direction – Teams with the same objective should be working under the direction of one manager, using one plan. This will ensure that action is properly coordinated."
+    },
+    {
+        "question": "What does Fayol’s 'Remuneration' principle focus on?",
+        "options": ["Strict supervision", "Fair compensation for employees", "Centralized control", "Work specialization"],
+        "answer": "Fair compensation for employees",
+        "reference": "Remuneration – Employee satisfaction depends on fair remuneration for everyone. This includes financial and non-financial compensation."
+    },
+    {
+        "question": "What does Fayol’s 'Centralization' principle aim to balance?",
+        "options": ["Employee motivation", "Decision-making proximity", "Production costs", "Informal groups"],
+        "answer": "Decision-making proximity",
+        "reference": "Centralization – This principle refers to how close employees are to the decision-making process. It is important to aim for an appropriate balance."
+    },
+    {
+        "question": "What does Fayol’s 'Order' principle ensure?",
+        "options": ["Flexible workspaces", "Clean and safe workplaces", "Decentralized authority", "Economic rewards"],
+        "answer": "Clean and safe workplaces",
+        "reference": "Order – The workplace facilities must be clean, tidy and safe for employees."
+    },
+    {
+        "question": "What does Fayol’s 'Subordination of Individual Interests' principle prioritize?",
+        "options": ["Individual goals", "Group interests", "Economic incentives", "Informal groups"],
+        "answer": "Group interests",
+        "reference": "Subordination of Individual Interests to the General Interest – The interests of one employee should not be allowed to become more important than those of the group."
+    },
+    {
+        "question": "What does Fayol’s 'Initiative' principle encourage?",
+        "options": ["Strict adherence to rules", "Employee freedom to create plans", "Centralized control", "Economic penalties"],
+        "answer": "Employee freedom to create plans",
+        "reference": "Initiative – Employees should be given the necessary level of freedom to create and carry out plans."
+    },
+    {
+        "question": "What does Weber’s 'Division of Work' principle aim to ensure?",
+        "options": ["Arbitrary task assignment", "Clearly-defined areas of competence", "Informal relationships", "Flexible roles"],
+        "answer": "Clearly-defined areas of competence",
+        "reference": "Division of labour try to ensure that each office has a clearly-defined area of competence within the organisation."
+    },
+    {
+        "question": "What is a feature of Weber’s 'Impersonal Relationships' principle?",
+        "options": ["Emotional decision-making", "Rational and rule-based decisions", "Informal communication", "Personal involvement"],
+        "answer": "Rational and rule-based decisions",
+        "reference": "This means bureaucratic management ignores informal organisation. According to Weber, the official positions of employees should be free from personal involvement, emotions and sentiments."
+    },
+    {
+        "question": "What does Weber’s 'Official Record' principle facilitate?",
+        "options": ["Employee motivation", "Formal documentation and future reference", "Informal group dynamics", "Decentralized decision-making"],
+        "answer": "Formal documentation and future reference",
+        "reference": "The decisions and activities of the organisation are formally recorded and preserved for future reference."
+    },
+    {
+        "question": "What does Weber’s 'Principle of Equality' emphasize?",
+        "options": ["Favoritism in promotions", "Fair judgment based on skills", "Personal relationships", "Economic incentives"],
+        "answer": "Fair judgment based on skills",
+        "reference": "The selection and promotion of workers should be based on equalisations like skills, experience, age, etc. It should not be influenced by personal relations and benefits."
+    },
+    {
+        "question": "What is a criticism of Weber’s Bureaucratic Management Theory?",
+        "options": ["It promotes employee creativity", "It ignores informal organization", "It encourages decentralization", "It reduces paperwork"],
+        "answer": "It ignores informal organization",
+        "reference": "The approach completely ignores the role of informal organisation which is one of the integral parts of organisational structure."
+    },
+    {
+        "question": "What does Mary Parker Follett’s 'Integration' principle promote?",
+        "options": ["Individual competition", "Teamwork to resolve conflicts", "Strict hierarchy", "Centralized control"],
+        "answer": "Teamwork to resolve conflicts",
+        "reference": "Follett thought that workers of all levels should integrate to reach the organization’s goals. If conflict arises, there should be a conscious effort to pull instead of push, and to work together as a team."
+    },
+    {
+        "question": "What does Follett’s 'Group Power' principle value?",
+        "options": ["Individual power", "Group power over personal power", "Centralized authority", "Economic incentives"],
+        "answer": "Group power over personal power",
+        "reference": "Group power should be valued over personal power. Organizations do not exist for one person’s benefit, but rather the entire company of workers."
+    },
+    {
+        "question": "What is a key aspect of Follett’s coordination principles?",
+        "options": ["Continuous process", "Centralized decision-making", "Strict supervision", "Economic rewards"],
+        "answer": "Continuous process",
+        "reference": "Continuous process. Coordination must be maintained. Don’t just learn it and forget about it; channel it in everything you do."
+    },
+    {
+        "question": "What did Mayo’s Illumination Experiments reveal?",
+        "options": ["Productivity depends only on lighting", "Informal social relations boost productivity", "Economic incentives are key", "Physical conditions have no impact"],
+        "answer": "Informal social relations boost productivity",
+        "reference": "From these experiments, it was revealed that productivity could be increased not only by improving the working environment, but also through informal social relations among the members of the working group."
+    },
+    {
+        "question": "What was observed in Mayo’s Bank Wiring Observation Room Experiment?",
+        "options": ["Formal production norms", "Informal production norms", "Centralized supervision", "Economic incentives"],
+        "answer": "Informal production norms",
+        "reference": "The observation revealed the informal production norms set by the workers and the existence of informal relations in the group."
+    },
+    {
+        "question": "What did Mayo’s Hawthorne Experiments conclude about worker behavior?",
+        "options": ["Workers act as individuals", "Workers act as group members", "Workers are motivated by money alone", "Workers resist supervision"],
+        "answer": "Workers act as group members",
+        "reference": "Usually, the workers act or re-act not as individuals but as the members of a group."
+    },
+    {
+        "question": "What role do informal leaders play according to Mayo’s findings?",
+        "options": ["They enforce economic incentives", "They set and enforce group norms", "They centralize authority", "They reduce productivity"],
+        "answer": "They set and enforce group norms",
+        "reference": "The informal leaders play an important role in setting and enforcing group norms."
+    },
+    {
+        "question": "What is a criticism of Mayo’s Hawthorne Experiments?",
+        "options": ["They lacked scientific rigor", "They focused on economic incentives", "They ignored social factors", "They promoted strict supervision"],
+        "answer": "They lacked scientific rigor",
+        "reference": "However, the Hawthorne Experiments were criticised for lack of scientific analysis and research."
+    },
+    {
+        "question": "What motivates behavior after safety needs are met in Maslow’s Hierarchy?",
+        "options": ["Physiological needs", "Love/belonging needs", "Esteem needs", "Self-actualization"],
+        "answer": "Love/belonging needs",
+        "reference": "Once safety needs have been met, social needs for love/belonging become important."
+    },
+    {
+        "question": "What do esteem needs involve according to Maslow?",
+        "options": ["Achieving full potential", "Forming social bonds", "Desire for respect and appreciation", "Ensuring job security"],
+        "answer": "Desire for respect and appreciation",
+        "reference": "Esteem needs refer to the desire to be respected by one’s peers, to feel important, and to be appreciated."
+    },
+    {
+        "question": "What is a characteristic of Maslow’s self-actualization process?",
+        "options": ["It is a one-time achievement", "It is an ongoing, lifelong process", "It focuses on safety needs", "It depends on economic rewards"],
+        "answer": "It is an ongoing, lifelong process",
+        "reference": "Maslow suggested that this is an ongoing, life-long process and that only a small percentage of people actually achieve a self-actualized state."
+    },
+    {
+        "question": "What needs dominate employees in McGregor’s Theory X assumptions?",
+        "options": ["Social and esteem needs", "Physiological and safety needs", "Self-actualization needs", "Creative and innovative needs"],
+        "answer": "Physiological and safety needs",
+        "reference": "Theory X is based on the assumption that the employees emphasize on the physiological needs and the safety needs."
+    },
+    {
+        "question": "What does McGregor’s Theory Y assume about employees?",
+        "options": ["They dislike work", "They can be self-directed", "They need close supervision", "They resist responsibility"],
+        "answer": "They can be self-directed",
+        "reference": "Employees may not require only threat, external control and coercion to work, but they can use self-direction and self-control."
+    },
+    {
+        "question": "What does Argyris’s theory contrast in organizational learning?",
+        "options": ["Single-loop and double-loop learning", "Formal and informal learning", "Technical and behavioral learning", "Centralized and decentralized learning"],
+        "answer": "Single-loop and double-loop learning",
+        "reference": "Argyris’s theories focused on single- and double-loop learning."
+    },
+    {
+        "question": "What is a focus of the Operations Management branch in Quantitative Approach?",
+        "options": ["Employee motivation", "Production process management", "Informal group dynamics", "Organizational hierarchy"],
+        "answer": "Production process management",
+        "reference": "Operations management is an applied form of management science. It deals with the effective management of the production process."
+    },
+    {
+        "question": "What does Management Information Systems (MIS) provide in the Quantitative Approach?",
+        "options": ["Employee training", "Timely information for decision-making", "Informal communication", "Centralized control"],
+        "answer": "Timely information for decision-making",
+        "reference": "MIS has the capability of providing timely and appropriate information allowing the managers to make effective information-based decisions."
+    },
+    {
+        "question": "What is a characteristic of a closed system in Systems Theory?",
+        "options": ["Interaction with the environment", "Self-contained with little external exchange", "Dependence on external factors", "Flexible processes"],
+        "answer": "Self-contained with little external exchange",
+        "reference": "Closed System: A system that does not interact with its environment is considered a closed system."
+    },
+    {
+        "question": "What is a component of an organizational system in Systems Theory?",
+        "options": ["Economic incentives", "Transformation process", "Informal groups", "Centralized authority"],
+        "answer": "Transformation process",
+        "reference": "Transformation Process: Transformation processes or throughputs are managerial and technical abilities that are used to convert inputs into outputs."
+    },
+    {
+        "question": "What does Contingency Theory suggest about management actions?",
+        "options": ["They should be universal", "They depend on situational factors", "They are fixed solutions", "They ignore external environment"],
+        "answer": "They depend on situational factors",
+        "reference": "A contingency approach to management is based on the assumption that the optimal course of management action is contingent (dependent) upon the internal and external situation."
+    },
+    {
+        "question": "What is a key aspect of Contingency Theory in decision-making?",
+        "options": ["Applying fixed principles", "Considering situational factors", "Centralizing authority", "Ignoring external environment"],
+        "answer": "Considering situational factors",
+        "reference": "Managers, need to make business decisions only after carefully considering all situational factors."
+    }
+]

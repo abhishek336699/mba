@@ -1,0 +1,590 @@
+[
+    {
+        "question": "What is a managerial decision?",
+        "options": ["A routine task", "An act requiring judgment translated into action", "A problem-solving technique", "A financial analysis"],
+        "answer": "An act requiring judgment translated into action",
+        "reference": "A decision is an act requiring judgment that is translated into action."
+    },
+    {
+        "question": "What distinguishes managerial decision making?",
+        "options": ["Simplicity and complete information", "Complexity and incomplete information", "No time constraints", "Single correct answer"],
+        "answer": "Complexity and incomplete information",
+        "reference": "Managerial decision-making is often characterized by complexity, incomplete information, and time constraints."
+    },
+    {
+        "question": "What is a significant role of top managers’ decisions?",
+        "options": ["Implementing daily operations", "Committing the organization to courses of action", "Solving routine problems", "Reducing organizational change"],
+        "answer": "Committing the organization to courses of action",
+        "reference": "Decisions made by top managers commit the total organization toward particular courses of action."
+    },
+    {
+        "question": "What is a characteristic of managerial decisions?",
+        "options": ["Avoids organizational change", "Involves commitment of resources", "Focuses on short-term goals", "Ignores alternatives"],
+        "answer": "Involves commitment of resources",
+        "reference": "Decision requires a commitment of resources."
+    },
+    {
+        "question": "What is the primary focus of rational decision making?",
+        "options": ["Subjectivity and intuition", "Logic, objectivity, and analysis", "Emotional factors", "Random selection"],
+        "answer": "Logic, objectivity, and analysis",
+        "reference": "The process of rational decision-making favors logic, objectivity, and analysis over subjectivity and insight."
+    },
+    {
+        "question": "What is a key feature of rational decision making?",
+        "options": ["Seeks a satisfactory outcome", "Follows an orderly path from problem to solution", "Relies on intuition", "Ignores future consequences"],
+        "answer": "Follows an orderly path from problem to solution",
+        "reference": "Decision making will follow a process or orderly path from problem to solution."
+    },
+    {
+        "question": "What does rational decision making aim to achieve?",
+        "options": ["A satisfactory solution", "An optimal outcome", "A random choice", "A biased decision"],
+        "answer": "An optimal outcome",
+        "reference": "There is a single best or optimal outcome. Rational decisions seek to optimize or maximize utility."
+    },
+    {
+        "question": "What is a limitation of rational decision making due to human capabilities?",
+        "options": ["Unlimited processing ability", "Inability to solve complex problems", "Complete information access", "No time constraints"],
+        "answer": "Inability to solve complex problems",
+        "reference": "We have limits in our ability to formulate as well as solve very complex problems."
+    },
+    {
+        "question": "What assumption does the rational decision-making model make?",
+        "options": ["Individuals lack cognitive ability", "Full and perfect information is available", "Decisions consider ethical concerns", "Time is unlimited"],
+        "answer": "Full and perfect information is available",
+        "reference": "An individual has full and perfect information on which to base a choice."
+    },
+    {
+        "question": "What is a critique of the rational decision-making model?",
+        "options": ["It accounts for all human limitations", "People rarely have perfect information", "It includes emotional factors", "It simplifies complex decisions"],
+        "answer": "People rarely have perfect information",
+        "reference": "People rarely have full (or perfect) information."
+    },
+    {
+        "question": "What is the first step in the rational decision-making process?",
+        "options": ["Identifying alternatives", "Formulating a goal", "Performing analysis", "Making a final decision"],
+        "answer": "Formulating a goal",
+        "reference": "The approach follows a sequential and formal path of activities. This path includes: 1. Formulating a goal(s)."
+    },
+    {
+        "question": "What does Herbert Simon’s concept of satisficing mean?",
+        "options": ["Seeking an optimal solution", "Choosing a good enough solution", "Maximizing all variables", "Avoiding decision making"],
+        "answer": "Choosing a good enough solution",
+        "reference": "Satisficers simply try to find a solution that is ‘good enough.’"
+    },
+    {
+        "question": "How does Gerd Gigerenzer view decision making?",
+        "options": ["Optimizing is essential", "Heuristics can lead to better outcomes", "All decisions require full information", "Emotions should be ignored"],
+        "answer": "Heuristics can lead to better outcomes",
+        "reference": "He argues that simple heuristics—experience-based techniques for problem-solving—can lead to better decision outcomes."
+    },
+    {
+        "question": "What role do emotions play in non-rational decision making?",
+        "options": ["They are irrelevant", "They influence risk tolerance", "They ensure optimal outcomes", "They simplify decisions"],
+        "answer": "They influence risk tolerance",
+        "reference": "Because decisions often involve uncertainty, individual tolerance for risk becomes a factor."
+    },
+    {
+        "question": "What is the focus of robust decision making (RDM)?",
+        "options": ["Ignoring uncertainty", "Developing alternatives iteratively", "Using complete information", "Avoiding multiple scenarios"],
+        "answer": "Developing alternatives iteratively",
+        "reference": "RDM focuses on helping decision makers identify and develop alternatives through an iterative process."
+    },
+    {
+        "question": "What is the first step in the decision-making process?",
+        "options": ["Information gathering", "Identifying the purpose of the decision", "Brainstorming alternatives", "Evaluating results"],
+        "answer": "Identifying the purpose of the decision",
+        "reference": "Step 1: Identification of the purpose of the decision."
+    },
+    {
+        "question": "What tool is used for information gathering in the decision-making process?",
+        "options": ["Decision tree", "Check Sheets", "Pareto Chart", "Break-even analysis"],
+        "answer": "Check Sheets",
+        "reference": "For the process of information gathering, tools such as 'Check Sheets' can be effectively used."
+    },
+    {
+        "question": "What should be considered when setting criteria for judging alternatives?",
+        "options": ["Only profit", "Organizational goals and culture", "Personal biases", "Random factors"],
+        "answer": "Organizational goals and culture",
+        "reference": "When it comes to defining the criteria, organizational goals as well as the corporate culture should be taken into consideration."
+    },
+    {
+        "question": "What tool helps prioritize causes in the decision-making process?",
+        "options": ["Check Sheets", "Decision tree", "Pareto Chart", "Financial analysis"],
+        "answer": "Pareto Chart",
+        "reference": "Pareto chart helps you to prioritize and identify the causes with highest effect."
+    },
+    {
+        "question": "What is a characteristic of decision making under certainty?",
+        "options": ["Unpredictable outcomes", "Known cause and effect relationships", "Incomplete information", "High uncertainty"],
+        "answer": "Known cause and effect relationships",
+        "reference": "The cause and effect relationships are known and the future is highly predictable under conditions of certainty."
+    },
+    {
+        "question": "What defines decision making under risk?",
+        "options": ["Complete information", "Known probabilities of outcomes", "Unpredictable future", "No alternatives"],
+        "answer": "Known probabilities of outcomes",
+        "reference": "Under a state of risk, the decision maker has incomplete information about available alternatives but has a good idea of the probability of outcomes for each alternative."
+    },
+    {
+        "question": "What is a feature of decision making under uncertainty?",
+        "options": ["Complete information", "Predictable environment", "Unknown alternatives and risks", "Routine decisions"],
+        "answer": "Unknown alternatives and risks",
+        "reference": "The decision-maker is not aware of all available alternatives, the risks associated with each, and the consequences of each alternative or their probabilities."
+    },
+    {
+        "question": "What does risk analysis involve in decision making under uncertainty?",
+        "options": ["Ignoring risks", "Assessing risks and benefits", "Assuming perfect information", "Avoiding alternatives"],
+        "answer": "Assessing risks and benefits",
+        "reference": "Risk analysis involves quantitative and qualitative risk assessment, risk management and risk communication."
+    },
+    {
+        "question": "What is a decision tree used for in decision making?",
+        "options": ["Ignoring alternatives", "Graphically representing alternatives and outcomes", "Simplifying information", "Avoiding risks"],
+        "answer": "Graphically representing alternatives and outcomes",
+        "reference": "A decision-tree approach involves a graphic representation of alternative courses of action and the possible outcomes and risks associated with each action."
+    },
+    {
+        "question": "What is the basis of preference theory in decision making?",
+        "options": ["Ignoring risk attitudes", "Varying individual attitudes towards risk", "Assuming all individuals are risk-neutral", "Focusing on certainty"],
+        "answer": "Varying individual attitudes towards risk",
+        "reference": "This approach is based on the notion that individual attitudes towards risk vary."
+    },
+    {
+        "question": "What is the primary task of MIS in decision making?",
+        "options": ["Identifying tools", "Identifying required information", "Focusing on effectiveness", "Manipulating data"],
+        "answer": "Identifying required information",
+        "reference": "MIS identifies the information required."
+    },
+    {
+        "question": "What is the focus of DSS in decision making?",
+        "options": ["Efficiency", "Effectiveness", "Data storage", "Corporate databases"],
+        "answer": "Effectiveness",
+        "reference": "Focus is on effectiveness."
+    },
+    {
+        "question": "How does MIS differ from DSS in terms of usage?",
+        "options": ["MIS is used in planning", "DSS is used in control processes", "MIS is used in control processes", "DSS is used by low-level users"],
+        "answer": "MIS is used in control processes",
+        "reference": "MIS is used to in control process."
+    },
+    {
+        "question": "What does the systems approach to decision making consider?",
+        "options": ["Only internal factors", "Environmental forces and subsystems", "Isolated decisions", "Centralized decision making"],
+        "answer": "Environmental forces and subsystems",
+        "reference": "Many elements of the planning environment extend beyond the boundaries of an enterprise."
+    },
+    {
+        "question": "What is a key feature of the systems approach to decision making?",
+        "options": ["Ignoring other units", "Responsiveness to other organizational units", "Fully democratic process", "Avoiding environmental factors"],
+        "answer": "Responsiveness to other organizational units",
+        "reference": "Managers of the organization units must be responsive to the policies and programs of other organization units and of the whole enterprise."
+    },
+    {
+        "question": "What is a benefit of group decision making?",
+        "options": ["Limited perspectives", "Diversity in opinions", "Reduced participation", "Increased bias"],
+        "answer": "Diversity in opinions",
+        "reference": "You will receive more diversity in the availability of opinions."
+    },
+    {
+        "question": "What is a disadvantage of group decision making?",
+        "options": ["Quick decisions", "Irrelevant opinions", "Uniform perspectives", "No time requirement"],
+        "answer": "Irrelevant opinions",
+        "reference": "You can receive irrelevant opinions and ideas with the group decision-making process."
+    },
+    {
+        "question": "What characterizes an interacting group in decision making?",
+        "options": ["No face-to-face interaction", "Discussion and agreement on alternatives", "Independent idea generation", "Questionnaire-based decisions"],
+        "answer": "Discussion and agreement on alternatives",
+        "reference": "It is a decision-making group in which the member only discusses, argue about and agree on the best alternative."
+    },
+    {
+        "question": "What is a feature of Delphi groups in decision making?",
+        "options": ["Face-to-face discussions", "Questionnaire-based process", "Independent idea generation", "Strong personality domination"],
+        "answer": "Questionnaire-based process",
+        "reference": "Questionnaires are sent to the group members who record their answers in writing."
+    },
+    {
+        "question": "What technique is used to evaluate extra output from adding a variable?",
+        "options": ["Financial analysis", "Break-even analysis", "Marginal analysis", "Ratio analysis"],
+        "answer": "Marginal analysis",
+        "reference": "This technique is used in decision-making to figure out how much extra output will result if one more variable (e.g. raw material, machine, and worker) is added."
+    },
+    {
+        "question": "What does break-even analysis determine?",
+        "options": ["Profitability of investments", "Level of sales to cover fixed costs", "Cash inflows and outflows", "Financial ratios"],
+        "answer": "Level of sales to cover fixed costs",
+        "reference": "Break-even analysis is a measure by which the level of sales necessary to cover all fixed costs can be determined."
+    },
+    {
+        "question": "What is the purpose of ratio analysis in decision making?",
+        "options": ["To estimate investment profitability", "To interpret financial statements", "To determine break-even points", "To allocate resources"],
+        "answer": "To interpret financial statements",
+        "reference": "The purpose of conducting a ratio analysis is to interpret financial statements to determine the strengths and weaknesses of a firm."
+    },
+    {
+        "question": "What is linear programming used for in decision making?",
+        "options": ["Balancing waiting lines", "Optimizing resource allocation", "Simulating systems", "Selecting competitive strategies"],
+        "answer": "Optimizing resource allocation",
+        "reference": "It involves making an optimum allocation of scarce or limited resources of an organization to achieve a particular objective."
+    },
+    {
+        "question": "What does the waiting-line method aim to balance?",
+        "options": ["Resource allocation", "Service and waiting lines", "Competitive strategies", "Simulation models"],
+        "answer": "Service and waiting lines",
+        "reference": "This is an operations research method that uses a mathematical technique for balancing services provided and waiting lines."
+    },
+    {
+        "question": "What is the primary aim of game theory in decision making?",
+        "options": ["Simulating systems", "Balancing waiting lines", "Selecting rational strategies", "Optimizing resources"],
+        "answer": "Selecting rational strategies",
+        "reference": "The primary aim of game theory is to develop rational criteria for selecting a strategy."
+    },
+    {
+        "question": "What is simulation used for in decision making?",
+        "options": ["Balancing waiting lines", "Building models of systems", "Selecting competitive strategies", "Optimizing resources"],
+        "answer": "Building models of systems",
+        "reference": "This technique involves building a model that represents a real or an existing system."
+    },
+    {
+        "question": "What does a decision tree represent in decision making?",
+        "options": ["Financial ratios", "Alternative courses and outcomes", "Break-even points", "Waiting lines"],
+        "answer": "Alternative courses and outcomes",
+        "reference": "A decision tree is a graphical representation of alternative courses of action and the possible outcomes and risks associated with each action."
+    },
+    {
+        "question": "What is a key question in identifying the purpose of a decision?",
+        "options": ["What is the optimal solution?", "What exactly is the problem?", "What are the alternatives?", "What is the final decision?"],
+        "answer": "What exactly is the problem?",
+        "reference": "There are a couple of questions one should ask when it comes to identifying the purpose of the decision. · What exactly is the problem?"
+    },
+    {
+        "question": "What is a characteristic of maximizers in decision making?",
+        "options": ["Seek satisfactory solutions", "Take longer to decide", "Avoid trade-offs", "Regret decisions less"],
+        "answer": "Take longer to decide",
+        "reference": "Maximizers tend to take longer making decisions due to the need to maximize performance across all variables."
+    },
+    {
+        "question": "What does the rational model exclude from consideration?",
+        "options": ["Facts and data", "Personal feelings and loyalties", "Logical analysis", "Measurable criteria"],
+        "answer": "Personal feelings and loyalties",
+        "reference": "It leaves out consideration of personal feelings, loyalties, or sense of obligation."
+    },
+    {
+        "question": "What is a benefit of group decision making for team understanding?",
+        "options": ["Reduces positivity", "Creates more acceptance", "Increases resistance", "Limits perspectives"],
+        "answer": "Creates more acceptance",
+        "reference": "By engaging the entire group in a discussion about what needs to happen, you will create more acceptance of the final outcome."
+    },
+    {
+        "question": "What is a disadvantage of group decision making regarding accountability?",
+        "options": ["Increases accountability", "Reduces accountability", "Ensures clear responsibility", "Avoids blame"],
+        "answer": "Reduces accountability",
+        "reference": "If a group makes a decision that fails, then there is uncertainty on who to blame."
+    },
+    {
+        "question": "What is a feature of nominal groups in decision making?",
+        "options": ["Face-to-face discussions", "Independent idea generation", "Questionnaire-based process", "Strong personality domination"],
+        "answer": "Independent idea generation",
+        "reference": "Members form the group for namesake and operate independently, originate ideas for solving the problem on their own, in silence and in writing."
+    },
+    {
+        "question": "What does financial analysis evaluate in decision making?",
+        "options": ["Break-even points", "Profitability of investments", "Extra output from variables", "Financial ratios"],
+        "answer": "Profitability of investments",
+        "reference": "This decision-making tool is used to estimate the profitability of an investment, to calculate the payback period."
+    },
+    {
+        "question": "What makes decision making a distinctive characteristic of managers?",
+        "options": ["Routine task execution", "Commitment to organizational actions", "Avoiding change", "Delegating responsibilities"],
+        "answer": "Commitment to organizational actions",
+        "reference": "Decision making is the one truly distinctive characteristic of managers."
+    },
+    {
+        "question": "How do lower-level management decisions contribute to an organization?",
+        "options": ["Set strategic goals", "Implement strategic decisions", "Commit scarce resources", "Avoid operational changes"],
+        "answer": "Implement strategic decisions",
+        "reference": "Decisions made by lower levels of management implement the strategic decisions of top managers in the operating areas of the organization."
+    },
+    {
+        "question": "What is a common feature of managerial decisions?",
+        "options": ["Avoiding resource commitment", "Focusing on short-term objectives", "Involving organizational change", "Ignoring alternatives"],
+        "answer": "Involving organizational change",
+        "reference": "Decisions invariably involve organizational change."
+    },
+    {
+        "question": "What does rational decision making emphasize in its approach?",
+        "options": ["Intuition and subjectivity", "Logical consistency and objectivity", "Emotional influences", "Random selection"],
+        "answer": "Logical consistency and objectivity",
+        "reference": "The rational choice will satisfy conditions of logical consistency and deductive completeness."
+    },
+    {
+        "question": "What is a goal of rational decision making?",
+        "options": ["Satisfactory outcomes", "Maximizing utility", "Minimizing analysis", "Ignoring risks"],
+        "answer": "Maximizing utility",
+        "reference": "Rational decisions seek to optimize or maximize utility."
+    },
+    {
+        "question": "How does rational decision making handle risk and uncertainty?",
+        "options": ["Ignores them", "Uses mathematically sound approaches", "Relies on intuition", "Avoids analysis"],
+        "answer": "Uses mathematically sound approaches",
+        "reference": "Risk and uncertainty are addressed with mathematically sound approaches."
+    },
+    {
+        "question": "What is a limitation of rational decision making due to time constraints?",
+        "options": ["Unlimited decision time", "Delays impacting benefits", "No need for analysis", "Complete information access"],
+        "answer": "Delays impacting benefits",
+        "reference": "Search for the optimum solution will generate a delay that could negatively impact the benefits of the chosen alternative."
+    },
+    {
+        "question": "What does the rational model assume about decision makers’ capabilities?",
+        "options": ["Limited cognitive ability", "Ability to evaluate all alternatives", "Reliance on intuition", "Ignoring measurable criteria"],
+        "answer": "Ability to evaluate all alternatives",
+        "reference": "An individual has the cognitive ability, time, and resources to evaluate each alternative against the others."
+    },
+    {
+        "question": "Why is the rational model criticized for its assumptions?",
+        "options": ["It accounts for human limitations", "It assumes perfect information", "It includes emotional factors", "It simplifies decisions"],
+        "answer": "It assumes perfect information",
+        "reference": "Critics of rational choice theory... claim that this model makes unrealistic and over-simplified assumptions."
+    },
+    {
+        "question": "What is the final step in the rational decision-making process?",
+        "options": ["Formulating a goal", "Identifying alternatives", "Making a final decision", "Performing analysis"],
+        "answer": "Making a final decision",
+        "reference": "The approach follows a sequential and formal path of activities. This path includes: ... 5. Making a final decision."
+    },
+    {
+        "question": "What distinguishes satisficers from maximizers in Simon’s theory?",
+        "options": ["Satisficers seek optimal solutions", "Maximizers seek good enough solutions", "Satisficers simplify choices", "Maximizers avoid trade-offs"],
+        "answer": "Satisficers simplify choices",
+        "reference": "Satisficers recognize that decision makers lack the ability and resources to arrive at an optimal solution."
+    },
+    {
+        "question": "What does Gigerenzer emphasize in non-rational decision making?",
+        "options": ["Complex optimization", "Simple heuristics", "Full information analysis", "Emotional decisions"],
+        "answer": "Simple heuristics",
+        "reference": "Simple heuristics—experience-based techniques for problem-solving—can lead to better decision outcomes."
+    },
+    {
+        "question": "How do emotions influence decision making under uncertainty?",
+        "options": ["They ensure optimal choices", "They affect risk tolerance", "They are irrelevant", "They simplify analysis"],
+        "answer": "They affect risk tolerance",
+        "reference": "Because decisions often involve uncertainty, individual tolerance for risk becomes a factor."
+    },
+    {
+        "question": "What is a key feature of robust decision making (RDM)?",
+        "options": ["Ignoring future scenarios", "Iterative alternative development", "Assuming certainty", "Avoiding uncertainty"],
+        "answer": "Iterative alternative development",
+        "reference": "RDM focuses on helping decision makers identify and develop alternatives through an iterative process."
+    },
+    {
+        "question": "What is the second step in the decision-making process?",
+        "options": ["Evaluating alternatives", "Information gathering", "Selecting the best alternative", "Brainstorming choices"],
+        "answer": "Information gathering",
+        "reference": "Step 2: Information gathering."
+    },
+    {
+        "question": "What tool is used to identify causes in the decision-making process?",
+        "options": ["Check Sheets", "Cause-and-Effect diagram", "Break-even analysis", "Decision tree"],
+        "answer": "Cause-and-Effect diagram",
+        "reference": "Cause-and-Effect diagram helps you to identify all possible causes of the problem."
+    },
+    {
+        "question": "What is considered when evaluating alternatives in the decision-making process?",
+        "options": ["Random factors", "Judgement principles and criteria", "Only profit", "Personal biases"],
+        "answer": "Judgement principles and criteria",
+        "reference": "Use your judgement principles and decision-making criteria to evaluate each alternative."
+    },
+    {
+        "question": "What is the final step in the decision-making process?",
+        "options": ["Selecting the best alternative", "Executing the decision", "Evaluating the results", "Brainstorming choices"],
+        "answer": "Evaluating the results",
+        "reference": "Step 8: Evaluate the results."
+    },
+    {
+        "question": "What characterizes decision making under certainty?",
+        "options": ["Unpredictable outcomes", "Reliable information availability", "High uncertainty", "Unknown alternatives"],
+        "answer": "Reliable information availability",
+        "reference": "Under conditions of certainty, accurate, measurable, and reliable information on which to base decisions is available."
+    },
+    {
+        "question": "How does decision making under risk differ from certainty?",
+        "options": ["Complete information", "Known outcome probabilities", "Predictable future", "No alternatives"],
+        "answer": "Known outcome probabilities",
+        "reference": "Under a state of risk, the decision maker has incomplete information about available alternatives but has a good idea of the probability of outcomes."
+    },
+    {
+        "question": "What is a challenge in decision making under uncertainty?",
+        "options": ["Complete information", "Reliable information", "Unpredictable environment", "Routine decisions"],
+        "answer": "Unpredictable environment",
+        "reference": "Conditions of uncertainty exist when the future environment is unpredictable and everything is in a state of flux."
+    },
+    {
+        "question": "What does preference theory consider in decision making?",
+        "options": ["Uniform risk attitudes", "Varying risk attitudes", "Ignoring risks", "Assuming certainty"],
+        "answer": "Varying risk attitudes",
+        "reference": "This approach is based on the notion that individual attitudes towards risk vary."
+    },
+    {
+        "question": "What does a decision tree help visualize in decision making?",
+        "options": ["Financial ratios", "Alternative courses and risks", "Break-even points", "Waiting lines"],
+        "answer": "Alternative courses and risks",
+        "reference": "A decision tree is a graphical representation of alternative courses of action and the possible outcomes and risks associated with each action."
+    },
+    {
+        "question": "What does risk analysis assess in decision making?",
+        "options": ["Only benefits", "Risks and benefits trade-offs", "Complete certainty", "Ignoring alternatives"],
+        "answer": "Risks and benefits trade-offs",
+        "reference": "The decision represents a trade-off between the risks and the benefits associated with a particular course of action under conditions of uncertainty."
+    },
+    {
+        "question": "How does DSS differ from MIS in data focus?",
+        "options": ["DSS focuses on data storage", "MIS focuses on data manipulation", "DSS focuses on data manipulation", "MIS focuses on special databases"],
+        "answer": "DSS focuses on data manipulation",
+        "reference": "Focus is on data manipulation."
+    },
+    {
+        "question": "What type of users primarily use DSS in decision making?",
+        "options": ["Low-level users", "Analysts and professionals", "Only senior executives", "Control process users"],
+        "answer": "Analysts and professionals",
+        "reference": "DSS is used by analysts, professionals and managers."
+    },
+    {
+        "question": "What is a key difference between MIS and DSS in dependency?",
+        "options": ["MIS depends on management jurisdiction", "DSS depends on computer", "MIS depends on special databases", "DSS depends on corporate databases"],
+        "answer": "DSS depends on management jurisdiction",
+        "reference": "Dependent on management jurisdiction."
+    },
+    {
+        "question": "What does the systems approach require managers to consider?",
+        "options": ["Only internal policies", "Other organizational units’ policies", "Isolated decision making", "Avoiding environmental forces"],
+        "answer": "Other organizational units’ policies",
+        "reference": "Managers of the organization units must be responsive to the policies and programs of other organization units."
+    },
+    {
+        "question": "Why is a fully democratic decision process discouraged in the systems approach?",
+        "options": ["It ensures better decisions", "It complicates decision making", "It avoids consultation", "It centralizes authority"],
+        "answer": "It complicates decision making",
+        "reference": "It is not advisable to make the decision process unnecessarily democratic."
+    },
+    {
+        "question": "What advantage does group decision making offer for team participation?",
+        "options": ["Reduces interest", "Promotes greater interest", "Limits ideas", "Increases bias"],
+        "answer": "Promotes greater interest",
+        "reference": "It promotes greater interest and participation from the rest of the team."
+    },
+    {
+        "question": "What is a disadvantage of group decision making regarding time?",
+        "options": ["Quick consensus", "Significant time requirement", "No discussion needed", "Instant decisions"],
+        "answer": "Significant time requirement",
+        "reference": "The group decision-making process can take a significant amount of time to complete."
+    },
+    {
+        "question": "What is a characteristic of Delphi groups in decision making?",
+        "options": ["Face-to-face interaction", "No member interaction", "Independent idea generation", "Strong personality influence"],
+        "answer": "No member interaction",
+        "reference": "The group members do not meet face-to-face."
+    },
+    {
+        "question": "What is a feature of nominal groups in decision making?",
+        "options": ["Group discussions", "Avoiding personality domination", "Questionnaire-based process", "Face-to-face arguments"],
+        "answer": "Avoiding personality domination",
+        "reference": "Members do not communicate well with each other so that strong personality domination is evaded."
+    },
+    {
+        "question": "What does financial analysis calculate in decision making?",
+        "options": ["Break-even points", "Payback period", "Extra output", "Financial ratios"],
+        "answer": "Payback period",
+        "reference": "This decision-making tool is used to estimate the profitability of an investment, to calculate the payback period."
+    },
+    {
+        "question": "What is the goal of simulation in decision making?",
+        "options": ["Balancing waiting lines", "Evaluating complex problems", "Selecting competitive strategies", "Optimizing resources"],
+        "answer": "Evaluating complex problems",
+        "reference": "Simulation is useful for solving complex problems that cannot be readily solved by other techniques."
+    },
+    {
+        "question": "What does marginal analysis evaluate in decision making?",
+        "options": ["Financial ratios", "Extra output from added variables", "Break-even points", "Cash inflows"],
+        "answer": "Extra output from added variables",
+        "reference": "This technique is used in decision-making to figure out how much extra output will result if one more variable... is added."
+    },
+    {
+        "question": "What does break-even analysis help evaluate?",
+        "options": ["Profitability of investments", "Fixed and variable costs", "Cash inflows and outflows", "Financial ratios"],
+        "answer": "Fixed and variable costs",
+        "reference": "This tool enables a decision-maker to evaluate the available alternatives based on price, fixed cost and variable cost per unit."
+    },
+    {
+        "question": "What is the purpose of game theory in decision making?",
+        "options": ["Simulating systems", "Balancing waiting lines", "Selecting rational strategies", "Optimizing resources"],
+        "answer": "Selecting rational strategies",
+        "reference": "The primary aim of game theory is to develop rational criteria for selecting a strategy."
+    },
+    {
+        "question": "What does linear programming optimize in decision making?",
+        "options": ["Waiting lines", "Resource allocation", "Competitive strategies", "Simulation models"],
+        "answer": "Resource allocation",
+        "reference": "It involves making an optimum allocation of scarce or limited resources of an organization."
+    },
+    {
+        "question": "What is a key question in identifying the purpose of a decision?",
+        "options": ["What are the alternatives?", "Why should the problem be solved?", "What is the optimal solution?", "What is the final decision?"],
+        "answer": "Why should the problem be solved?",
+        "reference": "There are a couple of questions one should ask when it comes to identifying the purpose of the decision. · Why the problem should be solved?"
+    },
+    {
+        "question": "What is a characteristic of maximizers in decision making?",
+        "options": ["Quick decisions", "More frequent regret", "Avoiding trade-offs", "Satisfactory solutions"],
+        "answer": "More frequent regret",
+        "reference": "They also tend to regret their decisions more often."
+    },
+    {
+        "question": "What does the rational model prioritize over intuition?",
+        "options": ["Personal feelings", "Facts and data", "Loyalties", "Sense of obligation"],
+        "answer": "Facts and data",
+        "reference": "Its objectivity creates a bias toward the preference for facts, data and analysis over intuition or desires."
+    },
+    {
+        "question": "What benefit does group decision making provide for team building?",
+        "options": ["Reduces collaboration", "Creates unique opportunities", "Increases resistance", "Limits perspectives"],
+        "answer": "Creates unique opportunities",
+        "reference": "Active participation in the decision-making process creates a unique team-building opportunity for the entire group."
+    },
+    {
+        "question": "What is a disadvantage of group decision making regarding priorities?",
+        "options": ["Aligns with organizational goals", "Focuses on irrelevant priorities", "Ensures quick decisions", "Avoids discussions"],
+        "answer": "Focuses on irrelevant priorities",
+        "reference": "Groups can have a different priority than what the decision requires."
+    },
+    {
+        "question": "What is a feature of interacting groups in decision making?",
+        "options": ["No interaction", "Discussion of pros and cons", "Independent idea generation", "Questionnaire-based process"],
+        "answer": "Discussion of pros and cons",
+        "reference": "The group arrives at a decision after discussing the pros and cons of various alternatives."
+    },
+    {
+        "question": "How do satisficers approach decision making?",
+        "options": ["Seek optimal solutions", "Simplify choices for satisfactory solutions", "Maximize all variables", "Avoid decisions"],
+        "answer": "Simplify choices for satisfactory solutions",
+        "reference": "They instead apply their rationality only after they greatly simplify the choices available."
+    },
+    {
+        "question": "What does robust decision making consider in its process?",
+        "options": ["Single future scenario", "Multiple future scenarios", "Complete certainty", "Avoiding iteration"],
+        "answer": "Multiple future scenarios",
+        "reference": "This process takes into account new information and considers multiple scenarios of how the future will evolve."
+    },
+    {
+        "question": "What tool helps prioritize causes in decision making?",
+        "options": ["Check Sheets", "Decision tree", "Pareto Chart", "Financial analysis"],
+        "answer": "Pareto Chart",
+        "reference": "Pareto chart helps you to prioritize and identify the causes with highest effect."
+    },
+    {
+        "question": "What does ratio analysis assess in decision making?",
+        "options": ["Break-even points", "Financial strengths and weaknesses", "Extra output", "Payback period"],
+        "answer": "Financial strengths and weaknesses",
+        "reference": "The purpose of conducting a ratio analysis is to interpret financial statements to determine the strengths and weaknesses of a firm."
+    }
+]

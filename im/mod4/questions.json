@@ -1,0 +1,601 @@
+[
+    {
+        "question": "What does span of control refer to?",
+        "options": ["Number of tasks assigned", "Number of subordinates supervised", "Number of managers in an organization", "Number of departments"],
+        "answer": "Number of subordinates supervised",
+        "reference": "Span of control refers to the maximum numbers effectively supervised by a single individual."
+    },
+    {
+        "question": "What does the term 'span' literally mean in the context of management?",
+        "options": ["Time required for supervision", "Space between two supports", "Number of employees", "Authority delegated"],
+        "answer": "Space between two supports",
+        "reference": "The term ‘span’ literally means the space the between two supports of a structure, e.g. the space between two pillars of a bridge."
+    },
+    {
+        "question": "According to Spriegal, what is the principle of span of control?",
+        "options": ["Limitless supervision", "No executive should supervise too many subordinates", "Centralized decision-making", "Delegation of all tasks"],
+        "answer": "No executive should supervise too many subordinates",
+        "reference": "The principle of span of control impulse that no single executive should have more people looking to him for guidance and leadership than he can reasonably be exacted to serve."
+    },
+    {
+        "question": "What is the optimum number of subordinates a manager can effectively manage called?",
+        "options": ["Span of attention", "Span of supervision", "Span of authority", "Span of delegation"],
+        "answer": "Span of supervision",
+        "reference": "Therefore, span of supervision refers to the optimum number of subordinates that a manager or supervisor can manage or control effectively."
+    },
+    {
+        "question": "How does span of control impact organizational functioning?",
+        "options": ["Increases administrative costs", "Enables smooth functioning", "Reduces employee morale", "Limits communication"],
+        "answer": "Enables smooth functioning",
+        "reference": "The span of control enables the smooth functioning of the organization."
+    },
+    {
+        "question": "What happens if the span of control is too large?",
+        "options": ["Reduced costs", "Effective supervision", "Potential organizational collapse", "Improved communication"],
+        "answer": "Potential organizational collapse",
+        "reference": "If it is too large, the bridge may collapse."
+    },
+    {
+        "question": "Why is a very small span of control undesirable?",
+        "options": ["It reduces supervision", "It enhances efficiency", "It increases administrative costs", "It improves delegation"],
+        "answer": "It increases administrative costs",
+        "reference": "If it is too small, it will enhance its cost."
+    },
+    {
+        "question": "What is a key benefit of span of control in administration?",
+        "options": ["Centralized control", "Effective supervision of subordinates", "Increased hierarchy levels", "Reduced delegation"],
+        "answer": "Effective supervision of subordinates",
+        "reference": "When this word is applied to management, it refers to the number of subordinates a manager or a supervisor can supervise, manage or control effectively and effectively."
+    },
+    {
+        "question": "What characterizes a flat organizational structure?",
+        "options": ["Narrow span of control", "Wide span of control", "Many hierarchy levels", "Centralized authority"],
+        "answer": "Wide span of control",
+        "reference": "Flat organizations have a ‘wide’ span of control."
+    },
+    {
+        "question": "What is a benefit of a flat organizational structure?",
+        "options": ["Slower communication", "Encourages delegation", "Increased managerial workload", "Role confusion"],
+        "answer": "Encourages delegation",
+        "reference": "Encourages delegation. Managers must better delegate to handle larger numbers of subordinates."
+    },
+    {
+        "question": "How does a flat structure impact communication?",
+        "options": ["Slows it down", "Improves speed and quality", "Creates silos", "Reduces clarity"],
+        "answer": "Improves speed and quality",
+        "reference": "Agile. Improves communication speed and quality."
+    },
+    {
+        "question": "What is a disadvantage of a flat organizational structure?",
+        "options": ["High managerial workload", "Rapid communication", "Cost reduction", "Employee empowerment"],
+        "answer": "High managerial workload",
+        "reference": "High managerial workload comes with high Span of Control."
+    },
+    {
+        "question": "What characterizes a tall organizational structure?",
+        "options": ["Wide span of control", "Narrow span of control", "Few hierarchy levels", "Decentralized authority"],
+        "answer": "Narrow span of control",
+        "reference": "Tall organizations have a ‘narrow’ span of control."
+    },
+    {
+        "question": "What is an advantage of a tall organizational structure?",
+        "options": ["Slow decision-making", "Greater specialization", "High costs", "Role confusion"],
+        "answer": "Greater specialization",
+        "reference": "There’s a greater degree of specialization and division of labor."
+    },
+    {
+        "question": "What is a drawback of a tall organizational structure?",
+        "options": ["Rapid communication", "Silo development", "Cost efficiency", "Employee autonomy"],
+        "answer": "Silo development",
+        "reference": "Silos may develop and prevent cross-functional problem solving."
+    },
+    {
+        "question": "How does a tall structure affect decision-making?",
+        "options": ["Speeds it up", "Hampers it due to long communication", "Reduces hierarchy", "Enhances delegation"],
+        "answer": "Hampers it due to long communication",
+        "reference": "Communication can take too long, hampering decision-making."
+    },
+    {
+        "question": "Why is span of control necessary for business owners?",
+        "options": ["To centralize all tasks", "To manage tasks single-handedly", "To delegate and supervise effectively", "To reduce subordinates"],
+        "answer": "To delegate and supervise effectively",
+        "reference": "The owner of the business can’t manage several tasks single-handedly. This limitation of the Head of any organization forces to have a span of control."
+    },
+    {
+        "question": "What is a key reason for needing span of control due to time limitations?",
+        "options": ["To increase supervision time", "To reduce employee tasks", "To manage all divisions personally", "To delegate due to insufficient time"],
+        "answer": "To delegate due to insufficient time",
+        "reference": "Head of business organization has not enough time in a day to supervise all divisional employees."
+    },
+    {
+        "question": "How does human energy limitation necessitate span of control?",
+        "options": ["Increases managerial energy", "Limits ability to handle many employees", "Reduces need for supervision", "Enhances communication"],
+        "answer": "Limits ability to handle many employees",
+        "reference": "Human energy is also the reason why managers can’t deal with a large number of employees all himself."
+    },
+    {
+        "question": "Why is span of attention important for span of control?",
+        "options": ["It allows focus on all employees equally", "It limits concentration to specific employees", "It reduces communication", "It centralizes authority"],
+        "answer": "It limits concentration to specific employees",
+        "reference": "In humans, naturally, we pay attention and concentration to specific people and work to a certain level."
+    },
+    {
+        "question": "How does span of control enhance communication in an organization?",
+        "options": ["By centralizing communication", "By enabling effective communication skills", "By reducing communication channels", "By increasing communication delays"],
+        "answer": "By enabling effective communication skills",
+        "reference": "Communication: It is very effective that you have good communication skills and make others understand your point."
+    },
+    {
+        "question": "What psychological factor supports the need for span of control?",
+        "options": ["Uniform employee personalities", "Understanding diverse employee personalities", "Reducing employee interaction", "Centralizing supervision"],
+        "answer": "Understanding diverse employee personalities",
+        "reference": "The Head of the division should understand every employee’s personality so that they can take work from them properly."
+    },
+    {
+        "question": "How does span of control promote organizational growth?",
+        "options": ["By reducing roles", "By enabling clear roles and reporting", "By centralizing authority", "By limiting planning"],
+        "answer": "By enabling clear roles and reporting",
+        "reference": "Span of control helps in managing things properly as every division has its own roles and specific reporting to specific person."
+    },
+    {
+        "question": "What is a primary factor influencing the span of control?",
+        "options": ["Employee salaries", "Capacity of the higher executive", "Market competition", "Product diversity"],
+        "answer": "Capacity of the higher executive",
+        "reference": "Capacity of the higher executive to manage his work."
+    },
+    {
+        "question": "How do clear plans and policies affect span of control?",
+        "options": ["Reduce span of control", "Increase span of control", "Have no impact", "Centralize authority"],
+        "answer": "Increase span of control",
+        "reference": "Clear and comprehensive plans and policies at all levels reduce the volume of personal decision making of a manager. Therefore, his span of control and supervision can easily increase."
+    },
+    {
+        "question": "What type of work allows for a larger span of control?",
+        "options": ["Complex and volatile work", "Routine and standardized work", "High-risk decision-making", "Uncertain tasks"],
+        "answer": "Routine and standardized work",
+        "reference": "If the work is routine, highly standardised and uniform, we can establish standing plans because problems follow a set pattern."
+    },
+    {
+        "question": "How does staff help influence a manager’s span of control?",
+        "options": ["Reduces span of control", "Increases span of control", "Centralizes authority", "Increases decision-making"],
+        "answer": "Increases span of control",
+        "reference": "If a manager gets staff help in performing his reserved responsibilities... he can bear a greater work load and can have a larger span of control."
+    },
+    {
+        "question": "What role does subordinate capacity play in span of control?",
+        "options": ["Limits span of control", "Increases span of control", "Has no impact", "Reduces delegation"],
+        "answer": "Increases span of control",
+        "reference": "If subordinates are trained, developed and experienced men with self-confidence and self-control, they will need minimum supervision."
+    },
+    {
+        "question": "How does delegation affect span of control?",
+        "options": ["Reduces span of control", "Increases span of control", "Centralizes supervision", "Limits communication"],
+        "answer": "Increases span of control",
+        "reference": "Other Factors Governing the Span of Control in Practice are... degree of decentralisation and delegation (higher degree, greater span)."
+    },
+    {
+        "question": "What is a characteristic of simple work in determining span of control?",
+        "options": ["Requires more supervision", "Allows larger span of control", "Increases complexity", "Reduces delegation"],
+        "answer": "Allows larger span of control",
+        "reference": "If the work is of a simple and routine nature, managers can control a large number of persons."
+    },
+    {
+        "question": "How do stable plans impact span of control?",
+        "options": ["Make control difficult", "Facilitate easier control", "Reduce subordinate efficiency", "Increase complexity"],
+        "answer": "Facilitate easier control",
+        "reference": "If the plans of the enterprise are clear and stable, the managers feel it easy to control the activities of their subordinates."
+    },
+    {
+        "question": "What factor reduces the need for managerial decision-making?",
+        "options": ["Complex work", "Standing plans and procedures", "Untrained subordinates", "Centralized authority"],
+        "answer": "Standing plans and procedures",
+        "reference": "Clear-cut and precise authority-responsibility, planned performance standards, standing operating procedures... reduce the number of decisions a manager has to make."
+    },
+    {
+        "question": "What is a direct single relationship in Graicunas Theory?",
+        "options": ["Relationships between subordinates", "Superior consulting with groups", "Superior’s direct link to each subordinate", "Mutual subordinate interactions"],
+        "answer": "Superior’s direct link to each subordinate",
+        "reference": "This refers to relationships that are easily and clearly recognized by the individuals who are his immediate subordinates."
+    },
+    {
+        "question": "What is a direct group relationship in Graicunas Theory?",
+        "options": ["Mutual subordinate interactions", "Superior’s link to each subordinate", "Superior consulting with combinations of subordinates", "Single subordinate reporting"],
+        "answer": "Superior consulting with combinations of subordinates",
+        "reference": "This means the group relationships between the superior and each possible combination of subordinates."
+    },
+    {
+        "question": "What is a cross relationship in Graicunas Theory?",
+        "options": ["Superior’s direct supervision", "Mutual relationships among subordinates", "Group discussions with superiors", "Single subordinate reporting"],
+        "answer": "Mutual relationships among subordinates",
+        "reference": "Cross relationships are mutual relationships among subordinates necessary for working under the same superior."
+    },
+    {
+        "question": "What does Graicunas’s formula calculate?",
+        "options": ["Number of tasks", "Total superior-subordinate relationships", "Employee efficiency", "Delegation levels"],
+        "answer": "Total superior-subordinate relationships",
+        "reference": "Resulting from the above analysis of the three kinds of relationships, Graicunas developed the following formula to give the total number of all the three kinds of relationships."
+    },
+    {
+        "question": "What is the formula for direct single relationships in Graicunas Theory?",
+        "options": ["n", "n (2n-1 -1)", "n(2n/2 + n + 1)", "2n"],
+        "answer": "n",
+        "reference": "This has been identified as Number of direct relationships = n."
+    },
+    {
+        "question": "What is a limitation of Graicunas’s formula?",
+        "options": ["It is empirically based", "It ignores frequency of relationships", "It includes all possible relationships", "It accounts for all factors"],
+        "answer": "It ignores frequency of relationships",
+        "reference": "Graicunas has ignored the frequency of relationships and the strain they generate."
+    },
+    {
+        "question": "What span of control does Graicunas suggest as reasonable?",
+        "options": ["10–12 subordinates", "5–6 subordinates", "15–20 subordinates", "2–3 subordinates"],
+        "answer": "5–6 subordinates",
+        "reference": "From this analysis he deduced a ‘reasonable span’ restricted to five or six subordinates."
+    },
+    {
+        "question": "Why does classical theory advocate a narrow span of control?",
+        "options": ["To reduce coordination", "For intimate and direct contact", "To increase subordinates", "For decentralized control"],
+        "answer": "For intimate and direct contact",
+        "reference": "The classical theory has advocated a narrow span than a large one because an executive must have intimate and direct contact with his subordinates."
+    },
+    {
+        "question": "What is the ideal span for first-level supervision according to classical theory?",
+        "options": ["5–8 subordinates", "10–15 subordinates", "15–25 subordinates", "2–4 subordinates"],
+        "answer": "15–25 subordinates",
+        "reference": "The ideal ratio may be 15 to 25 subordinates for the first level supervision."
+    },
+    {
+        "question": "What factor limits span of control at higher management levels?",
+        "options": ["Routine work", "Low uncertainty", "Complexity and uncertainty", "Standardized tasks"],
+        "answer": "Complexity and uncertainty",
+        "reference": "Variety and complexity of problems, volatile and changing work, higher uncertainty and risk in decision making are usually found at the top management level."
+    },
+    {
+        "question": "How does leadership quality affect span of control?",
+        "options": ["Has no impact", "Increases span with strong leadership", "Reduces span with strong leadership", "Centralizes authority"],
+        "answer": "Increases span with strong leadership",
+        "reference": "If the boss has quick grasp and ability to command and go along with people, i.e., leadership qualities, he can control a large number of subordinates."
+    },
+    {
+        "question": "What is a benefit of trained subordinates for span of control?",
+        "options": ["Requires more supervision", "Reduces span of control", "Increases span of control", "Increases centralization"],
+        "answer": "Increases span of control",
+        "reference": "If subordinates are trained, developed and experienced men with self-confidence and self-control, they will need minimum supervision."
+    },
+    {
+        "question": "How does decentralization affect span of control?",
+        "options": ["Reduces span of control", "Increases span of control", "Centralizes supervision", "Limits communication"],
+        "answer": "Increases span of control",
+        "reference": "Other Factors Governing the Span of Control in Practice are... degree of decentralisation and delegation (higher degree, greater span)."
+    },
+    {
+        "question": "What is a characteristic of a narrow span of control?",
+        "options": ["Fewer hierarchy levels", "More hierarchy levels", "Wide span of control", "Decentralized authority"],
+        "answer": "More hierarchy levels",
+        "reference": "Height: As there are levels of management, or hierarchy, an organization may be tall (with many levels)."
+    },
+    {
+        "question": "What is a benefit of a wide span of control?",
+        "options": ["Increased costs", "Reduced costs", "Slower communication", "Role confusion"],
+        "answer": "Reduced costs",
+        "reference": "Reduces costs. More cost effective because of fewer levels, thus requiring fewer managers."
+    },
+    {
+        "question": "What is a drawback of a wide span of control?",
+        "options": ["Cost efficiency", "Role confusion", "Rapid communication", "Employee empowerment"],
+        "answer": "Role confusion",
+        "reference": "Role confusion more likely."
+    },
+    {
+        "question": "Why is span of control critical for large enterprises?",
+        "options": ["To centralize all tasks", "To manage multiple divisions effectively", "To reduce subordinates", "To limit delegation"],
+        "answer": "To manage multiple divisions effectively",
+        "reference": "The span of control is the need of today’s business. It matters nothing either its small-scale business or large enterprise."
+    },
+    {
+        "question": "What role does the ability of officers play in span of control?",
+        "options": ["Limits span if efficient", "Increases span if efficient", "Has no impact", "Reduces delegation"],
+        "answer": "Increases span if efficient",
+        "reference": "If they are very efficient and capable. They can control a large number of subordinates."
+    },
+    {
+        "question": "What is the primary purpose of span of control in an organization?",
+        "options": ["To increase hierarchy levels", "To ensure effective supervision", "To centralize decision-making", "To reduce employee autonomy"],
+        "answer": "To ensure effective supervision",
+        "reference": "When this word is applied to management, it refers to the number of subordinates a manager or a supervisor can supervise, manage or control effectively and effectively."
+    },
+    {
+        "question": "What does an excessively large span of control risk?",
+        "options": ["Cost efficiency", "Organizational collapse", "Improved delegation", "Reduced workload"],
+        "answer": "Organizational collapse",
+        "reference": "If it is too large, the bridge may collapse."
+    },
+    {
+        "question": "What is a consequence of a very small span of control?",
+        "options": ["Enhanced supervision", "Increased administrative costs", "Improved communication", "Reduced hierarchy"],
+        "answer": "Increased administrative costs",
+        "reference": "If it is too small, it will enhance its cost."
+    },
+    {
+        "question": "How does span of control relate to the number of subordinates?",
+        "options": ["It limits the number a manager can supervise", "It increases the number of managers", "It standardizes tasks", "It reduces delegation"],
+        "answer": "It limits the number a manager can supervise",
+        "reference": "According to this principle there is a limit of the number of subordinates that each manager can effectively supervise."
+    },
+    {
+        "question": "What does a wide span of control characterize?",
+        "options": ["Tall organizational structure", "Flat organizational structure", "Centralized organization", "High hierarchy levels"],
+        "answer": "Flat organizational structure",
+        "reference": "Flat organizations have a ‘wide’ span of control."
+    },
+    {
+        "question": "What is a key advantage of a flat organizational structure?",
+        "options": ["Slower decision-making", "Cost efficiency", "Increased silos", "High managerial workload"],
+        "answer": "Cost efficiency",
+        "reference": "Reduces costs. More cost effective because of fewer levels, thus requiring fewer managers."
+    },
+    {
+        "question": "What is a potential downside of a wide span of control?",
+        "options": ["Improved communication", "Employee empowerment", "Distrust of management", "Greater specialization"],
+        "answer": "Distrust of management",
+        "reference": "May cultivate distrust of management."
+    },
+    {
+        "question": "What characterizes a narrow span of control?",
+        "options": ["Few hierarchy levels", "Many hierarchy levels", "Wide span of control", "Decentralized authority"],
+        "answer": "Many hierarchy levels",
+        "reference": "Tall organizations have a ‘narrow’ span of control."
+    },
+    {
+        "question": "What benefit does a tall structure provide?",
+        "options": ["Rapid communication", "Employee autonomy", "Promotion opportunities", "Cost efficiency"],
+        "answer": "Promotion opportunities",
+        "reference": "More and better opportunities for employee promotion."
+    },
+    {
+        "question": "What is a disadvantage of a tall organizational structure?",
+        "options": ["Cost efficiency", "Slow decision-making", "Employee empowerment", "Greater specialization"],
+        "answer": "Slow decision-making",
+        "reference": "Communication can take too long, hampering decision-making."
+    },
+    {
+        "question": "How does a flat structure promote employee engagement?",
+        "options": ["By increasing hierarchy", "By focusing on empowerment", "By creating silos", "By centralizing control"],
+        "answer": "By focusing on empowerment",
+        "reference": "Helps prevent the workforce from disengaging by focusing on empowerment, autonomy and self-direction."
+    },
+    {
+        "question": "What is a feature of a tall structure’s communication?",
+        "options": ["Slow and complex", "Rapid between small teams", "Highly decentralized", "Cost-efficient"],
+        "answer": "Rapid between small teams",
+        "reference": "More rapid communication between small teams."
+    },
+    {
+        "question": "Why does a business need span of control due to capacity limitations?",
+        "options": ["To increase managerial tasks", "To limit manager’s ability to handle many employees", "To enhance centralization", "To reduce communication"],
+        "answer": "To limit manager’s ability to handle many employees",
+        "reference": "Human energy is also the reason why managers can’t deal with a large number of employees all himself."
+    },
+    {
+        "question": "How does span of control address the limitation of attention?",
+        "options": ["By focusing on all employees equally", "By concentrating on specific employees", "By reducing supervision", "By centralizing authority"],
+        "answer": "By concentrating on specific employees",
+        "reference": "In humans, naturally, we pay attention and concentration to specific people and work to a certain level."
+    },
+    {
+        "question": "What role does communication play in span of control?",
+        "options": ["Reduces need for supervision", "Requires effective skills for management", "Centralizes decision-making", "Increases hierarchy levels"],
+        "answer": "Requires effective skills for management",
+        "reference": "Communication: It is very effective that you have good communication skills and make others understand your point."
+    },
+    {
+        "question": "How does span of control support growth in an organization?",
+        "options": ["By reducing roles", "By enabling clear roles and reporting", "By centralizing authority", "By limiting planning"],
+        "answer": "By enabling clear roles and reporting",
+        "reference": "Span of control helps in managing things properly as every division has its own roles and specific reporting to specific person."
+    },
+    {
+        "question": "What psychological factor necessitates span of control?",
+        "options": ["Uniform employee skills", "Diverse employee personalities", "Reduced employee interaction", "Centralized supervision"],
+        "answer": "Diverse employee personalities",
+        "reference": "The Head of the division should understand every employee’s personality so that they can take work from them properly."
+    },
+    {
+        "question": "Why is time limitation a reason for span of control?",
+        "options": ["To increase supervision time", "To delegate due to insufficient time", "To manage all divisions personally", "To reduce employee tasks"],
+        "answer": "To delegate due to insufficient time",
+        "reference": "Head of business organization has not enough time in a day to supervise all divisional employees."
+    },
+    {
+        "question": "What is a key factor determining span of control?",
+        "options": ["Market competition", "Capacity of subordinates", "Product diversity", "Employee salaries"],
+        "answer": "Capacity of subordinates",
+        "reference": "Capacities of subordinate executives."
+    },
+    {
+        "question": "How does the nature of work influence span of control?",
+        "options": ["Complex work increases span", "Routine work increases span", "Uncertain work increases span", "Volatile work increases span"],
+        "answer": "Routine work increases span",
+        "reference": "If the work is routine, highly standardised and uniform, we can establish standing plans because problems follow a set pattern."
+    },
+    {
+        "question": "What effect does staff help have on span of control?",
+        "options": ["Reduces span of control", "Increases span of control", "Centralizes authority", "Increases decision-making"],
+        "answer": "Increases span of control",
+        "reference": "If a manager gets staff help in performing his reserved responsibilities... he can bear a greater work load and can have a larger span of control."
+    },
+    {
+        "question": "How does the ability of officers affect span of control?",
+        "options": ["Limits span if efficient", "Increases span if efficient", "Has no impact", "Reduces delegation"],
+        "answer": "Increases span if efficient",
+        "reference": "If they are very efficient and capable. They can control a large number of subordinates."
+    },
+    {
+        "question": "What role does time availability play in span of control?",
+        "options": ["Increases span with less time", "Reduces span with less time", "Has no impact", "Centralizes supervision"],
+        "answer": "Reduces span with less time",
+        "reference": "If they have less time for supervision, they would not be able to control a large number of subordinates."
+    },
+    {
+        "question": "How do stable enterprise plans affect span of control?",
+        "options": ["Make control difficult", "Facilitate easier control", "Reduce subordinate efficiency", "Increase complexity"],
+        "answer": "Facilitate easier control",
+        "reference": "If the plans of the enterprise are clear and stable, the managers feel it easy to control the activities of their subordinates."
+    },
+    {
+        "question": "What impact do efficient subordinates have on span of control?",
+        "options": ["Reduce span of control", "Increase span of control", "Centralize supervision", "Limit communication"],
+        "answer": "Increase span of control",
+        "reference": "If the subordinates are able and efficient and they are willing to coordinate with their higher officers, Managers can control a large number of subordinates."
+    },
+    {
+        "question": "How does complex work affect span of control?",
+        "options": ["Increases span of control", "Reduces span of control", "Has no impact", "Enhances delegation"],
+        "answer": "Reduces span of control",
+        "reference": "If the work is more complicated, Managers cannot have effective control over a small number of employees only."
+    },
+    {
+        "question": "What reduces the number of decisions a manager must make?",
+        "options": ["Complex work", "Standing plans and procedures", "Untrained subordinates", "Centralized authority"],
+        "reference": "Clear-cut and precise authority-responsibility, planned performance standards, standing operating procedures... reduce the number of decisions a manager has to make."
+    },
+    {
+        "question": "What is the role of leadership qualities in span of control?",
+        "options": ["Reduce span of control", "Increase span of control", "Centralize supervision", "Limit communication"],
+        "answer": "Increase span of control",
+        "reference": "If the boss has quick grasp and ability to command and go along with people, i.e., leadership qualities, he can control a large number of subordinates."
+    },
+    {
+        "question": "How does decentralization influence span of control?",
+        "options": ["Reduces span of control", "Increases span of control", "Centralizes supervision", "Limits communication"],
+        "answer": "Increases span of control",
+        "reference": "Other Factors Governing the Span of Control in Practice are... degree of decentralisation and delegation (higher degree, greater span)."
+    },
+    {
+        "question": "What is a characteristic of routine work in span of control?",
+        "options": ["Requires more supervision", "Allows larger span of control", "Increases complexity", "Reduces delegation"],
+        "answer": "Allows larger span of control",
+        "reference": "If the work is of a simple and routine nature, managers can control a large number of persons."
+    },
+    {
+        "question": "What type of relationship does Graicunas’s direct single relationship describe?",
+        "options": ["Mutual subordinate interactions", "Superior’s link to each subordinate", "Group discussions with superiors", "Single subordinate reporting"],
+        "answer": "Superior’s link to each subordinate",
+        "reference": "This refers to relationships that are easily and clearly recognized by the individuals who are his immediate subordinates."
+    },
+    {
+        "question": "What does a direct group relationship involve in Graicunas Theory?",
+        "options": ["Superior consulting with combinations of subordinates", "Mutual relationships among subordinates", "Superior’s direct supervision", "Single subordinate reporting"],
+        "answer": "Superior consulting with combinations of subordinates",
+        "reference": "This means the group relationships between the superior and each possible combination of subordinates."
+    },
+    {
+        "question": "What defines a cross relationship in Graicunas Theory?",
+        "options": ["Superior’s direct supervision", "Mutual relationships among subordinates", "Group discussions with superiors", "Single subordinate reporting"],
+        "answer": "Mutual relationships among subordinates",
+        "reference": "Cross relationships are mutual relationships among subordinates necessary for working under the same superior."
+    },
+    {
+        "question": "What does Graicunas’s formula determine?",
+        "options": ["Number of tasks", "Total superior-subordinate relationships", "Employee efficiency", "Delegation levels"],
+        "answer": "Total superior-subordinate relationships",
+        "reference": "Resulting from the above analysis of the three kinds of relationships, Graicunas developed the following formula to give the total number of all the three kinds of relationships."
+    },
+    {
+        "question": "What is the formula for direct group relationships in Graicunas Theory?",
+        "options": ["n", "n (2n-1 -1)", "n(2n/2 + n + 1)", "2n"],
+        "answer": "n (2n-1 -1)",
+        "reference": "Formula = n (2n-1 -1) where n represents the number of subordinates."
+    },
+    {
+        "question": "What is the total relationships formula in Graicunas Theory?",
+        "options": ["n", "n (2n-1 -1)", "n(2n/2 + n + 1)", "2n"],
+        "answer": "n(2n/2 + n + 1)",
+        "reference": "Graicunas developed the following formula to give the total number of all the three kinds of relationships where n = number of subordinates. n(2n/2 + n + 1)."
+    },
+    {
+        "question": "What is a limitation of Graicunas’s approach?",
+        "options": ["It includes all relationships", "It ignores certain relationships", "It is empirically validated", "It accounts for frequency"],
+        "answer": "It ignores certain relationships",
+        "reference": "He has left out certain possible relationships."
+    },
+    {
+        "question": "Why is Graicunas’s formula criticized for lacking precision?",
+        "options": ["It is too precise", "Relationships don’t follow a precise formula", "It includes all factors", "It is empirically based"],
+        "answer": "Relationships don’t follow a precise formula",
+        "reference": "Mathematical precision of the formula is debatable. Relationships increase with the increase hi the number of subordinates but not in a precise formula."
+    },
+    {
+        "question": "What span does Graicunas recommend as reasonable?",
+        "options": ["2–3 subordinates", "5–6 subordinates", "10–12 subordinates", "15–20 subordinates"],
+        "answer": "5–6 subordinates",
+        "reference": "From this analysis he deduced a ‘reasonable span’ restricted to five or six subordinates."
+    },
+    {
+        "question": "What is the ideal span for executive supervision in classical theory?",
+        "options": ["5–8 subordinates", "10–15 subordinates", "15–25 subordinates", "2–4 subordinates"],
+        "answer": "5–8 subordinates",
+        "reference": "The ideal ratio may be 15 to 25 subordinates for the first level supervision and 5 to 8 subordinates in executive spans."
+    },
+    {
+        "question": "Why does classical theory prefer a narrow span?",
+        "options": ["To reduce coordination", "For intimate and direct contact", "To increase subordinates", "For decentralized control"],
+        "answer": "For intimate and direct contact",
+        "reference": "The classical theory has advocated a narrow span than a large one because an executive must have intimate and direct contact with his subordinates."
+    },
+    {
+        "question": "What factor limits span of control at higher management levels?",
+        "options": ["Routine work", "Low uncertainty", "High uncertainty and risk", "Standardized tasks"],
+        "answer": "High uncertainty and risk",
+        "reference": "Variety and complexity of problems, volatile and changing work, higher uncertainty and risk in decision making are usually found at the top management level."
+    },
+    {
+        "question": "How does subordinate training affect span of control?",
+        "options": ["Requires more supervision", "Reduces span of control", "Increases span of control", "Increases centralization"],
+        "answer": "Increases span of control",
+        "reference": "If subordinates are trained, developed and experienced men with self-confidence and self-control, they will need minimum supervision."
+    },
+    {
+        "question": "What is a benefit of a narrow span of control?",
+        "options": ["Cost efficiency", "Easier group management", "Rapid decision-making", "Employee autonomy"],
+        "answer": "Easier group management",
+        "reference": "Groups are smaller and easier to control/manage."
+    },
+    {
+        "question": "What is a challenge of supervising subordinates in different areas?",
+        "options": ["Improved communication", "Effective supervision", "Supervision becomes difficult", "Reduced workload"],
+        "answer": "Supervision becomes difficult",
+        "reference": "____________________ becomes difficult when if the subordinates work in different areas... Supervision."
+    },
+    {
+        "question": "How does delegation relate to span of control in a flat structure?",
+        "options": ["Reduces delegation", "Encourages delegation", "Centralizes tasks", "Limits supervision"],
+        "answer": "Encourages delegation",
+        "reference": "Encourages delegation. Managers must better delegate to handle larger numbers of subordinates."
+    },
+    {
+        "question": "What is a characteristic of Graicunas’s contribution?",
+        "options": ["Empirical observations", "Restriction of span due to human capacity", "Focus on subordinate efficiency", "Centralized supervision"],
+        "answer": "Restriction of span due to human capacity",
+        "reference": "The significance of Graicunas contribution is that he initiated the principle of restriction of the span of delegated authority on account of maximum limit to the potential burdens set up simply by innate limitations of the capacity of human mind."
+    },
+    {
+        "question": "Why is span of control critical for coordination?",
+        "options": ["It reduces coordination", "It ensures effective coordination", "It increases hierarchy", "It limits delegation"],
+        "answer": "It ensures effective coordination",
+        "reference": "Proper span of control is considered necessary for effective co-ordination."
+    },
+    {
+        "question": "What factor enhances span of control in routine work?",
+        "options": ["High uncertainty", "Standardized processes", "Complex decision-making", "Volatile tasks"],
+        "answer": "Standardized processes",
+        "reference": "If the work is routine, highly standardised and uniform, we can establish standing plans because problems follow a set pattern."
+    },
+    {
+        "question": "How does a manager’s ability to delegate affect span of control?",
+        "options": ["Reduces span of control", "Increases span of control", "Centralizes supervision", "Limits communication"],
+        "answer": "Increases span of control",
+        "reference": "Of course, it is presumed that a manager is skilled and able to delegate his authority to many subordinates."
+    }
+]
