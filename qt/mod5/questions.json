@@ -1,0 +1,1085 @@
+[
+    {
+      "question": "Which scale of measurement uses labels or names without any order?",
+      "options": [
+        "Interval",
+        "Ratio",
+        "Nominal",
+        "Ordinal"
+      ],
+      "answer": "Nominal",
+      "reference": "Nominal Scale: Data classified into distinct categories without any quantitative value or order."
+    },
+    {
+      "question": "On which scale can you say that one value is higher than another, but not by how much?",
+      "options": [
+        "Interval",
+        "Ratio",
+        "Nominal",
+        "Ordinal"
+      ],
+      "answer": "Ordinal",
+      "reference": "Ordinal Scale: Data classified into categories that can be ranked but intervals are not equal."
+    },
+    {
+      "question": "Which scale has equal intervals between values but no true zero?",
+      "options": [
+        "Ratio",
+        "Nominal",
+        "Interval",
+        "Ordinal"
+      ],
+      "answer": "Interval",
+      "reference": "Interval Scale: Has meaningful differences between values but zero point is arbitrary."
+    },
+    {
+      "question": "Which scale has equal intervals and a meaningful zero point?",
+      "options": [
+        "Ratio",
+        "Interval",
+        "Ordinal",
+        "Nominal"
+      ],
+      "answer": "Ratio",
+      "reference": "Ratio Scale: All properties of interval scale plus a true zero, allowing ratios."
+    },
+    {
+      "question": "Temperature measured in Celsius is on which scale?",
+      "options": [
+        "Ratio",
+        "Interval",
+        "Ordinal",
+        "Nominal"
+      ],
+      "answer": "Interval",
+      "reference": "Celsius has equal intervals but zero does not indicate absence of temperature."
+    },
+    {
+      "question": "Income in dollars is measured on which scale?",
+      "options": [
+        "Ratio",
+        "Interval",
+        "Ordinal",
+        "Nominal"
+      ],
+      "answer": "Ratio",
+      "reference": "Income has meaningful zero and equal intervals, so it’s a ratio scale."
+    },
+    {
+      "question": "Social class categories (upper, middle, lower) use which scale?",
+      "options": [
+        "Nominal",
+        "Interval",
+        "Ratio",
+        "Ordinal"
+      ],
+      "answer": "Ordinal",
+      "reference": "Social class can be ordered but differences are not quantifiable."
+    },
+    {
+      "question": "Hair color categories use which scale?",
+      "options": [
+        "Interval",
+        "Nominal",
+        "Ordinal",
+        "Ratio"
+      ],
+      "answer": "Nominal",
+      "reference": "Hair color labels have no intrinsic order."
+    },
+    {
+      "question": "Which scale allows calculation of mean and standard deviation?",
+      "options": [
+        "Interval",
+        "Ordinal",
+        "Nominal",
+        "Ratio"
+      ],
+      "answer": "Ratio",
+      "reference": "Ratio data support all arithmetic operations including meaningful means."
+    },
+    {
+      "question": "Which scale allows calculation of median but not mean?",
+      "options": [
+        "Nominal",
+        "Ratio",
+        "Interval",
+        "Ordinal"
+      ],
+      "answer": "Ordinal",
+      "reference": "Ordinal data allow median (rank-based) but mean is not meaningful."
+    },
+    {
+      "question": "Which scale is appropriate for coding gender (M/F)?",
+      "options": [
+        "Interval",
+        "Nominal",
+        "Ratio",
+        "Ordinal"
+      ],
+      "answer": "Nominal",
+      "reference": "Gender is categorized without order or magnitude."
+    },
+    {
+      "question": "Years in school (1st, 2nd, 3rd…) is which scale?",
+      "options": [
+        "Ratio",
+        "Ordinal",
+        "Interval",
+        "Nominal"
+      ],
+      "answer": "Ordinal",
+      "reference": "Years are ordered but gaps aren’t equal in terms of learning."
+    },
+    {
+      "question": "A zero on the Kelvin scale indicates:",
+      "options": [
+        "Absolute absence of temperature",
+        "Arbitrary reference point",
+        "Average temperature",
+        "No physical meaning"
+      ],
+      "answer": "Absolute absence of temperature",
+      "reference": "Kelvin is ratio scale: zero = absolute zero."
+    },
+    {
+      "question": "Which scale’s zero is arbitrary?",
+      "options": [
+        "Ratio",
+        "Interval",
+        "Ordinal",
+        "Nominal"
+      ],
+      "answer": "Interval",
+      "reference": "Interval zero point (e.g. 0°C) is chosen arbitrarily."
+    },
+    {
+      "question": "Which scale supports calculation of geometric mean?",
+      "options": [
+        "Ratio",
+        "Interval",
+        "Ordinal",
+        "Nominal"
+      ],
+      "answer": "Ratio",
+      "reference": "Geometric mean requires meaningful ratios and positive values."
+    },
+    {
+      "question": "Which scale can use mode but not median?",
+      "options": [
+        "Nominal",
+        "Ratio",
+        "Interval",
+        "Ordinal"
+      ],
+      "answer": "Nominal",
+      "reference": "Nominal data permit mode but not median or mean."
+    },
+    {
+      "question": "Satisfaction ratings (1–5) best fit which scale?",
+      "options": [
+        "Ordinal",
+        "Interval",
+        "Ratio",
+        "Nominal"
+      ],
+      "answer": "Ordinal",
+      "reference": "Ratings are ranked but distances between points aren’t equal."
+    },
+    {
+      "question": "Which scale allows subtraction but not division of values?",
+      "options": [
+        "Interval",
+        "Ratio",
+        "Ordinal",
+        "Nominal"
+      ],
+      "answer": "Interval",
+      "reference": "Interval data allow differences but ratios are meaningless."
+    },
+    {
+      "question": "Which scale allows all descriptive statistics and ratio comparisons?",
+      "options": [
+        "Ratio",
+        "Interval",
+        "Ordinal",
+        "Nominal"
+      ],
+      "answer": "Ratio",
+      "reference": "Ratio data support full range of statistical computations."
+    },
+    {
+      "question": "Coding blood type (A, B, AB, O) uses:",
+      "options": [
+        "Nominal",
+        "Ordinal",
+        "Interval",
+        "Ratio"
+      ],
+      "answer": "Nominal",
+      "reference": "Blood types are names without order."
+    },
+    {
+      "question": "Likert-scale survey responses are:",
+      "options": [
+        "Ordinal",
+        "Interval",
+        "Ratio",
+        "Nominal"
+      ],
+      "answer": "Ordinal",
+      "reference": "Likert scales rank opinions but intervals aren’t equal."
+    },
+    {
+      "question": "Temperature in Fahrenheit is on which scale?",
+      "options": [
+        "Interval",
+        "Ratio",
+        "Ordinal",
+        "Nominal"
+      ],
+      "answer": "Interval",
+      "reference": "Fahrenheit has equal intervals but arbitrary zero."
+    },
+    {
+      "question": "Height in centimeters uses which scale?",
+      "options": [
+        "Ratio",
+        "Interval",
+        "Ordinal",
+        "Nominal"
+      ],
+      "answer": "Ratio",
+      "reference": "Height has meaningful zero and consistent units."
+    },
+    {
+      "question": "Which scale can support Pearson correlation?",
+      "options": [
+        "Interval",
+        "Ordinal",
+        "Nominal",
+        "Ratio"
+      ],
+      "answer": "Interval",
+      "reference": "Pearson correlation requires interval or ratio data."
+    },
+    {
+      "question": "Which scale can support Spearman rank correlation?",
+      "options": [
+        "Ordinal",
+        "Interval",
+        "Ratio",
+        "Nominal"
+      ],
+      "answer": "Ordinal",
+      "reference": "Spearman uses ranks, appropriate for ordinal data."
+    },
+    {
+      "question": "Age in years is measured on which scale?",
+      "options": [
+        "Ratio",
+        "Interval",
+        "Ordinal",
+        "Nominal"
+      ],
+      "answer": "Ratio",
+      "reference": "Age has true zero (birth) and equal intervals."
+    },
+    {
+      "question": "Year of birth is which scale?",
+      "options": [
+        "Interval",
+        "Ratio",
+        "Ordinal",
+        "Nominal"
+      ],
+      "answer": "Interval",
+      "reference": "Year has equal intervals but zero is arbitrary."
+    },
+    {
+      "question": "Income brackets (0–20k,20–40k…) are:",
+      "options": [
+        "Ordinal",
+        "Nominal",
+        "Interval",
+        "Ratio"
+      ],
+      "answer": "Ordinal",
+      "reference": "Brackets are ordered categories without equal width necessarily."
+    },
+    {
+      "question": "Which scale can use ANOVA?",
+      "options": [
+        "Interval",
+        "Nominal",
+        "Ordinal",
+        "Ratio"
+      ],
+      "answer": "Interval",
+      "reference": "ANOVA requires at least interval data."
+    },
+    {
+      "question": "Which scale is required for geometric mean of growth rates?",
+      "options": [
+        "Ratio",
+        "Interval",
+        "Ordinal",
+        "Nominal"
+      ],
+      "answer": "Ratio",
+      "reference": "Growth rates are ratios, requiring ratio scale."
+    },
+    {
+      "question": "Zip codes use which scale?",
+      "options": [
+        "Nominal",
+        "Ordinal",
+        "Interval",
+        "Ratio"
+      ],
+      "answer": "Nominal",
+      "reference": "Zip codes label regions without order."
+    },
+    {
+      "question": "Educational level (High School, Bachelor, Master) is:",
+      "options": [
+        "Ordinal",
+        "Nominal",
+        "Interval",
+        "Ratio"
+      ],
+      "answer": "Ordinal",
+      "reference": "Levels are ranked but gaps aren’t quantifiable."
+    },
+    {
+      "question": "pH values are measured on which scale?",
+      "options": [
+        "Log-interval",
+        "Ratio",
+        "Ordinal",
+        "Nominal"
+      ],
+      "answer": "Log-interval",
+      "reference": "pH is logarithmic, so equal steps represent equal ratios."
+    },
+    {
+      "question": "Decibel levels use which scale?",
+      "options": [
+        "Log-interval",
+        "Ratio",
+        "Ordinal",
+        "Nominal"
+      ],
+      "answer": "Log-interval",
+      "reference": "Decibels are logarithmic measures of sound intensity."
+    },
+    {
+      "question": "Which scale’s operations include addition and subtraction only?",
+      "options": [
+        "Interval",
+        "Ratio",
+        "Ordinal",
+        "Nominal"
+      ],
+      "answer": "Interval",
+      "reference": "Interval supports addition/subtraction but not meaningful multiplication/division."
+    },
+    {
+      "question": "Gender-coded 0/1 is technically:",
+      "options": [
+        "Nominal",
+        "Interval",
+        "Ordinal",
+        "Ratio"
+      ],
+      "answer": "Nominal",
+      "reference": "Binary codes for categories remain nominal."
+    },
+    {
+      "question": "Which scale requires meaningful zero for geometric operations?",
+      "options": [
+        "Ratio",
+        "Interval",
+        "Ordinal",
+        "Nominal"
+      ],
+      "answer": "Ratio",
+      "reference": "Geometric operations need true zero for ratios."
+    },
+    {
+      "question": "Which scale’s data can be meaningfully added but not multiplied?",
+      "options": [
+        "Interval",
+        "Ratio",
+        "Ordinal",
+        "Nominal"
+      ],
+      "answer": "Interval",
+      "reference": "Interval supports addition, subtraction but not ratios."
+    },
+    {
+      "question": "Pain rating 1–10 is:",
+      "options": [
+        "Ordinal",
+        "Interval",
+        "Ratio",
+        "Nominal"
+      ],
+      "answer": "Ordinal",
+      "reference": "Pain scale ranks intensity but intervals subjective."
+    },
+    {
+      "question": "Time of day (24h clock) is:",
+      "options": [
+        "Interval",
+        "Ratio",
+        "Ordinal",
+        "Nominal"
+      ],
+      "answer": "Interval",
+      "reference": "Time has equal intervals but zero point arbitrary."
+    },
+    {
+      "question": "Distance in miles is measured on:",
+      "options": [
+        "Ratio",
+        "Interval",
+        "Ordinal",
+        "Nominal"
+      ],
+      "answer": "Ratio",
+      "reference": "Distance has true zero and equal units."
+    },
+    {
+      "question": "Which scale is least informative?",
+      "options": [
+        "Nominal",
+        "Ordinal",
+        "Interval",
+        "Ratio"
+      ],
+      "answer": "Nominal",
+      "reference": "Nominal only labels, no order, intervals, or true zero."
+    },
+    {
+      "question": "Rating satisfaction 0–100 is:",
+      "options": [
+        "Interval",
+        "Ratio",
+        "Ordinal",
+        "Nominal"
+      ],
+      "answer": "Interval",
+      "reference": "0–100 scale has equal intervals but zero arbitrary."
+    },
+    {
+      "question": "Which produces the most precise measurement?",
+      "options": [
+        "Ratio scale",
+        "Interval scale",
+        "Ordinal scale",
+        "Nominal scale"
+      ],
+      "answer": "Ratio scale",
+      "reference": "Ratio scale has full arithmetic properties including true zero."
+    },
+    {
+      "question": "Ranking marathon finishers is:",
+      "options": [
+        "Ordinal",
+        "Interval",
+        "Ratio",
+        "Nominal"
+      ],
+      "answer": "Ordinal",
+      "reference": "Places are ranks without equal gaps."
+    },
+    {
+      "question": "Actual finish times in seconds is:",
+      "options": [
+        "Ratio",
+        "Interval",
+        "Ordinal",
+        "Nominal"
+      ],
+      "answer": "Ratio",
+      "reference": "Time measured has meaningful zero and equal units."
+    },
+    {
+      "question": "Blood pressure (mmHg) is:",
+      "options": [
+        "Ratio",
+        "Interval",
+        "Ordinal",
+        "Nominal"
+      ],
+      "answer": "Ratio",
+      "reference": "Blood pressure has true zero and equal intervals."
+    },
+    {
+      "question": "IQ scores (mean 100, SD 15) are:",
+      "options": [
+        "Interval",
+        "Ratio",
+        "Ordinal",
+        "Nominal"
+      ],
+      "answer": "Interval",
+      "reference": "IQ scale has equal intervals but zero arbitrary."
+    },
+    {
+      "question": "Which scale can have negative values?",
+      "options": [
+        "Interval",
+        "Ratio",
+        "Ordinal",
+        "Nominal"
+      ],
+      "answer": "Interval",
+      "reference": "Interval scale can include negatives since zero is arbitrary."
+    },
+    {
+      "question": "Which scale cannot have negative values?",
+      "options": [
+        "Ratio",
+        "Interval",
+        "Ordinal",
+        "Nominal"
+      ],
+      "answer": "Ratio",
+      "reference": "Ratio scales start at true zero, so negatives are meaningless."
+    },
+    {
+      "question": "Saint’s day names are:",
+      "options": [
+        "Nominal",
+        "Ordinal",
+        "Interval",
+        "Ratio"
+      ],
+      "answer": "Nominal",
+      "reference": "Names are labels without order."
+    },
+    {
+      "question": "Pain score 0–10 with equal steps is:",
+      "options": [
+        "Interval",
+        "Ratio",
+        "Ordinal",
+        "Nominal"
+      ],
+      "answer": "Interval",
+      "reference": "Numeric scale with equal steps but zero subjective."
+    },
+    {
+      "question": "Physical mass (kg) is measured on:",
+      "options": [
+        "Ratio",
+        "Interval",
+        "Ordinal",
+        "Nominal"
+      ],
+      "answer": "Ratio",
+      "reference": "Mass has true zero and proportional intervals."
+    },
+
+    
+        {
+          "question": "A Likert scale is characterized by:",
+          "options": [
+            "Statements rated on a level of agreement",
+            "Pairwise comparisons of items",
+            "Ranking items in order",
+            "Semantic differential bipolar adjectives"
+          ],
+          "answer": "Statements rated on a level of agreement",
+          "reference": "Likert Scale: Respondents indicate their level of agreement with a series of statements on a multi-point scale."
+        },
+        {
+          "question": "The Thurstone scale differs from the Likert scale in that it:",
+          "options": [
+            "Uses pre-rated statements based on judicial scales",
+            "Asks respondents to rank items",
+            "Contains only yes/no items",
+            "Employs semantic bipolar adjectives"
+          ],
+          "answer": "Uses pre-rated statements based on judicial scales",
+          "reference": "Thurstone Scale: Consists of statements weighted by judges; respondents select the statements they agree with."
+        },
+        {
+          "question": "A Guttman scale is designed to:",
+          "options": [
+            "Measure cumulative intensity of an attribute",
+            "Capture semantic opposites",
+            "Rank items ordinally",
+            "Provide equal-interval data"
+          ],
+          "answer": "Measure cumulative intensity of an attribute",
+          "reference": "Guttman Scale: Items are arranged so that agreement with a higher-order item implies agreement with lower-order items."
+        },
+        {
+          "question": "In a paired comparison scale, respondents:",
+          "options": [
+            "Choose between two items repeatedly",
+            "Rate statements on agreement",
+            "Assign a rank to each item",
+            "Indicate positions on bipolar adjectives"
+          ],
+          "answer": "Choose between two items repeatedly",
+          "reference": "Paired Comparison Scale: Each item is compared directly with every other item, and the number of times an item is chosen reflects its scale value."
+        },
+        {
+          "question": "The semantic differential scale uses:",
+          "options": [
+            "Bipolar adjective pairs with rating positions",
+            "Cumulative statements of intensity",
+            "Forced ranking of items",
+            "Yes/no agreement with statements"
+          ],
+          "answer": "Bipolar adjective pairs with rating positions",
+          "reference": "Semantic Differential Scale: Respondents rate concepts on a series of bipolar adjective scales (e.g., happy–sad)."
+        },
+        {
+          "question": "Which scaling technique is most appropriate for measuring attitudes on a continuum?",
+          "options": [
+            "Semantic differential",
+            "Guttman scale",
+            "Paired comparison",
+            "Thurstone scale"
+          ],
+          "answer": "Semantic differential",
+          "reference": "Semantic differential is ideal for capturing connotative meaning along a continuum between opposite adjectives."
+        },
+        {
+          "question": "A Q-sort scaling method requires respondents to:",
+          "options": [
+            "Sort statements into predefined categories by rank",
+            "Rate each statement on a scale of 1–5",
+            "Choose between two items",
+            "Agree/disagree with each item"
+          ],
+          "answer": "Sort statements into predefined categories by rank",
+          "reference": "Q-Sort Method: Respondents sort a set of items into a fixed distribution according to some criterion (e.g., from most to least important)."
+        },
+        {
+          "question": "Split-half reliability assesses:",
+          "options": [
+            "Internal consistency of a scale",
+            "Test-retest stability over time",
+            "Inter-rater agreement",
+            "Predictive validity"
+          ],
+          "answer": "Internal consistency of a scale",
+          "reference": "Split-Half Reliability: A test is divided into two halves and the scores are correlated to assess consistency."
+        },
+        {
+          "question": "Test-retest reliability measures:",
+          "options": [
+            "Stability of scores over time",
+            "Agreement between two raters",
+            "Internal consistency",
+            "Content coverage"
+          ],
+          "answer": "Stability of scores over time",
+          "reference": "Test-Retest Reliability: The same test is administered twice at different times, and the correlation between scores indicates stability."
+        },
+        {
+          "question": "Inter-rater reliability is evaluated by:",
+          "options": [
+            "Comparing scores assigned by different observers",
+            "Administering the same test twice",
+            "Splitting the test into halves",
+            "Calculating Cronbach’s alpha"
+          ],
+          "answer": "Comparing scores assigned by different observers",
+          "reference": "Inter-Rater Reliability: Measures the extent to which different raters give consistent estimates of the same phenomenon."
+        },
+        {
+          "question": "Cronbach’s alpha is used to assess:",
+          "options": [
+            "Internal consistency",
+            "Test-retest reliability",
+            "Inter-rater reliability",
+            "Criterion validity"
+          ],
+          "answer": "Internal consistency",
+          "reference": "Cronbach’s Alpha: A coefficient that indicates how closely related a set of items are as a group."
+        },
+        {
+          "question": "Content validity examines:",
+          "options": [
+            "Whether a scale covers all aspects of the construct",
+            "Stability over time",
+            "Correlation with other measures",
+            "Scale’s internal consistency"
+          ],
+          "answer": "Whether a scale covers all aspects of the construct",
+          "reference": "Content Validity: The extent to which the items represent the entire domain of the concept being measured."
+        },
+        {
+          "question": "Criterion validity is established by:",
+          "options": [
+            "Correlating the measure with an external criterion",
+            "Assessing internal consistency",
+            "Testing over time",
+            "Evaluating item homogeneity"
+          ],
+          "answer": "Correlating the measure with an external criterion",
+          "reference": "Criterion Validity: The degree to which test scores relate to a relevant external criterion (predictive or concurrent)."
+        },
+        {
+          "question": "Construct validity refers to:",
+          "options": [
+            "Whether a test measures the theoretical construct",
+            "Consistency between raters",
+            "Correlation with criteria",
+            "Stability over time"
+          ],
+          "answer": "Whether a test measures the theoretical construct",
+          "reference": "Construct Validity: The extent to which operational measures adequately reflect the theoretical construct."
+        },
+        {
+          "question": "Face validity is based on:",
+          "options": [
+            "Subjective judgment of relevance",
+            "Statistical correlations",
+            "Test-retest correlation",
+            "Inter-rater agreement"
+          ],
+          "answer": "Subjective judgment of relevance",
+          "reference": "Face Validity: An informal assessment of whether a test appears to measure what it is supposed to."
+        },
+        {
+          "question": "Measurement error that occurs randomly is called:",
+          "options": [
+            "Random error",
+            "Systematic error",
+            "Gross error",
+            "Predictable error"
+          ],
+          "answer": "Random error",
+          "reference": "Random Error: Variability in measurement due to unpredictable fluctuations."
+        },
+        {
+          "question": "A consistent bias in measurement is known as:",
+          "options": [
+            "Systematic error",
+            "Random error",
+            "Gross error",
+            "Sampling error"
+          ],
+          "answer": "Systematic error",
+          "reference": "Systematic Error: A predictable error that consistently occurs in the same direction."
+        },
+        {
+          "question": "A highly reliable but invalid measure indicates:",
+          "options": [
+            "Consistency without accuracy",
+            "Accuracy without consistency",
+            "Neither accuracy nor consistency",
+            "Both accuracy and consistency"
+          ],
+          "answer": "Consistency without accuracy",
+          "reference": "High reliability + low validity = measure gives consistent results but not true to the construct."
+        },
+        {
+          "question": "Calibration of measuring instruments is essential to reduce:",
+          "options": [
+            "Systematic error",
+            "Random error",
+            "Sampling error",
+            "Observer error"
+          ],
+          "answer": "Systematic error",
+          "reference": "Calibration: The process of adjusting an instrument to reduce bias and systematic error."
+        },
+        {
+          "question": "Accuracy in measurement refers to:",
+          "options": [
+            "Closeness to the true value",
+            "Consistency of repeated measurements",
+            "Range of values",
+            "Scale reliability"
+          ],
+          "answer": "Closeness to the true value",
+          "reference": "Accuracy: The degree to which measurements approach the actual or true value."
+        },
+        {
+          "question": "Precision (or reliability) refers to:",
+          "options": [
+            "Consistency of repeated measurements",
+            "Closeness to the true value",
+            "Scale validity",
+            "Calibration accuracy"
+          ],
+          "answer": "Consistency of repeated measurements",
+          "reference": "Precision: The degree to which measurements under unchanged conditions yield the same results."
+        },
+        {
+          "question": "Hawthorne effect in measurement refers to:",
+          "options": [
+            "Behavior change when subjects know they are observed",
+            "Observer bias in ratings",
+            "Instrument drift",
+            "Sampling bias"
+          ],
+          "answer": "Behavior change when subjects know they are observed",
+          "reference": "Hawthorne Effect: Participants alter behavior due to awareness of being observed."
+        },
+        {
+          "question": "Observer bias can be minimized by:",
+          "options": [
+            "Blinding observers to subjects’ conditions",
+            "Increasing sample size",
+            "Using interval scales",
+            "Applying paired comparisons"
+          ],
+          "answer": "Blinding observers to subjects’ conditions",
+          "reference": "Observer Bias: Blinding reduces influence of observer expectations on measurements."
+        },
+        {
+          "question": "A semantic differential scale is least suitable when:",
+          "options": [
+            "Respondents cannot understand bipolar adjectives",
+            "Measuring physical quantities",
+            "Assessing attitudes",
+            "Comparing brand images"
+          ],
+          "answer": "Measuring physical quantities",
+          "reference": "Semantic Differential is designed for attitudes; not appropriate for objective physical measurements."
+        },
+        {
+          "question": "Cronbach’s alpha values above 0.8 typically indicate:",
+          "options": [
+            "High internal consistency",
+            "Low internal consistency",
+            "Poor test-retest reliability",
+            "Weak construct validity"
+          ],
+          "answer": "High internal consistency",
+          "reference": "Cronbach’s Alpha > 0.8 suggests that scale items reliably measure the same underlying construct."
+        },
+        {
+          "question": "Item-total correlation assesses:",
+          "options": [
+            "How well each item correlates with the overall test score",
+            "Between-subject variance",
+            "Test-retest reliability",
+            "Content validity"
+          ],
+          "answer": "How well each item correlates with the overall test score",
+          "reference": "Item-Total Correlation: High values indicate items are consistent with the overall scale."
+        },
+        {
+          "question": "Constructing a new scale through factor analysis helps ensure:",
+          "options": [
+            "Dimensional validity",
+            "Inter-rater reliability",
+            "Test-retest stability",
+            "Face validity"
+          ],
+          "answer": "Dimensional validity",
+          "reference": "Factor Analysis: Identifies underlying dimensions, supporting the construct validity of a scale."
+        },
+        {
+          "question": "The Spearman-Brown prophecy formula is used to:",
+          "options": [
+            "Estimate reliability after lengthening a test",
+            "Calculate test-retest reliability",
+            "Compute Cronbach’s alpha",
+            "Assess content validity"
+          ],
+          "answer": "Estimate reliability after lengthening a test",
+          "reference": "Spearman–Brown Formula: Predicts new reliability when test length changes."
+        },
+        {
+          "question": "Calibration drift refers to:",
+          "options": [
+            "Gradual change in instrument accuracy over time",
+            "Observer bias",
+            "Sampling error",
+            "Transient measurement noise"
+          ],
+          "answer": "Gradual change in instrument accuracy over time",
+          "reference": "Calibration Drift: Instruments may deviate from true calibration gradually without re-calibration."
+        },
+        {
+          "question": "A cumulative scale is another term for:",
+          "options": [
+            "Guttman scale",
+            "Likert scale",
+            "Paired comparison",
+            "Thurstone scale"
+          ],
+          "answer": "Guttman scale",
+          "reference": "Guttman (Cumulative) Scale: Items form a hierarchical cumulative pattern."
+        },
+        {
+          "question": "Concurrent validity is demonstrated when:",
+          "options": [
+            "Test scores correlate with criterion measured at same time",
+            "Scores remain stable over time",
+            "Items show internal consistency",
+            "Scores predict future outcomes"
+          ],
+          "answer": "Test scores correlate with criterion measured at same time",
+          "reference": "Concurrent Validity: The degree to which test scores agree with other measures of the same construct taken concurrently."
+        },
+        {
+          "question": "Predictive validity is established by:",
+          "options": [
+            "Correlating test scores with future performance",
+            "Assessing item homogeneity",
+            "Computing Cronbach’s alpha",
+            "Doing split-half reliability"
+          ],
+          "answer": "Correlating test scores with future performance",
+          "reference": "Predictive Validity: Evaluates how well scores forecast future outcomes."
+        },
+        {
+          "question": "Which error type is least controllable?",
+          "options": [
+            "Random error",
+            "Systematic error",
+            "Gross error",
+            "Calibration error"
+          ],
+          "answer": "Random error",
+          "reference": "Random errors arise from unpredictable fluctuations and cannot be entirely eliminated."
+        },
+        {
+          "question": "Inter-item correlation helps assess:",
+          "options": [
+            "Scale homogeneity",
+            "Test-retest reliability",
+            "Inter-rater reliability",
+            "Concurrent validity"
+          ],
+          "answer": "Scale homogeneity",
+          "reference": "Inter-Item Correlation: High correlations among items indicate they measure the same construct."
+        },
+        {
+          "question": "Coefficient omega is an alternative to Cronbach’s alpha used to assess:",
+          "options": [
+            "Internal consistency under congeneric model",
+            "Test-retest reliability",
+            "Inter-rater reliability",
+            "Content validity"
+          ],
+          "answer": "Internal consistency under congeneric model",
+          "reference": "Coefficient Omega: Provides a more general reliability estimate when items have different loadings."
+        },
+        {
+          "question": "Composite reliability differs from alpha by:",
+          "options": [
+            "Using factor loadings in structural equation models",
+            "Splitting test into halves",
+            "Testing over time",
+            "Relying only on item variances"
+          ],
+          "answer": "Using factor loadings in structural equation models",
+          "reference": "Composite Reliability: Calculated from factor loadings and error variances in confirmatory factor analysis."
+        },
+        {
+          "question": "A semantic differential requires at least how many bipolar adjective pairs?",
+          "options": [
+            "Two",
+            "One",
+            "Ten",
+            "Five"
+          ],
+          "answer": "Two",
+          "reference": "Semantic Differential: Minimum two adjective pairs are needed to form a bipolar scale."
+        },
+        {
+          "question": "A visual analogue scale (VAS) asks respondents to:",
+          "options": [
+            "Mark a position on a continuous line",
+            "Select from discrete categories",
+            "Rank items in order",
+            "Compare two items"
+          ],
+          "answer": "Mark a position on a continuous line",
+          "reference": "Visual Analogue Scale: A continuous line anchored by descriptor words for marking intensity."
+        },
+        {
+          "question": "Constructing a summated rating scale involves:",
+          "options": [
+            "Summing scores across Likert-type items",
+            "Calculating geometric mean across items",
+            "Ranking items cumulatively",
+            "Pairwise item comparison"
+          ],
+          "answer": "Summing scores across Likert-type items",
+          "reference": "Summated Rating Scale: Total score obtained by adding individual item responses on a Likert scale."
+        },
+        {
+          "question": "Inter-observer reliability is critical when:",
+          "options": [
+            "Multiple observers record behaviors",
+            "Data are self-reported",
+            "Using instrument calibration",
+            "Administering questionnairies"
+          ],
+          "answer": "Multiple observers record behaviors",
+          "reference": "Inter-Observer Reliability: Ensures consistency across different observers recording the same events."
+        },
+        {
+          "question": "A calibration curve is used to:",
+          "options": [
+            "Translate instrument readings to true values",
+            "Assess internal consistency",
+            "Rank observations",
+            "Define semantic anchors"
+          ],
+          "answer": "Translate instrument readings to true values",
+          "reference": "Calibration Curve: Plots known standards against instrument response to correct measurements."
+        },
+        {
+          "question": "Face validity is least rigorous because it relies on:",
+          "options": [
+            "Subjective appearance",
+            "Statistical analysis",
+            "Predictive correlation",
+            "Factor loadings"
+          ],
+          "answer": "Subjective appearance",
+          "reference": "Face Validity: Based on informal judgment rather than empirical evidence."
+        },
+        {
+          "question": "The multitrait-multimethod matrix evaluates:",
+          "options": [
+            "Convergent and discriminant validity",
+            "Content validity",
+            "Split-half reliability",
+            "Calibration accuracy"
+          ],
+          "answer": "Convergent and discriminant validity",
+          "reference": "MTMM Matrix: Assesses validity by examining correlations among different traits measured by different methods."
+        },
+        {
+          "question": "Balanced item-keyed scales help control:",
+          "options": [
+            "Response bias",
+            "Inter-rater reliability",
+            "Calibration drift",
+            "Sampling error"
+          ],
+          "answer": "Response bias",
+          "reference": "Balanced Scales: Include positively and negatively worded items to reduce acquiescence bias."
+        },
+        {
+          "question": "Construct validity is best established through:",
+          "options": [
+            "Factor analysis and hypothesis testing",
+            "Test-retest correlation",
+            "Item-total correlation",
+            "Face validity review"
+          ],
+          "answer": "Factor analysis and hypothesis testing",
+          "reference": "Construct Validity: Supported when factor structures and predicted relationships are confirmed empirically."
+        }
+      
+      
+  ]
+  

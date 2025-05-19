@@ -1,0 +1,1038 @@
+
+[
+  {
+    "question": "Tabulation is best described as:",
+    "options": [
+      "A systematic presentation of numerical data in rows and columns",
+      "An arrangement of qualitative data into categories",
+      "A graphical representation of data trends",
+      "A method for forecasting future values"
+    ],
+    "answer": "A systematic presentation of numerical data in rows and columns",
+    "reference": "Tabulation is a systematic presentation of numerical data in rows and columns."
+  },
+  {
+    "question": "According to Tuttle, a statistical table must include:",
+    "options": [
+      "Only numbers arranged chronologically",
+      "Explanatory words and phrases to clarify data origin",
+      "Graphs alongside data for comparison",
+      "Textual analysis of each row"
+    ],
+    "answer": "Explanatory words and phrases to clarify data origin",
+    "reference": "A statistical table is the logical listing of related quantitative data in vertical columns and horizontal rows of numbers, with sufficient explanatory and qualifying words, phrases and statements in the form of titles, headings and footnotes to make clear the full meaning of the data and their origin."
+  },
+  {
+    "question": "One of the objectives of tabulation is to:",
+    "options": [
+      "Simplify complex data",
+      "Increase data redundancy",
+      "Eliminate the need for analysis",
+      "Convert quantitative into qualitative data"
+    ],
+    "answer": "Simplify complex data",
+    "reference": "The Objectives of tabulation: To simplify complex data."
+  },
+  {
+    "question": "Classification differs from tabulation in that classification:",
+    "options": [
+      "Divides data into groups before arranging them in tables",
+      "Arranges data directly in rows and columns",
+      "Includes explanatory footnotes",
+      "Summarizes data in charts"
+    ],
+    "answer": "Divides data into groups before arranging them in tables",
+    "reference": "Classification of data is basis for tabulation because first the data are classified and then tabulated."
+  },
+  {
+    "question": "The table element that indicates units of measurement is the:",
+    "options": [
+      "Head-note",
+      "Foot note",
+      "Stub",
+      "Caption"
+    ],
+    "answer": "Head-note",
+    "reference": "A head-note is often given below the title of a table to indicate the units of measurement of the data."
+  },
+  {
+    "question": "In a well-constructed table, horizontal lines are normally:",
+    "options": [
+      "Drawn only above and below totals",
+      "Drawn between every row",
+      "Not drawn in the body of the table",
+      "Drawn between all columns"
+    ],
+    "answer": "Not drawn in the body of the table",
+    "reference": "Horizontal lines are normally not drawn in the body of a table; however, the totals are always separated from the main body by horizontal lines."
+  },
+  {
+    "question": "Which part of a table provides concise explanation of abbreviations used?",
+    "options": [
+      "Foot note",
+      "Head-note",
+      "Title",
+      "Caption"
+    ],
+    "answer": "Foot note",
+    "reference": "Abbreviations, if any, used in the table or some other explanatory notes are given just below the last horizontal line in the form of footnotes."
+  },
+  {
+    "question": "A table number is useful because it:",
+    "options": [
+      "Helps in identification of a table",
+      "Defines the scope of data",
+      "Lists total values separately",
+      "Explains data origin"
+    ],
+    "answer": "Helps in identification of a table",
+    "reference": "Table Number: This number is helpful in the identification of a table. This is often indicated at the top of the table."
+  },
+  {
+    "question": "Captions in a table refer to:",
+    "options": [
+      "Headings used to designate columns",
+      "Footnotes explaining abbreviations",
+      "Numbers indicating table sequence",
+      "Explanatory titles"
+    ],
+    "answer": "Headings used to designate columns",
+    "reference": "Headings or subheadings used to designate columns are called captions while those used to designate rows are called stubs."
+  },
+  {
+    "question": "A stub in a table is:",
+    "options": [
+      "A heading used to designate rows",
+      "A heading used to designate columns",
+      "A note indicating data source",
+      "An explanatory title"
+    ],
+    "answer": "A heading used to designate rows",
+    "reference": "Headings or subheadings used to designate rows are called stubs."
+  },
+  {
+    "question": "One general rule of tabulation states that tables should be:",
+    "options": [
+      "Simple and compact",
+      "Rich in decorative lines",
+      "Full of footnotes",
+      "Updated daily"
+    ],
+    "answer": "Simple and compact",
+    "reference": "The table should be simple and compact which is not overloaded with details."
+  },
+  {
+    "question": "Which type of table presents detailed data for easy reference?",
+    "options": [
+      "General Purpose Table",
+      "Special Purpose Table",
+      "Primary Table",
+      "Derivative Table"
+    ],
+    "answer": "General Purpose Table",
+    "reference": "General Purpose Table: This table facilitates easy reference to the collected data."
+  },
+  {
+    "question": "A special-purpose table is designed to:",
+    "options": [
+      "Present results of analysis for a specific problem",
+      "List all raw data collected",
+      "Serve as a reference for all data",
+      "Display data chronologically"
+    ],
+    "answer": "Present results of analysis for a specific problem",
+    "reference": "A special purpose table presents data relating to a specific problem and records the results of analysis."
+  },
+  {
+    "question": "Primary tables are also known as:",
+    "options": [
+      "Original tables",
+      "Reference tables",
+      "Analytical tables",
+      "Summary tables"
+    ],
+    "answer": "Original tables",
+    "reference": "Primary table is also known as original table and it contains data in the form in which it were originally collected."
+  },
+  {
+    "question": "A derivative table typically contains:",
+    "options": [
+      "Figures like totals, averages, and percentages derived from original data",
+      "Only raw, unprocessed data",
+      "Footnotes explaining sources",
+      "Titles and captions"
+    ],
+    "answer": "Figures like totals, averages, and percentages derived from original data",
+    "reference": "A table which presents figures like totals, averages, percentages, ratios, coefficients, etc., derived from original data."
+  },
+  {
+    "question": "A simple table is classified by:",
+    "options": [
+      "One characteristic only",
+      "Multiple characteristics",
+      "Row and column classification",
+      "Derivation of data"
+    ],
+    "answer": "One characteristic only",
+    "reference": "Simple Table: In this table the data are presented according to one characteristic only."
+  },
+  {
+    "question": "A two-way table is an example of a:",
+    "options": [
+      "Complex table",
+      "Simple table",
+      "Cross-classified table",
+      "Reference table"
+    ],
+    "answer": "Complex table",
+    "reference": "Complex Table: A complex table is used to present data according to two or three characteristics."
+  },
+  {
+    "question": "Cross-classified tables allow classification:",
+    "options": [
+      "Row-wise and column-wise simultaneously",
+      "Only row-wise",
+      "Only column-wise",
+      "Chronologically"
+    ],
+    "answer": "Row-wise and column-wise simultaneously",
+    "reference": "Cross-classified tables classify entries in both directions, i.e., row-wise and column-wise."
+  },
+  {
+    "question": "Mechanical method of tabulation is preferred when:",
+    "options": [
+      "Data volume is very large",
+      "Investigation field is small",
+      "Few characteristics exist",
+      "Manual labor is available"
+    ],
+    "answer": "Data volume is very large",
+    "reference": "Mechanical Method: This method is used when the data are very large. The use of machines save considerable amount of labour and time."
+  },
+  {
+    "question": "Manual method of tabulation is suitable when:",
+    "options": [
+      "Field of investigation is not too large and characteristics are few",
+      "Data need high-speed processing",
+      "Complex multi-way tables are required",
+      "Derivation of coefficients is needed"
+    ],
+    "answer": "Field of investigation is not too large and characteristics are few",
+    "reference": "Manual Method: When field of investigation is not too large and the number of characteristics are few, the work of tabulation can be done by hand."
+  },
+  {
+    "question": "One objective of tabulation is to facilitate:",
+    "options": [
+      "Statistical analysis",
+      "Data encryption",
+      "Narrative reporting",
+      "Qualitative interviews"
+    ],
+    "answer": "Statistical analysis",
+    "reference": "The Objectives of tabulation: To facilitate statistical analysis."
+  },
+  {
+    "question": "Tabulation helps to identify:",
+    "options": [
+      "Trend and tendencies of the given data",
+      "Causes of errors in data collection",
+      "Qualitative feedback patterns",
+      "Narrative descriptions"
+    ],
+    "answer": "Trend and tendencies of the given data",
+    "reference": "The Objectives of tabulation: To identify trend and tendencies of the given data."
+  },
+  {
+    "question": "A stub should be:",
+    "options": [
+      "Self-explanatory",
+      "A graphical element",
+      "A footnote example",
+      "A numeric total"
+    ],
+    "answer": "Self-explanatory",
+    "reference": "A caption or a stub should be self-explanatory."
+  },
+  {
+    "question": "A table’s title must be:",
+    "options": [
+      "Unambiguous and concise",
+      "Decorative",
+      "Lengthy with footnotes",
+      "Omitted if obvious"
+    ],
+    "answer": "Unambiguous and concise",
+    "reference": "Title: Each table should have a title to indicate the scope, nature of contents of the table in an unambiguous and concise form."
+  },
+  {
+    "question": "Ruling and spacing in tables ensure:",
+    "options": [
+      "Clarity and readability of data",
+      "Maximum use of lines",
+      "Footnote prominence",
+      "Graphic enhancement"
+    ],
+    "answer": "Clarity and readability of data",
+    "reference": "Ruling and Spacing: Proper ruling and spacing is very important in the construction of a table."
+  },
+  {
+    "question": "A special-purpose table is also called a:",
+    "options": [
+      "Summary table",
+      "Reference table",
+      "Primary table",
+      "Footnote table"
+    ],
+    "answer": "Summary table",
+    "reference": "Special Purpose table: A special purpose table is also called a text table or a summary table or an analytical table."
+  },
+  {
+    "question": "In a complex table, data are presented according to:",
+    "options": [
+      "Two or three characteristics",
+      "One characteristic only",
+      "Raw narrative text",
+      "Footnote explanations"
+    ],
+    "answer": "Two or three characteristics",
+    "reference": "Complex Table: A complex table is used to present data according to two or three characteristics."
+  },
+  {
+    "question": "General-purpose tables are often placed in the:",
+    "options": [
+      "Appendix of a report",
+      "Introduction section",
+      "Text body",
+      "Footnote"
+    ],
+    "answer": "Appendix of a report",
+    "reference": "Such a table usually contains a large mass of data and are generally given in the appendix of a report."
+  },
+  {
+    "question": "Derivative tables are created from:",
+    "options": [
+      "Original data by computing totals and averages",
+      "Narrative descriptions",
+      "Graphical charts",
+      "Footnotes"
+    ],
+    "answer": "Original data by computing totals and averages",
+    "reference": "A table which presents figures like totals, averages, percentages, ratios, coefficients, etc., derived from original data."
+  },
+  {
+    "question": "Cross-classified tables can control effects of other factors by:",
+    "options": [
+      "Keeping categories constant in comparison",
+      "Using only one classification",
+      "Eliminating footnotes",
+      "Limiting to numeric data"
+    ],
+    "answer": "Keeping categories constant in comparison",
+    "reference": "A cross-classification can also be used for analytical purpose, e.g., it is possible to make certain comparisons while keeping the effect of other factors as constant."
+  },
+  {
+    "question": "A general rule of tabulation requires that:",
+    "options": [
+      "Units of measurement must always be indicated",
+      "Tables contain only raw counts",
+      "Footnotes are optional",
+      "Graphs be included"
+    ],
+    "answer": "Units of measurement must always be indicated",
+    "reference": "The unit of measurements must always be indicated in the table."
+  },
+  {
+    "question": "To facilitate comparison of data is an objective of:",
+    "options": [
+      "Tabulation",
+      "Classification alone",
+      "Graph plotting",
+      "Narrative summary"
+    ],
+    "answer": "Tabulation",
+    "reference": "The Objectives of tabulation: To facilitate comparison of data."
+  },
+  {
+    "question": "Which element indicates data source in a table?",
+    "options": [
+      "Source note",
+      "Head-note",
+      "Caption",
+      "Stub"
+    ],
+    "answer": "Source note",
+    "reference": "Source: This note indicates the source from where the information has been obtained."
+  },
+  {
+    "question": "Self-explanatory entries and accurate figures are required by which rule?",
+    "options": [
+      "General rules of tabulation",
+      "Structural rules of tabulation",
+      "Graphical rules",
+      "Classification rules"
+    ],
+    "answer": "General rules of tabulation",
+    "reference": "The entries in a table should be accurate and a table should be complete and self-explanatory."
+  },
+  {
+    "question": "The main body of a table contains:",
+    "options": [
+      "Numerical information arranged in rows and columns",
+      "Footnotes and source notes",
+      "Title and head-note",
+      "Ruling lines only"
+    ],
+    "answer": "Numerical information arranged in rows and columns",
+    "reference": "Main Body of the Table: This is the most important part of the table as it contains numerical information."
+  },
+  {
+    "question": "A three-way table involves classification by:",
+    "options": [
+      "Three characteristics simultaneously",
+      "One characteristic",
+      "Four characteristics",
+      "No characteristics"
+    ],
+    "answer": "Three characteristics simultaneously",
+    "reference": "Three-way Table: When three characteristics of data are shown simultaneously, we get a three-way table."
+  },
+  {
+    "question": "In constructing tables, major and minor items spacing should reflect:",
+    "options": [
+      "Their relative importance",
+      "Alphabetical order",
+      "Chronological sequence",
+      "Data source"
+    ],
+    "answer": "Their relative importance",
+    "reference": "Spacing of various horizontal and vertical lines should be done depending on the available space. Major and minor items should be given space according to their relative importance."
+  },
+  {
+    "question": "A multi-way table extends complex tables by adding:",
+    "options": [
+      "Additional characteristics beyond three",
+      "Footnotes",
+      "Head-notes",
+      "Only a title"
+    ],
+    "answer": "Additional characteristics beyond three",
+    "reference": "Multi-way Table: If each shift is further classified into three departments... we shall get a four-way table, etc."
+  },
+  {
+    "question": "Tabulation facilitates reference by:",
+    "options": [
+      "Arranging data systematically for easy lookup",
+      "Eliminating need for headings",
+      "Providing narrative explanations",
+      "Using only graphical charts"
+    ],
+    "answer": "Arranging data systematically for easy lookup",
+    "reference": "The Objectives of tabulation: To facilitate reference."
+  },
+  {
+    "question": "A reference table is another name for:",
+    "options": [
+      "General purpose table",
+      "Special purpose table",
+      "Primary table",
+      "Derivative table"
+    ],
+    "answer": "General purpose table",
+    "reference": "General Purpose Table is also called as a reference table."
+  },
+  {
+    "question": "In a journal format table, the LF column stands for:",
+    "options": [
+      "Ledger Folio",
+      "Line Figure",
+      "Left Footnote",
+      "Last Figure"
+    ],
+    "answer": "Ledger Folio",
+    "reference": "Journal format: Also known as Vertical format. It has four columns: Particulars, LF, Debit balance and credit balance."
+  },
+  {
+    "question": "Which rule category covers table numbering and titling?",
+    "options": [
+      "Rules regarding the structure of a table",
+      "General rules of tabulation",
+      "Graphical rules",
+      "Classification rules"
+    ],
+    "answer": "Rules regarding the structure of a table",
+    "reference": "Rules Regarding the structure of a table (studied above)."
+  },
+  {
+    "question": "To detect errors and omissions in data is an objective of:",
+    "options": [
+      "Tabulation",
+      "Graph plotting",
+      "Classification",
+      "Narrative reporting"
+    ],
+    "answer": "Tabulation",
+    "reference": "The Objectives of tabulation: To detect errors and omissions in the data."
+  },
+  {
+    "question": "A special-purpose table is smaller than a general-purpose table because it:",
+    "options": [
+      "Focuses on specific results of analysis",
+      "Contains raw data only",
+      "Includes all collected data",
+      "Is placed in the appendix"
+    ],
+    "answer": "Focuses on specific results of analysis",
+    "reference": "Such tables are usually of smaller size than the size of reference tables and are generally found to highlight relationship between various characteristics or to facilitate their comparisons."
+  },
+  {
+    "question": "Which table type would list trend values computed from time series?",
+    "options": [
+      "Derivative table",
+      "Primary table",
+      "General purpose table",
+      "Simple table"
+    ],
+    "answer": "Derivative table",
+    "reference": "A table of trend values computed from the time series data is known as a derivative table."
+  },
+  {
+    "question": "Tabulation helps to highlight chief characteristics of data by:",
+    "options": [
+      "Organizing classified data into tables",
+      "Summarizing narrative accounts",
+      "Plotting graphs only",
+      "Using only footnotes"
+    ],
+    "answer": "Organizing classified data into tables",
+    "reference": "The Objectives of tabulation: To highlight chief characteristics of the data."
+  },
+  {
+    "question": "Which of the following is NOT a part of the main parts of a table?",
+    "options": [
+      "Graph",
+      "Caption",
+      "Main body",
+      "Foot note"
+    ],
+    "answer": "Graph",
+    "reference": "The main parts of a table are: Table Number, Title, Captions and stubs, Main Body of the Table, Ruling and Spacing, Head-note, Foot note, Source."
+  },
+  {
+    "question": "To present data in minimum space is an objective of:",
+    "options": [
+      "Tabulation",
+      "Classification",
+      "Narrative reporting",
+      "Oral presentation"
+    ],
+    "answer": "Tabulation",
+    "reference": "The Objectives of tabulation: To present data in a minimum space."
+  },
+  {
+    "question": "Which part of a table indicates the source of the data presented?",
+    "options": [
+      "Source note",
+      "Head-note",
+      "Caption",
+      "Stub"
+    ],
+    "answer": "Source note",
+    "reference": "Source: This note indicates the source from where the information has been obtained."
+  },
+  {
+    "question": "What is the purpose of a head-note in a statistical table?",
+    "options": [
+      "To clarify units of measurement",
+      "To identify table number",
+      "To list column headings",
+      "To explain footnotes"
+    ],
+    "answer": "To clarify units of measurement",
+    "reference": "A head-note is often given below the title of a table to indicate the units of measurement of the data."
+  },
+  {
+    "question": "Which rule of tabulation emphasizes that tables should not include unnecessary lines?",
+    "options": [
+      "General rules of tabulation",
+      "Structural rules of tabulation",
+      "Graphical rules",
+      "Classification rules"
+    ],
+    "answer": "Graphical rules",
+    "reference": "Graphical rules deal with the use of ruling and spacing and specify that tables should not include unnecessary lines."
+  },
+  {
+    "question": "A simple table is defined as one presenting data according to:",
+    "options": [
+      "A single characteristic",
+      "Two characteristics",
+      "Three characteristics",
+      "Multiple characteristics"
+    ],
+    "answer": "A single characteristic",
+    "reference": "Simple Table: In this table the data are presented according to one characteristic only."
+  },
+  {
+    "question": "Which table type presents data originally collected without any computations?",
+    "options": [
+      "Primary table",
+      "Derivative table",
+      "General-purpose table",
+      "Special-purpose table"
+    ],
+    "answer": "Primary table",
+    "reference": "Primary table is also known as original table and it contains data in the form in which it were originally collected."
+  },
+  {
+    "question": "Which classification of table is especially suited to analytical comparisons?",
+    "options": [
+      "Cross-classified table",
+      "Simple table",
+      "Primary table",
+      "General-purpose table"
+    ],
+    "answer": "Cross-classified table",
+    "reference": "Cross-classified tables classify entries in both directions, i.e., row-wise and column-wise, making analytical comparisons possible."
+  },
+  {
+    "question": "One structural rule for tables requires that titles be:",
+    "options": [
+      "Unambiguous and concise",
+      "Italicized and decorative",
+      "Placed below the table",
+      "Repeated in every footnote"
+    ],
+    "answer": "Unambiguous and concise",
+    "reference": "Title: Each table should have a title to indicate the scope, nature of contents of the table in an unambiguous and concise form."
+  },
+  {
+    "question": "Which part of a table should be located just below the last horizontal line?",
+    "options": [
+      "Foot-note",
+      "Head-note",
+      "Title",
+      "Caption"
+    ],
+    "answer": "Foot-note",
+    "reference": "Abbreviations, if any, used in the table or some other explanatory notes are given just below the last horizontal line in the form of footnotes."
+  },
+  {
+    "question": "A derivative table is characterized by:",
+    "options": [
+      "Figures computed from original data",
+      "Only raw data entries",
+      "Footnote explanations",
+      "Graphical charts"
+    ],
+    "answer": "Figures computed from original data",
+    "reference": "A table which presents figures like totals, averages, percentages, ratios, coefficients, etc., derived from original data."
+  },
+  {
+    "question": "Which table type is also referred to as a reference table?",
+    "options": [
+      "General-purpose table",
+      "Special-purpose table",
+      "Primary table",
+      "Complex table"
+    ],
+    "answer": "General-purpose table",
+    "reference": "General Purpose Table: This table facilitates easy reference to the collected data."
+  },
+  {
+    "question": "In tabulation, ‘stubs’ are used for:",
+    "options": [
+      "Designating row headings",
+      "Indicating units of measurement",
+      "Presenting footnotes",
+      "Numbering the table"
+    ],
+    "answer": "Designating row headings",
+    "reference": "Headings or subheadings used to designate rows are called stubs."
+  },
+  {
+    "question": "Which rule category addresses the layout and spacing within tables?",
+    "options": [
+      "Graphical rules",
+      "General rules of tabulation",
+      "Classification rules",
+      "Structural rules of tabulation"
+    ],
+    "answer": "Graphical rules",
+    "reference": "Graphical rules deal with proper ruling and spacing to ensure clarity and readability of data."
+  },
+  {
+    "question": "Which objective of tabulation involves making comparisons across categories?",
+    "options": [
+      "To facilitate comparison of data",
+      "To present data in minimum space",
+      "To detect errors and omissions",
+      "To identify trends"
+    ],
+    "answer": "To facilitate comparison of data",
+    "reference": "The Objectives of tabulation: To facilitate comparison of data."
+  },
+  {
+    "question": "Which special table is designed for a specific analytical purpose?",
+    "options": [
+      "Special-purpose table",
+      "General-purpose table",
+      "Primary table",
+      "Simple table"
+    ],
+    "answer": "Special-purpose table",
+    "reference": "A special purpose table presents data relating to a specific problem and records the results of analysis."
+  },
+  {
+    "question": "Mechanical methods of tabulation are recommended when:",
+    "options": [
+      "Data volume is very large",
+      "There are few characteristics",
+      "Field of investigation is small",
+      "Hand tabulation is faster"
+    ],
+    "answer": "Data volume is very large",
+    "reference": "Mechanical Method: This method is used when the data are very large. The use of machines save considerable amount of labour and time."
+  },
+  {
+    "question": "Manual tabulation is feasible when:",
+    "options": [
+      "Investigation field is small and characteristics are few",
+      "Data require complex multi-way tables",
+      "Data volume is very large",
+      "High-speed processing is needed"
+    ],
+    "answer": "Investigation field is small and characteristics are few",
+    "reference": "Manual Method: When field of investigation is not too large and the number of characteristics are few, the work of tabulation can be done by hand."
+  },
+  {
+    "question": "Which objective of tabulation focuses on revealing patterns over time?",
+    "options": [
+      "To identify trend and tendencies of the given data",
+      "To simplify complex data",
+      "To highlight chief characteristics",
+      "To present data in minimum space"
+    ],
+    "answer": "To identify trend and tendencies of the given data",
+    "reference": "The Objectives of tabulation: To identify trend and tendencies of the given data."
+  },
+  {
+    "question": "A three-way table displays data classified by:",
+    "options": [
+      "Three characteristics simultaneously",
+      "Two characteristics",
+      "One characteristic",
+      "Four characteristics"
+    ],
+    "answer": "Three characteristics simultaneously",
+    "reference": "Three-way Table: When three characteristics of data are shown simultaneously, we get a three-way table."
+  },
+  {
+    "question": "Which part of a table contains the core numerical data?",
+    "options": [
+      "Main body",
+      "Title",
+      "Head-note",
+      "Source note"
+    ],
+    "answer": "Main body",
+    "reference": "Main Body of the Table: This is the most important part of the table as it contains numerical information."
+  },
+  {
+    "question": "Which rule requires that table entries be complete and self-explanatory?",
+    "options": [
+      "General rules of tabulation",
+      "Graphical rules",
+      "Classification rules",
+      "Structural rules of tabulation"
+    ],
+    "answer": "General rules of tabulation",
+    "reference": "The entries in a table should be accurate and a table should be complete and self-explanatory."
+  },
+  {
+    "question": "Which table type would best summarize a large data set for quick reference?",
+    "options": [
+      "General-purpose table",
+      "Special-purpose table",
+      "Primary table",
+      "Simple table"
+    ],
+    "answer": "General-purpose table",
+    "reference": "General Purpose Table: This table facilitates easy reference to the collected data."
+  },
+  {
+    "question": "Which element immediately follows the title in a well-constructed table?",
+    "options": [
+      "Head-note",
+      "Stub",
+      "Caption",
+      "Main body"
+    ],
+    "answer": "Head-note",
+    "reference": "A head-note is often given below the title of a table to indicate the units of measurement of the data."
+  },
+  {
+    "question": "Two-way tables are also called:",
+    "options": [
+      "Complex tables",
+      "Simple tables",
+      "Primary tables",
+      "Reference tables"
+    ],
+    "answer": "Complex tables",
+    "reference": "Complex Table: A complex table is used to present data according to two or three characteristics."
+  },
+  {
+    "question": "Which classification is the basis for tabulation?",
+    "options": [
+      "Classification divides data into groups before tabulation",
+      "Classification sums data into totals",
+      "Classification applies graphical rules",
+      "Classification determines footnotes"
+    ],
+    "answer": "Classification divides data into groups before tabulation",
+    "reference": "Classification of data is basis for tabulation because first the data are classified and then tabulated."
+  },
+  {
+    "question": "What is a multi-way table?",
+    "options": [
+      "A table with more than three characteristics",
+      "A simple table with one characteristic",
+      "A footnote table",
+      "A graphical chart"
+    ],
+    "answer": "A table with more than three characteristics",
+    "reference": "Multi-way Table: If each shift is further classified into three departments... we shall get a four-way table, etc."
+  },
+  {
+    "question": "Which structural rule covers table numbering?",
+    "options": [
+      "Rules regarding the structure of a table",
+      "General rules of tabulation",
+      "Graphical rules",
+      "Classification rules"
+    ],
+    "answer": "Rules regarding the structure of a table",
+    "reference": "Rules Regarding the structure of a table (studied above)."
+  },
+  {
+    "question": "Which element designates column headings?",
+    "options": [
+      "Caption",
+      "Stub",
+      "Head-note",
+      "Source note"
+    ],
+    "answer": "Caption",
+    "reference": "Headings or subheadings used to designate columns are called captions."
+  },
+  {
+    "question": "To detect data entry mistakes, tabulation must be:",
+    "options": [
+      "Accurate and complete",
+      "Colorful and decorative",
+      "Graphical with charts",
+      "Narrative"
+    ],
+    "answer": "Accurate and complete",
+    "reference": "The entries in a table should be accurate and a table should be complete and self-explanatory."
+  },
+  {
+    "question": "Which objective of tabulation aims to conserve space?",
+    "options": [
+      "To present data in minimum space",
+      "To facilitate statistical analysis",
+      "To highlight chief characteristics",
+      "To facilitate reference"
+    ],
+    "answer": "To present data in minimum space",
+    "reference": "The Objectives of tabulation: To present data in a minimum space."
+  },
+  {
+    "question": "Which part of the table identifies units like ‘percentage’ or ‘number’?",
+    "options": [
+      "Head-note",
+      "Title",
+      "Foot-note",
+      "Stub"
+    ],
+    "answer": "Head-note",
+    "reference": "A head-note is often given below the title of a table to indicate the units of measurement of the data."
+  },
+  {
+    "question": "Which rule category ensures clarity through spacing and ruling?",
+    "options": [
+      "Graphical rules",
+      "General rules of tabulation",
+      "Classification rules",
+      "Structural rules of tabulation"
+    ],
+    "answer": "Graphical rules",
+    "reference": "Graphical rules deal with proper ruling and spacing to ensure clarity and readability of data."
+  },
+  {
+    "question": "Special-purpose tables are generally:",
+    "options": [
+      "Smaller than general-purpose tables",
+      "Larger than general-purpose tables",
+      "Equal in size to primary tables",
+      "Always complex tables"
+    ],
+    "answer": "Smaller than general-purpose tables",
+    "reference": "Such tables are usually of smaller size than the size of reference tables and are generally found to highlight relationship between various characteristics or to facilitate their comparisons."
+  },
+  {
+    "question": "To highlight main features of the data, tabulation should:",
+    "options": [
+      "Organize data into clear rows and columns",
+      "Include narrative explanations",
+      "Use only graphical charts",
+      "Omit footnotes"
+    ],
+    "answer": "Organize data into clear rows and columns",
+    "reference": "The Objectives of tabulation: To highlight chief characteristics of the data."
+  },
+  {
+    "question": "Which table element comes first at the top of the table?",
+    "options": [
+      "Table number",
+      "Title",
+      "Head-note",
+      "Source note"
+    ],
+    "answer": "Table number",
+    "reference": "Table Number: This number is helpful in the identification of a table. This is often indicated at the top of the table."
+  },
+  {
+    "question": "Which classification allows analysis while holding other factors constant?",
+    "options": [
+      "Cross-classification",
+      "Simple classification",
+      "Primary classification",
+      "Total classification"
+    ],
+    "answer": "Cross-classification",
+    "reference": "A cross-classification can also be used for analytical purpose, e.g., it is possible to make certain comparisons while keeping the effect of other factors as constant."
+  },
+  {
+    "question": "Which part of a table may list explanatory abbreviations?",
+    "options": [
+      "Foot-note",
+      "Head-note",
+      "Caption",
+      "Stub"
+    ],
+    "answer": "Foot-note",
+    "reference": "Abbreviations, if any, used in the table or some other explanatory notes are given just below the last horizontal line in the form of footnotes."
+  },
+  {
+    "question": "Mechanical tabulation methods primarily save:",
+    "options": [
+      "Labour and time",
+      "Paper and ink",
+      "Footnote usage",
+      "Table numbering"
+    ],
+    "answer": "Labour and time",
+    "reference": "Mechanical Method: This method is used when the data are very large. The use of machines save considerable amount of labour and time."
+  },
+  {
+    "question": "Which table type is used when detailed raw data must be preserved?",
+    "options": [
+      "Primary table",
+      "Derivative table",
+      "General-purpose table",
+      "Special-purpose table"
+    ],
+    "answer": "Primary table",
+    "reference": "Primary table is also known as original table and it contains data in the form in which it were originally collected."
+  },
+  {
+    "question": "Which objective of tabulation aims to detect missing entries?",
+    "options": [
+      "To detect errors and omissions in the data",
+      "To facilitate reference",
+      "To present data in minimum space",
+      "To facilitate statistical analysis"
+    ],
+    "answer": "To detect errors and omissions in the data",
+    "reference": "The Objectives of tabulation: To detect errors and omissions in the data."
+  },
+  {
+    "question": "A summary table is another name for:",
+    "options": [
+      "Special-purpose table",
+      "Primary table",
+      "General-purpose table",
+      "Simple table"
+    ],
+    "answer": "Special-purpose table",
+    "reference": "Special Purpose table: A special purpose table is also called a text table or a summary table or an analytical table."
+  },
+  {
+    "question": "Which element of a table must be self-explanatory without external context?",
+    "options": [
+      "Title and captions",
+      "Footnotes only",
+      "Source note only",
+      "Head-note only"
+    ],
+    "answer": "Title and captions",
+    "reference": "Title: Each table should have a title to indicate the scope, nature of contents of the table in an unambiguous and concise form. Captions designate columns clearly."
+  },
+  {
+    "question": "In a two-way table, data are classified by:",
+    "options": [
+      "Two characteristics",
+      "One characteristic",
+      "Three characteristics",
+      "Multiple characteristics"
+    ],
+    "answer": "Two characteristics",
+    "reference": "Complex Table: A complex table is used to present data according to two or three characteristics."
+  },
+  {
+    "question": "Which rule category specifies that entries must be accurate?",
+    "options": [
+      "General rules of tabulation",
+      "Graphical rules",
+      "Structural rules of tabulation",
+      "Classification rules"
+    ],
+    "answer": "General rules of tabulation",
+    "reference": "The entries in a table should be accurate and a table should be complete and self-explanatory."
+  },
+  {
+    "question": "Which table component immediately precedes the main body?",
+    "options": [
+      "Captions and stubs",
+      "Foot-note",
+      "Source note",
+      "Table number"
+    ],
+    "answer": "Captions and stubs",
+    "reference": "Captions designate columns and stubs designate rows; these appear immediately before the main body of the table."
+  },
+  {
+    "question": "To conserve space and improve readability, tables should be:",
+    "options": [
+      "Simple and compact",
+      "Decorated with lines",
+      "Filled with footnotes",
+      "Accompanied by graphs"
+    ],
+    "answer": "Simple and compact",
+    "reference": "The table should be simple and compact which is not overloaded with details."
+  },
+  {
+    "question": "Which table type would you use to compute percentage distributions?",
+    "options": [
+      "Derivative table",
+      "Primary table",
+      "General-purpose table",
+      "Simple table"
+    ],
+    "answer": "Derivative table",
+    "reference": "A table which presents figures like totals, averages, percentages, ratios, coefficients, etc., derived from original data."
+  }
+]
+

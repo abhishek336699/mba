@@ -1,0 +1,883 @@
+[
+    {
+      "question": "Diagrammatic presentation of data is used primarily to:",
+      "options": [
+        "Facilitate comparison of various situations at a glance",
+        "Record raw data from surveys",
+        "Calculate statistical measures",
+        "Edit and refine collected data"
+      ],
+      "answer": "Facilitate comparison of various situations at a glance",
+      "reference": "To understand various trends of the data at a glance and to facilitate the comparison of various situations, the data are presented in the form of diagrams and graphs."
+    },
+    {
+      "question": "Which of the following is an advantage of using diagrams?",
+      "options": [
+        "They simplify a huge mass of complex data into intelligible form",
+        "They eliminate the need for tabulation",
+        "They guarantee precise numerical values",
+        "They replace the need for classification"
+      ],
+      "answer": "They simplify a huge mass of complex data into intelligible form",
+      "reference": "Diagrams simplify data: Diagrams are used to represent a huge mass of complex data in simplified and intelligible form which is easy to understand."
+    },
+    {
+      "question": "One limitation of diagrams is that they:",
+      "options": [
+        "Provide only a vague idea of the problem, unsuitable for experts",
+        "Always give exact numerical values",
+        "Serve as an alternative to tabular presentation",
+        "Depict unlimited number of characteristics clearly"
+      ],
+      "answer": "Provide only a vague idea of the problem, unsuitable for experts",
+      "reference": "Diagrams give only a vague idea of the problem which may be useful for a common man but not for an expert who wishes to have an exact idea of the problem."
+    },
+    {
+      "question": "General rules for making effective diagrams include:",
+      "options": [
+        "Every diagram must have an appropriate title and footnote",
+        "Use as many colours as possible for attractiveness",
+        "Omit scales to simplify drawing",
+        "Avoid indicating data sources"
+      ],
+      "answer": "Every diagram must have an appropriate title and footnote",
+      "reference": "Appropriate title and footnote: Every diagram must have a suitable title written at its top. The details about the title, if necessary, should be provided below the diagram in the form of a footnote."
+    },
+    {
+      "question": "When choosing a suitable diagram, you should consider:",
+      "options": [
+        "The nature of the data and purpose of the diagram",
+        "The latest design trends",
+        "Only the preferences of the investigator",
+        "The time taken to draw it"
+      ],
+      "answer": "The nature of the data and purpose of the diagram",
+      "reference": "The choice of a suitable diagram depends upon the nature of the given data. It may be recalled that two or three-dimensional diagrams are more appropriate if there are large variations in the magnitudes of observations."
+    },
+    {
+      "question": "A simple bar diagram shows magnitude by:",
+      "options": [
+        "Length or height of bars drawn vertically or horizontally",
+        "Angles of sectors in a circle",
+        "Points joined by straight lines",
+        "Shaded regions on a map"
+      ],
+      "answer": "Length or height of bars drawn vertically or horizontally",
+      "reference": "Simple Bar Diagram: In case of a simple bar diagram, the vertical or horizontal bars, with height proportional to the value of the item, are constructed."
+    },
+    {
+      "question": "A sub-divided bar diagram is useful when you want to:",
+      "options": [
+        "Show comparative values of different components of a phenomenon",
+        "Depict frequency distribution as a smooth curve",
+        "Map geographical data",
+        "Display cumulative frequencies"
+      ],
+      "answer": "Show comparative values of different components of a phenomenon",
+      "reference": "Sub-divided Bar Diagram: ... the bar corresponding to each phenomenon is divided into various components... useful when it is desired to represent the comparative values of different components of a phenomenon."
+    },
+    {
+      "question": "In a percentage sub-divided bar diagram, each bar’s length is taken as:",
+      "options": [
+        "100 (representing 100%)",
+        "The absolute magnitude of the variable",
+        "The total number of observations",
+        "The class interval width"
+      ],
+      "answer": "100 (representing 100%)",
+      "reference": "Percentage Sub-Divided Bar Diagram: ... the length of each bar is taken as 100 and length of each component is denoted by its percentage value."
+    },
+    {
+      "question": "A deviation bar diagram is used to represent:",
+      "options": [
+        "Net quantities like profit and loss above and below an axis",
+        "Only positive magnitudes",
+        "Cumulative percentages",
+        "Angular sectors of a circle"
+      ],
+      "answer": "Net quantities like profit and loss above and below an axis",
+      "reference": "Deviation Bar Diagram: This diagram represents net quantities like profit and loss, positive and negative balance... Positive quantities are shown above X-axis and negative quantities are shown below it."
+    },
+    {
+      "question": "A duodirectional bar diagram shows two components by:",
+      "options": [
+        "Placing one component above and the other below the axis",
+        "Using different colours in a circle",
+        "Dividing bars into multiple parts",
+        "Joining points with lines"
+      ],
+      "answer": "Placing one component above and the other below the axis",
+      "reference": "Duo-Directional Bar Diagram: ... One of the components is shown above X-axis and the other below it. Both the components added together give total value."
+    },
+    {
+      "question": "What distinguishes a pyramid diagram in bar presentations?",
+      "options": [
+        "Bars are arranged adjacently one above the other to resemble a pyramid",
+        "Bars are three-dimensional",
+        "Bars are circular sectors",
+        "Bars are broken-scale"
+      ],
+      "answer": "Bars are arranged adjacently one above the other to resemble a pyramid",
+      "reference": "Pyramid Diagram: ... The bars are drawn adjacently one above the other so as to look like a pyramid..."
+    },
+    {
+      "question": "A broken-scale bar diagram is appropriate when:",
+      "options": [
+        "One or more figures are of unusually high magnitude compared to others",
+        "Data are perfectly uniform",
+        "You want to show percentages",
+        "You have only two observations"
+      ],
+      "answer": "One or more figures are of unusually high magnitude compared to others",
+      "reference": "Broken Scale Bar Diagram: When there are one or more figures of unusually high magnitude while the majority of the figures are of low magnitude, the diagrammatic representation is done by using a broken scale..."
+    },
+    {
+      "question": "A histogram plots class intervals on the X-axis and:",
+      "options": [
+        "Frequency density on the Y-axis",
+        "Cumulative frequencies",
+        "Angular measures",
+        "Geographical areas"
+      ],
+      "answer": "Frequency density on the Y-axis",
+      "reference": "Histogram: ... a rectangle is erected with its height proportional to the frequency density of the class."
+    },
+    {
+      "question": "When class intervals are equal in a histogram, bar height equals:",
+      "options": [
+        "The class frequency",
+        "The class width",
+        "Cumulative frequency",
+        "Relative frequency"
+      ],
+      "answer": "The class frequency",
+      "reference": "Construction of a Histogram when Class Intervals are equal: ... the height of each rectangle is taken to be equal to the frequency of the corresponding class."
+    },
+    {
+      "question": "A frequency polygon is drawn by joining:",
+      "options": [
+        "Mid-points of the tops of histogram rectangles",
+        "Bar tops of a bar diagram",
+        "Corners of a pie diagram",
+        "Points on a map diagram"
+      ],
+      "answer": "Mid-points of the tops of histogram rectangles",
+      "reference": "Frequency Polygon: ... drawn by joining the mid-points of the upper widths of adjacent rectangles, of the histogram of the data, with straight lines."
+    },
+    {
+      "question": "A frequency curve is:",
+      "options": [
+        "A smooth curve through the vertices of a frequency polygon",
+        "A bar diagram with curved bars",
+        "A pie diagram with smooth edges",
+        "A map-based diagram"
+      ],
+      "answer": "A smooth curve through the vertices of a frequency polygon",
+      "reference": "Frequency Curve: When the vertices of a frequency polygon are joined by a smooth curve, the resulting figure is known as a frequency curve."
+    },
+    {
+      "question": "An ogive is used to represent:",
+      "options": [
+        "Cumulative frequency distributions",
+        "Component bar magnitudes",
+        "Angular sectors",
+        "Geographical densities"
+      ],
+      "answer": "Cumulative frequency distributions",
+      "reference": "Cumulative Frequency Curve or Ogive: The curve obtained by representing a cumulative frequency distribution on a graph is known as cumulative frequency curve or ogive."
+    },
+    {
+      "question": "A pie diagram’s sector angles are proportional to:",
+      "options": [
+        "Magnitudes of items out of 360°",
+        "Class intervals",
+        "Frequency densities",
+        "Cumulative percentages"
+      ],
+      "answer": "Magnitudes of items out of 360°",
+      "reference": "Pie Diagram: Since there are 360° at the centre of a circle, these are divided in proportions to the magnitude of values of different items."
+    },
+    {
+      "question": "Pictograms represent data by:",
+      "options": [
+        "Using pictures whose counts reflect magnitudes",
+        "Broken scales on bars",
+        "Smooth curves",
+        "Cumulative frequencies"
+      ],
+      "answer": "Using pictures whose counts reflect magnitudes",
+      "reference": "Pictogram: When numerical figures are represented by pictures, we get pictogram."
+    },
+    {
+      "question": "Cartograms are diagrams that:",
+      "options": [
+        "Represent data on a geographical map",
+        "Use circles to show proportions",
+        "Show bar magnitudes with breaks",
+        "Plot frequency polygons"
+      ],
+      "answer": "Represent data on a geographical map",
+      "reference": "Cartograms: ... used to represent data relating to a particular country or to a geographical area."
+    },
+    {
+      "question": "Editing of data in a statistical investigation refers to:",
+      "options": [
+        "Checking and refining collected data for errors and inconsistencies",
+        "Tabulating raw data",
+        "Drawing diagrams",
+        "Selecting sampling units"
+      ],
+      "answer": "Checking and refining collected data for errors and inconsistencies",
+      "reference": "Editing refines the collected data by checking inconsistencies, inaccuracies, illegible writings and other types of deficiencies or errors present in the collected information."
+    },
+    {
+      "question": "Primary data differ from secondary data because primary data are:",
+      "options": [
+        "Collected for the first time with a specific objective",
+        "Always cheaper to obtain",
+        "Already published in reports",
+        "Less reliable"
+      ],
+      "answer": "Collected for the first time with a specific objective",
+      "reference": "Primary data are collected, for the first time, keeping in view the objective of investigation."
+    },
+    {
+      "question": "An indirect oral interview is best used when:",
+      "options": [
+        "The area is large or respondents are reluctant to provide information",
+        "Precise numerical data are required",
+        "Data need to be collected confidentially",
+        "Only pictorial data are needed"
+      ],
+      "answer": "The area is large or respondents are reluctant to provide information",
+      "reference": "Indirect Oral Interview: ... used when the area of investigation is very large, or the respondents are reluctant to part with the information."
+    },
+    {
+      "question": "Information through local agencies or correspondents is often adopted by:",
+      "options": [
+        "Newspapers",
+        "Survey firms only",
+        "Pie diagram constructors",
+        "Frequency polygon analysts"
+      ],
+      "answer": "Newspapers",
+      "reference": "Information Through Local Agencies or Correspondents: ... This method is often adopted by newspapers."
+    },
+    {
+      "question": "A questionnaire is filled by:",
+      "options": [
+        "The respondents themselves",
+        "The investigator",
+        "Local correspondents",
+        "Cartographers"
+      ],
+      "answer": "The respondents themselves",
+      "reference": "Questionnaire: ... is filled by the respondents. A questionnaire consists of a list of questions pertaining to the investigation."
+    },
+    {
+      "question": "A schedule differs from a questionnaire in that it is:",
+      "options": [
+        "Filled by the investigator through personal contact",
+        "Always mailed to respondents",
+        "Graphical in nature",
+        "Used only for cartograms"
+      ],
+      "answer": "Filled by the investigator through personal contact",
+      "reference": "Schedules filled by investigators: ... the work of filling of a questionnaire, termed as schedule here, can be done by the investigator through personal contact with the respondent."
+    },
+    {
+      "question": "One merit of direct personal observation is that:",
+      "options": [
+        "Collected data are more accurate and reliable",
+        "It is very inexpensive",
+        "Investigators need no training",
+        "No bias can occur"
+      ],
+      "answer": "Collected data are more accurate and reliable",
+      "reference": "Merits of Direct Personal Observation: (b) Collected data are more accurate and reliable."
+    },
+    {
+      "question": "A major demerit of the questionnaire method is:",
+      "options": [
+        "Problem of non-response due to unwilling respondents",
+        "Excessive cost compared to personal interviews",
+        "Inability to collect from large areas",
+        "Lack of any original data"
+      ],
+      "answer": "Problem of non-response due to unwilling respondents",
+      "reference": "Demerits of Questionnaires: (a) Very often, there is problem of ‘non-response’ as the respondents are not willing to provide answers to certain questions."
+    },
+    {
+      "question": "Open questions in a questionnaire allow respondents to:",
+      "options": [
+        "Answer in their own words",
+        "Choose only yes/no",
+        "Select from printed options",
+        "Compute statistical measures"
+      ],
+      "answer": "Answer in their own words",
+      "reference": "Open questions: These types of questions are to be answered by the respondent in his own words."
+    },
+    {
+      "question": "When drafting a questionnaire, questions should be:",
+      "options": [
+        "Simple, unambiguous, and precise",
+        "Long and detailed",
+        "Mathematical in computation",
+        "Private and intrusive"
+      ],
+      "answer": "Simple, unambiguous, and precise",
+      "reference": "Drafting a Questionnaire: 1. The questions should be simple, unambiguous, and precise."
+    },
+    {
+      "question": "Multiple choice questions in a questionnaire:",
+      "options": [
+        "List possible answers and have respondents tick one",
+        "Require respondents to write essays",
+        "Use only yes/no answers",
+        "Are filled by the investigator"
+      ],
+      "answer": "List possible answers and have respondents tick one",
+      "reference": "(b) Multiple choice questions: In such questions, the possible answers are printed in the questionnaire and the respondent is supposed to tick any one of them."
+    },
+    {
+      "question": "Secondary data are:",
+      "options": [
+        "Collected by others in the past for a different purpose",
+        "Always more reliable than primary data",
+        "Never published",
+        "Collected through direct observation"
+      ],
+      "answer": "Collected by others in the past for a different purpose",
+      "reference": "Secondary data are available from certain publications or reports. Such data are already collected by some other agency in the past for some other purpose."
+    },
+    {
+      "question": "Before using secondary data, one must verify if they are:",
+      "options": [
+        "Suitable, adequate, and reliable for the current investigation",
+        "Readily available in magazines",
+        "Presented as diagrams",
+        "Collected through questionnaires"
+      ],
+      "answer": "Suitable, adequate, and reliable for the current investigation",
+      "reference": "Before using any secondary data, the user must satisfy himself regarding the following points: 1. Are data suitable for the current investigation? 2. Are data adequate for the current investigation? 3. Are data reliable?"
+    },
+    {
+      "question": "An index in a diagrammatic presentation explains:",
+      "options": [
+        "Shades or colours distinguishing characteristics",
+        "Data collection method",
+        "Statistical measures",
+        "Footnotes"
+      ],
+      "answer": "Shades or colours distinguishing characteristics",
+      "reference": "Index: When a diagram depicts various characteristics distinguished by various shades and colours, an index explaining these should be given for clear identification and understanding."
+    },
+    {
+      "question": "A suitable diagram for comparing components when there are many (>3) is:",
+      "options": [
+        "Circular (pie) diagram",
+        "Simple bar diagram",
+        "Frequency polygon",
+        "Cartogram"
+      ],
+      "answer": "Circular (pie) diagram",
+      "reference": "When the number of components become very large, i.e., more than three or four, circular diagrams are preferred because bar diagrams look more crowded."
+    },
+    {
+      "question": "Which diagrammatic rule emphasizes accuracy over attractiveness?",
+      "options": [
+        "Diagrams should be drawn accurately by using proper scales",
+        "Diagrams should use as many colours as possible",
+        "Titles may be omitted if obvious",
+        "Footnotes are optional"
+      ],
+      "answer": "Diagrams should be drawn accurately by using proper scales",
+      "reference": "Accuracy: Diagrams should be drawn accurately by using proper scales of measurements. Accuracy should not be compromised to attractiveness."
+    },
+    {
+      "question": "Which bar diagram uses a broken scale to handle wide data ranges?",
+      "options": [
+        "Broken-scale bar diagram",
+        "Sliding bar diagram",
+        "Multiple bar diagram",
+        "Deviation bar diagram"
+      ],
+      "answer": "Broken-scale bar diagram",
+      "reference": "Broken Scale Bar Diagram: ... the diagrammatic representation is done by using a broken scale..."
+    },
+    {
+      "question": "A sliding bar diagram differs from a duodirectional bar diagram by showing:",
+      "options": [
+        "Percentages using equal-length bars",
+        "Absolute magnitudes above and below an axis",
+        "Circular sectors",
+        "Frequency polygons"
+      ],
+      "answer": "Percentages using equal-length bars",
+      "reference": "Sliding Bar Diagram: ... the percentage is shown using sliding bar diagrams. The length of each sliding bar is same, which represents 100%."
+    },
+    {
+      "question": "When drawing a frequency curve, one must:",
+      "options": [
+        "Smooth the curve to avoid sharp turns",
+        "Use only straight-line segments",
+        "Omit class intervals",
+        "Plot cumulative frequencies only"
+      ],
+      "answer": "Smooth the curve to avoid sharp turns",
+      "reference": "Construction of a frequency curve should be done very carefully by avoiding, as far as possible, the sharp and sudden turns. Smoothing should be done so that the area under the curve is approximately equal to the area under the histogram."
+    },
+    {
+      "question": "Which diagram is most effective for showing components of a whole at one point in time?",
+      "options": [
+        "Pie diagram",
+        "Frequency polygon",
+        "Histogram",
+        "Cartogram"
+      ],
+      "answer": "Pie diagram",
+      "reference": "In order to show proportions of various components, a circle can also be partitioned into sections... The diagram thus obtained is known as … Pie Diagram."
+    },
+    {
+      "question": "Which data collection method is most flexible, allowing cross-questions to verify responses?",
+      "options": [
+        "Schedules filled by investigators",
+        "Questionnaires filled by respondents",
+        "Cartograms",
+        "Pie diagrams"
+      ],
+      "answer": "Schedules filled by investigators",
+      "reference": "Schedules filled by investigators: ... By asking cross questions it is possible to test the truth of the supplied information."
+    },
+    {
+      "question": "Non-response is a common demerit of:",
+      "options": [
+        "Questionnaires sent to respondents",
+        "Cartographic methods",
+        "Histogram construction",
+        "Frequency polygon drawing"
+      ],
+      "answer": "Questionnaires sent to respondents",
+      "reference": "Demerits of Questionnaires: (a) Very often, there is problem of ‘non-response’ as the respondents are not willing to provide answers to certain questions."
+    },
+    {
+        "question": "One merit of direct personal observation is that:",
+        "options": [
+          "Collected data are more accurate and reliable",
+          "It is less time-consuming than questionnaires",
+          "It requires no training for investigators",
+          "Respondents remain anonymous"
+        ],
+        "answer": "Collected data are more accurate and reliable",
+        "reference": "Merits of Direct Personal Observation: Collected data are more accurate and reliable. Investigator can verify facts by personal contact."
+      },
+      {
+        "question": "A demerit of direct personal observation is that:",
+        "options": [
+          "It is very expensive and time-consuming",
+          "Data accuracy is low",
+          "Respondents cannot be questioned further",
+          "No investigator bias can occur"
+        ],
+        "answer": "It is very expensive and time-consuming",
+        "reference": "Demerits of Direct Personal Observation: It is expensive, laborious and time-consuming. Investigator requires training."
+      },
+      {
+        "question": "A merit of indirect oral interview is that it:",
+        "options": [
+          "Can cover large areas quickly",
+          "Guarantees precise written records",
+          "Eliminates need for follow-up",
+          "Ensures high response rates"
+        ],
+        "answer": "Can cover large areas quickly",
+        "reference": "Merits of Indirect Oral Interview: It is economical and saves time. Large areas can be covered quickly through intermediaries."
+      },
+      {
+        "question": "A demerit of indirect oral interview is that:",
+        "options": [
+          "Information may be inaccurate or biased",
+          "It is more expensive than personal interviews",
+          "It requires complex machinery",
+          "It cannot reach remote areas"
+        ],
+        "answer": "Information may be inaccurate or biased",
+        "reference": "Demerits of Indirect Oral Interview: Information may be inaccurate or biased due to intermediaries’ interpretations."
+      },
+      {
+        "question": "Using local agencies for data collection is often chosen because it:",
+        "options": [
+          "Reduces travel time and cost",
+          "Ensures data are primary",
+          "Allows detailed cross-questioning",
+          "Requires no coordination"
+        ],
+        "answer": "Reduces travel time and cost",
+        "reference": "Information Through Local Agencies: This method saves time and expense by using local contacts to gather data."
+      },
+      {
+        "question": "A drawback of using local agencies is that:",
+        "options": [
+          "Quality and reliability of information may suffer",
+          "It always costs more than direct surveys",
+          "Investigators have no oversight",
+          "No large samples can be covered"
+        ],
+        "answer": "Quality and reliability of information may suffer",
+        "reference": "Demerits of Local Agencies: Data quality and reliability may suffer due to lack of direct control over collection."
+      },
+      {
+        "question": "One advantage of using schedules over questionnaires is that schedules:",
+        "options": [
+          "Allow verification through cross-questions",
+          "Eliminate investigator bias entirely",
+          "Are always cheaper to administer",
+          "Require no personal contact"
+        ],
+        "answer": "Allow verification through cross-questions",
+        "reference": "Schedules filled by Investigators: By asking cross-questions it is possible to test the truth of the supplied information."
+      },
+      {
+        "question": "A demerit of schedules is that they:",
+        "options": [
+          "Are more time-consuming and costly than questionnaires",
+          "Prevent follow-up questions",
+          "Cannot be used for sensitive topics",
+          "Require no training"
+        ],
+        "answer": "Are more time-consuming and costly than questionnaires",
+        "reference": "Demerits of Schedules: They are expensive and time-consuming because investigators must conduct personal interviews."
+      },
+      {
+        "question": "One benefit of editing data is that it:",
+        "options": [
+          "Detects and corrects errors before analysis",
+          "Automatically tabulates data",
+          "Draws diagrams directly",
+          "Replaces the need for data collection"
+        ],
+        "answer": "Detects and corrects errors before analysis",
+        "reference": "Editing: It refines collected data by checking inconsistencies, inaccuracies, illegible writings and other deficiencies."
+      },
+      {
+        "question": "In editing, illegible entries are handled by:",
+        "options": [
+          "Clarifying with the source or respondent",
+          "Omitting the entire record",
+          "Filling with zeros",
+          "Using average values"
+        ],
+        "answer": "Clarifying with the source or respondent",
+        "reference": "Editing: Illegible or unclear entries are clarified by referring back to respondents or sources."
+      },
+      {
+        "question": "Primary data are distinguished by being:",
+        "options": [
+          "Collected anew for a specific investigation",
+          "Always published in reports",
+          "Less costly than secondary data",
+          "Usually aggregated"
+        ],
+        "answer": "Collected anew for a specific investigation",
+        "reference": "Primary data are collected, for the first time, keeping in view the objective of investigation."
+      },
+      {
+        "question": "Secondary data require careful evaluation for:",
+        "options": [
+          "Suitability, adequacy, and reliability",
+          "Graphical representation",
+          "Tabulation complexity",
+          "Diagrams"
+        ],
+        "answer": "Suitability, adequacy, and reliability",
+        "reference": "Before using any secondary data, verify whether they are suitable, adequate and reliable for the current investigation."
+      },
+      {
+        "question": "One rule for effective diagrams is that scales used should be:",
+        "options": [
+          "Clearly marked and uniform",
+          "Broken at equal intervals",
+          "Decorative",
+          "Omitted for simplicity"
+        ],
+        "answer": "Clearly marked and uniform",
+        "reference": "General Rules: Scales must be properly marked and uniform to ensure accurate representation."
+      },
+      {
+        "question": "In a multiple bar diagram, bars representing different series are:",
+        "options": [
+          "Placed side by side for each category",
+          "Stacked vertically",
+          "Broken at the base",
+          "Arranged in a circle"
+        ],
+        "answer": "Placed side by side for each category",
+        "reference": "Multiple Bar Diagram: Bars representing different series are placed side by side for each category."
+      },
+      {
+        "question": "A component bar diagram differs from a multiple bar diagram by:",
+        "options": [
+          "Dividing a single bar into sub-components",
+          "Using separate bars side by side",
+          "Representing cumulative totals",
+          "Showing only percentages"
+        ],
+        "answer": "Dividing a single bar into sub-components",
+        "reference": "Component Bar Diagram: A single bar is divided into parts according to components of the total."
+      },
+      {
+        "question": "Which diagram is best to show part-to-whole relationships at a single point?",
+        "options": [
+          "Pie diagram",
+          "Histogram",
+          "Frequency polygon",
+          "Bar diagram"
+        ],
+        "answer": "Pie diagram",
+        "reference": "Pie Diagram: Used to show proportions of components of a whole at one point in time."
+      },
+      {
+        "question": "An index in a diagrammatic presentation helps to:",
+        "options": [
+          "Explain shades or colours used",
+          "Calculate frequencies",
+          "Define class intervals",
+          "Tabulate data"
+        ],
+        "answer": "Explain shades or colours used",
+        "reference": "Index: When diagrams use various shades or colours, an index explains their meaning for clarity."
+      },
+      {
+        "question": "Which bar diagram uses the same length for all bars, showing only percentages?",
+        "options": [
+          "Sliding bar diagram",
+          "Sub-divided bar diagram",
+          "Broken-scale bar diagram",
+          "Deviation bar diagram"
+        ],
+        "answer": "Sliding bar diagram",
+        "reference": "Sliding Bar Diagram: All bars have equal length representing 100%, and segments show percentages of components."
+      },
+      {
+        "question": "A cumulative frequency curve (ogive) always:",
+        "options": [
+          "Begins and ends on the horizontal axis",
+          "Forms a closed shape",
+          "Is drawn with bars",
+          "Uses multiple colours"
+        ],
+        "answer": "Begins and ends on the horizontal axis",
+        "reference": "Ogive: The cumulative frequency curve begins at the lower limit of the first class and ends at the upper limit of the last class on the X-axis."
+      },
+      {
+        "question": "When constructing a histogram for unequal class intervals, bar height is:",
+        "options": [
+          "Proportional to frequency density",
+          "Equal to class frequency",
+          "Arbitrary",
+          "Based on cumulative frequency"
+        ],
+        "answer": "Proportional to frequency density",
+        "reference": "Histogram with unequal intervals: Height of each rectangle is proportional to its frequency density."
+      },
+      {
+        "question": "Which diagram type can simultaneously show positive and negative values?",
+        "options": [
+          "Deviation bar diagram",
+          "Pie diagram",
+          "Frequency polygon",
+          "Simple bar diagram"
+        ],
+        "answer": "Deviation bar diagram",
+        "reference": "Deviation Bar Diagram: Shows positive quantities above the axis and negative quantities below it."
+      },
+      {
+        "question": "In an indirect oral interview, questions are asked:",
+        "options": [
+          "Through a third party or intermediary",
+          "Directly by the investigator",
+          "In written form only",
+          "Without any contact"
+        ],
+        "answer": "Through a third party or intermediary",
+        "reference": "Indirect Oral Interview: Investigator uses intermediaries to ask questions when direct contact is impractical."
+      },
+      {
+        "question": "What type of questions in a questionnaire restrict respondents to given choices?",
+        "options": [
+          "Closed questions",
+          "Open questions",
+          "Essay questions",
+          "Undefined questions"
+        ],
+        "answer": "Closed questions",
+        "reference": "Closed questions: Respondent chooses one answer from a list of printed alternatives."
+      },
+      {
+        "question": "Which data collection method is most cost-effective for large areas?",
+        "options": [
+          "Information through local agencies",
+          "Direct personal observation",
+          "Laboratory experiments",
+          "Controlled trials"
+        ],
+        "answer": "Information through local agencies",
+        "reference": "Local Agencies Method: Often adopted when coverage of large areas at low cost is required."
+      },
+      {
+        "question": "One key advantage of questionnaires is that they:",
+        "options": [
+          "Can cover many respondents at a low cost",
+          "Always ensure high response rates",
+          "Require no design effort",
+          "Provide in-depth qualitative data"
+        ],
+        "answer": "Can cover many respondents at a low cost",
+        "reference": "Merits of Questionnaires: They are cheap and can be sent to many respondents simultaneously."
+      },
+      {
+        "question": "When drafting questions, ambiguity should be avoided because it:",
+        "options": [
+          "Leads to inconsistent or useless answers",
+          "Reduces questionnaire length",
+          "Increases response rates",
+          "Saves analysis time"
+        ],
+        "answer": "Leads to inconsistent or useless answers",
+        "reference": "Drafting a Questionnaire: Avoid ambiguity so respondents understand exactly what is asked."
+      },
+      {
+        "question": "A cartogram is distinct because it:",
+        "options": [
+          "Superimposes data on a geographical map",
+          "Uses bar heights only",
+          "Plots frequency polygons",
+          "Displays cumulative curves"
+        ],
+        "answer": "Superimposes data on a geographical map",
+        "reference": "Cartograms: Diagrams that represent statistical data by maps of geographical areas."
+      },
+      {
+        "question": "Which method of data collection ensures data anonymity but may risk low response rates?",
+        "options": [
+          "Questionnaire",
+          "Personal interview",
+          "Direct observation",
+          "Pictogram"
+        ],
+        "answer": "Questionnaire",
+        "reference": "Merits of Questionnaires: Anonymity can encourage frank responses, but non-response can be high."
+      },
+      {
+        "question": "To present trends over time smoothly, one uses a:",
+        "options": [
+          "Frequency curve",
+          "Bar diagram",
+          "Pie chart",
+          "Pictogram"
+        ],
+        "answer": "Frequency curve",
+        "reference": "Frequency Curve: A smooth curve drawn through the frequency polygon vertices to show data trends."
+      },
+      {
+        "question": "A histogram differs from a bar diagram by:",
+        "options": [
+          "Showing continuous data with adjacent bars",
+          "Using circles for data",
+          "Having gaps between bars",
+          "Representing only percentages"
+        ],
+        "answer": "Showing continuous data with adjacent bars",
+        "reference": "Histogram: Rectangles are drawn adjacent to each other to represent continuous class intervals."
+      },
+      {
+        "question": "Which diagram is preferred when bar diagrams become too crowded?",
+        "options": [
+          "Pie diagram",
+          "Frequency polygon",
+          "Histogram",
+          "Pictogram"
+        ],
+        "answer": "Pie diagram",
+        "reference": "Pie Diagram: Preferred when there are many categories, as bar diagrams become crowded."
+      },
+      {
+        "question": "One objective of editing is to:",
+        "options": [
+          "Ensure completeness and consistency of data",
+          "Automatically tabulate data",
+          "Produce graphical outputs",
+          "Replace missing data with zeros"
+        ],
+        "answer": "Ensure completeness and consistency of data",
+        "reference": "Editing: Ensures completeness, consistency and removal of errors before analysis."
+      },
+      {
+        "question": "Which data collection tool allows detailed probing of responses?",
+        "options": [
+          "Schedule",
+          "Questionnaire",
+          "Pictogram",
+          "Histogram"
+        ],
+        "answer": "Schedule",
+        "reference": "Schedules: Investigator-administered tool that allows probing and clarification through personal contact."
+      },
+      {
+        "question": "Secondary data are often used because they:",
+        "options": [
+          "Save time and resources",
+          "Are always the most accurate",
+          "Require no verification",
+          "Are collected to fit the current objective"
+        ],
+        "answer": "Save time and resources",
+        "reference": "Merits of Secondary Data: They are readily available and save time and expense in collection."
+      },
+      {
+        "question": "A broken-scale bar diagram uses:",
+        "options": [
+          "A discontinuity in the scale to compress large values",
+          "Equal-length bars for percentages",
+          "Adjacent bars for continuous data",
+          "Circular sectors"
+        ],
+        "answer": "A discontinuity in the scale to compress large values",
+        "reference": "Broken Scale Bar Diagram: Uses a break in the scale when some values are disproportionately large."
+      },
+      {
+        "question": "Which open-ended question format allows respondents to elaborate?",
+        "options": [
+          "Open questions",
+          "Closed questions",
+          "Multiple choice questions",
+          "Dichotomous questions"
+        ],
+        "answer": "Open questions",
+        "reference": "Open Questions: Allow respondents to answer in their own words, providing detailed information."
+      },
+      {
+        "question": "Frequency polygons and histograms are related because both:",
+        "options": [
+          "Represent frequency distributions of quantitative data",
+          "Use circular sectors",
+          "Require an index",
+          "Are types of pie charts"
+        ],
+        "answer": "Represent frequency distributions of quantitative data",
+        "reference": "Frequency Polygon & Histogram: Both depict frequency distributions, one with lines through mid-points and the other with adjacent bars."
+      },
+      {
+        "question": "One guideline for questionnaire design is to ensure questions are:",
+        "options": [
+          "Relevant to the investigation’s objectives",
+          "Decorative and colorful",
+          "Placed in random order",
+          "Highly technical"
+        ],
+        "answer": "Relevant to the investigation’s objectives",
+        "reference": "Drafting a Questionnaire: Questions should be relevant to the investigation’s objectives to elicit useful data."
+      }
+  ]
+  
