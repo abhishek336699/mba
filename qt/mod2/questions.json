@@ -1,0 +1,1025 @@
+[
+    {
+      "question": "Why is classification necessary for collected data?",
+      "options": [
+        "To complicate data analysis",
+        "To organize data for easier interpretation",
+        "To avoid numerical representation",
+        "To limit data comparison"
+      ],
+      "answer": "To organize data for easier interpretation",
+      "reference": "The collected data are a complex and unorganised mass of figures which is very difficult to analyse and interpret. Therefore, it becomes necessary to organise this so that it becomes easier to grasp its broad features."
+    },
+    {
+      "question": "What is a primary objective of data classification?",
+      "options": [
+        "To increase data complexity",
+        "To present data in a condensed form",
+        "To avoid data tabulation",
+        "To focus on qualitative data only"
+      ],
+      "answer": "To present data in a condensed form",
+      "reference": "To present a mass of data in a condensed form."
+    },
+    {
+      "question": "How does classification highlight data characteristics?",
+      "options": [
+        "By avoiding similarities",
+        "By showing points of similarity and dissimilarity",
+        "By limiting data relationships",
+        "By focusing on unrelated data"
+      ],
+      "answer": "By showing points of similarity and dissimilarity",
+      "reference": "To highlight the points of similarity and dissimilarity."
+    },
+    {
+      "question": "What does classification signify in terms of data diversity?",
+      "options": [
+        "Unity in diversity",
+        "Separation of data",
+        "Complexity in uniformity",
+        "Qualitative focus"
+      ],
+      "answer": "Unity in diversity",
+      "reference": "Classification of data signifies unity in diversity."
+    },
+    {
+      "question": "What is a key characteristic of data classification?",
+      "options": [
+        "Arranging data into heterogeneous groups",
+        "Based on similarity of characteristics",
+        "Avoiding numerical data",
+        "Limiting data comparison"
+      ],
+      "answer": "Based on similarity of characteristics",
+      "reference": "The basis of classification is the similarity of characteristics or features inherent in the collected data."
+    },
+    {
+      "question": "What ensures a classification is unambiguous?",
+      "options": [
+        "Allowing confusion in class assignment",
+        "Clear and precise class definitions",
+        "Overlapping class intervals",
+        "Haphazard data arrangement"
+      ],
+      "answer": "Clear and precise class definitions",
+      "reference": "Unambiguous: The classification should not lead to any ambiguity or confusion."
+    },
+    {
+      "question": "What makes a classification exhaustive?",
+      "options": [
+        "Some items cannot be classified",
+        "Every item can be allotted a class",
+        "Classes are overlapping",
+        "Classes are limited in number"
+      ],
+      "answer": "Every item can be allotted a class",
+      "reference": "Exhaustive: A classification is said to be exhaustive if there is no item that cannot be allotted a class."
+    },
+    {
+      "question": "How are mutually exclusive classes defined?",
+      "options": [
+        "Each item can belong to multiple classes",
+        "Each item belongs to only one class",
+        "Classes are qualitative only",
+        "Classes are non-homogeneous"
+      ],
+      "answer": "Each item belongs to only one class",
+      "reference": "Mutually Exclusive: When a classification is mutually exclusive, each item of the data can be placed only in one of the classes."
+    },
+    {
+      "question": "What is a feature of a flexible classification?",
+      "options": [
+        "It remains rigid across analyses",
+        "It adapts to changed conditions",
+        "It avoids data comparison",
+        "It limits class numbers"
+      ],
+      "answer": "It adapts to changed conditions",
+      "reference": "Flexibility: A good classification should be capable of being adjusted according to the changed situations and conditions."
+    },
+    {
+      "question": "Why is stability important in classification?",
+      "options": [
+        "To allow frequent changes in principles",
+        "To ensure comparable results over time",
+        "To complicate data analysis",
+        "To focus on qualitative data"
+      ],
+      "answer": "To ensure comparable results over time",
+      "reference": "Stability: The principle of classification, once decided, should remain same throughout the analysis, otherwise it will not be possible to get meaningful results."
+    },
+    {
+      "question": "What ensures suitability in classification?",
+      "options": [
+        "Ignoring investigation objectives",
+        "Aligning with investigation objectives",
+        "Using unrelated characteristics",
+        "Avoiding numerical data"
+      ],
+      "answer": "Aligning with investigation objectives",
+      "reference": "Suitability: The classification should be suitable to the objective(s) of investigation."
+    },
+    {
+      "question": "What does a revealing classification achieve?",
+      "options": [
+        "Hides essential data features",
+        "Brings out essential data features",
+        "Complicates data patterns",
+        "Limits data comparison"
+      ],
+      "answer": "Brings out essential data features",
+      "reference": "Revealing: A classification is said to be revealing if it brings out essential features of the collected data."
+    },
+    {
+      "question": "What is a characteristic of homogeneous classification?",
+      "options": [
+        "Placing dissimilar items in a class",
+        "Placing similar items in a class",
+        "Avoiding class intervals",
+        "Focusing on qualitative data only"
+      ],
+      "answer": "Placing similar items in a class",
+      "reference": "Homogeneity: A classification is said to be homogeneous if similar items are placed in a class."
+    },
+    {
+      "question": "What is geographical classification based on?",
+      "options": [
+        "Time of occurrence",
+        "Geographical location or region",
+        "Non-measurable attributes",
+        "Continuous variables"
+      ],
+      "answer": "Geographical location or region",
+      "reference": "Geographical (or spatial) classification: When the data are classified according to geographical location or region."
+    },
+    {
+      "question": "What defines chronological classification?",
+      "options": [
+        "Classification by location",
+        "Classification by time of occurrence",
+        "Classification by attributes",
+        "Classification by variables"
+      ],
+      "answer": "Classification by time of occurrence",
+      "reference": "Chronological classification: When the data are classified on the basis of its time of occurrence."
+    },
+    {
+      "question": "What is an example of qualitative classification?",
+      "options": [
+        "Classification by height",
+        "Classification by marital status",
+        "Classification by income",
+        "Classification by number of children"
+      ],
+      "answer": "Classification by marital status",
+      "reference": "The examples of non-measurable characteristics are sex of a person, marital status, colour, honesty, intelligence, etc."
+    },
+    {
+      "question": "What is a dichotomous classification?",
+      "options": [
+        "Classification into multiple categories",
+        "Classification into two categories",
+        "Classification by continuous variables",
+        "Classification by geographical regions"
+      ],
+      "answer": "Classification into two categories",
+      "reference": "If the data are classified only into two categories according to the presence or absence of an attribute, the classification is termed as dichotomous or twofold classification."
+    },
+    {
+      "question": "What is a manifold classification?",
+      "options": [
+        "Classification into two categories",
+        "Classification into more than two categories",
+        "Classification by discrete variables",
+        "Classification by time"
+      ],
+      "answer": "Classification into more than two categories",
+      "reference": "If the data are classified into more than two categories according to an attribute, it is called a manifold classification."
+    },
+    {
+      "question": "What is a quantitative classification based on?",
+      "options": [
+        "Non-measurable attributes",
+        "Measurable variables",
+        "Geographical regions",
+        "Time of occurrence"
+      ],
+      "answer": "Measurable variables",
+      "reference": "In case of quantitative data, the characteristic is measurable in terms of numbers and is termed as variable."
+    },
+    {
+      "question": "What is an example of a discrete variable?",
+      "options": [
+        "Height of a person",
+        "Number of children in a family",
+        "Monthly income",
+        "Time of an event"
+      ],
+      "answer": "Number of children in a family",
+      "reference": "A discrete variable can assume only some specific values in a given interval. For example, the number of children in a family."
+    },
+    {
+      "question": "What characterizes an ungrouped discrete frequency distribution?",
+      "options": [
+        "It groups observations into classes",
+        "It shows individual values with frequencies",
+        "It uses continuous variables",
+        "It loses original observations"
+      ],
+      "answer": "It shows individual values with frequencies",
+      "reference": "In an ungrouped frequency distribution, various values of the variable are shown along with their corresponding frequencies."
+    },
+    {
+      "question": "What is the purpose of grouping in a discrete frequency distribution?",
+      "options": [
+        "To lose original observations",
+        "To reveal patterns in data",
+        "To avoid frequency counts",
+        "To complicate data analysis"
+      ],
+      "answer": "To reveal patterns in data",
+      "reference": "If this distribution fails to reveal any pattern, grouping of various observations become necessary."
+    },
+    {
+      "question": "What method is used to count frequencies in a discrete distribution?",
+      "options": [
+        "Class intervals",
+        "Tally marks",
+        "Cumulative frequencies",
+        "Mid-value calculations"
+      ],
+      "answer": "Tally marks",
+      "reference": "The method of tally marks is used to count the number of observations or the frequency of each value of the variable."
+    },
+    {
+      "question": "What happens to data identity in a grouped frequency distribution?",
+      "options": [
+        "It is preserved",
+        "It is lost",
+        "It is qualitative",
+        "It is continuous"
+      ],
+      "answer": "It is lost",
+      "reference": "It should, however, be pointed out here that the identity of observations is lost after grouping."
+    },
+    {
+      "question": "What type of variable requires a grouped frequency distribution?",
+      "options": [
+        "Discrete variable",
+        "Continuous variable",
+        "Qualitative variable",
+        "Geographical variable"
+      ],
+      "answer": "Continuous variable",
+      "reference": "Since a continuous variable can take any value in a given interval, therefore, the frequency distribution of a continuous variable is always a grouped frequency distribution."
+    },
+    {
+      "question": "What is a class interval in a frequency distribution?",
+      "options": [
+        "A single data point",
+        "A sub-interval of a continuous variable",
+        "A qualitative attribute",
+        "A cumulative frequency"
+      ],
+      "answer": "A sub-interval of a continuous variable",
+      "reference": "These sub-intervals are termed as class intervals."
+    },
+    {
+      "question": "What does Sturge’s formula determine?",
+      "options": [
+        "Class width",
+        "Number of class intervals",
+        "Mid-value of a class",
+        "Cumulative frequency"
+      ],
+      "answer": "Number of class intervals",
+      "reference": "The approximate number of classes can also be determined by Sturge’s formula: n = 1 + 3.322 × log10N."
+    },
+    {
+      "question": "What is the ideal number of class intervals in a frequency distribution?",
+      "options": [
+        "Less than 5",
+        "More than 20",
+        "Between 5 and 20",
+        "Exactly 10"
+      ],
+      "answer": "Between 5 and 20",
+      "reference": "In practice, the minimum number of classes should not be less than 5 or 6 and in any case there should not be more than 20 classes."
+    },
+    {
+      "question": "Why should class intervals ideally have equal width?",
+      "options": [
+        "To complicate analysis",
+        "To ensure regular patterns",
+        "To lose data identity",
+        "To avoid frequency counts"
+      ],
+      "answer": "To ensure regular patterns",
+      "reference": "As far as possible, all the class intervals should be of equal width."
+    },
+    {
+      "question": "What are class limits in a frequency distribution?",
+      "options": [
+        "The smallest and largest observations in a class",
+        "The mid-value of a class",
+        "The cumulative frequency",
+        "The frequency density"
+      ],
+      "answer": "The smallest and largest observations in a class",
+      "reference": "The class limits are the smallest and the largest observation in a class."
+    },
+    {
+      "question": "What is the exclusive method of designating class limits?",
+      "options": [
+        "Includes upper limit in the class",
+        "Excludes upper limit from the class",
+        "Includes both limits in the class",
+        "Excludes both limits from the class"
+      ],
+      "answer": "Excludes upper limit from the class",
+      "reference": "In this method the upper limit of a class is taken to be equal to the lower limit of the following class... observations with magnitude greater than or equal to lower limit but less than the upper limit."
+    },
+    {
+      "question": "How is the mid-value of a class calculated in the exclusive method?",
+      "options": [
+        "As the sum of class limits",
+        "As the arithmetic mean of class limits",
+        "As the difference between class limits",
+        "As the cumulative frequency"
+      ],
+      "answer": "As the arithmetic mean of class limits",
+      "reference": "In exclusive types of class intervals, the mid-value of a class is defined as the arithmetic mean of its lower and upper limits."
+    },
+    {
+      "question": "What is a relative frequency distribution?",
+      "options": [
+        "Shows cumulative frequencies",
+        "Shows frequencies as percentages",
+        "Shows class mid-values",
+        "Shows qualitative data"
+      ],
+      "answer": "Shows frequencies as percentages",
+      "reference": "If instead of frequencies of various classes their relative or percentage frequencies are written, we get a relative or percentage frequency distribution."
+    },
+    {
+      "question": "What is a cumulative frequency distribution?",
+      "options": [
+        "Shows individual class frequencies",
+        "Shows total frequencies up to a class boundary",
+        "Shows qualitative attributes",
+        "Shows class mid-values"
+      ],
+      "answer": "Shows total frequencies up to a class boundary",
+      "reference": "The total frequency of all classes less than the upper-class boundary of a given class is called the cumulative frequency of that class."
+    },
+    {
+      "question": "What is a less than cumulative frequency distribution?",
+      "options": [
+        "Cumulates frequencies from highest to lowest",
+        "Cumulates frequencies from lowest to highest",
+        "Shows percentage frequencies",
+        "Shows frequency density"
+      ],
+      "answer": "Cumulates frequencies from lowest to highest",
+      "reference": "Less than cumulative frequency distribution: It is obtained by adding successively the frequencies of all the previous classes including the class against which it is written."
+    },
+    {
+      "question": "What is frequency density in a class?",
+      "options": [
+        "The total frequency of a class",
+        "The number of observations per unit width",
+        "The mid-value of a class",
+        "The cumulative frequency"
+      ],
+      "answer": "The number of observations per unit width",
+      "reference": "Frequency density in a class is defined as the number of observations per unit of its width."
+    },
+    {
+      "question": "What is a bivariate frequency distribution?",
+      "options": [
+        "Classification by one characteristic",
+        "Classification by two characteristics",
+        "Classification by multiple variables",
+        "Classification by geographical regions"
+      ],
+      "answer": "Classification by two characteristics",
+      "reference": "A frequency distribution obtained by the simultaneous classification of data according to two characteristics, is known as a bivariate frequency distribution."
+    },
+    {
+      "question": "What is the tabular form of a bivariate frequency distribution called?",
+      "options": [
+        "Frequency table",
+        "Contingency table",
+        "Cumulative table",
+        "Class interval table"
+      ],
+      "answer": "Contingency table",
+      "reference": "The tabular representation of the bivariate frequency distribution is known as a contingency table."
+    },
+    {
+      "question": "What is a multivariate frequency distribution?",
+      "options": [
+        "Classification by one characteristic",
+        "Classification by two characteristics",
+        "Classification by more than two characteristics",
+        "Classification by qualitative attributes"
+      ],
+      "answer": "Classification by more than two characteristics",
+      "reference": "If the classification is done, simultaneously, according to more than two characteristics, the resulting frequency distribution is known as a multivariate frequency distribution."
+    },
+    {
+      "question": "What is an example of a bivariate classification?",
+      "options": [
+        "Classification by height alone",
+        "Classification by age of husband and wife",
+        "Classification by geographical region",
+        "Classification by time of occurrence"
+      ],
+      "answer": "Classification by age of husband and wife",
+      "reference": "An example of such a classification is given below, where 100 couples are classified according to the two characteristics, Age of Husband and Age of Wife."
+    },
+    {
+      "question": "What is a univariate frequency distribution?",
+      "options": [
+        "Classification by two characteristics",
+        "Classification by one characteristic",
+        "Classification by multiple characteristics",
+        "Classification by time"
+      ],
+      "answer": "Classification by one characteristic",
+      "reference": "In the frequency distributions, discussed so far, the data are classified according to only one characteristic. These distributions are known as univariate frequency distributions."
+    },
+    {
+      "question": "What is the main problem with imbalanced classification datasets?",
+      "options": [
+        "They are too simple for machine learning",
+        "They have unequal class distributions",
+        "They lack numerical data",
+        "They are always qualitative"
+      ],
+      "answer": "They have unequal class distributions",
+      "reference": "Imbalanced classification involves a dataset where the class distribution is not equal."
+    },
+    {
+      "question": "What does random oversampling do in imbalanced datasets?",
+      "options": [
+        "Deletes minority class examples",
+        "Duplicates minority class examples",
+        "Synthesizes majority class examples",
+        "Balances qualitative data"
+      ],
+      "answer": "Duplicates minority class examples",
+      "reference": "The simplest oversampling method involves randomly duplicating examples from the minority class in the training dataset, referred to as Random Oversampling."
+    },
+    {
+      "question": "What is the purpose of SMOTE in oversampling?",
+      "options": [
+        "To delete majority class examples",
+        "To synthesize new minority class examples",
+        "To reduce dataset size",
+        "To focus on qualitative data"
+      ],
+      "answer": "To synthesize new minority class examples",
+      "reference": "SMOTE works by selecting examples that are close in the feature space, drawing a line between the examples in the feature space and drawing a new sample as a point along that line."
+    },
+    {
+      "question": "What does random undersampling involve?",
+      "options": [
+        "Duplicating minority class examples",
+        "Deleting majority class examples",
+        "Synthesizing new examples",
+        "Classifying qualitative data"
+      ],
+      "answer": "Deleting majority class examples",
+      "reference": "The simplest undersampling method involves randomly deleting examples from the majority class in the training dataset, referred to as random undersampling."
+    },
+    {
+      "question": "What is the goal of data sampling in imbalanced classification?",
+      "options": [
+        "To complicate model training",
+        "To balance class distribution",
+        "To avoid numerical data",
+        "To limit model performance"
+      ],
+      "answer": "To balance class distribution",
+      "reference": "Data sampling provides a collection of techniques that transform a training dataset in order to balance or better balance the class distribution."
+    },
+    {
+      "question": "What is a characteristic of Borderline-SMOTE?",
+      "options": [
+        "It duplicates majority class examples",
+        "It generates synthetic samples for misclassified minority examples",
+        "It deletes minority class examples",
+        "It avoids synthetic sampling"
+      ],
+      "answer": "It generates synthetic samples for misclassified minority examples",
+      "reference": "Borderline-SMOTE involves selecting those instances of the minority class that are misclassified... and only generating synthetic samples that are 'difficult' to classify."
+    },
+    {
+        "question": "What is the role of classification in data analysis?",
+        "options": [
+          "To obscure data patterns",
+          "To facilitate comparison and analysis",
+          "To avoid quantitative data",
+          "To limit data interpretation"
+        ],
+        "answer": "To facilitate comparison and analysis",
+        "reference": "To facilitate comparison... To prepare data for tabulation and analysis."
+      },
+      {
+        "question": "How does classification relate variables in data?",
+        "options": [
+          "By ignoring variable effects",
+          "By bringing out relationships between variables",
+          "By avoiding numerical data",
+          "By limiting data classes"
+        ],
+        "answer": "By bringing out relationships between variables",
+        "reference": "To bring out the relationship between variables."
+      },
+      {
+        "question": "What type of classification can be actual or notional?",
+        "options": [
+          "Data classification",
+          "Qualitative classification",
+          "Quantitative classification",
+          "Geographical classification"
+        ],
+        "answer": "Data classification",
+        "reference": "Classification of data may be actual or notional."
+      },
+      {
+        "question": "What does classification achieve by eliminating variable effects?",
+        "options": [
+          "Complicates data analysis",
+          "Highlights the effect of one variable",
+          "Avoids data comparison",
+          "Focuses on qualitative data"
+        ],
+        "answer": "Highlights the effect of one variable",
+        "reference": "To highlight the effect of one variable by eliminating the effect of others."
+      },
+      {
+        "question": "What is a key purpose of organizing data through classification?",
+        "options": [
+          "To make data unorganized",
+          "To grasp broad data features",
+          "To avoid data tabulation",
+          "To complicate interpretation"
+        ],
+        "answer": "To grasp broad data features",
+        "reference": "Therefore, it becomes necessary to organise this so that it becomes easier to grasp its broad features."
+      },
+      {
+        "question": "What ensures a classification is homogeneous?",
+        "options": [
+          "Mixing dissimilar items",
+          "Grouping similar items",
+          "Overlapping classes",
+          "Limiting class numbers"
+        ],
+        "answer": "Grouping similar items",
+        "reference": "A classification is said to be homogeneous if similar items are placed in a class."
+      },
+      {
+        "question": "Why should classification avoid over-summarization?",
+        "options": [
+          "To complicate data patterns",
+          "To reveal data behavior patterns",
+          "To avoid numerical data",
+          "To limit class intervals"
+        ],
+        "answer": "To reveal data behavior patterns",
+        "reference": "Making few classes means over summarization while large number classes fail to reveal any pattern of behaviour of the variable."
+      },
+      {
+        "question": "What is required for a classification to be revealing?",
+        "options": [
+          "Hiding data features",
+          "Selecting a suitable number of classes",
+          "Using qualitative data only",
+          "Avoiding class intervals"
+        ],
+        "answer": "Selecting a suitable number of classes",
+        "reference": "This can be done by selecting a suitable number of classes."
+      },
+      {
+        "question": "What does a stable classification ensure?",
+        "options": [
+          "Frequent changes in principles",
+          "Comparable results across analyses",
+          "Complex data patterns",
+          "Qualitative focus"
+        ],
+        "answer": "Comparable results across analyses",
+        "reference": "In the absence of stability, the results of the same type of investigation at different time periods may not be comparable."
+      },
+      {
+        "question": "What makes a classification unambiguous?",
+        "options": [
+          "Allowing overlapping classes",
+          "Avoiding clear definitions",
+          "Ensuring no confusion in class assignment",
+          "Limiting data comparison"
+        ],
+        "answer": "Ensuring no confusion in class assignment",
+        "reference": "The classification should not lead to any ambiguity or confusion."
+      },
+      {
+        "question": "What is a feature of an exhaustive classification?",
+        "options": [
+          "Some items remain unclassified",
+          "All items can be classified",
+          "Classes are overlapping",
+          "Classes are qualitative only"
+        ],
+        "answer": "All items can be classified",
+        "reference": "A classification is said to be exhaustive if there is no item that cannot be allotted a class."
+      },
+      {
+        "question": "What is conditional classification based on?",
+        "options": [
+          "Geographical regions",
+          "Time of occurrence",
+          "Conditions other than geographical or chronological",
+          "Quantitative variables"
+        ],
+        "answer": "Conditions other than geographical or chronological",
+        "reference": "Conditional classification: When the data are classified according to certain conditions, other than geographical or chronological."
+      },
+      {
+        "question": "What is an example of a chronological classification?",
+        "options": [
+          "Classification by region",
+          "Classification by annual income",
+          "Classification by monthly expenditure",
+          "Classification by marital status"
+        ],
+        "answer": "Classification by monthly expenditure",
+        "reference": "Various time series such as... monthly expenditure of a household... are some examples of chronological classification."
+      },
+      {
+        "question": "What characterizes a one-way classification?",
+        "options": [
+          "Classification by multiple attributes",
+          "Classification by a single attribute",
+          "Classification by continuous variables",
+          "Classification by time"
+        ],
+        "answer": "Classification by a single attribute",
+        "reference": "If the classification is done according to a single attribute, it is known as a one-way classification."
+      },
+      {
+        "question": "What is a two-way classification?",
+        "options": [
+          "Classification by one attribute",
+          "Classification by two or more attributes",
+          "Classification by geographical regions",
+          "Classification by discrete variables"
+        ],
+        "answer": "Classification by two or more attributes",
+        "reference": "The classification done according to two or more attributes is known as a two-way or multiway classification."
+      },
+      {
+        "question": "What is an example of a continuous variable?",
+        "options": [
+          "Number of rooms in a house",
+          "Height of a person",
+          "Marital status",
+          "Eye color"
+        ],
+        "answer": "Height of a person",
+        "reference": "A continuous variable can assume any value in a given interval. For example, monthly income of a worker... height."
+      },
+      {
+        "question": "What is a multiway classification based on?",
+        "options": [
+          "A single attribute",
+          "Two or more attributes",
+          "Geographical locations",
+          "Qualitative data only"
+        ],
+        "answer": "Two or more attributes",
+        "reference": "The classification done according to two or more attributes is known as a two-way or multiway classification."
+      },
+      {
+        "question": "What type of data is classified in qualitative classification?",
+        "options": [
+          "Measurable data",
+          "Non-measurable data",
+          "Continuous data",
+          "Discrete data"
+        ],
+        "answer": "Non-measurable data",
+        "reference": "When the characteristics of the data are non-measurable, it is called a qualitative data."
+      },
+      {
+        "question": "What is a characteristic of discrete variables?",
+        "options": [
+          "They can take any value in an interval",
+          "They take specific values in an interval",
+          "They are non-measurable",
+          "They are qualitative"
+        ],
+        "answer": "They take specific values in an interval",
+        "reference": "A discrete variable can assume only some specific values in a given interval."
+      },
+      {
+        "question": "When is a grouped frequency distribution necessary for discrete variables?",
+        "options": [
+          "When patterns are clear",
+          "When possible values are large",
+          "When data is qualitative",
+          "When data is continuous"
+        ],
+        "answer": "When possible values are large",
+        "reference": "A grouped frequency distribution is also constructed when the possible values that a variable can take are large."
+      },
+      {
+        "question": "What is preserved in an ungrouped frequency distribution?",
+        "options": [
+          "Data complexity",
+          "Original observation identity",
+          "Qualitative attributes",
+          "Cumulative frequencies"
+        ],
+        "answer": "Original observation identity",
+        "reference": "In case of ungrouped frequency distribution, the identity of various observations is not lost."
+      },
+      {
+        "question": "How is frequency counted in a discrete frequency distribution?",
+        "options": [
+          "Using class intervals",
+          "Using tally marks",
+          "Using mid-values",
+          "Using cumulative frequencies"
+        ],
+        "answer": "Using tally marks",
+        "reference": "The method of tally marks is used to count the number of observations or the frequency of each value of the variable."
+      },
+      {
+        "question": "What does a grouped frequency distribution reveal?",
+        "options": [
+          "Individual data points",
+          "Behavior patterns of the variable",
+          "Qualitative attributes",
+          "Geographical data"
+        ],
+        "answer": "Behavior patterns of the variable",
+        "reference": "It is easy to understand the behaviour of marks on the basis of this distribution."
+      },
+      {
+        "question": "What is a limitation of grouped frequency distributions?",
+        "options": [
+          "They preserve original data",
+          "They lose original observation identity",
+          "They are qualitative",
+          "They avoid class intervals"
+        ],
+        "answer": "They lose original observation identity",
+        "reference": "It should, however, be pointed out here that the identity of observations is lost after grouping."
+      },
+      {
+        "question": "How is a continuous frequency distribution constructed?",
+        "options": [
+          "Using individual values",
+          "Dividing into mutually exclusive class intervals",
+          "Using qualitative attributes",
+          "Avoiding class limits"
+        ],
+        "answer": "Dividing into mutually exclusive class intervals",
+        "reference": "The whole interval of the continuous variable... is divided into various mutually exclusive and exhaustive sub-intervals."
+      },
+      {
+        "question": "What determines the number of class intervals?",
+        "options": [
+          "Qualitative attributes",
+          "Nature and number of observations",
+          "Cumulative frequencies",
+          "Mid-value calculations"
+        ],
+        "answer": "Nature and number of observations",
+        "reference": "The number of classes depends upon the nature and the number of observations."
+      },
+      {
+        "question": "What happens if there are too few class intervals?",
+        "options": [
+          "Data patterns are clearer",
+          "Loss of information due to grouping",
+          "Data becomes qualitative",
+          "Frequency density decreases"
+        ],
+        "answer": "Loss of information due to grouping",
+        "reference": "Fewer classes imply that the width of the class intervals will be broad... the magnitude of loss of information due to grouping will be large."
+      },
+      {
+        "question": "What is the purpose of equal-width class intervals?",
+        "options": [
+          "To complicate data analysis",
+          "To ensure regular frequency distribution",
+          "To lose data identity",
+          "To avoid numerical data"
+        ],
+        "answer": "To ensure regular frequency distribution",
+        "reference": "As far as possible, all the class intervals should be of equal width."
+      },
+      {
+        "question": "What should class limits ensure in a frequency distribution?",
+        "options": [
+          "Ambiguity in calculations",
+          "Accuracy in mid-value computations",
+          "Qualitative focus",
+          "Cumulative frequency loss"
+        ],
+        "answer": "Accuracy in mid-value computations",
+        "reference": "The accuracy of these computations will depend upon the proper specification of class limits."
+      },
+      {
+        "question": "What is the inclusive method of class limit designation?",
+        "options": [
+          "Excludes upper limit",
+          "Includes both lower and upper limits",
+          "Excludes both limits",
+          "Includes only lower limit"
+        ],
+        "answer": "Includes both lower and upper limits",
+        "reference": "Inclusive Method: Here all observations with magnitude greater than or equal to the lower limit and less than or equal to the upper limit of a class are included in it."
+      },
+      {
+        "question": "How is the mid-value calculated in the inclusive method?",
+        "options": [
+          "As the sum of class boundaries",
+          "As the mean of lower and upper boundaries",
+          "As the difference of class limits",
+          "As the cumulative frequency"
+        ],
+        "answer": "As the mean of lower and upper boundaries",
+        "reference": "In the case of inclusive types of class intervals... the mid-value of a class is defined as the arithmetic mean of its lower and upper boundaries."
+      },
+      {
+        "question": "What does a percentage frequency distribution show?",
+        "options": [
+          "Cumulative frequencies",
+          "Frequencies as proportions or percentages",
+          "Individual data points",
+          "Qualitative attributes"
+        ],
+        "answer": "Frequencies as proportions or percentages",
+        "reference": "If instead of frequencies of various classes their relative or percentage frequencies are written, we get a relative or percentage frequency distribution."
+      },
+      {
+        "question": "What is a more than cumulative frequency distribution?",
+        "options": [
+          "Cumulates from lowest to highest",
+          "Cumulates from highest to lowest",
+          "Shows percentage frequencies",
+          "Shows mid-values"
+        ],
+        "answer": "Cumulates from highest to lowest",
+        "reference": "More than cumulative frequency distribution: It is obtained by finding the cumulate total of frequencies starting from the highest to the lowest class."
+      },
+      {
+        "question": "What does frequency density indicate?",
+        "options": [
+          "Total class frequency",
+          "Rate of observation concentration",
+          "Class mid-value",
+          "Cumulative frequency"
+        ],
+        "answer": "Rate of observation concentration",
+        "reference": "Frequency density gives the rate of concentration of observations in a class."
+      },
+      {
+        "question": "What is the lower limit of a class with mid-value 25 and width 10?",
+        "options": [
+          "15",
+          "20",
+          "25",
+          "30"
+        ],
+        "answer": "20",
+        "reference": "Half of this difference is subtracted... to the mid value of a class in order to get lower limit... mid-values are 15, 25... the required class intervals are 10 - 20."
+      },
+      {
+        "question": "What is a characteristic of a contingency table?",
+        "options": [
+          "Shows univariate data",
+          "Represents bivariate frequency distribution",
+          "Shows cumulative frequencies",
+          "Represents qualitative data only"
+        ],
+        "answer": "Represents bivariate frequency distribution",
+        "reference": "The tabular representation of the bivariate frequency distribution is known as a contingency table."
+      },
+      {
+        "question": "What distinguishes a multivariate frequency distribution?",
+        "options": [
+          "Classification by one attribute",
+          "Classification by two attributes",
+          "Classification by more than two attributes",
+          "Classification by time"
+        ],
+        "answer": "Classification by more than two attributes",
+        "reference": "If the classification is done, simultaneously, according to more than two characteristics, the resulting frequency distribution is known as a multivariate frequency distribution."
+      },
+      {
+        "question": "What is an example of a three-way classification?",
+        "options": [
+          "Classification by height alone",
+          "Classification by sex, honesty, and smoking habit",
+          "Classification by geographical region",
+          "Classification by time of occurrence"
+        ],
+        "answer": "Classification by sex, honesty, and smoking habit",
+        "reference": "The example of a three-way classification, where population is dichotomised according to each attribute; sex, honesty and smoking habit."
+      },
+      {
+        "question": "What is a univariate frequency distribution based on?",
+        "options": [
+          "Multiple characteristics",
+          "A single characteristic",
+          "Geographical regions",
+          "Qualitative attributes only"
+        ],
+        "answer": "A single characteristic",
+        "reference": "In the frequency distributions, discussed so far, the data are classified according to only one characteristic. These distributions are known as univariate frequency distributions."
+      },
+      {
+        "question": "What is a bivariate frequency distribution example?",
+        "options": [
+          "Classification by income alone",
+          "Classification by age of husband and wife",
+          "Classification by time of occurrence",
+          "Classification by number of children"
+        ],
+        "answer": "Classification by age of husband and wife",
+        "reference": "An example of such a classification is given below, where 100 couples are classified according to the two characteristics, Age of Husband and Age of Wife."
+      },
+      {
+        "question": "Why do machine learning algorithms struggle with imbalanced datasets?",
+        "options": [
+          "They focus on qualitative data",
+          "They are biased toward the majority class",
+          "They avoid numerical data",
+          "They are too complex"
+        ],
+        "answer": "They are biased toward the majority class",
+        "reference": "The hitch with imbalanced datasets is that standard classification learning algorithms are often biased towards the majority classes."
+      },
+      {
+        "question": "What does the Condensed Nearest Neighbor (CNN) rule do in undersampling?",
+        "options": [
+          "Duplicates minority class examples",
+          "Selects representative majority class examples",
+          "Synthesizes new examples",
+          "Deletes minority class examples"
+        ],
+        "answer": "Selects representative majority class examples",
+        "reference": "The Condensed Nearest Neighbors rule... works by enumerating the examples in the dataset and adding them to the store only if they cannot be classified correctly."
+      },
+      {
+        "question": "What is the focus of Tomek Links in undersampling?",
+        "options": [
+          "Duplicating minority class examples",
+          "Deleting majority class examples at the class boundary",
+          "Synthesizing new examples",
+          "Classifying qualitative data"
+        ],
+        "answer": "Deleting majority class examples at the class boundary",
+        "reference": "Tomek Links are often misclassified examples found along the class boundary and the examples in the majority class are deleted."
+      },
+      {
+        "question": "What does the Edited Nearest Neighbors (ENN) rule involve?",
+        "options": [
+          "Duplicating minority class examples",
+          "Deleting misclassified examples",
+          "Synthesizing new examples",
+          "Classifying qualitative data"
+        ],
+        "answer": "Deleting misclassified examples",
+        "reference": "The Edited Nearest Neighbors rule... involves using k=3 nearest neighbors to locate those examples in a dataset that are misclassified and deleting them."
+      },
+      {
+        "question": "What is a benefit of combining SMOTE with undersampling?",
+        "options": [
+          "Complicates model training",
+          "Improves model performance",
+          "Avoids numerical data",
+          "Limits data sampling"
+        ],
+        "answer": "Improves model performance",
+        "reference": "Experiments have shown that applying both types of techniques together can often result in better overall performance of a model."
+      },
+      {
+        "question": "What does Adaptive Synthetic Sampling (ADASYN) focus on?",
+        "options": [
+          "Duplicating majority class examples",
+          "Generating samples in low-density minority regions",
+          "Deleting minority class examples",
+          "Avoiding synthetic sampling"
+        ],
+        "answer": "Generating samples in low-density minority regions",
+        "reference": "Adaptive Synthetic Sampling (ADASYN)... is designed to create synthetic examples in regions of the feature space where the density of minority examples is low."
+      }
+  ]

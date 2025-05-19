@@ -1,0 +1,596 @@
+[
+    {
+        "question": "What does workforce diversity encompass?",
+        "options": ["Uniform employee traits", "Similarities and differences in age, race, and culture", "Only gender differences", "Identical perspectives"],
+        "answer": "Similarities and differences in age, race, and culture",
+        "reference": "Workforce diversity means similarities and differences among employees in terms of age, cultural background, physical abilities and disabilities, race, religion, gender, and sexual orientation."
+    },
+    {
+        "question": "Why is managing a diversified workforce considered a challenge?",
+        "options": ["It reduces productivity", "Employees have varied perspectives and prejudices", "It eliminates differences", "It simplifies management"],
+        "answer": "Employees have varied perspectives and prejudices",
+        "reference": "People are different in not only gender, culture, race... but also in their perspectives and prejudices... to manage such diversified workforce is also a big challenge for management."
+    },
+    {
+        "question": "What is a benefit of workplace diversity?",
+        "options": ["Increased lawsuits", "Fosters mutual respect among employees", "Reduced creativity", "Lower productivity"],
+        "answer": "Fosters mutual respect among employees",
+        "reference": "Workplace diversity fosters mutual respect among employees."
+    },
+    {
+        "question": "How does diversity impact organizational competitiveness?",
+        "options": ["It reduces flexibility", "It increases creativity and marketing opportunities", "It limits recruitment", "It harms business image"],
+        "answer": "It increases creativity and marketing opportunities",
+        "reference": "Diversity in the workplace can reduce lawsuits and increase marketing opportunities, recruitment, creativity, and business image."
+    },
+    {
+        "question": "What economic benefit does diversity provide to marginalized workers?",
+        "options": ["Lower wages", "Economic empowerment through fair opportunities", "Increased discrimination", "Reduced financial security"],
+        "answer": "Economic empowerment through fair opportunities",
+        "reference": "Many members of the workforce have been marginalized due to racism, ageism and discrimination... When people are unable to find work... their standard of living suffers... diversity in the workplace can reduce lawsuits."
+    },
+    {
+        "question": "What is a challenge of managing diversity in a globalized workplace?",
+        "options": ["Uniform cultural interactions", "Increased interaction among diverse cultures", "Reduced competition", "Isolated marketplaces"],
+        "answer": "Increased interaction among diverse cultures",
+        "reference": "The world’s increasing globalization requires more interaction among people from diverse cultures, beliefs, and backgrounds than ever before."
+    },
+    {
+        "question": "Why is diversity training necessary for supervisors?",
+        "options": ["To enforce uniformity", "To value multicultural differences", "To reduce employee interaction", "To ignore cultural biases"],
+        "answer": "To value multicultural differences",
+        "reference": "Supervisors and managers must be prepared to teach themselves and others within their organizations to value multicultural differences."
+    },
+    {
+        "question": "What negative attitude can harm organizational diversity?",
+        "options": ["Mutual respect", "Prejudice and stereotyping", "Open communication", "Valuing differences"],
+        "answer": "Prejudice and stereotyping",
+        "reference": "Negative attitudes and behaviors in the workplace include prejudice, stereotyping, and discrimination, which should never be used by management."
+    },
+    {
+        "question": "What is a key tool for managing diversity effectively?",
+        "options": ["Ignoring individual differences", "Understanding discrimination and its consequences", "Avoiding training", "Enforcing uniformity"],
+        "answer": "Understanding discrimination and its consequences",
+        "reference": "Effective managers are aware that certain skills are necessary... First, managers must understand discrimination and its consequences."
+    },
+    {
+        "question": "Why is ongoing diversity training important?",
+        "options": ["It changes behaviors instantly", "It addresses personal biases over time", "It eliminates all differences", "It reduces organizational change"],
+        "answer": "It addresses personal biases over time",
+        "reference": "Organizations need to develop, implement, and maintain ongoing training because a one-day session of training will not change people’s behaviors."
+    },
+    {
+        "question": "What does a manager need to promote for diversity communication?",
+        "options": ["A competitive environment", "A safe place for associates to communicate", "Restricted dialogues", "Isolated interactions"],
+        "answer": "A safe place for associates to communicate",
+        "reference": "Another vital requirement when dealing with diversity is promoting a 'safe' place for associates to communicate."
+    },
+    {
+        "question": "What is a recommendation for ensuring fairness in hiring?",
+        "options": ["Using unstructured interviews", "Relying on race-based stereotypes", "Using highly structured interviews", "Ignoring applicant qualifications"],
+        "answer": "Using highly structured interviews",
+        "reference": "To ensure fairness for all applicants, organizations should use highly structured interviews during the selection process to avoid bias based on race or gender."
+    },
+    {
+        "question": "How do diversified mentoring relationships benefit organizations?",
+        "options": ["They reduce diversity", "They improve knowledge and empathy", "They limit interactions", "They enforce uniformity"],
+        "answer": "They improve knowledge and empathy",
+        "reference": "Research has found that these types of relationships are mutually beneficial and that the mentor and the mentee both have positive outcomes in terms of knowledge, empathy."
+    },
+    {
+        "question": "What is a goal of modern diversity training programs?",
+        "options": ["Focusing only on compliance", "Building cultural competencies", "Singling out specific groups", "Ignoring business decisions"],
+        "answer": "Building cultural competencies",
+        "reference": "Recently, diversity training has evolved to focus on building cultural competencies regarding fellow employees."
+    },
+    {
+        "question": "What characterizes industrial relations at Cummins India Limited?",
+        "options": ["Conflict and discord", "Cordial and collaborative relations", "No employee communication", "Irregular management meetings"],
+        "answer": "Cordial and collaborative relations",
+        "reference": "It was found that industrial relations have been cordial, harmonious and collaborative since 2010."
+    },
+    {
+        "question": "How does the industrial relations manager resolve grievances?",
+        "options": ["By avoiding meetings", "Through weekly meetings", "By ignoring employee voices", "Through annual reviews"],
+        "answer": "Through weekly meetings",
+        "reference": "The industrial relations manager conducts weekly meetings and resolves grievances immediately."
+    },
+    {
+        "question": "What is a feature of communication in industrial relations?",
+        "options": ["Irregular interactions", "Regular meetings with union representatives", "No grievance resolution", "Avoiding senior leadership"],
+        "answer": "Regular meetings with union representatives",
+        "reference": "Communication and meeting with union representatives and workers is held on regular basis."
+    },
+    {
+        "question": "How often does senior leadership meet with the CEO at Cummins India?",
+        "options": ["Weekly", "Monthly", "Annually", "Never"],
+        "answer": "Monthly",
+        "reference": "The senior leadership meets on monthly basis with the CEO of the company."
+    },
+    {
+        "question": "Why is understanding women in the workplace important for diversity?",
+        "options": ["It reduces participation", "It addresses increased female workforce participation", "It ignores family roles", "It limits organizational change"],
+        "answer": "It addresses increased female workforce participation",
+        "reference": "The need to understand diversity is also driven by women in the workplace. Today’s workforce has the highest levels of women participation in employment."
+    },
+    {
+        "question": "What impact does organizational restructuring have on diversity?",
+        "options": ["It reduces workforce size only", "It changes work practices due to downsizing", "It eliminates diversity", "It avoids globalization"],
+        "answer": "It changes work practices due to downsizing",
+        "reference": "There have been significant changes to organizations as a result of downsizing and outsourcing, which has greatly affected human resource management."
+    },
+    {
+        "question": "What role does legislation play in workplace diversity?",
+        "options": ["It promotes discrimination", "It makes discrimination illegal", "It ignores employee rights", "It reduces accountability"],
+        "answer": "It makes discrimination illegal",
+        "reference": "Federal and State equal opportunity legislation make discrimination in workplaces illegal."
+    },
+    {
+        "question": "How does equal opportunity legislation affect employers?",
+        "options": ["It reduces responsibilities", "It holds employers accountable", "It eliminates diversity", "It ignores workplace rights"],
+        "answer": "It holds employers accountable",
+        "reference": "These laws specify the rights and responsibilities of both associates and employers in the workplace and hold both groups accountable."
+    },
+    {
+        "question": "What is the first step in the managerial decision-making process?",
+        "options": ["Implementing the decision", "Establishing the objective", "Defining the problem", "Evaluating alternatives"],
+        "answer": "Establishing the objective",
+        "reference": "The first step in the decision making process is to establish the objective of the business enterprise."
+    },
+    {
+        "question": "Why is defining the problem important in decision-making?",
+        "options": ["It avoids solutions", "It identifies the nature of the issue", "It reduces alternatives", "It ignores variables"],
+        "answer": "It identifies the nature of the issue",
+        "reference": "Defining the nature of the problem is important because decision making is after all meant for solution of the problem."
+    },
+    {
+        "question": "What does evaluating alternative courses of action involve?",
+        "options": ["Ignoring data", "Collecting and analyzing relevant data", "Avoiding constraints", "Reducing objectives"],
+        "answer": "Collecting and analyzing relevant data",
+        "reference": "This requires the collection and analysis of the relevant data."
+    },
+    {
+        "question": "What is bounded rationality in decision-making?",
+        "options": ["Complete rational decisions", "Inability to grasp all alternatives fully", "Ignoring complex issues", "Perfect information processing"],
+        "answer": "Inability to grasp all alternatives fully",
+        "reference": "Bounded rationality is the idea that for complex issues we cannot be completely rational because we cannot fully grasp all the possible alternatives."
+    },
+    {
+        "question": "What is escalation of commitment?",
+        "options": ["Abandoning poor decisions", "Remaining committed to poor decisions", "Making quick decisions", "Avoiding re-evaluation"],
+        "answer": "Remaining committed to poor decisions",
+        "reference": "Escalation of commitment is the tendency of decision makers to remain committed to poor decision, even when doing so leads to increasingly negative outcomes."
+    },
+    {
+        "question": "How do time constraints affect decision-making?",
+        "options": ["They improve rational processing", "They lead to reliance on heuristics", "They eliminate uncertainty", "They ensure complete information"],
+        "answer": "They lead to reliance on heuristics",
+        "reference": "Time pressures can cause us to rely on heuristics rather than engage in deep processing."
+    },
+    {
+        "question": "How can managers learn from experience to improve decision-making?",
+        "options": ["By ignoring past decisions", "By reflecting on past decisions", "By avoiding documentation", "By limiting feedback"],
+        "answer": "By reflecting on past decisions",
+        "reference": "What you should do is occasionally take time to reflect on recent decisions, so you can learn from them."
+    },
+    {
+        "question": "Why is entertaining doubt beneficial in decision-making?",
+        "options": ["It ensures certainty", "It tests decisions against scenarios", "It avoids alternatives", "It reduces options"],
+        "answer": "It tests decisions against scenarios",
+        "reference": "You should be testing each decision against multiple scenarios."
+    },
+    {
+        "question": "What is the benefit of giving yourself multiple options in decision-making?",
+        "options": ["It reduces success probability", "It increases likelihood of success", "It causes decision paralysis", "It eliminates choices"],
+        "answer": "It increases likelihood of success",
+        "reference": "In principle, the more options you have, the more likely you are to succeed."
+    },
+    {
+        "question": "How does arguing out options improve decision-making?",
+        "options": ["It avoids debate", "It encourages rigorous debate", "It ignores perspectives", "It reduces understanding"],
+        "answer": "It encourages rigorous debate",
+        "reference": "To make better decisions, encourage rigorous debate and argument."
+    },
+    {
+        "question": "What is a strategy to improve employee motivation?",
+        "options": ["Unclear expectations", "Making expectations clear", "Avoiding feedback", "Ignoring rewards"],
+        "answer": "Making expectations clear",
+        "reference": "Employees without goals will be naturally aimless. Provide them with clear achievable goals."
+    },
+    {
+        "question": "How does continuous feedback affect employee motivation?",
+        "options": ["It reduces performance", "It shows actions affect the company", "It delays progress", "It avoids specificity"],
+        "answer": "It shows actions affect the company",
+        "reference": "Immediate, continuous feedback lets an employee know that their actions affect the company."
+    },
+    {
+        "question": "Why is praising publicly effective for motivation?",
+        "options": ["It embarrasses employees", "It motivates continued stellar performance", "It reduces morale", "It avoids incentives"],
+        "answer": "It motivates continued stellar performance",
+        "reference": "Praising your employees in front of others helps motivate their continued stellar performance."
+    },
+    {
+        "question": "What is the benefit of making rewards achievable?",
+        "options": ["It demotivates employees", "It motivates ongoing performance", "It limits excellence", "It reduces competition"],
+        "answer": "It motivates ongoing performance",
+        "reference": "Set up a series of smaller rewards throughout the year to motivate ongoing performance excellence."
+    },
+    {
+        "question": "What does operant conditioning theory state about motivation?",
+        "options": ["People avoid rewards", "People do things for which they are rewarded", "Punishment increases behavior", "Learning is unrelated to environment"],
+        "answer": "People do things for which they are rewarded",
+        "reference": "It basically states that people will do those things for which they are rewarded and will avoid doing things for which they are punished."
+    },
+    {
+        "question": "What is the basis of equity theory in motivation?",
+        "options": ["Ignoring fairness", "Feeling of unfairness affects satisfaction", "Rewards are irrelevant", "Performance is unrelated to pay"],
+        "answer": "Feeling of unfairness affects satisfaction",
+        "reference": "This feeling of unfairness is the basis for equity theory."
+    },
+    {
+        "question": "What is a premise of goal theory in motivation?",
+        "options": ["Goals reduce effort", "People exert effort to achieve intended goals", "Motivation is unrelated to goals", "Goals demotivate employees"],
+        "answer": "People exert effort to achieve intended goals",
+        "reference": "The first and most basic premise of goal theory is that people will attempt to achieve those goals that they intend to achieve."
+    },
+    {
+        "question": "What does expectancy theory focus on in motivation?",
+        "options": ["Avoiding effort", "Effort to obtain valued outcomes", "Ignoring alternatives", "Reducing performance"],
+        "answer": "Effort to obtain valued outcomes",
+        "reference": "Expectancy theory posits that we will exert much effort to perform at higher levels so that we can obtain valued outcomes."
+    },
+    {
+        "question": "What is a purpose of performance appraisals?",
+        "options": ["To avoid feedback", "To give direction and feedback", "To reduce motivation", "To ignore performance"],
+        "answer": "To give direction and feedback",
+        "reference": "Performance Appraisals Give Direction... Performance Appraisals Give Feedback."
+    },
+    {
+        "question": "How do performance appraisals motivate employees?",
+        "options": ["By ignoring goals", "By setting challenging but achievable goals", "By avoiding rewards", "By reducing feedback"],
+        "answer": "By setting challenging but achievable goals",
+        "reference": "People are motivated by knowing what is expected of them, if goals are set at an appropriate level (challenging but achievable) they will encourage the employee."
+    },
+    {
+        "question": "What is a benefit of performance appraisals for organizations?",
+        "options": ["Reduced morale", "Attracting and retaining high achievers", "Increased turnover", "Lower productivity"],
+        "answer": "Attracting and retaining high achievers",
+        "reference": "By rewarding performance it is also possible to attract and retain high achievers."
+    },
+    {
+        "question": "Why is performance appraisal criticized as inaccurate?",
+        "options": ["It ignores system influences", "It measures individual contributions perfectly", "It avoids biases", "It simplifies evaluations"],
+        "answer": "It ignores system influences",
+        "reference": "If we take a systems view of work... all individuals are in fact, part of a system and dependent to varying degrees on other individuals and system design/culture in their performance."
+    },
+    {
+        "question": "What is a problem with personal bias in performance appraisals?",
+        "options": ["It ensures objectivity", "It leads to inconsistent evaluations", "It improves reproducibility", "It avoids the halo effect"],
+        "answer": "It leads to inconsistent evaluations",
+        "reference": "Personal bias on the part of the appraiser has long been recognised as a problem."
+    },
+    {
+        "question": "Why are targets in performance appraisals problematic?",
+        "options": ["They are always achievable", "They may cap aspiration if set too low", "They eliminate mediocrity", "They avoid measurement"],
+        "answer": "They may cap aspiration if set too low",
+        "reference": "If a target is set too low it effectively puts a cap on the aspiration of the individual."
+    },
+    {
+        "question": "What drives the need for diversity in organizations?",
+        "options": ["Uniform marketplaces", "Global markets and demographic shifts", "Reduced competition", "Isolated economies"],
+        "answer": "Global markets and demographic shifts",
+        "reference": "As the workforce demographics shift and global markets emerge, workplace diversity inches closer to becoming a business necessity."
+    },
+    {
+        "question": "What is a result of effective industrial relations communication?",
+        "options": ["Increased conflict", "Resolution of employee grievances", "Reduced productivity", "Avoiding meetings"],
+        "answer": "Resolution of employee grievances",
+        "reference": "The voices of the employees are captured during these meetings and the issues/grievances are resolved as per feasibility."
+    },
+    {
+        "question": "What is a consequence of organizational restructuring?",
+        "options": ["Fewer people doing more work", "Increased workforce size", "Reduced work hours", "Elimination of technology"],
+        "answer": "Fewer people doing more work",
+        "reference": "Generally speaking, reorganizations usually result in fewer people doing more."
+    },
+    {
+        "question": "What is a barrier to effective decision-making due to uncertainty?",
+        "options": ["Complete knowledge of outcomes", "Inability to know alternative outcomes", "Clear alternatives", "Perfect forecasting"],
+        "answer": "Inability to know alternative outcomes",
+        "reference": "Managers frequently make decisions under conditions of uncertainty—they cannot know the outcome of each alternative until they’ve chosen that alternative."
+    },
+    {
+        "question": "What is a core characteristic of workforce diversity?",
+        "options": ["Uniform employee backgrounds", "Differences in race and gender", "Similar cultural perspectives", "Identical physical abilities"],
+        "answer": "Differences in race and gender",
+        "reference": "Workforce diversity means similarities and differences among employees in terms of age, cultural background, physical abilities and disabilities, race, religion, gender, and sexual orientation."
+    },
+    {
+        "question": "How does diversity contribute to organizational productivity?",
+        "options": ["By reducing employee differences", "By leveraging varied perspectives", "By enforcing uniformity", "By limiting creativity"],
+        "answer": "By leveraging varied perspectives",
+        "reference": "The researcher... concluded that workforce diversity is strength for any organization... if managed properly, can increase the productivity."
+    },
+    {
+        "question": "What intangible benefit does diversity provide in the workplace?",
+        "options": ["Increased conflict", "Respect from co-workers", "Reduced morale", "Lower business gains"],
+        "answer": "Respect from co-workers",
+        "reference": "Employees reap tangible and intangible benefits from workplace, not the least of which includes respect from co-workers and business gains."
+    },
+    {
+        "question": "How does diversity enhance a firm's competitive advantage?",
+        "options": ["By limiting recruitment", "By improving financial performance", "By reducing flexibility", "By increasing lawsuits"],
+        "answer": "By improving financial performance",
+        "reference": "Research has shown that racially and ethnically diverse firms have better financial performance than more homogeneous firms."
+    },
+    {
+        "question": "What is a social benefit of workplace diversity?",
+        "options": ["Increased discrimination", "Reduced community economic circulation", "Utilization of diverse talents", "Lower standard of living"],
+        "answer": "Utilization of diverse talents",
+        "reference": "When people are unable to find work... their standard of living suffers and they become less financially secure... can also take its toll on the community at large, as talents go unused."
+    },
+    {
+        "question": "What challenge does globalization pose for diversity management?",
+        "options": ["Reduced cultural interactions", "Need for creativity and openness to change", "Isolated work environments", "Uniform global markets"],
+        "answer": "Need for creativity and openness to change",
+        "reference": "For this reason, profit and non-profit organizations need diversity to become more creative and open to change."
+    },
+    {
+        "question": "Why must managers recognize their own biases in diversity management?",
+        "options": ["To enforce stereotypes", "To understand individual differences", "To avoid employee interaction", "To reduce organizational change"],
+        "answer": "To understand individual differences",
+        "reference": "Second, managers must recognize their own cultural biases and prejudices. Diversity is not about differences among groups, but rather about differences among individuals."
+    },
+    {
+        "question": "What is a consequence of negative behaviors like discrimination in the workplace?",
+        "options": ["Improved morale", "Damaged working relationships", "Increased productivity", "Enhanced team synergy"],
+        "answer": "Damaged working relationships",
+        "reference": "Negative attitudes and behaviors can be barriers to organizational diversity because they can harm working relationships and damage morale and work productivity."
+    },
+    {
+        "question": "What skill is essential for managers to create a successful diverse workforce?",
+        "options": ["Ignoring fairness", "Willingness to change the organization", "Avoiding employee feedback", "Enforcing equality"],
+        "answer": "Willingness to change the organization",
+        "reference": "Finally, managers must be willing to change the organization if necessary."
+    },
+    {
+        "question": "What is a feature of effective diversity training programs?",
+        "options": ["One-day sessions", "Focus on valuing differences", "Ignoring cultural competencies", "Singling out specific groups"],
+        "answer": "Focus on valuing differences",
+        "reference": "Recently, diversity training has evolved to focus on... valuing differences."
+    },
+    {
+        "question": "How should managers promote dialogue in a diverse workplace?",
+        "options": ["Limit communication", "Create social gatherings for open dialogue", "Avoid employee input", "Restrict business meetings"],
+        "answer": "Create social gatherings for open dialogue",
+        "reference": "Social gatherings and business meetings, where every member must listen and have the chance to speak, are good ways to create dialogues."
+    },
+    {
+        "question": "What is a strategy to combat discrimination in hiring?",
+        "options": ["Using race-based stereotypes", "Relying on relevant information", "Avoiding structured interviews", "Ignoring applicant diversity"],
+        "answer": "Relying on relevant information",
+        "reference": "Anyone with managerial or supervisory responsibilities should pay careful attention to hiring... and make sure to rely on relevant information for making decisions."
+    },
+    {
+        "question": "What outcome do diversified mentoring relationships provide for mentees?",
+        "options": ["Reduced empathy", "Improved interaction skills", "Limited knowledge", "Decreased engagement"],
+        "answer": "Improved interaction skills",
+        "reference": "The mentor and the mentee both have positive outcomes in terms of knowledge, empathy, and skills related to interactions with people from different power groups."
+    },
+    {
+        "question": "What should diversity training address to be effective?",
+        "options": ["Only legal compliance", "Cultural competencies and business decisions", "Historical discrimination only", "Employee separation"],
+        "answer": "Cultural competencies and business decisions",
+        "reference": "Recently, diversity training has evolved to focus on... learning how diversity helps make better business decisions."
+    },
+    {
+        "question": "What is a characteristic of industrial relations communication at Cummins India?",
+        "options": ["Irregular employee interactions", "Daily meetings with shop floor managers", "Avoiding grievance resolution", "Regular interaction with IR Department"],
+        "answer": "Regular interaction with IR Department",
+        "reference": "Line managers and shop floor managers are regularly interacting with IR Department for day to day issues of production associates."
+    },
+    {
+        "question": "How are employee voices captured in industrial relations?",
+        "options": ["Through irregular feedback", "During regular meetings", "By avoiding grievances", "Through annual surveys only"],
+        "answer": "During regular meetings",
+        "reference": "The voices of the employees are captured during these meetings and the issues/grievances are resolved as per feasibility."
+    },
+    {
+        "question": "What is the frequency of store manager meetings in industrial relations?",
+        "options": ["Daily", "Weekly and monthly", "Annually", "Never"],
+        "answer": "Weekly and monthly",
+        "reference": "The management representative, store managers regularly meet on weekly and monthly basis."
+    },
+    {
+        "question": "What is the purpose of senior leadership meetings with the CEO?",
+        "options": ["To avoid communication", "To communicate business goals", "To reduce employee input", "To limit grievance resolution"],
+        "answer": "To communicate business goals",
+        "reference": "The senior leadership meets on monthly basis with the CEO of the company to communicate the goals and situations of the business to the employees."
+    },
+    {
+        "question": "How has the role of women in the workplace influenced diversity?",
+        "options": ["Reduced workforce participation", "Increased dual income families", "Fewer women in traditional roles", "Elimination of family structures"],
+        "answer": "Increased dual income families",
+        "reference": "The number of dual income families and single working mothers has increased."
+    },
+    {
+        "question": "What is a consequence of organizational restructuring on work practices?",
+        "options": ["Reduced working hours", "Increased technology impact", "Elimination of globalization", "More people doing less work"],
+        "answer": "Increased technology impact",
+        "reference": "Work practices have changed due to the impact of globalization and technology and there is a trend toward longer working hours."
+    },
+    {
+        "question": "What do equal opportunity laws ensure in the workplace?",
+        "options": ["Increased discrimination", "Rights and responsibilities for all", "Reduced accountability", "Ignoring diversity"],
+        "answer": "Rights and responsibilities for all",
+        "reference": "These laws specify the rights and responsibilities of both associates and employers in the workplace."
+    },
+    {
+        "question": "How does legislation impact diversity management?",
+        "options": ["It promotes unfair practices", "It enforces accountability for fairness", "It reduces employee rights", "It eliminates diversity"],
+        "answer": "It enforces accountability for fairness",
+        "reference": "These laws specify the rights and responsibilities of both associates and employers in the workplace and hold both groups accountable."
+    },
+    {
+        "question": "What is the role of identifying alternatives in decision-making?",
+        "options": ["To ignore the problem", "To find possible solutions", "To avoid evaluation", "To reduce objectives"],
+        "answer": "To find possible solutions",
+        "reference": "Once the problem has been identified, the next step is to find out alternative solutions to the problem."
+    },
+    {
+        "question": "What does implementing a decision require?",
+        "options": ["Avoiding monitoring", "Constant monitoring for expected results", "Ignoring corrective measures", "Reducing evaluation"],
+        "answer": "Constant monitoring for expected results",
+        "reference": "The implementation of the decision requires constant monitoring so that expected results from the optimal course of action are obtained."
+    },
+    {
+        "question": "What is a constraint managers face in decision-making?",
+        "options": ["Unlimited resources", "Legal and financial limitations", "Complete information", "No technological limits"],
+        "answer": "Legal and financial limitations",
+        "reference": "The constraints may be legal such as laws regarding pollution and disposal of harmful wastes; they may be financial (i.e. limited financial resources)."
+    },
+    {
+        "question": "What is a personal bias in decision-making?",
+        "options": ["Preference for unfamiliar ideas", "Comfort with similar people", "Ignoring confirmation bias", "Avoiding familiar concepts"],
+        "answer": "Comfort with similar people",
+        "reference": "We tend to be more comfortable with ideas, concepts, things, and people that are familiar to us or similar to us."
+    },
+    {
+        "question": "How does confirmation bias affect decision-making?",
+        "options": ["It encourages contrary information", "It prioritizes confirming existing beliefs", "It simplifies information processing", "It eliminates biases"],
+        "answer": "It prioritizes confirming existing beliefs",
+        "reference": "We tend to pay more attention to information that confirms our existing beliefs and less attention to information that is contrary to our beliefs."
+    },
+    {
+        "question": "What is the impact of conflict in decision-making?",
+        "options": ["It always improves decisions", "It may be necessary for effective outcomes", "It eliminates the need for decisions", "It avoids stress"],
+        "answer": "It may be necessary for effective outcomes",
+        "reference": "It’s important for managers to recognize that while conflict can be uncomfortable... there are times when it is necessary for the group, department, or organization to function effectively."
+    },
+    {
+        "question": "How can experiments improve decision-making?",
+        "options": ["They increase uncertainty", "They test decisions with contained consequences", "They avoid stakeholder engagement", "They reduce feedback"],
+        "answer": "They test decisions with contained consequences",
+        "reference": "An experiment is really a way of testing your decision with well-contained consequences."
+    },
+    {
+        "question": "What is the benefit of a pre-mortem in decision-making?",
+        "options": ["It ignores risks", "It identifies potential failure causes", "It avoids planning", "It reduces confidence"],
+        "answer": "It identifies potential failure causes",
+        "reference": "Pretend you made the decision already... Ask yourself: 'What would have caused this failure?'"
+    },
+    {
+        "question": "Why is bringing in outsiders helpful in decision-making?",
+        "options": ["They reinforce group thinking", "They offer objective perspectives", "They avoid new insights", "They reduce discussion"],
+        "answer": "They offer objective perspectives",
+        "reference": "They are objective, and therefore will care more about the decision than about egos and relationships."
+    },
+    {
+        "question": "How does listening improve decision-making discussions?",
+        "options": ["It biases the discussion", "It ensures unbiased information gathering", "It reduces fact-checking", "It encourages early opinions"],
+        "answer": "It ensures unbiased information gathering",
+        "reference": "As soon as a decision-maker lets your opinion out, you will influence everything that follows, and therefore compromise your chance to hear all the truths."
+    },
+    {
+        "question": "Why is correcting privately effective for motivation?",
+        "options": ["It embarrasses employees", "It avoids negative feedback impact", "It reduces performance", "It delays feedback"],
+        "answer": "It avoids negative feedback impact",
+        "reference": "Most people are not motivated by negative feedback, especially if they feel it’s embarrassing."
+    },
+    {
+        "question": "How does believing in employees enhance motivation?",
+        "options": ["It demotivates them", "It encourages better performance", "It ignores weaknesses", "It reduces expectations"],
+        "answer": "It encourages better performance",
+        "reference": "Present weakness or errors in the context of, 'I know you can do better. You’re smart and capable…and that’s why I expect more from you.'"
+    },
+    {
+        "question": "What is the role of purpose in motivating employees?",
+        "options": ["It confuses objectives", "It clarifies what employees are fighting for", "It reduces motivation", "It avoids goals"],
+        "answer": "It clarifies what employees are fighting for",
+        "reference": "The way to test whether your team has a clear purpose is whether or not they can answer the question 'what are we fighting for?'"
+    },
+    {
+        "question": "What does operant conditioning rely on for motivation?",
+        "options": ["Ignoring consequences", "Rewards and punishments", "Avoiding behavior", "Random outcomes"],
+        "answer": "Rewards and punishments",
+        "reference": "It basically states that people will do those things for which they are rewarded and will avoid doing things for which they are punished."
+    },
+    {
+        "question": "How does equity theory explain employee dissatisfaction?",
+        "options": ["Through equal pay", "Through perceived unfairness in rewards", "Through excessive rewards", "Through lack of goals"],
+        "answer": "Through perceived unfairness in rewards",
+        "reference": "This feeling of unfairness is the basis for equity theory."
+    },
+    {
+        "question": "What motivates employees according to goal theory?",
+        "options": ["Lack of goals", "Intention to achieve specific goals", "Avoiding effort", "Ignoring feedback"],
+        "answer": "Intention to achieve specific goals",
+        "reference": "The first and most basic premise of goal theory is that people will attempt to achieve those goals that they intend to achieve."
+    },
+    {
+        "question": "What makes expectancy theory comprehensive?",
+        "options": ["It ignores effort", "It ties effort to valued outcomes", "It avoids alternatives", "It reduces motivation"],
+        "answer": "It ties effort to valued outcomes",
+        "reference": "Expectancy theory posits that we will exert much effort to perform at high levels so that we can obtain valued outcomes."
+    },
+    {
+        "question": "What is a role of performance appraisals in organizations?",
+        "options": ["To avoid training", "To identify training needs", "To reduce morale", "To ignore performance"],
+        "answer": "To identify training needs",
+        "reference": "During the performance discussion, it is natural that areas of relative weakness will be surfaced, this allows for the setting up of training."
+    },
+    {
+        "question": "How do performance appraisals support reward systems?",
+        "options": ["By ignoring performance", "By linking rewards to performance", "By reducing motivation", "By avoiding feedback"],
+        "answer": "By linking rewards to performance",
+        "reference": "The formal rating of performance means that good performance can be rewarded, delivering improvements, in morale and motivation."
+    },
+    {
+        "question": "What is a criticism of performance appraisals regarding system dependency?",
+        "options": ["They account for all system factors", "They ignore individual dependency on systems", "They simplify performance measurement", "They eliminate biases"],
+        "answer": "They ignore individual dependency on systems",
+        "reference": "If we take a systems view of work... all individuals are in fact, part of a system and dependent to varying degrees on other individuals and system design/culture."
+    },
+    {
+        "question": "What is the halo effect in performance appraisals?",
+        "options": ["Objective evaluation", "Bias due to reputation", "Consistent feedback", "Avoiding personal bias"],
+        "answer": "Bias due to reputation",
+        "reference": "A further complicating factor is the reputation of an individual; if they are universally viewed as a high flier then there may be pressure on the appraiser to look for evidence to support this view."
+    },
+    {
+        "question": "Why do high targets in appraisals lead to negative outcomes?",
+        "options": ["They motivate excellence", "They shift focus to cheating", "They ensure achievement", "They simplify evaluation"],
+        "answer": "They shift focus to cheating",
+        "reference": "If targets are set too high then when it becomes apparent that they cannot be met then the individual’s focus is likely to shift... to cheating the measurement system."
+    },
+    {
+        "question": "What makes diversity a business necessity?",
+        "options": ["Isolated markets", "Global market competition", "Uniform demographics", "Reduced productivity"],
+        "answer": "Global market competition",
+        "reference": "As the workforce demographics shift and global markets emerge, workplace diversity inches closer to becoming a business necessity."
+    },
+    {
+        "question": "What is a benefit of resolving grievances in industrial relations?",
+        "options": ["Increased conflict", "Improved employee satisfaction", "Reduced communication", "Avoiding meetings"],
+        "answer": "Improved employee satisfaction",
+        "reference": "The voices of the employees are captured during these meetings and the issues/grievances are resolved as per feasibility."
+    },
+    {
+        "question": "How does technology influence organizational restructuring?",
+        "options": ["It reduces work hours", "It changes work practices", "It eliminates diversity", "It avoids globalization"],
+        "answer": "It changes work practices",
+        "reference": "Work practices have changed due to the impact of globalization and technology."
+    },
+    {
+        "question": "What is a consequence of poor decision-making due to time constraints?",
+        "options": ["Improved solutions", "Reliance on suboptimal heuristics", "Complete information", "Eliminated risks"],
+        "answer": "Reliance on suboptimal heuristics",
+        "reference": "Time pressures can cause us to rely on heuristics rather than engage in deep processing. While heuristics save time, they don’t necessarily lead to the best possible solution."
+    },
+    {
+        "question": "Why is feedback critical in performance appraisals?",
+        "options": ["It avoids improvement", "It guides performance improvement", "It reduces motivation", "It ignores goals"],
+        "answer": "It guides performance improvement",
+        "reference": "The performance appraisal interview is the ideal forum for giving feedback on the performance of an individual over the appraisal period."
+    }
+]

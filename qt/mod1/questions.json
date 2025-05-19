@@ -1,0 +1,1058 @@
+[
+  {
+    "question": "What is the primary focus of statistics as a branch of mathematics?",
+    "options": [
+      "Conducting physical experiments",
+      "Collection and analysis of numerical data",
+      "Studying qualitative characteristics",
+      "Developing theoretical models"
+    ],
+    "answer": "Collection and analysis of numerical data",
+    "reference": "In simple terms Statistics, is a branch of Mathematics which deals with the collection, analysis, interpretation, and presentation of masses of numerical data."
+  },
+  {
+    "question": "In the singular sense, statistics refers to what?",
+    "options": [
+      "A collection of numerical data",
+      "Statistical principles and methods",
+      "Qualitative data analysis",
+      "Individual numerical figures"
+    ],
+    "answer": "Statistical principles and methods",
+    "reference": "In the singular sense, it represents a method of study and therefore, refers to statistical principles and methods developed for analysis and interpretation of data."
+  },
+  {
+    "question": "According to A.L. Bowley, what are statistics?",
+    "options": [
+      "Qualitative facts in any enquiry",
+      "Numerical facts placed in relation to each other",
+      "Estimates of future trends",
+      "Individual measurements"
+    ],
+    "answer": "Numerical facts placed in relation to each other",
+    "reference": "\u201cStatistics are numerical facts in any department of enquiry placed in relation to each other.\u201d\u2013 A.L. Bowley"
+  },
+  {
+    "question": "How do Yule & Kendall define statistics?",
+    "options": [
+      "Classified facts about a state\u2019s conditions",
+      "Quantitative data affected by multiple causes",
+      "Methods for hypothesis testing",
+      "Numerical facts without comparison"
+    ],
+    "answer": "Quantitative data affected by multiple causes",
+    "reference": "\u201cBy statistics we mean quantitative data affected to a marked extent by multiplicity of causes.\u201d \u2014 Yule & Kendall"
+  },
+  {
+    "question": "What does Webster\u2019s definition emphasize about statistics?",
+    "options": [
+      "Data collected haphazardly",
+      "Classified numerical facts about a state",
+      "Qualitative characteristics of a population",
+      "Individual data points"
+    ],
+    "answer": "Classified numerical facts about a state",
+    "reference": "\u201cStatistics are classified facts respecting the conditions of the people in a state \u2013 especially those facts which can be stated in numbers...\u201d \u2014 Webster"
+  },
+  {
+    "question": "Why are vaguely expressed terms difficult to interpret without statistics?",
+    "options": [
+      "They lack numerical precision",
+      "They are too specific",
+      "They are always qualitative",
+      "They cannot be compared"
+    ],
+    "answer": "They lack numerical precision",
+    "reference": "Vaguely expressed terms are often hard to interpret. In order to eradicate this vague appearance of situations figures are often used."
+  },
+  {
+    "question": "What role do figures play in understanding economic situations?",
+    "options": [
+      "They complicate data analysis",
+      "They enable comparison and estimation",
+      "They focus on qualitative aspects",
+      "They limit policy formulation"
+    ],
+    "answer": "They enable comparison and estimation",
+    "reference": "Using these figures, it might be possible to compare the extent of price changes in a country... and to estimate the possible level of prices at some future date."
+  },
+  {
+    "question": "In the plural sense, statistics refers to what?",
+    "options": [
+      "A set of numerical figures or data",
+      "Methods for data analysis",
+      "Qualitative observations",
+      "Individual measurements"
+    ],
+    "answer": "A set of numerical figures or data",
+    "reference": "Statistics, in plural sense, means a set of numerical figures or data."
+  },
+  {
+    "question": "What is a key feature of statistics according to its definitions?",
+    "options": [
+      "Focus on single data points",
+      "Dealing with qualitative data only",
+      "Numerical representation of facts",
+      "Avoiding data comparison"
+    ],
+    "answer": "Numerical representation of facts",
+    "reference": "In order that any set of facts can be called as statistics or data, it must be capable of being represented numerically or quantitatively."
+  },
+  {
+    "question": "Why is statistics considered a collection of quantitative data?",
+    "options": [
+      "It focuses on individual qualitative facts",
+      "It deals with numerical data analysis",
+      "It avoids numerical measurements",
+      "It only studies theoretical methods"
+    ],
+    "answer": "It deals with numerical data analysis",
+    "reference": "It is also termed as a collection of quantitative data."
+  },
+  {
+    "question": "Why can\u2019t a single numerical figure be considered statistics?",
+    "options": [
+      "It lacks qualitative context",
+      "It is not an aggregate of related facts",
+      "It is too complex to analyze",
+      "It cannot be measured accurately"
+    ],
+    "answer": "It is not an aggregate of related facts",
+    "reference": "Single numerical figure cannot be regarded as statistics... Statistics means an aggregate or a set of numerical figures which are related to one another."
+  },
+  {
+    "question": "What makes statistical data comparable?",
+    "options": [
+      "Using different units of measurement",
+      "Expressing data in the same units",
+      "Collecting data haphazardly",
+      "Focusing on unrelated facts"
+    ],
+    "answer": "Expressing data in the same units",
+    "reference": "It should also be noted here that different figures are comparable only if they are expressed in same units and represent the same characteristics."
+  },
+  {
+    "question": "What is a characteristic of statistical data regarding influencing factors?",
+    "options": [
+      "Affected by a single cause",
+      "Affected by multiple factors",
+      "Unaffected by external factors",
+      "Based on qualitative attributes"
+    ],
+    "answer": "Affected by multiple factors",
+    "reference": "Statistics are affected to a marked extent by a multiplicity of factors."
+  },
+  {
+    "question": "How are statistics typically collected to ensure accuracy?",
+    "options": [
+      "In a haphazard manner",
+      "With a reasonable standard of accuracy",
+      "Without a specific objective",
+      "Using unrelated units"
+    ],
+    "answer": "With a reasonable standard of accuracy",
+    "reference": "Statistics are either enumerated or estimated with reasonable standard of accuracy."
+  },
+  {
+    "question": "Why must statistics be collected systematically?",
+    "options": [
+      "To ensure errors in data",
+      "To avoid valid conclusions",
+      "To be free from errors",
+      "To collect unrelated data"
+    ],
+    "answer": "To be free from errors",
+    "reference": "In order that the results obtained from statistics are free from errors, it is necessary that these should be collected in a systematic manner."
+  },
+  {
+    "question": "What ensures that statistics are comparable over time or place?",
+    "options": [
+      "Collecting data in a haphazard manner",
+      "Using homogeneous and identical methods",
+      "Focusing on qualitative characteristics",
+      "Varying units of measurement"
+    ],
+    "answer": "Using homogeneous and identical methods",
+    "reference": "In order that statistics are comparable it is essential that they are homogeneous and pertain to the same investigation."
+  },
+  {
+    "question": "How can immeasurable facts like honesty be represented in statistics?",
+    "options": [
+      "By direct measurement",
+      "By counting individuals in categories",
+      "By qualitative descriptions",
+      "By avoiding numerical data"
+    ],
+    "answer": "By counting individuals in categories",
+    "reference": "Statistics or data can be obtained in such cases also, by counting the number of individuals in different categories."
+  },
+  {
+    "question": "What is a requirement for statistics to be valid?",
+    "options": [
+      "Collection without a specific purpose",
+      "Relating to a well-defined objective",
+      "Using unrelated numerical figures",
+      "Focusing on individual data points"
+    ],
+    "answer": "Relating to a well-defined objective",
+    "reference": "Statistics should be collected for a well-defined and specific objective."
+  },
+  {
+    "question": "Why are unrelated numerical figures not considered statistics?",
+    "options": [
+      "They lack numerical precision",
+      "They are not aggregates of related facts",
+      "They are too accurate",
+      "They are qualitative in nature"
+    ],
+    "answer": "They are not aggregates of related facts",
+    "reference": "A set of unconnected numerical figures cannot be termed as statistics."
+  },
+  {
+    "question": "What factor determines the degree of accuracy needed in statistical measurements?",
+    "options": [
+      "The nature and objective of the investigation",
+      "The availability of qualitative data",
+      "The use of unrelated units",
+      "The avoidance of numerical figures"
+    ],
+    "answer": "The nature and objective of the investigation",
+    "reference": "The degree of accuracy needed in an investigation depends upon its nature and objectivity on the one hand and upon time and resources on the other."
+  },
+  {
+    "question": "Which category of statistics includes methods for calculating averages and correlations?",
+    "options": [
+      "Inferential Statistics",
+      "Descriptive Statistics",
+      "Inductive Statistics",
+      "Applied Statistics"
+    ],
+    "answer": "Descriptive Statistics",
+    "reference": "Descriptive Statistics: All those methods which are used for... the methods of calculating average, dispersion, correlation and regression."
+  },
+  {
+    "question": "What is the focus of inductive statistics?",
+    "options": [
+      "Testing hypotheses about populations",
+      "Making generalizations based on samples",
+      "Presenting data in diagrams",
+      "Controlling product quality"
+    ],
+    "answer": "Making generalizations based on samples",
+    "reference": "Inductive Statistics: It includes all those methods which are used to make generalisations about a population on the basis of a sample."
+  },
+  {
+    "question": "Which statistical method is used to test hypotheses about population characteristics?",
+    "options": [
+      "Descriptive Statistics",
+      "Inductive Statistics",
+      "Inferential Statistics",
+      "Applied Statistics"
+    ],
+    "answer": "Inferential Statistics",
+    "reference": "Inferential Statistics: It includes all those methods which are used to test certain hypothesis regarding characteristics of a population."
+  },
+  {
+    "question": "What does applied statistics primarily involve?",
+    "options": [
+      "Theoretical data analysis",
+      "Application to practical problems",
+      "Hypothesis testing",
+      "Data presentation only"
+    ],
+    "answer": "Application to practical problems",
+    "reference": "Applied Statistics: It consists of the application of statistical methods to practical problems."
+  },
+  {
+    "question": "Which technique is included in applied statistics?",
+    "options": [
+      "Calculating theoretical probabilities",
+      "Designing sample surveys",
+      "Developing mathematical models",
+      "Testing population hypotheses"
+    ],
+    "answer": "Designing sample surveys",
+    "reference": "Design of sample surveys... are included in applied statistics."
+  },
+  {
+    "question": "What type of statistics is used for forecasting techniques?",
+    "options": [
+      "Descriptive Statistics",
+      "Inferential Statistics",
+      "Inductive Statistics",
+      "Applied Statistics"
+    ],
+    "answer": "Inductive Statistics",
+    "reference": "The techniques of forecasting are also included in inductive statistics."
+  },
+  {
+    "question": "Which method is part of descriptive statistics?",
+    "options": [
+      "Testing population hypotheses",
+      "Diagrammatic presentation of data",
+      "Making generalizations from samples",
+      "Decision-making under uncertainty"
+    ],
+    "answer": "Diagrammatic presentation of data",
+    "reference": "Descriptive Statistics: All those methods which are used for... diagrammatic presentation of data."
+  },
+  {
+    "question": "What is a key feature of applied statistics in business?",
+    "options": [
+      "Theoretical hypothesis testing",
+      "Quality control techniques",
+      "Qualitative data analysis",
+      "Avoiding numerical data"
+    ],
+    "answer": "Quality control techniques",
+    "reference": "Techniques of quality control... are included in applied statistics."
+  },
+  {
+    "question": "Why is statistics considered a science?",
+    "options": [
+      "It relies on qualitative analysis",
+      "It is a body of systematized knowledge",
+      "It avoids numerical data",
+      "It lacks general applications"
+    ],
+    "answer": "It is a body of systematized knowledge",
+    "reference": "We know that science is a body of systematized knowledge... statistics is a science."
+  },
+  {
+    "question": "What makes statistics an art?",
+    "options": [
+      "Its reliance on theoretical models",
+      "The skill required for its application",
+      "Its focus on qualitative facts",
+      "Its avoidance of numerical data"
+    ],
+    "answer": "The skill required for its application",
+    "reference": "How this knowledge is to be used for solving a problem is work of an art... statistics is an art also."
+  },
+  {
+    "question": "Why does the application of statistics depend on skill?",
+    "options": [
+      "It is purely theoretical",
+      "It requires experience and expertise",
+      "It avoids complex problems",
+      "It focuses on qualitative data"
+    ],
+    "answer": "It requires experience and expertise",
+    "reference": "Since the successful application of these methods depends, to a considerable degree, on the skill and experience of a statistician."
+  },
+  {
+    "question": "What role does statistics play as both a science and an art?",
+    "options": [
+      "It avoids practical applications",
+      "It combines systematic knowledge and skilled application",
+      "It focuses solely on theoretical analysis",
+      "It limits data interpretation"
+    ],
+    "answer": "It combines systematic knowledge and skilled application",
+    "reference": "Statistics is a science... Further since the successful application of these methods depends... on the skill and experience of a statistician, therefore, statistics is an art also."
+  },
+  {
+    "question": "Who is a notable contributor to modern statistics?",
+    "options": [
+      "Charles Wheelan",
+      "Darrell Huff",
+      "R.A. Fisher",
+      "A.L. Bowley"
+    ],
+    "answer": "R.A. Fisher",
+    "reference": "R.A. Fisher is a notable contributor to the field of statistics... \u2018Statistical Methods for Research Workers\u2019, published in 1925."
+  },
+  {
+    "question": "How does statistics assist the state in modern times?",
+    "options": [
+      "By limiting welfare objectives",
+      "By providing numerical data for governance",
+      "By avoiding economic analysis",
+      "By focusing on qualitative data"
+    ],
+    "answer": "By providing numerical data for governance",
+    "reference": "These governments require much greater information in the form of numerical figures for the fulfillment of welfare objectives."
+  },
+  {
+    "question": "What is the role of statistics in economics?",
+    "options": [
+      "Avoiding numerical data",
+      "Understanding economic problems numerically",
+      "Limiting policy formulation",
+      "Focusing on qualitative analysis"
+    ],
+    "answer": "Understanding economic problems numerically",
+    "reference": "Statistics is an indispensable tool for a proper understanding of various economic problems."
+  },
+  {
+    "question": "What is econometrics in relation to statistics?",
+    "options": [
+      "A qualitative branch of economics",
+      "A branch combining economics, statistics, and mathematics",
+      "A method for avoiding numerical data",
+      "A technique for theoretical analysis only"
+    ],
+    "answer": "A branch combining economics, statistics, and mathematics",
+    "reference": "A separate branch of economics, known as econometrics... techniques of econometrics are based upon the principles of economics, statistics, and mathematics."
+  },
+  {
+    "question": "How does statistics aid national income accounting?",
+    "options": [
+      "By avoiding macro-economic data",
+      "By estimating macro-economic variables",
+      "By limiting economic analysis",
+      "By focusing on qualitative facts"
+    ],
+    "answer": "By estimating macro-economic variables",
+    "reference": "The preparation of these accounts require data... is often estimated by using techniques and principles of statistics."
+  },
+  {
+    "question": "Why is statistics crucial for economic planning?",
+    "options": [
+      "It complicates resource allocation",
+      "It assesses resource availability for growth",
+      "It avoids numerical data",
+      "It limits policy evaluation"
+    ],
+    "answer": "It assesses resource availability for growth",
+    "reference": "Using statistical techniques, it is possible to assess the amounts of various resources available in the economy."
+  },
+  {
+    "question": "How does statistics support business decision-making?",
+    "options": [
+      "By relying on single-person decisions",
+      "By providing techniques for policy formulation",
+      "By avoiding numerical analysis",
+      "By limiting market surveys"
+    ],
+    "answer": "By providing techniques for policy formulation",
+    "reference": "Statistics provides necessary techniques to a businessman for the formulation of various policies with regard to his business."
+  },
+  {
+    "question": "What role does statistics play in production planning?",
+    "options": [
+      "Estimating demand through market surveys",
+      "Avoiding demand forecasting",
+      "Limiting production output",
+      "Ignoring market conditions"
+    ],
+    "answer": "Estimating demand through market surveys",
+    "reference": "For this he has to estimate the pattern of demand of the product by conducting various market surveys."
+  },
+  {
+    "question": "How is statistics used in quality control?",
+    "options": [
+      "By avoiding control charts",
+      "By setting quality control limits",
+      "By limiting production output",
+      "By ignoring manufacturing processes"
+    ],
+    "answer": "By setting quality control limits",
+    "reference": "This consists of the preparation of control charts by means of the specification of an average quality."
+  },
+  {
+    "question": "What is a statistical technique used in business auditing?",
+    "options": [
+      "Complete transaction analysis",
+      "Sampling techniques",
+      "Qualitative assessments",
+      "Avoiding numerical data"
+    ],
+    "answer": "Sampling techniques",
+    "reference": "Statistics provides sampling techniques to audit the accounts of a business firm."
+  },
+  {
+    "question": "How do banks use statistics?",
+    "options": [
+      "To avoid cash flow analysis",
+      "To determine daily cash requirements",
+      "To limit investment policies",
+      "To focus on qualitative data"
+    ],
+    "answer": "To determine daily cash requirements",
+    "reference": "Banks use statistical techniques to take decisions regarding the average amount of cash needed each day."
+  },
+  {
+    "question": "What is a primary function of statistics in presenting data?",
+    "options": [
+      "Complicating numerical facts",
+      "Presenting facts in numerical form",
+      "Avoiding data simplification",
+      "Focusing on qualitative descriptions"
+    ],
+    "answer": "Presenting facts in numerical form",
+    "reference": "First function of statistics is to present a given problem in terms of numerical figures."
+  },
+  {
+    "question": "How does statistics simplify complex data?",
+    "options": [
+      "By summarizing data to highlight features",
+      "By complicating data presentation",
+      "By avoiding numerical analysis",
+      "By limiting data comparison"
+    ],
+    "answer": "By summarizing data to highlight features",
+    "reference": "This simplification is achieved by the summarization of data so that broad features of the given problem are brought into focus."
+  },
+  {
+    "question": "What does statistics enable in studying phenomena?",
+    "options": [
+      "Avoiding relationships between variables",
+      "Investigating relationships like correlation",
+      "Limiting data comparison",
+      "Focusing on qualitative analysis"
+    ],
+    "answer": "Investigating relationships like correlation",
+    "reference": "Statistics can be used to investigate whether two or more phenomena are related."
+  },
+  {
+    "question": "How does statistics assist in policy formulation?",
+    "options": [
+      "By avoiding numerical data",
+      "By analyzing data for decision-making",
+      "By limiting data simplification",
+      "By focusing on qualitative facts"
+    ],
+    "answer": "By analyzing data for decision-making",
+    "reference": "Statistical analysis of data is the starting point in the formulation of policies in various economic, business and government activities."
+  },
+  {
+    "question": "What statistical technique supports forecasting?",
+    "options": [
+      "Qualitative analysis",
+      "Time series analysis",
+      "Avoiding numerical data",
+      "Limiting data comparison"
+    ],
+    "answer": "Time series analysis",
+    "reference": "Various techniques used for forecasting are time series analysis, regression analysis, etc."
+  },
+  {
+    "question": "What is a limitation of statistics regarding data type?",
+    "options": [
+      "It deals only with qualitative facts",
+      "It deals only with numerical facts",
+      "It avoids numerical analysis",
+      "It focuses on individual data points"
+    ],
+    "answer": "It deals only with numerical facts",
+    "reference": "Deals with Numerical Factors Only: Quantitative facts... can be analysed and interpreted with the help of statistical methods."
+  },
+  {
+    "question": "Why are statistical results approximate?",
+    "options": [
+      "They are based on precise measurements",
+      "They rely on sample or estimated data",
+      "They avoid numerical analysis",
+      "They focus on qualitative facts"
+    ],
+    "answer": "They rely on sample or estimated data",
+    "reference": "Most of the statistical studies are based on a sample taken from the population... conclusions... are bound to be true only approximately."
+  },
+  {
+    "question": "What is the primary purpose of using figures in statistics?",
+    "options": [
+      "To complicate data interpretation",
+      "To express situations precisely",
+      "To focus on qualitative aspects",
+      "To avoid numerical analysis"
+    ],
+    "answer": "To express situations precisely",
+    "reference": "In order to eradicate this vague appearance of situations figures are often used."
+  },
+  {
+    "question": "How does statistics help in comparing economic conditions?",
+    "options": [
+      "By avoiding numerical data",
+      "By using figures for comparison",
+      "By limiting data analysis",
+      "By focusing on qualitative facts"
+    ],
+    "answer": "By using figures for comparison",
+    "reference": "Using these figures, it might be possible to compare the extent of price changes in a country vis-a-vis the changes in prices of some other country."
+  },
+  {
+    "question": "What does statistics in the plural sense represent?",
+    "options": [
+      "A method of study",
+      "A set of numerical figures",
+      "Qualitative observations",
+      "Theoretical principles"
+    ],
+    "answer": "A set of numerical figures",
+    "reference": "Statistics, in plural sense, means a set of numerical figures or data."
+  },
+  {
+    "question": "According to Bowley, what is a key aspect of statistics?",
+    "options": [
+      "Qualitative data collection",
+      "Numerical facts in relation",
+      "Individual data points",
+      "Non-numerical analysis"
+    ],
+    "answer": "Numerical facts in relation",
+    "reference": "\u201cStatistics are numerical facts in any department of enquiry placed in relation to each other.\u201d\u2013 A.L. Bowley"
+  },
+  {
+    "question": "What do Yule & Kendall emphasize about statistical data?",
+    "options": [
+      "Single-factor influence",
+      "Multiple causes affecting data",
+      "Qualitative characteristics",
+      "Individual measurements"
+    ],
+    "answer": "Multiple causes affecting data",
+    "reference": "\u201cBy statistics we mean quantitative data affected to a marked extent by multiplicity of causes.\u201d \u2014 Yule & Kendall"
+  },
+  {
+    "question": "How does Webster describe statistics?",
+    "options": [
+      "As methods for data analysis",
+      "As classified numerical facts",
+      "As qualitative observations",
+      "As individual data points"
+    ],
+    "answer": "As classified numerical facts",
+    "reference": "\u201cStatistics are classified facts respecting the conditions of the people in a state \u2013 especially those facts which can be stated in numbers...\u201d \u2014 Webster"
+  },
+  {
+    "question": "Why is statistics considered a branch of mathematics?",
+    "options": [
+      "It focuses on qualitative analysis",
+      "It deals with numerical data analysis",
+      "It avoids data interpretation",
+      "It limits data presentation"
+    ],
+    "answer": "It deals with numerical data analysis",
+    "reference": "In simple terms Statistics, is a branch of Mathematics which deals with the collection, analysis, interpretation, and presentation of masses of numerical data."
+  },
+  {
+    "question": "What is a key function of statistics in policy suggestion?",
+    "options": [
+      "Avoiding numerical estimates",
+      "Estimating future trends",
+      "Limiting data comparison",
+      "Focusing on qualitative data"
+    ],
+    "answer": "Estimating future trends",
+    "reference": "Using these figures, it might be possible to estimate the possible level of prices at some future date so that some policy measures can be suggested."
+  },
+  {
+    "question": "In the singular sense, what does statistics encompass?",
+    "options": [
+      "A collection of data points",
+      "Statistical methods and principles",
+      "Qualitative data collection",
+      "Individual numerical figures"
+    ],
+    "answer": "Statistical methods and principles",
+    "reference": "In the singular sense, it represents a method of study and therefore, refers to statistical principles and methods developed for analysis and interpretation of data."
+  },
+  {
+    "question": "What is a core component of statistics as a discipline?",
+    "options": [
+      "Qualitative data interpretation",
+      "Collection and presentation of data",
+      "Avoidance of numerical facts",
+      "Focus on single data points"
+    ],
+    "answer": "Collection and presentation of data",
+    "reference": "Statistics, is a branch of Mathematics which deals with the collection, analysis, interpretation, and presentation of masses of numerical data."
+  },
+  {
+    "question": "Why are numerical figures essential for statistics?",
+    "options": [
+      "They complicate data analysis",
+      "They enable quantitative representation",
+      "They focus on qualitative attributes",
+      "They avoid data comparison"
+    ],
+    "answer": "They enable quantitative representation",
+    "reference": "In order that any set of facts can be called as statistics or data, it must be capable of being represented numerically or quantitatively."
+  },
+  {
+    "question": "What is required for numerical figures to be considered statistics?",
+    "options": [
+      "They must be unrelated",
+      "They must be an aggregate of related facts",
+      "They must be qualitative",
+      "They must be individual measurements"
+    ],
+    "answer": "They must be an aggregate of related facts",
+    "reference": "Statistics means an aggregate or a set of numerical figures which are related to one another."
+  },
+  {
+    "question": "How are statistics affected by multiple factors?",
+    "options": [
+      "They are influenced by a single cause",
+      "They reflect complex situations",
+      "They focus on qualitative attributes",
+      "They avoid numerical analysis"
+    ],
+    "answer": "They reflect complex situations",
+    "reference": "Statistics are affected to a marked extent by a multiplicity of factors."
+  },
+  {
+    "question": "What ensures the accuracy of statistical data collection?",
+    "options": [
+      "Haphazard collection methods",
+      "Reasonable standard of accuracy",
+      "Unrelated data points",
+      "Qualitative measurements"
+    ],
+    "answer": "Reasonable standard of accuracy",
+    "reference": "Statistics are either enumerated or estimated with reasonable standard of accuracy."
+  },
+  {
+    "question": "Why is systematic collection important for statistics?",
+    "options": [
+      "To introduce errors",
+      "To ensure error-free results",
+      "To collect unrelated data",
+      "To avoid numerical figures"
+    ],
+    "answer": "To ensure error-free results",
+    "reference": "In order that the results obtained from statistics are free from errors, it is necessary that these should be collected in a systematic manner."
+  },
+  {
+    "question": "What makes statistics comparable across different conditions?",
+    "options": [
+      "Using different units",
+      "Homogeneous data collection",
+      "Haphazard data collection",
+      "Focusing on qualitative data"
+    ],
+    "answer": "Homogeneous data collection",
+    "reference": "In order that statistics are comparable it is essential that they are homogeneous and pertain to the same investigation."
+  },
+  {
+    "question": "How can non-measurable facts be included in statistics?",
+    "options": [
+      "By direct measurement",
+      "By counting categorized individuals",
+      "By qualitative descriptions",
+      "By avoiding numerical data"
+    ],
+    "answer": "By counting categorized individuals",
+    "reference": "Statistics or data can be obtained in such cases also, by counting the number of individuals in different categories."
+  },
+  {
+    "question": "What is a key requirement for valid statistical data?",
+    "options": [
+      "Collection without purpose",
+      "Well-defined objective",
+      "Unrelated numerical figures",
+      "Qualitative focus"
+    ],
+    "answer": "Well-defined objective",
+    "reference": "Statistics should be collected for a well-defined and specific objective."
+  },
+  {
+    "question": "Why are statistics expressed in the same units?",
+    "options": [
+      "To complicate analysis",
+      "To ensure comparability",
+      "To avoid numerical data",
+      "To focus on qualitative facts"
+    ],
+    "answer": "To ensure comparability",
+    "reference": "Different figures are comparable only if they are expressed in same units and represent the same characteristics."
+  },
+  {
+    "question": "What determines the accuracy needed in statistical measurements?",
+    "options": [
+      "Qualitative nature of data",
+      "Investigation\u2019s nature and objective",
+      "Unrelated data points",
+      "Haphazard collection"
+    ],
+    "answer": "Investigation\u2019s nature and objective",
+    "reference": "The degree of accuracy needed in an investigation depends upon its nature and objectivity on the one hand and upon time and resources on the other."
+  },
+  {
+    "question": "Which statistical method involves tabulation of data?",
+    "options": [
+      "Inferential Statistics",
+      "Descriptive Statistics",
+      "Inductive Statistics",
+      "Applied Statistics"
+    ],
+    "answer": "Descriptive Statistics",
+    "reference": "Descriptive Statistics: All those methods which are used for the collection, classification, tabulation, diagrammatic presentation of data."
+  },
+  {
+    "question": "What is a primary focus of inferential statistics?",
+    "options": [
+      "Presenting data in graphs",
+      "Testing population hypotheses",
+      "Calculating averages",
+      "Conducting market surveys"
+    ],
+    "answer": "Testing population hypotheses",
+    "reference": "Inferential Statistics: It includes all those methods which are used to test certain hypothesis regarding characteristics of a population."
+  },
+  {
+    "question": "Which category includes techniques for forecasting?",
+    "options": [
+      "Descriptive Statistics",
+      "Inferential Statistics",
+      "Inductive Statistics",
+      "Applied Statistics"
+    ],
+    "answer": "Inductive Statistics",
+    "reference": "The techniques of forecasting are also included in inductive statistics."
+  },
+  {
+    "question": "What is a key application of applied statistics?",
+    "options": [
+      "Theoretical hypothesis testing",
+      "Decision-making in business",
+      "Qualitative data analysis",
+      "Avoiding numerical data"
+    ],
+    "answer": "Decision-making in business",
+    "reference": "Decision-making in business... are included in applied statistics."
+  },
+  {
+    "question": "Which method is used in descriptive statistics?",
+    "options": [
+      "Testing hypotheses",
+      "Calculating dispersion",
+      "Making generalizations",
+      "Decision-making under uncertainty"
+    ],
+    "answer": "Calculating dispersion",
+    "reference": "Descriptive Statistics: All those methods which are used for... the methods of calculating average, dispersion, correlation and regression."
+  },
+  {
+    "question": "What does applied statistics focus on?",
+    "options": [
+      "Theoretical data analysis",
+      "Practical problem-solving",
+      "Qualitative assessments",
+      "Avoiding numerical data"
+    ],
+    "answer": "Practical problem-solving",
+    "reference": "Applied Statistics: It consists of the application of statistical methods to practical problems."
+  },
+  {
+    "question": "Which technique is part of applied statistics?",
+    "options": [
+      "Developing theoretical models",
+      "Quality control techniques",
+      "Testing population hypotheses",
+      "Calculating probabilities"
+    ],
+    "answer": "Quality control techniques",
+    "reference": "Techniques of quality control... are included in applied statistics."
+  },
+  {
+    "question": "Why is statistics considered an art?",
+    "options": [
+      "It avoids practical applications",
+      "It requires skill in application",
+      "It focuses on theoretical models",
+      "It limits data analysis"
+    ],
+    "answer": "It requires skill in application",
+    "reference": "How this knowledge is to be used for solving a problem is work of an art."
+  },
+  {
+    "question": "What characteristic makes statistics a science?",
+    "options": [
+      "Its focus on qualitative data",
+      "Its systematized knowledge",
+      "Its avoidance of numerical facts",
+      "Its limited applications"
+    ],
+    "answer": "Its systematized knowledge",
+    "reference": "Science is a body of systematized knowledge... statistics is a science."
+  },
+  {
+    "question": "Why does statistics require expertise?",
+    "options": [
+      "It is purely theoretical",
+      "Its application depends on skill",
+      "It avoids complex problems",
+      "It focuses on qualitative data"
+    ],
+    "answer": "Its application depends on skill",
+    "reference": "Since the successful application of these methods depends, to a considerable degree, on the skill and experience of a statistician."
+  },
+  {
+    "question": "How is statistics both a science and an art?",
+    "options": [
+      "It avoids numerical data",
+      "It combines knowledge and skill",
+      "It limits practical applications",
+      "It focuses on qualitative analysis"
+    ],
+    "answer": "It combines knowledge and skill",
+    "reference": "Statistics is a science... Further since the successful application of these methods depends... on the skill and experience of a statistician, therefore, statistics is an art also."
+  },
+  {
+    "question": "What role does skill play in statistical application?",
+    "options": [
+      "It complicates data analysis",
+      "It ensures effective problem-solving",
+      "It avoids numerical data",
+      "It limits data interpretation"
+    ],
+    "answer": "It ensures effective problem-solving",
+    "reference": "Art also helps in achieving certain objectives... since the successful application of these methods depends... on the skill and experience of a statistician."
+  },
+  {
+    "question": "How does statistics support economic policy formulation?",
+    "options": [
+      "By avoiding numerical data",
+      "By providing guidelines for policies",
+      "By limiting economic analysis",
+      "By focusing on qualitative facts"
+    ],
+    "answer": "By providing guidelines for policies",
+    "reference": "Statistics is an indispensable tool for a proper understanding of various economic problems. It also provides important guidelines for the formulation of various economic policies."
+  },
+  {
+    "question": "What is the role of statistics in econometrics?",
+    "options": [
+      "Avoiding numerical analysis",
+      "Combining statistics with economics",
+      "Limiting data interpretation",
+      "Focusing on qualitative data"
+    ],
+    "answer": "Combining statistics with economics",
+    "reference": "A separate branch of economics, known as econometrics... techniques of econometrics are based upon the principles of economics, statistics, and mathematics."
+  },
+  {
+    "question": "How does statistics aid national income accounting?",
+    "options": [
+      "By limiting macro-economic data",
+      "By estimating economic variables",
+      "By avoiding numerical analysis",
+      "By focusing on qualitative facts"
+    ],
+    "answer": "By estimating economic variables",
+    "reference": "The preparation of these accounts require data... is often estimated by using techniques and principles of statistics."
+  },
+  {
+    "question": "Why is statistics essential for planning?",
+    "options": [
+      "It complicates resource allocation",
+      "It assesses resource sustainability",
+      "It avoids numerical data",
+      "It limits policy evaluation"
+    ],
+    "answer": "It assesses resource sustainability",
+    "reference": "Using statistical techniques, it is possible to assess the amounts of various resources available in the economy and accordingly determine whether the specified rate of growth is sustainable."
+  },
+  {
+    "question": "How does statistics assist in business inventory control?",
+    "options": [
+      "By avoiding demand analysis",
+      "By setting optimal inventory limits",
+      "By limiting production output",
+      "By ignoring market fluctuations"
+    ],
+    "answer": "By setting optimal inventory limits",
+    "reference": "The optimum limits of inventory... can be decided by the statistics analysis of the fluctuations in demand and supply of the product."
+  },
+  {
+    "question": "What is the role of statistics in quality control?",
+    "options": [
+      "Avoiding control charts",
+      "Setting quality control limits",
+      "Limiting production output",
+      "Ignoring manufacturing processes"
+    ],
+    "answer": "Setting quality control limits",
+    "reference": "This consists of the preparation of control charts by means of the specification of an average quality."
+  },
+  {
+    "question": "How do insurance companies use statistics?",
+    "options": [
+      "To avoid numerical data",
+      "To construct mortality tables",
+      "To limit premium rates",
+      "To focus on qualitative data"
+    ],
+    "answer": "To construct mortality tables",
+    "reference": "Depending upon these studies, mortality tables are constructed and accordingly the rates of premium to be charged by an insurance company are decided."
+  },
+  {
+    "question": "What is a key function of statistics in data simplification?",
+    "options": [
+      "Complicating numerical data",
+      "Summarizing data for clarity",
+      "Avoiding data presentation",
+      "Focusing on qualitative facts"
+    ],
+    "answer": "Summarizing data for clarity",
+    "reference": "This simplification is achieved by the summarization of data so that broad features of the given problem are brought into focus."
+  },
+  {
+    "question": "How does statistics enable comparison of phenomena?",
+    "options": [
+      "By avoiding numerical measures",
+      "By computing measures like mean",
+      "By limiting data analysis",
+      "By focusing on qualitative data"
+    ],
+    "answer": "By computing measures like mean",
+    "reference": "The purpose of undertaking a statistical analysis is to compare various phenomena by computing one or more measures like mean, variance, ratios."
+  },
+  {
+    "question": "What is a benefit of statistics in human experience?",
+    "options": [
+      "Limiting problem-solving",
+      "Enlarging individual experience",
+      "Avoiding numerical data",
+      "Focusing on qualitative facts"
+    ],
+    "answer": "Enlarging individual experience",
+    "reference": "\u201cThe proper function of statistics, indeed is to enlarge individual experience.\u201d"
+  },
+  {
+    "question": "How does statistics support hypothesis testing?",
+    "options": [
+      "By avoiding numerical data",
+      "By testing population characteristics",
+      "By limiting data analysis",
+      "By focusing on qualitative facts"
+    ],
+    "answer": "By testing population characteristics",
+    "reference": "It is possible to test the validity of this statement by the use of statistical techniques."
+  },
+  {
+    "question": "What is a limitation of statistics regarding individual data?",
+    "options": [
+      "It focuses on individual characteristics",
+      "It deals only with groups",
+      "It avoids numerical analysis",
+      "It ensures exact results"
+    ],
+    "answer": "It deals only with groups",
+    "reference": "Statistics only deals with groups and not individuals."
+  },
+  {
+    "question": "Why are statistical results only approximately true?",
+    "options": [
+      "They are based on precise data",
+      "They rely on samples or estimates",
+      "They avoid numerical analysis",
+      "They focus on qualitative data"
+    ],
+    "answer": "They rely on samples or estimates",
+    "reference": "Most of the statistical studies are based on a sample taken from the population... conclusions... are bound to be true only approximately."
+  },
+  {
+    "question": "What is a key limitation of statistics in terms of expertise?",
+    "options": [
+      "It is easily understood by all",
+      "It requires expert use",
+      "It avoids complex methods",
+      "It focuses on qualitative data"
+    ],
+    "answer": "It requires expert use",
+    "reference": "\u201cStatistical methods are the most dangerous tools in the hands of in experts.\u201d"
+  }
+]

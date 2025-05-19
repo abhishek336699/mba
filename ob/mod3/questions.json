@@ -1,0 +1,584 @@
+[
+    {
+        "question": "What defines a group in an organizational context?",
+        "options": ["Individuals working independently", "Two or more interdependent individuals achieving objectives", "A single person managing tasks", "Non-interacting employees"],
+        "answer": "Two or more interdependent individuals achieving objectives",
+        "reference": "A group is defined as two or more individuals, interacting and interdependent, who have come together to achieve particular objectives."
+    },
+    {
+        "question": "What characterizes a high-performance group?",
+        "options": ["Lack of coordination", "Desire to contribute and coordinate efforts", "Minimal interaction", "Independent task completion"],
+        "answer": "Desire to contribute and coordinate efforts",
+        "reference": "Groups where people get along, feel dire desire to contribute to the team, and are capable of coordinating their efforts may have high-performance levels."
+    },
+    {
+        "question": "How can a group be described in simple terms?",
+        "options": ["Unrelated individuals", "People connected by shared activity or purpose", "Isolated workers", "Non-collaborative teams"],
+        "answer": "People connected by shared activity or purpose",
+        "reference": "Several people who are connected by some shared activity, interest, or quality."
+    },
+    {
+        "question": "What is a key function of groups in organizations?",
+        "options": ["Isolating tasks", "Generating creative solutions", "Reducing interdependence", "Avoiding coordination"],
+        "answer": "Generating creative solutions",
+        "reference": "Generating new ideas or creative solutions to solve problems that require inputs from several people."
+    },
+    {
+        "question": "How do groups facilitate complex decision implementation?",
+        "options": ["By working independently", "By coordinating interrelated group activities", "By avoiding representatives", "By simplifying tasks"],
+        "answer": "By coordinating interrelated group activities",
+        "reference": "A group composed of representatives from various working groups can coordinate the activities of these interrelated groups."
+    },
+    {
+        "question": "What role do groups play in training new employees?",
+        "options": ["They isolate new members", "They teach methods and norms", "They avoid group interaction", "They reduce learning opportunities"],
+        "answer": "They teach methods and norms",
+        "reference": "Serving as a vehicle for training new employees, groups teach new members methods of operations and group norms."
+    },
+    {
+        "question": "What is a characteristic of formal groups?",
+        "options": ["Based on personal relationships", "Created for specific organizational objectives", "Formed without management", "Focused on social needs"],
+        "answer": "Created for specific organizational objectives",
+        "reference": "Formal groups are created to achieve specific organizational objectives."
+    },
+    {
+        "question": "How do informal groups differ from formal groups?",
+        "options": ["They focus on task coordination", "They are based on personal relationships", "They are defined by management", "They follow strict rules"],
+        "answer": "They are based on personal relationships",
+        "reference": "Informal groups are based more on personal relationships and agreement of group’s members than on defined role relationships."
+    },
+    {
+        "question": "What defines a goal group?",
+        "options": ["Follows fixed instructions", "Lacks clear processes to achieve objectives", "Focuses on routine tasks", "Avoids member intelligence"],
+        "answer": "Lacks clear processes to achieve objectives",
+        "reference": "Unlike the process groups, there is no clear instruction on how they should achieve this."
+    },
+    {
+        "question": "What is a feature of a problem-solving group?",
+        "options": ["Avoids disagreements", "Addresses issues with varied perspectives", "Follows strict procedures", "Focuses on social alliances"],
+        "answer": "Addresses issues with varied perspectives",
+        "reference": "Problem-solving groups come together to address issues that have arisen. They have a common purpose in understanding and resolving their issue, although their different perspectives can lead to particular disagreements."
+    },
+    {
+        "question": "What skill promotes a healthy group climate?",
+        "options": ["Closed communication", "Openness to diverse viewpoints", "Avoiding feedback", "Ignoring accountability"],
+        "answer": "Openness to diverse viewpoints",
+        "reference": "Group members are willing to get to know one another, particularly those with different interests and backgrounds. They are open to new ideas, diverse viewpoints."
+    },
+    {
+        "question": "How does trust contribute to group cohesion?",
+        "options": ["By limiting self-disclosure", "By encouraging honest sharing", "By avoiding accountability", "By reducing interaction"],
+        "answer": "By encouraging honest sharing",
+        "reference": "A sense of mutual trust develops only to the extent that everyone is willing to self-disclose and be honest yet respectful."
+    },
+    {
+        "question": "What is a benefit of constructive feedback in groups?",
+        "options": ["It focuses on individuals", "It offers improvement suggestions", "It avoids clarity", "It discourages listening"],
+        "answer": "It offers improvement suggestions",
+        "reference": "Giving constructive feedback requires focusing on ideas and behaviours, instead of individuals, being as positive as possible and offering suggestions for improvement."
+    },
+    {
+        "question": "Why do individuals join groups for security?",
+        "options": ["To increase self-doubt", "To feel stronger and reduce insecurity", "To avoid collaboration", "To reduce resistance"],
+        "answer": "To feel stronger and reduce insecurity",
+        "reference": "Probably the strongest reason for group formation is the people’s need for security. By joining a group we can reduce our insecurity – we feel stronger, have fewer self-doubts."
+    },
+    {
+        "question": "How does group membership enhance esteem?",
+        "options": ["By isolating members", "By associating with high-status groups", "By avoiding recognition", "By reducing praise"],
+        "answer": "By associating with high-status groups",
+        "reference": "First, one may gain esteem by becoming a member of a high-status group. Associating with high-status people is reinforcing."
+    },
+    {
+        "question": "What motivates individuals to join groups for power?",
+        "options": ["To avoid collective strength", "To gain influence through unity", "To reduce leadership roles", "To limit group interaction"],
+        "answer": "To gain influence through unity",
+        "reference": "First, there are sayings such as 'united we stand, divided we fall and there is strength in numbers.' These are driving forces behind unionizations."
+    },
+    {
+        "question": "What defines work group effectiveness according to Hackman’s model?",
+        "options": ["Only productive output", "Productivity, need satisfaction, and future cooperation", "Avoiding social processes", "Ignoring personal needs"],
+        "answer": "Productivity, need satisfaction, and future cooperation",
+        "reference": "According to Hackman’s model, effectiveness is defined in terms of three criteria: Productive output... Personal need satisfaction... Capacity for future cooperation."
+    },
+    {
+        "question": "What is a determinant of work group effectiveness?",
+        "options": ["Lack of effort", "Group knowledge and skill", "Ignoring task strategies", "Avoiding performance norms"],
+        "answer": "Group knowledge and skill",
+        "reference": "Group knowledge and skill. The amount of knowledge and skills possessed by group members that are available for group effort and performance."
+    },
+    {
+        "question": "How does work technology influence group effectiveness?",
+        "options": ["It reduces skill importance", "It affects the importance of effort and skills", "It eliminates task strategies", "It avoids environmental factors"],
+        "answer": "It affects the importance of effort and skills",
+        "reference": "An important influence on the relative importance of these three variables is the nature of work technology... For example, if jobs are highly routinized, individual skills and knowledge may be somewhat less important than simple effort."
+    },
+    {
+        "question": "What is a managerial action to enhance group effectiveness?",
+        "options": ["Ignoring group norms", "Understanding motivational implications of groups", "Avoiding conformity pressures", "Reducing cohesiveness"],
+        "answer": "Understanding motivational implications of groups",
+        "reference": "By learning why individuals join groups, for example, managers should be able to better understand the motivational implications of group dynamics."
+    },
+    {
+        "question": "What is a challenge in multicultural teams related to communication?",
+        "options": ["Uniform communication styles", "Direct versus indirect communication styles", "Identical language fluency", "Avoiding cultural differences"],
+        "answer": "Direct versus indirect communication styles",
+        "reference": "The first difference is direct versus indirect communication. Some cultures are very direct and explicit in their communication, while others are more indirect."
+    },
+    {
+        "question": "How can accents impact multicultural team dynamics?",
+        "options": ["They enhance fluency", "They may make members feel left out", "They simplify communication", "They avoid language barriers"],
+        "answer": "They may make members feel left out",
+        "reference": "When team members don’t speak the same language, there may be one language that dominates the group interaction—and those who don’t speak it may feel left out."
+    },
+    {
+        "question": "What is an intervention for multicultural team conflicts?",
+        "options": ["Ignoring differences", "Adaptation to cultural differences", "Avoiding reorganization", "Encouraging cliques"],
+        "answer": "Adaptation to cultural differences",
+        "reference": "One simple intervention is adaptation, which is working with or around differences."
+    },
+    {
+        "question": "When is structural intervention appropriate for multicultural teams?",
+        "options": ["When differences are minimal", "When unproductive subgroups exist", "When team members agree fully", "When conflicts are absent"],
+        "answer": "When unproductive subgroups exist",
+        "reference": "The next intervention technique is structural intervention, or reorganizing to reduce friction on the team. This technique is best used if there are unproductive subgroups or cliques."
+    },
+    {
+        "question": "What is cultural intelligence in multicultural teams?",
+        "options": ["Ignoring cultural norms", "Adapting behavior to other cultures", "Avoiding cross-cultural interactions", "Focusing on one culture"],
+        "answer": "Adapting behavior to other cultures",
+        "reference": "Cultural intelligence is a competency and a skill that enables individuals to function effectively in cross-cultural environments. It develops as people... become more capable of adapting their behaviour to the norms of other cultures."
+    },
+    {
+        "question": "How can employees develop cultural intelligence?",
+        "options": ["By avoiding diverse cultures", "By expanding cultural exposure", "By limiting global interactions", "By focusing on local norms"],
+        "answer": "By expanding cultural exposure",
+        "reference": "The first is to 'broaden your mind'—expand your own cultural channels (travel, movies, books) and surround yourself with people from other cultures."
+    },
+    {
+        "question": "What is a benefit of cultural intelligence for leaders?",
+        "options": ["Reduced conflict resolution", "Better relations with diverse team members", "Limited negotiation skills", "Increased cultural baggage"],
+        "answer": "Better relations with diverse team members",
+        "reference": "Multicultural leaders may relate better to team members from different cultures and resolve conflicts more easily."
+    },
+    {
+        "question": "Why is practicing cross-cultural skills important?",
+        "options": ["It reduces cultural awareness", "It enhances experiential learning", "It avoids global colleagues", "It limits team bonding"],
+        "answer": "It enhances experiential learning",
+        "reference": "Another best practice is to 'develop your cross-cultural skills through practice' and experiential learning."
+    },
+    {
+        "question": "Why is managerial communication critical for corporate reputation?",
+        "options": ["It avoids stakeholder feedback", "It shapes how others perceive the organization", "It reduces language importance", "It limits interpersonal skills"],
+        "answer": "It shapes how others perceive the organization",
+        "reference": "It also involves finding ways to shape how others see and think of you in your role as a manager."
+    },
+    {
+        "question": "What skill is essential for effective managerial communication?",
+        "options": ["Ignoring feedback", "Listening to understand others", "Avoiding critical thinking", "Limiting written communication"],
+        "answer": "Listening to understand others",
+        "reference": "Managers’ effectiveness as listeners will determine how well they understand and respond to others."
+    },
+    {
+        "question": "How does language impact managerial success?",
+        "options": ["It is irrelevant to actions", "It facilitates strategic expression", "It avoids reputation management", "It reduces organizational change"],
+        "answer": "It facilitates strategic expression",
+        "reference": "Without words we have no way of expressing strategic concepts, structural forms, or designs for performance measurement systems."
+    },
+    {
+        "question": "What is a role of management communication?",
+        "options": ["Avoiding reputation management", "Moving information effectively", "Reducing stakeholder interaction", "Ignoring organizational identity"],
+        "answer": "Moving information effectively",
+        "reference": "Management communication is about the movement of information and the skills that facilitate it—speaking, writing, listening, and processes of critical thinking."
+    },
+    {
+        "question": "How does effective speaking influence corporate reputation?",
+        "options": ["It reduces management effectiveness", "It helps manage firm reputation", "It avoids stakeholder trust", "It limits organizational change"],
+        "answer": "It helps manage firm reputation",
+        "reference": "Managers’ effectiveness as a speaker and writer will determine how well they are able to manage the firm’s reputation."
+    },
+    {
+        "question": "What is a component of corporate reputation management?",
+        "options": ["Ignoring organizational identity", "Understanding organizational identity", "Avoiding communication skills", "Reducing feedback"],
+        "answer": "Understanding organizational identity",
+        "reference": "It’s also about understanding who your organization is (identity), who others think your organization is (reputation)."
+    },
+    {
+        "question": "Why is confidence important in managerial communication?",
+        "options": ["It avoids feedback", "It enables effective speaking and listening", "It reduces critical thinking", "It limits reputation management"],
+        "answer": "It enables effective speaking and listening",
+        "reference": "It is also about confidence—the knowledge that one can speak and write well, listen with great skill as others speak."
+    },
+    {
+        "question": "What is a challenge for 21st-century leaders?",
+        "options": ["Stable environments", "Managing global competitiveness", "Avoiding diversity", "Reducing organizational change"],
+        "answer": "Managing global competitiveness",
+        "reference": "Global competitiveness is creating some unique leadership demands."
+    },
+    {
+        "question": "What trait is essential for 21st-century leaders?",
+        "options": ["Ignoring diversity", "Being globally aware", "Avoiding decentralization", "Reducing interpersonal skills"],
+        "answer": "Being globally aware",
+        "reference": "They will have to be globally aware; with 80 percent of today’s organizations facing significant foreign competition, knowledge of foreign markets, global economics, and geopolitics is crucial."
+    },
+    {
+        "question": "How do 21st-century leaders manage diversity?",
+        "options": ["By enforcing uniformity", "By being sensitive to multicultural needs", "By avoiding diverse workforces", "By reducing community building"],
+        "answer": "By being sensitive to multicultural needs",
+        "reference": "They will have to be sensitive to diversity; during the first few years of the 21st century... the incoming women, minorities, and immigrants will bring with them a very different set of needs and concerns."
+    },
+    {
+        "question": "What does the Great Man theory emphasize in leadership?",
+        "options": ["Behavioral skills", "Personal traits", "Situational factors", "Team dynamics"],
+        "answer": "Personal traits",
+        "reference": "The nearly four decades of research that focused on identifying the personal traits associated with the emergence of leaders and leader effectiveness."
+    },
+    {
+        "question": "What is a limitation of trait-based leadership theories?",
+        "options": ["They fully explain leadership", "They only account for part of leadership", "They ignore personal characteristics", "They avoid behavioral studies"],
+        "answer": "They only account for part of leadership",
+        "reference": "Traits only account for part of why someone becomes a leader and why they are (or are not) effective leaders."
+    },
+    {
+        "question": "What behavior is associated with effective leadership?",
+        "options": ["Avoiding risk", "Encouraging risk and dissent", "Ignoring vision", "Reducing expertise"],
+        "answer": "Encouraging risk and dissent",
+        "reference": "CEOs and management consultants agree that effective leaders... encourage risk... invite dissent."
+    },
+    {
+        "question": "What is consideration behavior in the Ohio State studies?",
+        "options": ["Task-oriented planning", "Relationship-oriented support", "Resource allocation", "Performance monitoring"],
+        "answer": "Relationship-oriented support",
+        "reference": "Consideration is the 'relationship-oriented' behaviour of a leader. It is instrumental in creating and maintaining good relationships."
+    },
+    {
+        "question": "What is initiating structure in the Ohio State studies?",
+        "options": ["Building team relationships", "Task-oriented coordination", "Avoiding planning", "Reducing performance standards"],
+        "answer": "Task-oriented coordination",
+        "reference": "Initiating structure involves 'task-oriented' leader behaviours. It is instrumental in the efficient use of resources to attain organizational goals."
+    },
+    {
+        "question": "What behavior corresponds to job-centered leadership in Michigan studies?",
+        "options": ["Supporting team morale", "Planning and scheduling work", "Focusing on relationships", "Avoiding task coordination"],
+        "answer": "Planning and scheduling work",
+        "reference": "Job-centered behaviours are devoted to supervisory functions, such as planning, scheduling, coordinating work activities."
+    },
+    {
+        "question": "What is a similarity between Ohio State and Michigan studies?",
+        "options": ["Focus on traits only", "Identification of task and relationship behaviors", "Avoidance of leader behaviors", "Emphasis on situational factors"],
+        "answer": "Identification of task and relationship behaviors",
+        "reference": "These dimensions of behaviour, of course, correspond closely to the dimensions of initiating structure and consideration identified at Ohio State."
+    },
+    {
+        "question": "What is a feature of friendship groups?",
+        "options": ["Task-oriented objectives", "Common personal characteristics", "Formal management creation", "Strict procedural focus"],
+        "answer": "Common personal characteristics",
+        "reference": "Groups often develop because individual members have one or more common characteristics. We call these formations of friendship groups."
+    },
+    {
+        "question": "How does social loafing affect group performance?",
+        "options": ["It increases individual effort", "It reduces individual task effort", "It enhances group cohesion", "It improves task strategies"],
+        "answer": "It reduces individual task effort",
+        "reference": "Social loafing is a tendency for individual members of a group to reduce their task effort in the belief that other members will cover for them."
+    },
+    {
+        "question": "What is a consequence of group conformity pressures?",
+        "options": ["Increased spontaneity", "Potential loss of innovative behavior", "Enhanced deviance", "Reduced role performance"],
+        "answer": "Potential loss of innovative behavior",
+        "reference": "If pressures toward conformity are too strong, this spontaneity may be lost, along with unique opportunities for the organization."
+    },
+    {
+        "question": "How can managers harness group cohesiveness?",
+        "options": ["By discouraging collaboration", "By showing benefits of working together", "By avoiding reward systems", "By ignoring group goals"],
+        "answer": "By showing benefits of working together",
+        "reference": "Managers can show employees how group members can help one another by working together."
+    },
+    {
+        "question": "What is a key feature of a group in organizations?",
+        "options": ["Independent task completion", "Mutual influence among members", "No shared objectives", "Isolated interactions"],
+        "answer": "Mutual influence among members",
+        "reference": "A group is a collection of individuals who interact with each other such that one person’s actions have an impact on the others."
+    },
+    {
+        "question": "What contributes to a group's performance level?",
+        "options": ["Lack of camaraderie", "Coordination and contribution desire", "Avoiding group interaction", "Independent efforts"],
+        "answer": "Coordination and contribution desire",
+        "reference": "Groups where people get along, feel dire desire to contribute to the team, and are capable of coordinating their efforts may have high-performance levels."
+    },
+    {
+        "question": "How is a group defined based on member perception?",
+        "options": ["As a disconnected unit", "As a unified unit of interacting people", "As individual contributors", "As non-collaborative entities"],
+        "answer": "As a unified unit of interacting people",
+        "reference": "Perceive the group as a unified unit of interacting with people."
+    },
+    {
+        "question": "What organizational function do groups serve?",
+        "options": ["Isolating complex tasks", "Liaison among independent workgroups", "Avoiding creative solutions", "Reducing task interdependence"],
+        "answer": "Liaison among independent workgroups",
+        "reference": "Serving liaison or coordinating functions among several workgroups whose work is to some extent independent."
+    },
+    {
+        "question": "How do groups support organizational goals?",
+        "options": ["By avoiding complex tasks", "By working on complex, independent tasks", "By simplifying all tasks", "By reducing group effort"],
+        "answer": "By working on complex, independent tasks",
+        "reference": "Working on a complex and independent task that is too complex for an individual to perform and that cannot be easily broken down into independent tasks."
+    },
+    {
+        "question": "What is a role of groups in organizational activities?",
+        "options": ["Avoiding coordination", "Performing most organizational tasks", "Isolating employees", "Reducing task complexity"],
+        "answer": "Performing most organizational tasks",
+        "reference": "In organizations, most work is done within groups."
+    },
+    {
+        "question": "What characterizes an informal group?",
+        "options": ["Defined by management roles", "Satisfies social and psychological needs", "Focused on task objectives", "Follows strict organizational rules"],
+        "answer": "Satisfies social and psychological needs",
+        "reference": "They serve to satisfy psychological and social needs not related necessarily to the tasks to be undertaken."
+    },
+    {
+        "question": "What is a feature of a managed group?",
+        "options": ["No common manager", "Shared manager with minimal interaction", "Strict task procedures", "Focus on social alliances"],
+        "answer": "Shared manager with minimal interaction",
+        "reference": "Groups may be formed under a named manager, even though they may not necessarily work together with a great deal."
+    },
+    {
+        "question": "What defines a process group?",
+        "options": ["Flexible task approaches", "Fixed set of procedural instructions", "Focus on creative solutions", "Avoidance of interaction"],
+        "answer": "Fixed set of procedural instructions",
+        "reference": "The process group acts together to enact a process, going through a relatively fixed set of instructions."
+    },
+    {
+        "question": "What is a characteristic of a learning group?",
+        "options": ["Avoids knowledge sharing", "Increases collective knowledge", "Focuses on task completion", "Reduces collaboration"],
+        "answer": "Increases collective knowledge",
+        "reference": "The learning group comes together to increase their net knowledge."
+    },
+    {
+        "question": "What skill fosters group cohesion?",
+        "options": ["Avoiding support", "Demonstrating support for members", "Ignoring accountability", "Limiting openness"],
+        "answer": "Demonstrating support for members",
+        "reference": "Group members demonstrate support for one another as they accomplish their goals."
+    },
+    {
+        "question": "How does respect contribute to a healthy group climate?",
+        "options": ["By focusing on blame", "By valuing learning over blame", "By avoiding opinions", "By reducing communication"],
+        "answer": "By valuing learning over blame",
+        "reference": "Group members communicate their opinions in a way that respects others, focusing on 'What can we learn?' rather than 'Who is to blame?'"
+    },
+    {
+        "question": "What is the role of individual accountability in groups?",
+        "options": ["Avoiding task responsibility", "Taking responsibility for assigned tasks", "Reducing group coordination", "Ignoring group goals"],
+        "answer": "Taking responsibility for assigned tasks",
+        "reference": "Each member determines what he or she needs to do and takes responsibility to complete the task(s)."
+    },
+    {
+        "question": "Why do individuals join groups for affiliation?",
+        "options": ["To avoid social interaction", "To enjoy company of like-minded people", "To reduce common interests", "To isolate themselves"],
+        "answer": "To enjoy company of like-minded people",
+        "reference": "Another reason why people join groups is that they enjoy the regular company of other people, particularly those who possess common interests."
+    },
+    {
+        "question": "How does group membership contribute to identity?",
+        "options": ["By isolating individuals", "By shaping self-perception through others", "By avoiding social feedback", "By reducing group interaction"],
+        "answer": "By shaping self-perception through others",
+        "reference": "Group membership contributes to the individual’s eternal quest for an answer to the question 'who am I'."
+    },
+    {
+        "question": "What is the purpose of huddling in groups?",
+        "options": ["To increase red tape", "To reduce surprises and cut hierarchy", "To avoid task orientation", "To limit communication"],
+        "answer": "To reduce surprises and cut hierarchy",
+        "reference": "Huddling enables executives to deal with emerging matters and minimize the amount of surprise... cutting through hierarchical channels of communication."
+    },
+    {
+        "question": "What is a criterion for work group effectiveness?",
+        "options": ["Ignoring personal needs", "Facilitating personal need satisfaction", "Reducing future cooperation", "Avoiding productivity"],
+        "answer": "Facilitating personal need satisfaction",
+        "reference": "Personal need satisfaction: Groups are effective if membership facilitates employee need satisfaction."
+    },
+    {
+        "question": "What influences work group effectiveness?",
+        "options": ["Lack of task strategies", "Appropriate task performance strategies", "Avoiding group effort", "Reducing skills"],
+        "answer": "Appropriate task performance strategies",
+        "reference": "Task performance strategies. The extent to which the group’s strategies for task performance... are appropriate."
+    },
+    {
+        "question": "How do design factors affect group effectiveness?",
+        "options": ["By ignoring group structure", "By shaping member composition", "By avoiding performance norms", "By reducing environmental context"],
+        "answer": "By shaping member composition",
+        "reference": "Second are several design factors, including group structure, member composition, and performance norms."
+    },
+    {
+        "question": "What is a managerial implication for group effectiveness?",
+        "options": ["Ignoring group norms", "Being sensitive to group norms", "Avoiding conformity pressures", "Reducing cohesiveness"],
+        "answer": "Being sensitive to group norms",
+        "reference": "Managers can be sensitive to group norms and the extent to which they facilitate or inhibit group and organizational performance."
+    },
+    {
+        "question": "What cultural difference challenges multicultural teams?",
+        "options": ["Similar decision-making norms", "Differing attitudes toward hierarchy", "Uniform communication styles", "Identical fluency levels"],
+        "answer": "Differing attitudes toward hierarchy",
+        "reference": "The next challenge is when there are differing attitudes toward hierarchy."
+    },
+    {
+        "question": "How do conflicting decision-making norms affect multicultural teams?",
+        "options": ["They simplify decisions", "They cause frustration with pace", "They ensure quick responses", "They avoid analysis"],
+        "answer": "They cause frustration with pace",
+        "reference": "Those cultures that make decisions more quickly... may be frustrated with the slow response and relatively longer thought process."
+    },
+    {
+        "question": "When is managerial intervention used in multicultural teams?",
+        "options": ["When teams are fully collaborative", "When management makes decisions without team input", "When conflicts are minimal", "When subgroups are productive"],
+        "answer": "When management makes decisions without team input",
+        "reference": "Managerial intervention is the technique of making decisions by management and without team involvement."
+    },
+    {
+        "question": "What is the purpose of exit intervention in multicultural teams?",
+        "options": ["To encourage team conflicts", "To remove unproductive team members", "To avoid cultural differences", "To maintain team cliques"],
+        "answer": "To remove unproductive team members",
+        "reference": "Finally, exit is an intervention of last resort, and is the voluntary or involuntary removal of a team member."
+    },
+    {
+        "question": "What characterizes individuals with high cultural intelligence?",
+        "options": ["Resistance to cultural norms", "Ability to adapt to cross-cultural environments", "Focus on single culture", "Avoidance of diversity"],
+        "answer": "Ability to adapt to cross-cultural environments",
+        "reference": "Cultural intelligence is a competency and a skill that enables individuals to function effectively in cross-cultural environments."
+    },
+    {
+        "question": "How can cross-cultural skills be practiced?",
+        "options": ["By avoiding global colleagues", "By working on cross-cultural teams", "By limiting cultural exposure", "By focusing on local projects"],
+        "answer": "By working on cross-cultural teams",
+        "reference": "Serving on a cross-cultural project team and taking the time to get to know and bond with your global colleagues is an excellent way to develop skills."
+    },
+    {
+        "question": "What advantage do multicultural leaders have?",
+        "options": ["Increased cultural baggage", "Neutral cultural perception", "Reduced team diversity", "Limited conflict resolution"],
+        "answer": "Neutral cultural perception",
+        "reference": "Multicultural leaders don’t have a lot of 'baggage' from any one culture, and so are sometimes perceived as being culturally neutral."
+    },
+    {
+        "question": "Why is cultural intelligence important for global teams?",
+        "options": ["It reduces team interaction", "It enhances effective functioning", "It avoids cultural differences", "It limits global awareness"],
+        "answer": "It enhances effective functioning",
+        "reference": "Cultural intelligence is a competency and a skill that enables individuals to function effectively in cross-cultural environments."
+    },
+    {
+        "question": "What is a key aspect of managerial communication?",
+        "options": ["Avoiding critical thinking", "Facilitating information movement", "Reducing listener effectiveness", "Ignoring organizational reputation"],
+        "answer": "Facilitating information movement",
+        "reference": "Management communication is about the movement of information and the skills that facilitate it—speaking, writing, listening, and processes of critical thinking."
+    },
+    {
+        "question": "How does effective listening impact managerial communication?",
+        "options": ["It reduces understanding", "It enables response to feedback", "It avoids stakeholder input", "It limits reputation management"],
+        "answer": "It enables response to feedback",
+        "reference": "Their effectiveness as listeners will determine how well they understand and respond to others and can change the organization in response to their feedback."
+    },
+    {
+        "question": "What role does writing play in corporate reputation?",
+        "options": ["It avoids reputation management", "It shapes organizational perception", "It reduces communication skills", "It limits stakeholder trust"],
+        "answer": "It shapes organizational perception",
+        "reference": "Managers’ effectiveness as a speaker and writer will determine how well they are able to manage the firm’s reputation."
+    },
+    {
+        "question": "Why is understanding organizational identity important?",
+        "options": ["It reduces business success", "It contributes to reputation management", "It avoids communication", "It limits individual contributions"],
+        "answer": "It contributes to reputation management",
+        "reference": "It’s also about understanding who your organization is (identity), who others think your organization is (reputation)."
+    },
+    {
+        "question": "What is a challenge of managerial communication?",
+        "options": ["Using language effectively", "Avoiding interpersonal relationships", "Reducing critical thinking", "Ignoring stakeholder feedback"],
+        "answer": "Using language effectively",
+        "reference": "Managers’ ability to act... depends entirely on how effectively they use management communication."
+    },
+    {
+        "question": "How does feedback contribute to corporate reputation?",
+        "options": ["It avoids organizational change", "It supports reputation creation and change", "It reduces communication skills", "It limits stakeholder engagement"],
+        "answer": "It supports reputation creation and change",
+        "reference": "Both seek out and provide the feedback essential to creating, managing, or changing their organization’s reputation."
+    },
+    {
+        "question": "What is a role of rhetoric in managerial communication?",
+        "options": ["Avoiding influence", "Drawing people to true knowledge", "Reducing language importance", "Limiting organizational goals"],
+        "answer": "Drawing people to true knowledge",
+        "reference": "The manager must understand the meaning of the old definition of rhetoric as ‘the art which draws men’s hearts to the love of true knowledge.’"
+    },
+    {
+        "question": "What is a characteristic of 21st-century leadership?",
+        "options": ["Avoiding global awareness", "Being strategic opportunists", "Reducing diversity sensitivity", "Limiting decentralization"],
+        "answer": "Being strategic opportunists",
+        "reference": "They will have to be strategic opportunists; only organizational visionaries will find strategic opportunities before competitors."
+    },
+    {
+        "question": "Why is interpersonal competence crucial for 21st-century leaders?",
+        "options": ["To reduce diversity", "To manage diverse workforce expectations", "To avoid multicultural needs", "To limit team collaboration"],
+        "answer": "To manage diverse workforce expectations",
+        "reference": "They will have to be interpersonally competent; a highly diverse workforce will necessitate a leader who is extremely aware of and sensitive to multicultural expectations and needs."
+    },
+    {
+        "question": "What is a role of 21st-century leaders in organizations?",
+        "options": ["Avoiding community building", "Building organizational community", "Reducing need fulfillment", "Limiting member ownership"],
+        "answer": "Building organizational community",
+        "reference": "They will have to be builders of an organizational community; work and organizations will serve as a major source of need fulfilment."
+    },
+    {
+        "question": "What is a focus of behavioral approaches to leadership?",
+        "options": ["Personal traits only", "What leaders do", "Situational factors", "Group dynamics"],
+        "answer": "What leaders do",
+        "reference": "It is now common to think of effective leadership in terms of what leaders do."
+    },
+    {
+        "question": "What do behavioral approaches emphasize in leadership?",
+        "options": ["Ignoring leader actions", "Leader behaviors like coaching", "Avoiding team motivation", "Reducing expertise"],
+        "answer": "Leader behaviors like coaching",
+        "reference": "Apple founder Steve Jobs believed that the best leaders are coaches and team cheerleaders."
+    },
+    {
+        "question": "What is a key finding of the Ohio State studies?",
+        "options": ["Traits define leadership", "Leaders combine consideration and structure", "Behaviors are situational", "Leadership avoids relationships"],
+        "answer": "Leaders combine consideration and structure",
+        "reference": "It did not take long, however, to recognize that leaders can simultaneously display any combination of both behaviours."
+    },
+    {
+        "question": "What is employee-member-centered behavior in Michigan studies?",
+        "options": ["Task scheduling", "Supporting organizational members", "Resource allocation", "Performance monitoring"],
+        "answer": "Supporting organizational members",
+        "reference": "Employee-member-centered behaviours include consideration and support for organizational members."
+    },
+    {
+        "question": "What additional behavior was identified in Michigan studies?",
+        "options": ["Avoiding goals", "Goal emphasis", "Reducing interaction", "Limiting support"],
+        "answer": "Goal emphasis",
+        "reference": "Subsequent research at Michigan and elsewhere has found additional behaviours associated with effective leadership: support, work facilitation, goal emphasis."
+    },
+    {
+        "question": "What is a characteristic of interest groups?",
+        "options": ["Task-oriented objectives", "Alignment for specific objectives", "Formal management creation", "Strict procedural focus"],
+        "answer": "Alignment for specific objectives",
+        "reference": "People who may or may not be aligned into a common command or task groups may affiliate to attain a specific objective with which each is concerned."
+    },
+    {
+        "question": "What is status incongruence in groups?",
+        "options": ["Consistent status hierarchy", "Inconsistent status position", "Uniform member roles", "Avoidance of status systems"],
+        "answer": "Inconsistent status position",
+        "reference": "Status incongruence occurs when one individual holds a position in the status hierarchy that is inconsistent with the conventional criteria for that position."
+    },
+    {
+        "question": "How does Asch’s experiment relate to group dynamics?",
+        "options": ["It shows individual independence", "It demonstrates conformity to group pressure", "It avoids group influence", "It reduces group norms"],
+        "answer": "It demonstrates conformity to group pressure",
+        "reference": "Asch’s experiment in group pressure and individual judgment demonstrated that individuals will discount their own perceptions of a situation and follow the will of a group."
+    },
+    {
+        "question": "What is a benefit of group cohesiveness?",
+        "options": ["Reduced member motivation", "Increased motivation to stay in the group", "Avoidance of organizational goals", "Decreased collaboration"],
+        "answer": "Increased motivation to stay in the group",
+        "reference": "Group cohesiveness is the extent to which individual members of a group are motivated to remain in the group."
+    },
+    {
+        "question": "How do reward systems enhance group effectiveness?",
+        "options": ["By discouraging collaboration", "By aligning group and organizational goals", "By avoiding cohesiveness", "By reducing performance norms"],
+        "answer": "By aligning group and organizational goals",
+        "reference": "One way to accomplish this is through the reward systems used by the organization."
+    }
+]

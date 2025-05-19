@@ -1,0 +1,959 @@
+[
+  {
+    "question": "Which law protects employees aged 40 or older from age-based discrimination in hiring and promotion?",
+    "options": [
+      "Americans with Disabilities Act (ADA)",
+      "Age Discrimination in Employment Act (ADEA)",
+      "Fair Labour Standards Act (FLSA)",
+      "Family and Medical Leave Act (FMLA)"
+    ],
+    "answer": "Age Discrimination in Employment Act (ADEA)",
+    "reference": "The Age Discrimination in Employment Act (ADEA) of 1967 protects individuals who are 40 years of age or older from employment discrimination based on age."
+  },
+  {
+    "question": "What is a primary purpose of the Americans with Disabilities Act (ADA)?",
+    "options": [
+      "To establish minimum wage standards",
+      "To prohibit discrimination against qualified individuals with disabilities",
+      "To provide unpaid leave for family reasons",
+      "To protect employees\u2019 rights to unionize"
+    ],
+    "answer": "To prohibit discrimination against qualified individuals with disabilities",
+    "reference": "The Americans with Disabilities Act (ADA) of 1990 prohibits private employers... from discriminating against qualified individuals with disabilities."
+  },
+  {
+    "question": "Which act requires employers to provide 60 days\u2019 notice for plant closings or mass layoffs?",
+    "options": [
+      "National Labour Relations Act (NLRA)",
+      "Worker Adjustment and Retraining Notification Act (WARN)",
+      "Fair Labour Standards Act (FLSA)",
+      "Family and Medical Leave Act (FMLA)"
+    ],
+    "answer": "Worker Adjustment and Retraining Notification Act (WARN)",
+    "reference": "The Worker Adjustment and Retraining Notification Act (WARN) of 1988... protects workers... by requiring employers to provide notification 60 calendar days in advance of plant closings and mass layoffs."
+  },
+  {
+    "question": "What does the Fair Labour Standards Act (FLSA) primarily regulate?",
+    "options": [
+      "Age-based discrimination",
+      "Minimum wage and overtime pay",
+      "Disability accommodations",
+      "Collective bargaining rights"
+    ],
+    "answer": "Minimum wage and overtime pay",
+    "reference": "The Fair Labour Standards Act (FLSA) of 1938 establishes the minimum wage, overtime pay, recordkeeping, and youth employment standards."
+  },
+  {
+    "question": "Which law allows eligible employees to take up to 12 weeks of unpaid, job-protected leave?",
+    "options": [
+      "Age Discrimination in Employment Act (ADEA)",
+      "Americans with Disabilities Act (ADA)",
+      "Family and Medical Leave Act (FMLA)",
+      "National Labour Relations Act (NLRA)"
+    ],
+    "answer": "Family and Medical Leave Act (FMLA)",
+    "reference": "The Family and Medical Leave Act (FMLA) of 1993 entitles eligible employees to take up to 12 weeks of unpaid, job-protected leave."
+  },
+  {
+    "question": "What is a key HR compliance best practice to mitigate legal risk?",
+    "options": [
+      "Reducing employee training programs",
+      "Conducting regular compliance audits",
+      "Ignoring minor regulatory changes",
+      "Limiting documentation updates"
+    ],
+    "answer": "Conducting regular compliance audits",
+    "reference": "Scheduling HR compliance audits should be part of the company\u2019s overall strategy to avoid legal risk."
+  },
+  {
+    "question": "Why is documentation like an employee handbook important for HR compliance?",
+    "options": [
+      "It reduces the need for training",
+      "It mitigates compliance risk by detailing policies",
+      "It eliminates the need for audits",
+      "It replaces legal counsel"
+    ],
+    "answer": "It mitigates compliance risk by detailing policies",
+    "reference": "Documentation of the rules and regulations\u2014in the form of an employee handbook\u2014can be one of the most important resources that HR can provide to the organization to mitigate compliance risk."
+  },
+  {
+    "question": "Who should receive training on compliance laws like the ADA or FMLA?",
+    "options": [
+      "Only HR professionals",
+      "Only top executives",
+      "Both HR professionals and managers",
+      "Only entry-level employees"
+    ],
+    "answer": "Both HR professionals and managers",
+    "reference": "In many organizations, managers receive training on key rules and regulations (such as FMLA or ADA)... so that they have a foundation of knowledge when dealing with employee situations."
+  },
+  {
+    "question": "What is a potential consequence of HR noncompliance?",
+    "options": [
+      "Improved employee morale",
+      "Financial and reputational harm",
+      "Simplified regulatory processes",
+      "Reduced training requirements"
+    ],
+    "answer": "Financial and reputational harm",
+    "reference": "The impact of noncompliance can be very costly and can be in the form of financial, legal, or reputational cost."
+  },
+  {
+    "question": "Which act protects employees\u2019 rights to organize and bargain collectively?",
+    "options": [
+      "Fair Labour Standards Act (FLSA)",
+      "National Labour Relations Act (NLRA)",
+      "Worker Adjustment and Retraining Notification Act (WARN)",
+      "Age Discrimination in Employment Act (ADEA)"
+    ],
+    "answer": "National Labour Relations Act (NLRA)",
+    "reference": "The National Labour Relations Act (NLRA) of 1947 extends rights to many private-sector employees, including the right to organize and bargain with their employer collectively."
+  },
+  {
+    "question": "What is a key requirement of the ADA for employers?",
+    "options": [
+      "Providing overtime pay for disabled employees",
+      "Making reasonable accommodations for disabilities",
+      "Ensuring 12 weeks of paid leave",
+      "Limiting hiring to non-disabled applicants"
+    ],
+    "answer": "Making reasonable accommodations for disabilities",
+    "reference": "An employer is required to make a reasonable accommodation to the known disability of a qualified applicant or employee if it would not impose an 'undue hardship.'"
+  },
+  {
+    "question": "What type of employers does the WARN Act generally cover?",
+    "options": [
+      "Employers with fewer than 50 employees",
+      "Public agencies with less than 100 employees",
+      "Employers with 100 or more employees",
+      "Non-profit organizations only"
+    ],
+    "answer": "Employers with 100 or more employees",
+    "reference": "The Worker Adjustment and Retraining Notification Act (WARN) of 1988 generally covers employers with 100 or more employees."
+  },
+  {
+    "question": "Why is ongoing education critical for HR compliance?",
+    "options": [
+      "Laws and regulations change frequently",
+      "It reduces the need for audits",
+      "It eliminates legal risks entirely",
+      "It replaces the employee handbook"
+    ],
+    "answer": "Laws and regulations change frequently",
+    "reference": "These laws can change from year to year, so the HR professionals in the organization need to ensure that they are engaged in ongoing education and training."
+  },
+  {
+    "question": "What is a common cause of workplace stress related to job security?",
+    "options": [
+      "Flexible work schedules",
+      "Fear of being laid off",
+      "Regular breaks during the day",
+      "Supportive coworkers"
+    ],
+    "answer": "Fear of being laid off",
+    "reference": "Common causes of workplace stress include: Fear of being laid off."
+  },
+  {
+    "question": "Which symptom indicates excessive stress at work?",
+    "options": [
+      "Increased job satisfaction",
+      "Feeling anxious or depressed",
+      "Improved concentration",
+      "Enhanced social engagement"
+    ],
+    "answer": "Feeling anxious or depressed",
+    "reference": "Other signs and symptoms of excessive stress at work include: Feeling anxious, irritable, or depressed."
+  },
+  {
+    "question": "How can sharing stress with a colleague help?",
+    "options": [
+      "It increases workplace tension",
+      "It reduces stress by providing support",
+      "It eliminates the need for exercise",
+      "It replaces professional therapy"
+    ],
+    "answer": "It reduces stress by providing support",
+    "reference": "Sometimes the best stress-reducer is simply sharing your stress with someone close to you... can be a highly-effective way of blowing off steam."
+  },
+  {
+    "question": "What type of exercise is most effective for stress relief?",
+    "options": [
+      "Light stretching only",
+      "Aerobic exercise that raises heart rate",
+      "Sedentary activities",
+      "Irregular physical activity"
+    ],
+    "answer": "Aerobic exercise that raises heart rate",
+    "reference": "Aerobic exercise\u2014activity that raises your heart rate and makes you sweat\u2014is a hugely effective way to lift your mood."
+  },
+  {
+    "question": "How does eating small, frequent meals help manage stress?",
+    "options": [
+      "It causes mood swings",
+      "It maintains even blood sugar levels",
+      "It increases lethargy",
+      "It reduces nutritional intake"
+    ],
+    "answer": "It maintains even blood sugar levels",
+    "reference": "Eating small, frequent and healthy meals... can help your body maintain an even level of blood sugar."
+  },
+  {
+    "question": "Why should you avoid sugary snacks when stressed?",
+    "options": [
+      "They stabilize mood and energy",
+      "They lead to mood and energy crashes",
+      "They improve focus and concentration",
+      "They reduce workplace stress"
+    ],
+    "answer": "They lead to mood and energy crashes",
+    "reference": "When you\u2019re stressed, you may crave sugary snacks... But these feel-good foods quickly lead to crash in mood and energy."
+  },
+  {
+    "question": "What is a recommended sleep practice to reduce workplace stress?",
+    "options": [
+      "Varying bedtime each night",
+      "Using screens before bed",
+      "Aiming for 8 hours of sleep nightly",
+      "Working late before bedtime"
+    ],
+    "answer": "Aiming for 8 hours of sleep nightly",
+    "reference": "Aim for 8 hours a night\u2014the amount of sleep most adults need to operate at their best."
+  },
+  {
+    "question": "How can taking short breaks during the workday help with stress?",
+    "options": [
+      "It increases workload pressure",
+      "It helps you relax and recharge",
+      "It reduces workplace collaboration",
+      "It eliminates the need for sleep"
+    ],
+    "answer": "It helps you relax and recharge",
+    "reference": "Make sure to take short breaks throughout the day... It will help you relax and recharge and be more, not less, productive."
+  },
+  {
+    "question": "What is a time management tip to reduce job stress?",
+    "options": [
+      "Over-committing to tasks",
+      "Creating a balanced schedule",
+      "Scheduling tasks back-to-back",
+      "Ignoring downtime"
+    ],
+    "answer": "Creating a balanced schedule",
+    "reference": "Create a balanced schedule: All work and no play is a recipe for burnout."
+  },
+  {
+    "question": "How can resisting perfectionism help manage workplace stress?",
+    "options": [
+      "It sets unrealistic goals",
+      "It reduces self-imposed pressure",
+      "It increases negative thinking",
+      "It promotes over-commitment"
+    ],
+    "answer": "It reduces self-imposed pressure",
+    "reference": "Resist perfectionism: When you set unrealistic goals for yourself, you\u2019re setting yourself up to fall short."
+  },
+  {
+    "question": "What is a warning sign of excessive stress affecting work performance?",
+    "options": [
+      "Improved creativity",
+      "Trouble concentrating",
+      "Increased job satisfaction",
+      "Enhanced social interactions"
+    ],
+    "answer": "Trouble concentrating",
+    "reference": "Other signs and symptoms of excessive stress at work include: Trouble concentrating."
+  },
+  {
+    "question": "Why is a support system at work beneficial for stress management?",
+    "options": [
+      "It increases isolation",
+      "It buffers negative effects of job stress",
+      "It promotes negative thinking",
+      "It reduces workplace collaboration"
+    ],
+    "answer": "It buffers negative effects of job stress",
+    "reference": "Having a solid support system at work can help buffer you from the negative effects of job stress."
+  },
+  {
+    "question": "How does Jean Baptiste Say define entrepreneurship?",
+    "options": [
+      "Creating value by shifting resources to higher-valued activities",
+      "Driving creative destruction in production patterns",
+      "Responding to change as an opportunity",
+      "Managing existing businesses efficiently"
+    ],
+    "answer": "Creating value by shifting resources to higher-valued activities",
+    "reference": "Jean Baptiste Say refined the meaning of entrepreneurship to individuals who create value by shifting resources from lower- to higher-valued activities."
+  },
+  {
+    "question": "According to Joseph Schumpeter, what role do entrepreneurs play?",
+    "options": [
+      "They maintain traditional production methods",
+      "They drive creative destruction and innovation",
+      "They avoid taking risks",
+      "They focus on regulatory compliance"
+    ],
+    "answer": "They drive creative destruction and innovation",
+    "reference": "In Schumpeter\u2019s view, entrepreneurs are innovators who drive the 'creative destruction' process, reforming or revolutionizing the pattern of production."
+  },
+  {
+    "question": "What is a key characteristic of entrepreneurship according to Peter Drucker?",
+    "options": [
+      "Avoiding market changes",
+      "Searching for and exploiting change",
+      "Focusing on risk avoidance",
+      "Maintaining existing processes"
+    ],
+    "answer": "Searching for and exploiting change",
+    "reference": "Drucker suggests that entrepreneurs always search for change, respond to it, and exploit it as an opportunity."
+  },
+  {
+    "question": "What is intrapreneurship?",
+    "options": [
+      "Starting a new company",
+      "Applying entrepreneurial innovation within an existing firm",
+      "Focusing on nonprofit ventures",
+      "Avoiding risk in business activities"
+    ],
+    "answer": "Applying entrepreneurial innovation within an existing firm",
+    "reference": "Intrapreneurship applies the entrepreneurial mindset... to an established firm."
+  },
+  {
+    "question": "Which mindset is central to entrepreneurship?",
+    "options": [
+      "Striving for innovation and better ways",
+      "Maintaining status quo",
+      "Avoiding new opportunities",
+      "Focusing on regulatory compliance"
+    ],
+    "answer": "Striving for innovation and better ways",
+    "reference": "Entrepreneurship is to a large degree a mind-set, always striving to do new things in an innovative and better way."
+  },
+  {
+    "question": "What is a key element of entrepreneurial success?",
+    "options": [
+      "Avoiding market opportunities",
+      "Delivering value to customers",
+      "Limiting resource use",
+      "Focusing on internal processes"
+    ],
+    "answer": "Delivering value to customers",
+    "reference": "The key elements of entrepreneurial success include... delivering value to customers by addressing customer needs or problems."
+  },
+  {
+    "question": "How does entrepreneurship contribute to society?",
+    "options": [
+      "By increasing production costs",
+      "By providing goods whose value exceeds costs",
+      "By reducing customer options",
+      "By limiting innovation"
+    ],
+    "answer": "By providing goods whose value exceeds costs",
+    "reference": "The entrepreneur is contributing to economic growth and society by providing customers with goods and services whose costs to provide are less than their value to consumers."
+  },
+  {
+    "question": "What must an entrepreneur do to turn an opportunity into a business?",
+    "options": [
+      "Ignore customer needs",
+      "Ensure revenues cover costs",
+      "Avoid market research",
+      "Limit resource mobilization"
+    ],
+    "answer": "Ensure revenues cover costs",
+    "reference": "The opportunity becomes a true business opportunity when it is of sufficient scale and value\u2014that is, revenues will cover costs."
+  },
+  {
+    "question": "Which resource is critical for starting an entrepreneurial venture?",
+    "options": [
+      "Excessive regulations",
+      "Adequate financial capital",
+      "Limited talent pool",
+      "Outdated equipment"
+    ],
+    "answer": "Adequate financial capital",
+    "reference": "It is essential to have adequate financial resources when starting any new entrepreneurial activity."
+  },
+  {
+    "question": "What is the most important factor in entrepreneurial success?",
+    "options": [
+      "Access to equipment",
+      "The individual entrepreneur\u2019s capabilities",
+      "Regulatory compliance",
+      "Large team size"
+    ],
+    "answer": "The individual entrepreneur\u2019s capabilities",
+    "reference": "The single most important factor is the individual entrepreneur\u2014that is, their ability to identify a market opportunity and develop a creative response."
+  },
+  {
+    "question": "What is a common source of entrepreneurial opportunities?",
+    "options": [
+      "Stable demographics",
+      "Changes in knowledge or technology",
+      "Unchanging societal norms",
+      "Fixed customer preferences"
+    ],
+    "answer": "Changes in knowledge or technology",
+    "reference": "Opportunity conditions arise from... changes in knowledge and understanding, the development of a new technology."
+  },
+  {
+    "question": "Why must entrepreneurs research the market?",
+    "options": [
+      "To avoid customer feedback",
+      "To ensure the product\u2019s value exceeds costs",
+      "To limit product development",
+      "To reduce innovation"
+    ],
+    "answer": "To ensure the product\u2019s value exceeds costs",
+    "reference": "They must research the market to understand how their potential product or service provides value to a customer and whether the amount a customer is willing to pay... exceeds the costs."
+  },
+  {
+    "question": "What is a common motivation for becoming an entrepreneur?",
+    "options": [
+      "Desire for rigid schedules",
+      "Pursuing personal passion",
+      "Avoiding responsibility",
+      "Limiting decision-making"
+    ],
+    "answer": "Pursuing personal passion",
+    "reference": "The motivations for being an entrepreneur include the ability to pursue a passion or interest that is exciting."
+  },
+  {
+    "question": "What factor is consistently associated with becoming an entrepreneur?",
+    "options": [
+      "Having no family background in business",
+      "Having parents who were entrepreneurs",
+      "Avoiding risk-taking",
+      "Lack of personal interests"
+    ],
+    "answer": "Having parents who were entrepreneurs",
+    "reference": "The only factor found to be associated consistently with becoming an entrepreneur is that one or both of your parents were entrepreneurs."
+  },
+  {
+    "question": "Why is resilience important for entrepreneurs?",
+    "options": [
+      "It eliminates all risks",
+      "It helps endure challenges and tough times",
+      "It reduces the need for innovation",
+      "It guarantees business success"
+    ],
+    "answer": "It helps endure challenges and tough times",
+    "reference": "Also part of being an entrepreneur is being resilient and persistent... being able to endure through the tough times."
+  },
+  {
+    "question": "What is a significant risk of entrepreneurship?",
+    "options": [
+      "Guaranteed financial success",
+      "High likelihood of business failure",
+      "No personal responsibility",
+      "Minimal stress"
+    ],
+    "answer": "High likelihood of business failure",
+    "reference": "There are also significant risks and significant likelihood of failure."
+  },
+  {
+    "question": "What is a key entrepreneurial characteristic?",
+    "options": [
+      "Avoiding risk entirely",
+      "Taking on risk and responsibility",
+      "Limiting innovation",
+      "Focusing on compliance"
+    ],
+    "answer": "Taking on risk and responsibility",
+    "reference": "Entrepreneurship can be viewed as... taking on risk and responsibility."
+  },
+  {
+    "question": "How can reducing regulations support entrepreneurship?",
+    "options": [
+      "By limiting innovation",
+      "By unleashing innovation through fewer restrictions",
+      "By increasing bureaucratic delays",
+      "By favoring large businesses only"
+    ],
+    "answer": "By unleashing innovation through fewer restrictions",
+    "reference": "Reducing regulations tends to unleash innovation."
+  },
+  {
+    "question": "What role does government play in reducing cultural barriers to entrepreneurship?",
+    "options": [
+      "Enforcing discriminatory practices",
+      "Outlawing discrimination and promoting equal rights",
+      "Increasing regulatory restrictions",
+      "Limiting access to resources"
+    ],
+    "answer": "Outlawing discrimination and promoting equal rights",
+    "reference": "Government can step in to outlaw such discrimination and protect equal rights."
+  },
+  {
+    "question": "Which federal law regulates youth employment standards in the private sector?",
+    "options": [
+      "Family and Medical Leave Act (FMLA)",
+      "Fair Labour Standards Act (FLSA)",
+      "Age Discrimination in Employment Act (ADEA)",
+      "National Labour Relations Act (NLRA)"
+    ],
+    "answer": "Fair Labour Standards Act (FLSA)",
+    "reference": "The Fair Labour Standards Act (FLSA) of 1938 establishes... youth employment standards affecting full-time and part-time workers in the private sector."
+  },
+  {
+    "question": "What is a key role of HR in ensuring compliance with laws like the ADA?",
+    "options": [
+      "Ignoring regulatory updates",
+      "Providing education and training",
+      "Reducing employee documentation",
+      "Limiting manager involvement"
+    ],
+    "answer": "Providing education and training",
+    "reference": "Some of the best practices for informing and holding employees accountable are to provide education and training to explain the regulations."
+  },
+  {
+    "question": "Which act requires employers to accommodate disabilities unless it causes undue hardship?",
+    "options": [
+      "Worker Adjustment and Retraining Notification Act (WARN)",
+      "Americans with Disabilities Act (ADA)",
+      "Fair Labour Standards Act (FLSA)",
+      "Family and Medical Leave Act (FMLA)"
+    ],
+    "answer": "Americans with Disabilities Act (ADA)",
+    "reference": "An employer is required to make a reasonable accommodation to the known disability... if it would not impose an 'undue hardship' on the operation of the employer\u2019s business."
+  },
+  {
+    "question": "What is a potential risk of noncompliance with HR regulations?",
+    "options": [
+      "Enhanced organizational reputation",
+      "Financial penalties and fines",
+      "Increased employee engagement",
+      "Simplified legal processes"
+    ],
+    "answer": "Financial penalties and fines",
+    "reference": "HR professionals must be able to understand and navigate these laws to help their organizations... avoid having to pay fines or penalties."
+  },
+  {
+    "question": "Which law protects employees from discrimination based on union activities?",
+    "options": [
+      "Age Discrimination in Employment Act (ADEA)",
+      "National Labour Relations Act (NLRA)",
+      "Americans with Disabilities Act (ADA)",
+      "Worker Adjustment and Retraining Notification Act (WARN)"
+    ],
+    "answer": "National Labour Relations Act (NLRA)",
+    "reference": "The National Labour Relations Act (NLRA) of 1947... Employees covered by the act are protected from certain types of employer and union misconduct."
+  },
+  {
+    "question": "Why should an employee handbook be reviewed by legal counsel?",
+    "options": [
+      "To ensure it is up-to-date and appropriate",
+      "To reduce its accessibility to employees",
+      "To limit its scope to HR policies",
+      "To replace compliance audits"
+    ],
+    "answer": "To ensure it is up-to-date and appropriate",
+    "reference": "Legal counsel should review any such documentation before it is distributed to ensure that it is up-to-date and appropriate for the audience."
+  },
+  {
+    "question": "Which employers are typically covered by the FMLA?",
+    "options": [
+      "Private employers with fewer than 50 employees",
+      "Public agencies and employers with 50 or more employees",
+      "Non-profit organizations only",
+      "Employers with less than 100 employees"
+    ],
+    "answer": "Public agencies and employers with 50 or more employees",
+    "reference": "FMLA applies to all public agencies... and private-sector employers who employed 50 or more employees in 20 or more workweeks."
+  },
+  {
+    "question": "What is a benefit of HR compliance audits?",
+    "options": [
+      "They increase legal risks",
+      "They test organizational controls and preparedness",
+      "They reduce the need for employee training",
+      "They eliminate regulatory requirements"
+    ],
+    "answer": "They test organizational controls and preparedness",
+    "reference": "It is important to have audits that test the organization\u2019s controls and preparedness."
+  },
+  {
+    "question": "Which law addresses overtime pay for firefighters in local government?",
+    "options": [
+      "Fair Labour Standards Act (FLSA)",
+      "Age Discrimination in Employment Act (ADEA)",
+      "Americans with Disabilities Act (ADA)",
+      "National Labour Relations Act (NLRA)"
+    ],
+    "answer": "Fair Labour Standards Act (FLSA)",
+    "reference": "Special rules apply to state and local government employment involving fire protection... and compensatory time off instead of cash overtime pay."
+  },
+  {
+    "question": "What is a key focus of HR compliance efforts?",
+    "options": [
+      "Ignoring minor employee complaints",
+      "Navigating laws to avoid penalties",
+      "Reducing employee benefits",
+      "Limiting manager training"
+    ],
+    "answer": "Navigating laws to avoid penalties",
+    "reference": "HR professionals must be able to understand and navigate these laws to help their organizations remain compliant."
+  },
+  {
+    "question": "Which act prohibits age-based discrimination in job assignments?",
+    "options": [
+      "Family and Medical Leave Act (FMLA)",
+      "Age Discrimination in Employment Act (ADEA)",
+      "Worker Adjustment and Retraining Notification Act (WARN)",
+      "Fair Labour Standards Act (FLSA)"
+    ],
+    "answer": "Age Discrimination in Employment Act (ADEA)",
+    "reference": "It also makes it unlawful to discriminate based on age with respect to any terms of employment, such as... job assignments."
+  },
+  {
+    "question": "Why is manager training on compliance laws important?",
+    "options": [
+      "It reduces their accountability",
+      "It provides knowledge for handling employee situations",
+      "It eliminates the need for HR oversight",
+      "It limits regulatory updates"
+    ],
+    "answer": "It provides knowledge for handling employee situations",
+    "reference": "Managers receive training on key rules and regulations... so that they have a foundation of knowledge when dealing with employee situations."
+  },
+  {
+    "question": "What is a physical symptom of excessive workplace stress?",
+    "options": [
+      "Improved sleep quality",
+      "Muscle tension or headaches",
+      "Increased creativity",
+      "Enhanced focus"
+    ],
+    "answer": "Muscle tension or headaches",
+    "reference": "Other signs and symptoms of excessive stress at work include: Muscle tension or headaches."
+  },
+  {
+    "question": "How does a lack of control over work contribute to stress?",
+    "options": [
+      "It enhances job satisfaction",
+      "It is a common cause of workplace stress",
+      "It improves work-life balance",
+      "It reduces performance pressure"
+    ],
+    "answer": "It is a common cause of workplace stress",
+    "reference": "Common causes of workplace stress include: Lack of control over how you do your work."
+  },
+  {
+    "question": "What is a benefit of building friendships to manage stress?",
+    "options": [
+      "It increases social isolation",
+      "It reduces vulnerability to stress",
+      "It promotes negative thinking",
+      "It eliminates workplace challenges"
+    ],
+    "answer": "It reduces vulnerability to stress",
+    "reference": "Having a strong network of supportive friends... is extremely important to managing stress in all areas of your life."
+  },
+  {
+    "question": "Why should you avoid nicotine when stressed?",
+    "options": [
+      "It calms anxiety effectively",
+      "It is a stimulant that increases anxiety",
+      "It stabilizes mood swings",
+      "It improves sleep quality"
+    ],
+    "answer": "It is a stimulant that increases anxiety",
+    "reference": "Smoking when you\u2019re feeling stressed may seem calming, but nicotine is a powerful stimulant, leading to higher, not lower levels of anxiety."
+  },
+  {
+    "question": "How can regular breaks during the workday reduce stress?",
+    "options": [
+      "They increase workload pressure",
+      "They allow time to relax and recharge",
+      "They reduce social interactions",
+      "They eliminate the need for exercise"
+    ],
+    "answer": "They allow time to relax and recharge",
+    "reference": "Make sure to take short breaks throughout the day... It will help you relax and recharge."
+  },
+  {
+    "question": "What dietary choice can help maintain energy during stress?",
+    "options": [
+      "Consuming high-sugar snacks",
+      "Eating foods with Omega-3 fatty acids",
+      "Increasing caffeine intake",
+      "Eating large, infrequent meals"
+    ],
+    "answer": "Eating foods with Omega-3 fatty acids",
+    "reference": "Eat more Omega-3 fatty acids to give your mood a boost."
+  },
+  {
+    "question": "How does sleep deprivation affect workplace performance?",
+    "options": [
+      "It enhances problem-solving skills",
+      "It reduces productivity and focus",
+      "It improves creativity",
+      "It eliminates stress"
+    ],
+    "answer": "It reduces productivity and focus",
+    "reference": "Skimping on sleep interferes with your daytime productivity, creativity, problem-solving skills, and ability to focus."
+  },
+  {
+    "question": "What is a recommended practice for shift workers to manage stress?",
+    "options": [
+      "Frequently rotating shifts",
+      "Exposing themselves to bright light at night",
+      "Ignoring sleep schedules",
+      "Increasing daytime noise"
+    ],
+    "answer": "Exposing themselves to bright light at night",
+    "reference": "Adjust your sleep-wake cycle by exposing yourself to bright light when you wake up at night."
+  },
+  {
+    "question": "How can establishing healthy boundaries reduce workplace stress?",
+    "options": [
+      "By increasing work-related communication",
+      "By limiting work calls during non-work hours",
+      "By over-committing to tasks",
+      "By ignoring work-life balance"
+    ],
+    "answer": "By limiting work calls during non-work hours",
+    "reference": "That may mean not checking emails or taking work calls at home in the evening or at weekends."
+  },
+  {
+    "question": "What is a negative habit that worsens workplace stress?",
+    "options": [
+      "Focusing on controllable factors",
+      "Engaging in perfectionism",
+      "Taking regular breaks",
+      "Maintaining a tidy workspace"
+    ],
+    "answer": "Engaging in perfectionism",
+    "reference": "Resist perfectionism: When you set unrealistic goals for yourself, you\u2019re setting yourself up to fall short."
+  },
+  {
+    "question": "How does humor help manage workplace stress?",
+    "options": [
+      "It increases tension in the workplace",
+      "It relieves stress when used appropriately",
+      "It promotes negative thinking",
+      "It reduces workplace collaboration"
+    ],
+    "answer": "It relieves stress when used appropriately",
+    "reference": "When used appropriately, humour is a great way to relieve stress in the workplace."
+  },
+  {
+    "question": "What is a common cause of stress due to organizational changes?",
+    "options": [
+      "Stable staffing levels",
+      "More overtime due to staff cutbacks",
+      "Flexible work hours",
+      "Increased job security"
+    ],
+    "answer": "More overtime due to staff cutbacks",
+    "reference": "Common causes of workplace stress include: More overtime due to staff cutbacks."
+  },
+  {
+    "question": "Why is a tidy workspace beneficial for stress management?",
+    "options": [
+      "It increases clutter and confusion",
+      "It saves time and reduces stress",
+      "It promotes perfectionism",
+      "It reduces collaboration"
+    ],
+    "answer": "It saves time and reduces stress",
+    "reference": "If your desk or work space is a mess... just knowing where everything is can save time and cut stress."
+  },
+  {
+    "question": "What is a key aspect of entrepreneurship as a mindset?",
+    "options": [
+      "Avoiding new challenges",
+      "Striving for innovation",
+      "Maintaining routine processes",
+      "Limiting risk-taking"
+    ],
+    "answer": "Striving for innovation",
+    "reference": "Entrepreneurship is to a large degree a mind-set, always striving to do new things in an innovative and better way."
+  },
+  {
+    "question": "How does Schumpeter\u2019s view of entrepreneurship differ from Say\u2019s?",
+    "options": [
+      "Schumpeter focuses on maintaining production",
+      "Schumpeter emphasizes creative destruction",
+      "Say emphasizes revolutionary innovation",
+      "Say focuses on risk avoidance"
+    ],
+    "answer": "Schumpeter emphasizes creative destruction",
+    "reference": "In Schumpeter\u2019s view, entrepreneurs are innovators who drive the 'creative destruction' process."
+  },
+  {
+    "question": "What does Peter Drucker emphasize about entrepreneurs?",
+    "options": [
+      "They avoid market opportunities",
+      "They respond to change as an opportunity",
+      "They focus on regulatory compliance",
+      "They limit innovation"
+    ],
+    "answer": "They respond to change as an opportunity",
+    "reference": "Drucker suggests that entrepreneurs always search for change, respond to it, and exploit it as an opportunity."
+  },
+  {
+    "question": "What is a primary goal of intrapreneurship in large firms?",
+    "options": [
+      "Reducing market responsiveness",
+      "Fostering innovation like start-ups",
+      "Limiting new product development",
+      "Avoiding risk-taking"
+    ],
+    "answer": "Fostering innovation like start-ups",
+    "reference": "The objective is to enhance the ability of an established firm to react to market opportunities in a timely and effective manner much like start-up ventures do."
+  },
+  {
+    "question": "How do entrepreneurs create value according to the eBook?",
+    "options": [
+      "By maintaining existing resources",
+      "By making better use of resources",
+      "By avoiding market changes",
+      "By limiting customer options"
+    ],
+    "answer": "By making better use of resources",
+    "reference": "Entrepreneurship can be viewed as... making better (higher value) use of resources."
+  },
+  {
+    "question": "What is a characteristic of sustainable entrepreneurship?",
+    "options": [
+      "Ignoring environmental concerns",
+      "Transforming business practices for societal benefit",
+      "Focusing solely on profit",
+      "Avoiding innovation"
+    ],
+    "answer": "Transforming business practices for societal benefit",
+    "reference": "Sustainable businesses are significantly changing... transforming business practices in ways that benefit the environment and society."
+  },
+  {
+    "question": "What is a key requirement for a viable business opportunity?",
+    "options": [
+      "Customer willingness to pay above costs",
+      "Limited market research",
+      "Ignoring customer needs",
+      "High production costs"
+    ],
+    "answer": "Customer willingness to pay above costs",
+    "reference": "The opportunity becomes a true business opportunity when... the amount a customer is willing to pay... exceeds the costs."
+  },
+  {
+    "question": "Which resource is essential for scaling an entrepreneurial venture?",
+    "options": [
+      "A competent business team",
+      "Outdated technology",
+      "Limited financial capital",
+      "Excessive regulations"
+    ],
+    "answer": "A competent business team",
+    "reference": "As the business grows, the business team becomes the key factor."
+  },
+  {
+    "question": "What role does the entrepreneur play in resource mobilization?",
+    "options": [
+      "Ignoring resource needs",
+      "Mobilizing capital, talent, and equipment",
+      "Limiting team development",
+      "Avoiding financial planning"
+    ],
+    "answer": "Mobilizing capital, talent, and equipment",
+    "reference": "Successful entrepreneurial efforts require the mobilization of a wide array of resources... such as capital, talent... equipment, and facilities."
+  },
+  {
+    "question": "Why is market research critical for entrepreneurs?",
+    "options": [
+      "To limit product development",
+      "To assess customer value and cost viability",
+      "To avoid customer feedback",
+      "To reduce innovation"
+    ],
+    "answer": "To assess customer value and cost viability",
+    "reference": "They must research the market to understand how their potential product or service provides value to a customer and whether the amount a customer is willing to pay... exceeds the costs."
+  },
+  {
+    "question": "What is a common source of funding for entrepreneurial ventures?",
+    "options": [
+      "Excessive government regulations",
+      "Personal savings and family investment",
+      "Limited market opportunities",
+      "Outdated equipment"
+    ],
+    "answer": "Personal savings and family investment",
+    "reference": "Funding can come from a variety of sources including personal savings... family members, friends, and other sources."
+  },
+  {
+    "question": "What motivates some entrepreneurs to pursue lifestyle preferences?",
+    "options": [
+      "Desire for rigid schedules",
+      "Flexibility for family and recreation",
+      "Avoiding personal responsibility",
+      "Limiting decision-making"
+    ],
+    "answer": "Flexibility for family and recreation",
+    "reference": "This moves into the so-called lifestyle motivations... to have a more flexible work schedule that allows time for... family and recreational... pursuits."
+  },
+  {
+    "question": "What is a risk factor for entrepreneurial failure?",
+    "options": [
+      "Strong economic conditions",
+      "Limited access to funding",
+      "Guaranteed customer demand",
+      "Stable public policies"
+    ],
+    "answer": "Limited access to funding",
+    "reference": "The risks and failures can come from internal factors\u2014such as limited access to funding."
+  },
+  {
+    "question": "Why is persistence critical for entrepreneurs?",
+    "options": [
+      "It eliminates all challenges",
+      "It supports working through tough times",
+      "It reduces the need for planning",
+      "It guarantees financial success"
+    ],
+    "answer": "It supports working through tough times",
+    "reference": "Being persistent in working to achieve success is critical for entrepreneurs."
+  },
+  {
+    "question": "What motivates social entrepreneurship?",
+    "options": [
+      "Focusing solely on profit",
+      "Bringing value to society",
+      "Avoiding market opportunities",
+      "Limiting innovation"
+    ],
+    "answer": "Bringing value to society",
+    "reference": "Entrepreneurship focused on bringing value to society is often referred to as social entrepreneurship."
+  },
+  {
+    "question": "How can government subsidies support entrepreneurship?",
+    "options": [
+      "By increasing regulatory barriers",
+      "By reducing the cost of innovation",
+      "By limiting access to capital",
+      "By favoring large businesses"
+    ],
+    "answer": "By reducing the cost of innovation",
+    "reference": "Government can reduce the cost of technological innovation by simply giving government-produced technology to the private sector."
+  },
+  {
+    "question": "What is a drawback of excessive regulations for entrepreneurs?",
+    "options": [
+      "They enhance innovation",
+      "They limit options and innovation",
+      "They simplify business startups",
+      "They reduce competition"
+    ],
+    "answer": "They limit options and innovation",
+    "reference": "Any restriction tends to reduce innovation by limiting options."
+  },
+  {
+    "question": "How can government encourage social entrepreneurship?",
+    "options": [
+      "By increasing taxes on nonprofits",
+      "By providing tax exemptions for nonprofits",
+      "By limiting community engagement",
+      "By enforcing cultural barriers"
+    ],
+    "answer": "By providing tax exemptions for nonprofits",
+    "reference": "Providing tax exemption for non-profit enterprises and social entrepreneurship encourages a wide variety of value-creating services."
+  }
+]

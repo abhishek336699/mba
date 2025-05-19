@@ -1,0 +1,1058 @@
+[
+  {
+    "question": "What is the primary distinction between power and authority in organizational settings?",
+    "options": [
+      "Power is legitimate, while authority is based on influence.",
+      "Power involves the ability to influence, while authority is the right to do so.",
+      "Power is derived from formal positions, while authority is informal.",
+      "Power requires group consensus, while authority does not."
+    ],
+    "answer": "Power involves the ability to influence, while authority is the right to do so.",
+    "reference": "Power represents the capacity of one person or group to secure compliance from another person or group... In contrast, authority represents the right to seek compliance by others; the exercise of authority is backed by legitimacy."
+  },
+  {
+    "question": "Which type of power is most likely to result in commitment from subordinates?",
+    "options": [
+      "Coercive power",
+      "Legitimate power",
+      "Referent power",
+      "Reward power"
+    ],
+    "answer": "Referent power",
+    "reference": "If the subordinate accepts and identifies with the leader, his behavioural response will probably be one of commitment... This is most likely to happen when the person in charge uses referent or expert power."
+  },
+  {
+    "question": "According to Max Weber, how is power defined?",
+    "options": [
+      "The ability to achieve goals through negotiation",
+      "The probability that one actor can carry out their will despite resistance",
+      "The right to control resources within an organization",
+      "The capacity to influence through formal authority"
+    ],
+    "answer": "The probability that one actor can carry out their will despite resistance",
+    "reference": "Max Weber... defined power as 'the probability that one actor within a social relationship will be in a position to carry out his own will despite resistance.'"
+  },
+  {
+    "question": "Which base of power relies on the admiration of one individual for another?",
+    "options": [
+      "Expert power",
+      "Legitimate power",
+      "Referent power",
+      "Coercive power"
+    ],
+    "answer": "Referent power",
+    "reference": "Referent power: In some cases, person B looks up to or admires person A, and, as a result, B follows A largely because of A\u2019s personal qualities, characteristics, or reputation."
+  },
+  {
+    "question": "What is a key characteristic of coercive power in organizations?",
+    "options": [
+      "It is based on mutual trust and respect.",
+      "It relies on the ability to administer punishment or fear.",
+      "It depends on the formal position of the power holder.",
+      "It encourages voluntary compliance without pressure."
+    ],
+    "answer": "It relies on the ability to administer punishment or fear.",
+    "reference": "Coercive power is based primarily on fear... person A has power over person B because A can administer some form of punishment to B."
+  },
+  {
+    "question": "How does leadership differ from power and authority?",
+    "options": [
+      "Leadership requires formal authority, while power does not.",
+      "Leadership involves voluntary responses beyond mechanical compliance.",
+      "Leadership is based on coercive influence, unlike power.",
+      "Leadership is synonymous with legitimate power."
+    ],
+    "answer": "Leadership involves voluntary responses beyond mechanical compliance.",
+    "reference": "Leadership is the ability of one individual to elicit responses from another person that go beyond required or mechanical compliance."
+  },
+  {
+    "question": "Which of the following is an example of a utilitarian organization?",
+    "options": [
+      "A prison",
+      "A religious institution",
+      "A business organization",
+      "A volunteer group"
+    ],
+    "answer": "A business organization",
+    "reference": "Utilitarian power is power based on performance-reward contingencies... Business organizations are thought to be essentially utilitarian organizations."
+  },
+  {
+    "question": "What is the primary source of legitimate power in organizations?",
+    "options": [
+      "Personal expertise or knowledge",
+      "Control over valued rewards",
+      "Cultural values or accepted social structures",
+      "Fear of punishment"
+    ],
+    "answer": "Cultural values or accepted social structures",
+    "reference": "Legitimate power derives from three sources. First, prevailing cultural values can assign power to some group... Second, legitimate power can be attained as a result of the accepted social structure."
+  },
+  {
+    "question": "Which factor increases a subordinate\u2019s susceptibility to influence?",
+    "options": [
+      "Lack of counterpower",
+      "Low value placed on outcomes",
+      "Temporary job status",
+      "Peer relationship with the influencer"
+    ],
+    "answer": "Lack of counterpower",
+    "reference": "Counterpower: The concept of counterpower focuses on the extent to which B has other sources of power to buffer the effects of A\u2019s power."
+  },
+  {
+    "question": "What behavioral response is most associated with reward power?",
+    "options": [
+      "Resistance",
+      "Commitment",
+      "Compliance",
+      "Avoidance"
+    ],
+    "answer": "Compliance",
+    "reference": "A second possible response is compliance. This occurs most frequently when the subordinate feels the leader has either legitimate power or reward power."
+  },
+  {
+    "question": "Which of the following best defines organizational politics?",
+    "options": [
+      "The formal allocation of resources by management",
+      "Activities to acquire and use power to achieve preferred outcomes",
+      "The establishment of clear organizational goals",
+      "The use of authority to enforce compliance"
+    ],
+    "answer": "Activities to acquire and use power to achieve preferred outcomes",
+    "reference": "We will adopt Pfeffer\u2019s definition of politics as involving 'those activities taken within organizations to acquire, develop, and use power and other resources to obtain one\u2019s preferred outcomes.'"
+  },
+  {
+    "question": "When is political behavior most likely to occur in an organization?",
+    "options": [
+      "When resources are abundant",
+      "When goals are clear and unambiguous",
+      "When there is high uncertainty and competition for resources",
+      "When decisions are highly programmed"
+    ],
+    "answer": "When there is high uncertainty and competition for resources",
+    "reference": "We would expect the greatest amount of political activity in situations characterized by high uncertainty and complexity and high competition among employees or groups for scarce resources."
+  },
+  {
+    "question": "Which condition is least conducive to political behavior?",
+    "options": [
+      "Ambiguous goals",
+      "Limited resources",
+      "Clear policies and procedures",
+      "Dynamic external environment"
+    ],
+    "answer": "Clear policies and procedures",
+    "reference": "The managers... ranked as least political were decisions as personnel policies, hiring, and disciplinary procedures... characterized by clearly established policies, procedures, and objective criteria."
+  },
+  {
+    "question": "What is a common reason for political behavior during organizational change?",
+    "options": [
+      "Clear decision-making processes",
+      "Efforts to pursue personal interests through restructuring",
+      "Stable technology and environment",
+      "Abundant resources"
+    ],
+    "answer": "Efforts to pursue personal interests through restructuring",
+    "reference": "Periods of organizational change also present opportunities for political rather than rational behaviour... Efforts to restructure a particular department... are invitations to all to join the political process."
+  },
+  {
+    "question": "Which decision type is most associated with high political behavior?",
+    "options": [
+      "Hiring decisions",
+      "Interdepartmental coordination",
+      "Disciplinary procedures",
+      "Personnel policy updates"
+    ],
+    "answer": "Interdepartmental coordination",
+    "reference": "The most political decisions... were those involving interdepartmental coordination, promotions and transfers, and the delegation of authority."
+  },
+  {
+    "question": "How does limited resource availability contribute to political behavior?",
+    "options": [
+      "It reduces competition among departments.",
+      "It triggers fights to maximize one\u2019s share of resources.",
+      "It encourages clear goal setting.",
+      "It simplifies decision-making processes."
+    ],
+    "answer": "It triggers fights to maximize one\u2019s share of resources.",
+    "reference": "Limited resources: Politics surfaces when resources are scarce and allocation decisions must be made... Fight to maximize one\u2019s share of resources."
+  },
+  {
+    "question": "What is a key advantage of workplace diversity in terms of cost?",
+    "options": [
+      "Increased turnover among minority employees",
+      "Reduced likelihood of discrimination lawsuits",
+      "Higher recruitment costs for diverse candidates",
+      "Lower employee engagement"
+    ],
+    "answer": "Reduced likelihood of discrimination lawsuits",
+    "reference": "Organizations that have policies and procedures in place that encourage tolerance... may reduce their likelihood of being sued due to workplace discrimination."
+  },
+  {
+    "question": "How does diversity enhance resource acquisition for organizations?",
+    "options": [
+      "By reducing the labor pool size",
+      "By attracting more women and minority job applicants",
+      "By increasing turnover among diverse employees",
+      "By limiting access to skilled labor"
+    ],
+    "answer": "By attracting more women and minority job applicants",
+    "reference": "Organizations perceived to value diversity attract more women and minority job applicants to hire as employees."
+  },
+  {
+    "question": "Which diversity advantage is associated with cognitive flexibility?",
+    "options": [
+      "Cost advantages",
+      "Marketing ability",
+      "System flexibility",
+      "Creativity and problem solving"
+    ],
+    "answer": "System flexibility",
+    "reference": "When employees possess cognitive flexibility, system flexibility develops at the organizational level."
+  },
+  {
+    "question": "What is a benefit of diverse teams in problem solving?",
+    "options": [
+      "Increased groupthink",
+      "Fewer perspectives on issues",
+      "Prevention of groupthink",
+      "Reduced creativity"
+    ],
+    "answer": "Prevention of groupthink",
+    "reference": "Diverse group membership prevents groupthink because individuals from different backgrounds... can test the assumptions and reasoning of group members\u2019 ideas."
+  },
+  {
+    "question": "How should diversity programs be aligned for maximum organizational benefit?",
+    "options": [
+      "With specific business strategies like innovation",
+      "With uniform employee policies",
+      "With minimal strategic planning",
+      "With short-term goals only"
+    ],
+    "answer": "With specific business strategies like innovation",
+    "reference": "Diversity helps organizations perform best when it is aligned with a specific business strategy... an entrepreneurial strategy focusing on innovation."
+  },
+  {
+    "question": "What is a structural solution to resolve dysfunctional conflict?",
+    "options": [
+      "Ignoring the conflict",
+      "Changing the team\u2019s composition",
+      "Aligning goals through shared performance metrics",
+      "Focusing on personal differences"
+    ],
+    "answer": "Aligning goals through shared performance metrics",
+    "reference": "When structure is a cause of dysfunctional conflict, structural change can be the solution... both of you will be evaluated on the total cost and the overall performance of the product."
+  },
+  {
+    "question": "Which conflict-handling style is characterized by high cooperation and low assertiveness?",
+    "options": [
+      "Competing",
+      "Collaborating",
+      "Accommodating",
+      "Avoiding"
+    ],
+    "answer": "Accommodating",
+    "reference": "The accommodating style is cooperative and unassertive. In this style, the person gives in to what the other side wants."
+  },
+  {
+    "question": "How can a common opposing force help resolve group conflict?",
+    "options": [
+      "By increasing competition within the group",
+      "By uniting groups against a shared external threat",
+      "By enforcing majority rule",
+      "By avoiding the conflict altogether"
+    ],
+    "answer": "By uniting groups against a shared external threat",
+    "reference": "Group conflict within an organization can be mitigated by focusing attention on a common enemy such as the competition."
+  },
+  {
+    "question": "When is the avoidance conflict-handling style least effective?",
+    "options": [
+      "When the issue is trivial",
+      "When confronting important issues",
+      "When quick decisions are needed",
+      "When relationships are strong"
+    ],
+    "answer": "When confronting important issues",
+    "reference": "While conflict avoidance may not be a significant problem if the issue at hand is trivial, it becomes a problem when individuals avoid confronting important issues."
+  },
+  {
+    "question": "Which conflict resolution approach focuses on uncovering the root cause?",
+    "options": [
+      "Majority rule",
+      "Problem solving",
+      "Creating a common enemy",
+      "Changing team composition"
+    ],
+    "answer": "Problem solving",
+    "reference": "In problem-solving mode, the individuals or groups in conflict are asked to focus on the problem, not on each other, and to uncover the root cause of the problem."
+  },
+  {
+    "question": "What is the primary goal of integrative bargaining in negotiation?",
+    "options": [
+      "To maximize one party\u2019s outcomes at the expense of the other",
+      "To achieve a win-win solution benefiting both parties",
+      "To minimize communication between parties",
+      "To enforce a take-it-or-leave-it stance"
+    ],
+    "answer": "To achieve a win-win solution benefiting both parties",
+    "reference": "Integrative bargaining is often described as the 'win-win' approach... both parties try to reach a settlement that benefits both parties."
+  },
+  {
+    "question": "Which stage of negotiation focuses on building relationships in some cultures?",
+    "options": [
+      "Information exchange",
+      "Influence and persuasion",
+      "Non-task time",
+      "Closing"
+    ],
+    "answer": "Non-task time",
+    "reference": "Non-task time: During the first stage, the participants focus on getting to know and become comfortable with each other... in other cultures such as Mexico or South Korea, the non-task stage is often longer."
+  },
+  {
+    "question": "What characterizes distributive bargaining?",
+    "options": [
+      "A collaborative approach to problem solving",
+      "A win-lose situation with fixed resources",
+      "A focus on long-term relationships",
+      "A mutual effort to achieve shared goals"
+    ],
+    "answer": "A win-lose situation with fixed resources",
+    "reference": "Distributive bargaining is 'win-lose' bargaining... Resources are fixed and limited, and each party wants to maximize her share of these resources."
+  },
+  {
+    "question": "Which factor affects the effectiveness of influence tactics in negotiation?",
+    "options": [
+      "The cultural acceptance of certain tactics",
+      "The length of the non-task stage",
+      "The number of parties involved",
+      "The type of contract signed"
+    ],
+    "answer": "The cultural acceptance of certain tactics",
+    "reference": "The effectiveness of a particular influence tactic is also a function of accepted industry and cultural norms."
+  },
+  {
+    "question": "What is a key feature of the negotiation process?",
+    "options": [
+      "Avoiding any form of bargaining",
+      "Identifying desired goals and developing strategies",
+      "Focusing solely on short-term outcomes",
+      "Eliminating the need for communication"
+    ],
+    "answer": "Identifying desired goals and developing strategies",
+    "reference": "The negotiation process consists of identifying one\u2019s desired goals... and then developing suitable strategies aimed at reaching those goals."
+  },
+  {
+    "question": "Which base of power is most likely used by a staff specialist like an accountant?",
+    "options": [
+      "Referent power",
+      "Expert power",
+      "Legitimate power",
+      "Reward power"
+    ],
+    "answer": "Expert power",
+    "reference": "Expert power is demonstrated when person A gains power because A has knowledge or expertise relevant to B... examples of expert power can be seen in staff specialists in organizations (e.g., accountants)."
+  },
+  {
+    "question": "How does counterpower influence power dependence?",
+    "options": [
+      "It increases the leader\u2019s control over subordinates.",
+      "It buffers the effects of the leader\u2019s power.",
+      "It eliminates the need for rewards.",
+      "It strengthens legitimate authority."
+    ],
+    "answer": "It buffers the effects of the leader\u2019s power.",
+    "reference": "Counterpower focuses on the extent to which B has other sources of power to buffer the effects of A\u2019s power."
+  },
+  {
+    "question": "Which type of power is associated with a prison organization?",
+    "options": [
+      "Utilitarian power",
+      "Normative power",
+      "Coercive power",
+      "Referent power"
+    ],
+    "answer": "Coercive power",
+    "reference": "Coercive power involves forcing someone to comply with one\u2019s wishes. A prison organization is an example of a coercive organization."
+  },
+  {
+    "question": "What is a potential downside of using coercive power?",
+    "options": [
+      "It fosters strong commitment.",
+      "It may lead to resistance from subordinates.",
+      "It enhances voluntary compliance.",
+      "It strengthens interpersonal relationships."
+    ],
+    "answer": "It may lead to resistance from subordinates.",
+    "reference": "Under conditions of coercive power, subordinates will more than likely use resistance."
+  },
+  {
+    "question": "Which political behavior is triggered by ambiguous goals?",
+    "options": [
+      "Attempts to define goals to one\u2019s advantage",
+      "Efforts to standardize procedures",
+      "Reduction in resource competition",
+      "Increased programmed decision-making"
+    ],
+    "answer": "Attempts to define goals to one\u2019s advantage",
+    "reference": "Ambiguous goals: Attempts to define goals to one\u2019s advantage."
+  },
+  {
+    "question": "How does a dynamic external environment contribute to political behavior?",
+    "options": [
+      "It reduces uncertainty in decision-making.",
+      "It encourages groups to exploit uncertainty for personal gain.",
+      "It promotes clear resource allocation.",
+      "It minimizes competition among groups."
+    ],
+    "answer": "It encourages groups to exploit uncertainty for personal gain.",
+    "reference": "Dynamic technology and environment: Attempts to exploit uncertainty for personal gain."
+  },
+  {
+    "question": "What is a key benefit of diversity in marketing?",
+    "options": [
+      "Reduced customer engagement",
+      "Insightful knowledge from diverse demographic markets",
+      "Higher operational costs",
+      "Limited product perspectives"
+    ],
+    "answer": "Insightful knowledge from diverse demographic markets",
+    "reference": "When organizations employ individuals from different backgrounds, they gain broad perspectives regarding consumer preferences of different cultures."
+  },
+  {
+    "question": "Which conflict-handling style is most likely to achieve a win-win outcome?",
+    "options": [
+      "Avoiding",
+      "Accommodating",
+      "Collaborating",
+      "Competing"
+    ],
+    "answer": "Collaborating",
+    "reference": "The collaborating style is high on both assertiveness and cooperation... The objective is to find a win\u2013win solution to the problem."
+  },
+  {
+    "question": "What is the role of the information exchange stage in negotiation?",
+    "options": [
+      "To finalize the agreement",
+      "To provide background and general information",
+      "To persuade the other party",
+      "To focus on non-task interactions"
+    ],
+    "answer": "To provide background and general information",
+    "reference": "Information exchange: The second stage of negotiations involves the exchange of background and general information."
+  },
+  {
+    "question": "Which base of power is derived from controlling desirable job assignments?",
+    "options": [
+      "Coercive power",
+      "Reward power",
+      "Legitimate power",
+      "Expert power"
+    ],
+    "answer": "Reward power",
+    "reference": "Reward power exists when person A has power over person B because A controls rewards that B wants... including... desirable job assignments."
+  },
+  {
+    "question": "What is a common outcome of non-programmed decisions in organizations?",
+    "options": [
+      "Reduced political behavior",
+      "Increased room for political maneuvering",
+      "Clear and objective criteria",
+      "Simplified resource allocation"
+    ],
+    "answer": "Increased room for political maneuvering",
+    "reference": "When decisions are not programmed, conditions surrounding the decision problem and the decision process are usually more ambiguous, which leaves room for political manoeuvring."
+  },
+  {
+    "question": "How does diversity contribute to creativity in teams?",
+    "options": [
+      "By promoting groupthink",
+      "By generating multiple points of view",
+      "By reducing alternative solutions",
+      "By limiting life experiences"
+    ],
+    "answer": "By generating multiple points of view",
+    "reference": "Teams from diverse backgrounds produce multiple points of view, which can lead to innovative ideas."
+  },
+  {
+    "question": "Which factor reduces the need for political behavior?",
+    "options": [
+      "High uncertainty",
+      "Ample resources",
+      "Complex technology",
+      "Organizational change"
+    ],
+    "answer": "Ample resources",
+    "reference": "If resources were ample, there would be no need to use politics to claim one\u2019s 'share.'"
+  },
+  {
+    "question": "What is a potential challenge of diversity in organizations?",
+    "options": [
+      "Improved problem solving",
+      "Higher turnover among White employees",
+      "Enhanced system flexibility",
+      "Increased market reputation"
+    ],
+    "answer": "Higher turnover among White employees",
+    "reference": "Organizations that value diversity experience a higher turnover of White employees and male employees compared to companies that are less diverse."
+  },
+  {
+    "question": "Which power base is most associated with a manager\u2019s formal position?",
+    "options": [
+      "Referent power",
+      "Expert power",
+      "Legitimate power",
+      "Reward power"
+    ],
+    "answer": "Legitimate power",
+    "reference": "Legitimate power exists when person B submits to person A because B feels that A has a right to exert power in a certain domain."
+  },
+  {
+    "question": "What is a key characteristic of normative power?",
+    "options": [
+      "It relies on punishment to ensure compliance.",
+      "It is based on members\u2019 belief in the organization\u2019s right to govern.",
+      "It depends on performance-reward contingencies.",
+      "It involves interpersonal attraction."
+    ],
+    "answer": "It is based on members\u2019 belief in the organization\u2019s right to govern.",
+    "reference": "Normative power rests on the beliefs of the members in the right of the organization to govern their behaviour."
+  },
+  {
+    "question": "Which negotiation stage involves efforts to reduce the other party\u2019s demands?",
+    "options": [
+      "Non-task time",
+      "Information exchange",
+      "Influence and persuasion",
+      "Closing"
+    ],
+    "answer": "Influence and persuasion",
+    "reference": "Influence and persuasion: The third stage involves efforts to influence and persuade the other side... to get the other party to reduce its demands or desires."
+  },
+  {
+    "question": "What is a primary driver of political behavior in intergroup relations?",
+    "options": [
+      "Control of critical resources",
+      "Standardized decision-making",
+      "Abundant resource availability",
+      "Clear organizational goals"
+    ],
+    "answer": "Control of critical resources",
+    "reference": "When one subunit of an organization... controls a scarce resource that is needed by another subunit... that subunit acquires power."
+  },
+  {
+    "question": "How does expert power influence organizational behavior?",
+    "options": [
+      "By enforcing compliance through fear",
+      "By leveraging specialized knowledge or skills",
+      "By controlling formal rewards",
+      "By relying on group consensus"
+    ],
+    "answer": "By leveraging specialized knowledge or skills",
+    "reference": "Expert power is demonstrated when person A gains power because A has knowledge or expertise relevant to B."
+  },
+  {
+    "question": "Which base of power is most likely to be derived from a formal promotion to a managerial position?",
+    "options": [
+      "Referent power",
+      "Expert power",
+      "Legitimate power",
+      "Coercive power"
+    ],
+    "answer": "Legitimate power",
+    "reference": "Legitimate power may be designated, as in the case of... a person being promoted into a managerial position."
+  },
+  {
+    "question": "What is a primary limitation of reward power in many organizations?",
+    "options": [
+      "It often leads to resistance from subordinates.",
+      "Supervisors may not control many rewards.",
+      "It relies on interpersonal attraction.",
+      "It requires formal authority."
+    ],
+    "answer": "Supervisors may not control many rewards.",
+    "reference": "In many organizations, supervisors and managers really do not control many rewards. For example, salary and promotion among most blue-collar workers is based on a labour contract."
+  },
+  {
+    "question": "According to Emerson, how is power characterized in interpersonal relationships?",
+    "options": [
+      "The ability to reward compliant behavior",
+      "The amount of resistance one can overcome in another",
+      "The right to enforce organizational policies",
+      "The capacity to negotiate favorable outcomes"
+    ],
+    "answer": "The amount of resistance one can overcome in another",
+    "reference": "Emerson wrote, 'The power of actor A over actor B is the amount of resistance on the part of B which can be potentially overcome by A.'"
+  },
+  {
+    "question": "Which type of power is most associated with a religious organization?",
+    "options": [
+      "Coercive power",
+      "Utilitarian power",
+      "Normative power",
+      "Reward power"
+    ],
+    "answer": "Normative power",
+    "reference": "Normative power rests on the beliefs of the members in the right of the organization to govern their behaviour. An example here would be a religious organization."
+  },
+  {
+    "question": "What is a key factor in the effectiveness of coercive power?",
+    "options": [
+      "The ability to inspire voluntary compliance",
+      "The threat of punishment or harm",
+      "The admiration of the power holder",
+      "The formal position of the leader"
+    ],
+    "answer": "The threat of punishment or harm",
+    "reference": "Coercive power is based primarily on fear... A can administer some form of punishment to B."
+  },
+  {
+    "question": "How does referent power differ from legitimate power?",
+    "options": [
+      "Referent power is based on formal authority, while legitimate power is not.",
+      "Referent power relies on personal admiration, while legitimate power depends on position.",
+      "Referent power involves punishment, while legitimate power involves rewards.",
+      "Referent power is derived from expertise, while legitimate power is from charisma."
+    ],
+    "answer": "Referent power relies on personal admiration, while legitimate power depends on position.",
+    "reference": "Referent power... because allegiance is based on interpersonal attraction... Legitimate power depends on the official position a person holds."
+  },
+  {
+    "question": "Which behavioral response is least likely under coercive power?",
+    "options": [
+      "Resistance",
+      "Compliance",
+      "Commitment",
+      "Avoidance"
+    ],
+    "answer": "Commitment",
+    "reference": "Under conditions of coercive power, subordinates will more than likely use resistance... commitment or enthusiasm for the project is lacking."
+  },
+  {
+    "question": "What role does counterpower play in power dynamics?",
+    "options": [
+      "It enhances the leader\u2019s ability to influence.",
+      "It provides subordinates with alternative sources of power.",
+      "It eliminates the need for legitimate authority.",
+      "It ensures compliance through rewards."
+    ],
+    "answer": "It provides subordinates with alternative sources of power.",
+    "reference": "Counterpower focuses on the extent to which B has other sources of power to buffer the effects of A\u2019s power."
+  },
+  {
+    "question": "Which base of power is exemplified by a celebrity endorsing a product?",
+    "options": [
+      "Expert power",
+      "Legitimate power",
+      "Referent power",
+      "Reward power"
+    ],
+    "answer": "Referent power",
+    "reference": "Examples of referent power can be seen in advertising, where companies use celebrities to recommend their products."
+  },
+  {
+    "question": "How does the nature of the relationship between two parties affect power dependence?",
+    "options": [
+      "It has no impact on influence processes.",
+      "Peers are less likely to engage in delicate influence processes.",
+      "Temporary relationships increase the need for compliance.",
+      "Superior-subordinate relationships require less influence."
+    ],
+    "answer": "Peers are less likely to engage in delicate influence processes.",
+    "reference": "If A and B are peers or good friends, the influence process is likely to be more delicate than if they are superior and subordinate."
+  },
+  {
+    "question": "What distinguishes politics from power in organizational settings?",
+    "options": [
+      "Politics is a static force, while power is dynamic.",
+      "Politics involves activities to use power, while power is potential influence.",
+      "Politics requires formal authority, while power does not.",
+      "Politics is always dysfunctional, while power is constructive."
+    ],
+    "answer": "Politics involves activities to use power, while power is potential influence.",
+    "reference": "If power is a force, a store of potential influence... politics involves those activities or behaviours through which power is developed and used."
+  },
+  {
+    "question": "Which organizational decision is least likely to involve political behavior?",
+    "options": [
+      "Promotions and transfers",
+      "Interdepartmental coordination",
+      "Disciplinary procedures",
+      "Delegation of authority"
+    ],
+    "answer": "Disciplinary procedures",
+    "reference": "The managers... ranked as least political were decisions as personnel policies, hiring, and disciplinary procedures."
+  },
+  {
+    "question": "What is a primary driver of political behavior in non-programmed decisions?",
+    "options": [
+      "Clear and objective criteria",
+      "Ambiguity in the decision process",
+      "Standardized procedures",
+      "Abundant resources"
+    ],
+    "answer": "Ambiguity in the decision process",
+    "reference": "When decisions are not programmed, conditions surrounding the decision problem and the decision process are usually more ambiguous, which leaves room for political manoeuvring."
+  },
+  {
+    "question": "How does organizational change contribute to political behavior?",
+    "options": [
+      "It reduces uncertainty in resource allocation.",
+      "It provides opportunities for factions to pursue interests.",
+      "It eliminates competition among groups.",
+      "It simplifies decision-making processes."
+    ],
+    "answer": "It provides opportunities for factions to pursue interests.",
+    "reference": "Periods of organizational change also present opportunities for political rather than rational behaviour... as different factions and coalitions fight over territory."
+  },
+  {
+    "question": "Which condition fosters attempts to exploit uncertainty for personal gain?",
+    "options": [
+      "Stable technology",
+      "Dynamic external environment",
+      "Clear organizational goals",
+      "Ample resources"
+    ],
+    "answer": "Dynamic external environment",
+    "reference": "Dynamic technology and environment: Attempts to exploit uncertainty for personal gain."
+  },
+  {
+    "question": "What is a key characteristic of political behavior according to Pfeffer?",
+    "options": [
+      "It occurs in the absence of opposition.",
+      "It aims to overcome resistance to achieve outcomes.",
+      "It is always detrimental to organizational goals.",
+      "It relies on clear and objective criteria."
+    ],
+    "answer": "It aims to overcome resistance to achieve outcomes.",
+    "reference": "Political behaviour is activity that is initiated for the purpose of overcoming opposition or resistance."
+  },
+  {
+    "question": "How does diversity contribute to an organization\u2019s marketing ability?",
+    "options": [
+      "By limiting consumer insights",
+      "By enhancing reputation and attracting new customers",
+      "By reducing market competition",
+      "By increasing operational costs"
+    ],
+    "answer": "By enhancing reputation and attracting new customers",
+    "reference": "Organizations that value diversity enhance their reputation with the market they serve, thereby attracting new customers."
+  },
+  {
+    "question": "What is a challenge of managing diversity in organizations?",
+    "options": [
+      "Improved resource acquisition",
+      "Effectively handling different attitudes and values",
+      "Enhanced system flexibility",
+      "Increased creativity"
+    ],
+    "answer": "Effectively handling different attitudes and values",
+    "reference": "Challenges include effectively managing employees with different attitudes, values and beliefs."
+  },
+  {
+    "question": "How does diversity prevent groupthink in decision-making?",
+    "options": [
+      "By encouraging conformity among team members",
+      "By introducing varied perspectives to challenge assumptions",
+      "By reducing the number of alternatives considered",
+      "By promoting homogeneous group dynamics"
+    ],
+    "answer": "By introducing varied perspectives to challenge assumptions",
+    "reference": "Diverse group membership prevents groupthink because individuals from different backgrounds... can test the assumptions and reasoning of group members\u2019 ideas."
+  },
+  {
+    "question": "What is a benefit of aligning diversity with an entrepreneurial strategy?",
+    "options": [
+      "Reduced productivity",
+      "Increased organizational rigidity",
+      "Enhanced innovation and productivity",
+      "Higher turnover rates"
+    ],
+    "answer": "Enhanced innovation and productivity",
+    "reference": "When companies use heterogeneous management teams that are directed by an entrepreneurial strategy focusing on innovation, the companies\u2019 productivity increases."
+  },
+  {
+    "question": "Why do diverse organizations attract more minority job applicants?",
+    "options": [
+      "Due to lower job-pursuit intentions",
+      "Because of perceived value for diversity in recruitment",
+      "Due to reduced labor pool size",
+      "Because of higher turnover rates"
+    ],
+    "answer": "Because of perceived value for diversity in recruitment",
+    "reference": "Studies show that women and minorities have greater job-pursuit intentions... toward organizations that promote workplace diversity in their recruitment materials."
+  },
+  {
+    "question": "Which conflict-handling style is most likely to neglect personal interests?",
+    "options": [
+      "Collaborating",
+      "Competing",
+      "Accommodating",
+      "Compromising"
+    ],
+    "answer": "Accommodating",
+    "reference": "If a person perpetually uses this style, that individual may start to see that personal interests and well-being are neglected."
+  },
+  {
+    "question": "What is a limitation of using majority rule to resolve conflict?",
+    "options": [
+      "It fosters collaboration among group members.",
+      "It may become ineffective if the same members always win.",
+      "It eliminates the need for discussion.",
+      "It ensures a win-win outcome."
+    ],
+    "answer": "It may become ineffective if the same members always win.",
+    "reference": "The majority rule approach can work if the participants feel that the procedure is fair... It will become ineffective if used repeatedly with the same members typically winning."
+  },
+  {
+    "question": "Which approach to conflict resolution emphasizes collaboration over competition?",
+    "options": [
+      "Creating a common opposing force",
+      "Changing the team composition",
+      "Collaborating",
+      "Majority rule"
+    ],
+    "answer": "Collaborating",
+    "reference": "The collaborating style is high on both assertiveness and cooperation... The objective is to find a win\u2013win solution."
+  },
+  {
+    "question": "When is the competing conflict-handling style most appropriate?",
+    "options": [
+      "When maintaining relationships is critical",
+      "When quick decisions are needed on ethical issues",
+      "When consensus is the primary goal",
+      "When the issue is trivial"
+    ],
+    "answer": "When quick decisions are needed on ethical issues",
+    "reference": "This approach may be effective if one has strong moral objections to the alternatives or if the alternatives one is opposing are unethical or harmful."
+  },
+  {
+    "question": "How does physical layout influence conflict among team members?",
+    "options": [
+      "Seating antagonists side by side increases conflict.",
+      "Seating antagonists across from each other reduces conflict.",
+      "Seating antagonists side by side reduces conflict.",
+      "Physical layout has no impact on conflict."
+    ],
+    "answer": "Seating antagonists side by side reduces conflict.",
+    "reference": "When known antagonists are seated directly across from each other, the amount of conflict increases. However, when they[Sitting side-by-side] are seated side by side, the conflict tends to decrease."
+  },
+  {
+    "question": "What symbolizes the closing stage of negotiation in the United States?",
+    "options": [
+      "A verbal agreement",
+      "A signed contract",
+      "Continued negotiations",
+      "A handshake"
+    ],
+    "answer": "A signed contract",
+    "reference": "In the United States, a signed contract is the symbol of a closed negotiation."
+  },
+  {
+    "question": "Which bargaining strategy assumes a short-term relationship between parties?",
+    "options": [
+      "Integrative bargaining",
+      "Distributive bargaining",
+      "Collaborative bargaining",
+      "Problem-solving bargaining"
+    ],
+    "answer": "Distributive bargaining",
+    "reference": "Distributive bargaining... in most cases, this situation represents a short-term relationship between the two parties."
+  },
+  {
+    "question": "What is a key factor in choosing a negotiation strategy?",
+    "options": [
+      "The number of parties involved",
+      "The relative bargaining power of the parties",
+      "The length of the information exchange stage",
+      "The cultural acceptance of signed contracts"
+    ],
+    "answer": "The relative bargaining power of the parties",
+    "reference": "A key feature of one\u2019s strategy is knowing one\u2019s relative position in the bargaining process."
+  },
+  {
+    "question": "Why is the non-task stage of negotiation important in some cultures?",
+    "options": [
+      "It focuses on finalizing the agreement.",
+      "It establishes the relationship between parties.",
+      "It involves exchanging critical information.",
+      "It determines the influence tactics to use."
+    ],
+    "answer": "It establishes the relationship between parties.",
+    "reference": "In other cultures such as Mexico or South Korea, the non-task stage is often longer and of more importance because it is during this stage the relationship is established."
+  },
+  {
+    "question": "Which stage of negotiation varies most significantly across cultures?",
+    "options": [
+      "Information exchange",
+      "Influence and persuasion",
+      "Non-task time",
+      "Closing"
+    ],
+    "answer": "Non-task time",
+    "reference": "The length of time devoted to each stage, the importance of each stage, and the specific behaviours associated with each stage can vary by situation and certainly do vary by culture."
+  },
+  {
+    "question": "How does control of critical resources influence subunit power?",
+    "options": [
+      "It reduces the subunit\u2019s bargaining power.",
+      "It enables the subunit to acquire more resources.",
+      "It eliminates the need for strategic contingencies.",
+      "It decreases interdepartmental dependencies."
+    ],
+    "answer": "It enables the subunit to acquire more resources.",
+    "reference": "When one subunit of an organization... controls a scarce resource... that subunit acquires power... in a better position to bargain for the critical resources it needs."
+  },
+  {
+    "question": "What is a strategic contingency in organizational power dynamics?",
+    "options": [
+      "A routine task assigned to all subunits",
+      "An activity that alters interunit power balance",
+      "A standardized decision-making process",
+      "A resource shared equally among departments"
+    ],
+    "answer": "An activity that alters interunit power balance",
+    "reference": "A contingency becomes strategic when it has the potential to alter the balance of interunit or interdepartmental power."
+  },
+  {
+    "question": "Which factor contributed to lawyers gaining power in public utilities?",
+    "options": [
+      "Stable government regulations",
+      "Shifting strategic contingencies like litigation",
+      "Decline in technical development",
+      "Reduced environmental uncertainty"
+    ],
+    "answer": "Shifting strategic contingencies like litigation",
+    "reference": "More recently, as utilities face greater litigation, government regulation, and controversy... lawyers are predominant in the leadership of most companies."
+  },
+  {
+    "question": "How does diversity impact turnover in organizations?",
+    "options": [
+      "It increases turnover among minority employees.",
+      "It reduces turnover among women and minorities.",
+      "It has no impact on employee retention.",
+      "It eliminates turnover entirely."
+    ],
+    "answer": "It reduces turnover among women and minorities.",
+    "reference": "Organizations with a more visible climate of diversity experience lower turnover among women and minorities."
+  },
+  {
+    "question": "What is a key advantage of diverse teams in decision-making?",
+    "options": [
+      "Fewer choices for problem-solving",
+      "Broader range of perspectives",
+      "Increased group conformity",
+      "Reduced problem-solving ability"
+    ],
+    "answer": "Broader range of perspectives",
+    "reference": "Different perspectives lead to a greater number of choices to select from when addressing a problem or issue."
+  },
+  {
+    "question": "Which base of power is least likely to foster commitment?",
+    "options": [
+      "Referent power",
+      "Expert power",
+      "Coercive power",
+      "Reward power"
+    ],
+    "answer": "Coercive power",
+    "reference": "If the subordinate accepts and identifies with the leader... This is most likely to happen when the person in charge uses referent or expert power."
+  },
+  {
+    "question": "What is a common outcome of ambiguous goals in organizations?",
+    "options": [
+      "Reduced political behavior",
+      "Attempts to define goals to one\u2019s advantage",
+      "Increased programmed decisions",
+      "Clear resource allocation"
+    ],
+    "answer": "Attempts to define goals to one\u2019s advantage",
+    "reference": "Ambiguous goals: Attempts to define goals to one\u2019s advantage."
+  },
+  {
+    "question": "How does expert power contribute to organizational influence?",
+    "options": [
+      "By enforcing compliance through punishment",
+      "By leveraging specialized knowledge",
+      "By controlling formal rewards",
+      "By relying on group consensus"
+    ],
+    "answer": "By leveraging specialized knowledge",
+    "reference": "Expert power is demonstrated when person A gains power because A has knowledge or expertise relevant to B."
+  },
+  {
+    "question": "Which conflict resolution strategy involves aligning incompatible goals?",
+    "options": [
+      "Changing the team composition",
+      "Creating a common opposing force",
+      "Changing the structure",
+      "Using majority rule"
+    ],
+    "answer": "Changing the structure",
+    "reference": "A structural solution could be to have those two departments report to the same executive, who could align their previously incompatible goals."
+  },
+  {
+    "question": "What is a characteristic of the compromising conflict-handling style?",
+    "options": [
+      "High assertiveness and low cooperation",
+      "Mutual sacrifice to achieve a middle-ground solution",
+      "Avoidance of any confrontation",
+      "Focus on winning at the expense of others"
+    ],
+    "answer": "Mutual sacrifice to achieve a middle-ground solution",
+    "reference": "The compromising style is a middle-ground style... In a compromise, each person sacrifices something valuable to them."
+  },
+  {
+    "question": "Which negotiation stage is critical for establishing context in Japan?",
+    "options": [
+      "Non-task time",
+      "Information exchange",
+      "Influence and persuasion",
+      "Closing"
+    ],
+    "answer": "Information exchange",
+    "reference": "In Japan, this is an important stage because specific proposals or agreements must be considered and decided in the larger context."
+  },
+  {
+    "question": "How does reward power influence job performance?",
+    "options": [
+      "It often leads to resistance.",
+      "It fosters a strong performance-reward contingency.",
+      "It relies on fear of punishment.",
+      "It eliminates the need for compliance."
+    ],
+    "answer": "It fosters a strong performance-reward contingency.",
+    "reference": "Research has indicated that reward power often leads to increased job performance as employees see a strong performance-reward contingency."
+  },
+  {
+    "question": "What is a potential benefit of political behavior in organizations?",
+    "options": [
+      "It always undermines organizational goals.",
+      "It can challenge outdated policies for survival.",
+      "It reduces the need for resource allocation.",
+      "It eliminates uncertainty in decision-making."
+    ],
+    "answer": "It can challenge outdated policies for survival.",
+    "reference": "In many instances, the survival of the organization depends on the success of a department or coalition of departments challenging a traditional but outdated policy or objective."
+  },
+  {
+    "question": "How does diversity enhance system flexibility in organizations?",
+    "options": [
+      "By reducing employee interactions",
+      "By fostering cognitive flexibility among employees",
+      "By limiting diverse perspectives",
+      "By increasing groupthink"
+    ],
+    "answer": "By fostering cognitive flexibility among employees",
+    "reference": "The ability to effectively interact with individuals who differ from oneself builds cognitive flexibility... system flexibility develops at the organizational level."
+  },
+  {
+    "question": "Which base of power is most associated with cultural values in Japan?",
+    "options": [
+      "Coercive power",
+      "Legitimate power",
+      "Referent power",
+      "Expert power"
+    ],
+    "answer": "Legitimate power",
+    "reference": "In Japan and Korea, for instance, older employees derive power simply because of their age."
+  }
+]

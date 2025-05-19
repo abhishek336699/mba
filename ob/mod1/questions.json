@@ -1,0 +1,596 @@
+[
+    {
+        "question": "What is the primary focus of organizational behaviour?",
+        "options": ["Financial performance", "Impact of individuals and groups on organizational effectiveness", "Technological advancements", "Market competition"],
+        "answer": "Impact of individuals and groups on organizational effectiveness",
+        "reference": "“Organizational behaviour is a field of study that investigates the impact that individuals, groups and organizational structure have on behaviour within the organization, for the purpose of applying such knowledge towards improving an organizational effectiveness”."
+    },
+    {
+        "question": "What is a key element of organizational behaviour according to its definition?",
+        "options": ["Ignoring individual differences", "Investigative study of behaviour", "Focusing only on technology", "Avoiding group dynamics"],
+        "answer": "Investigative study of behaviour",
+        "reference": "Organizational behaviour is an investigative study of individuals and groups."
+    },
+    {
+        "question": "Which field contributes to understanding group dynamics in organizational behaviour?",
+        "options": ["Economics", "Sociology", "Physics", "Chemistry"],
+        "answer": "Sociology",
+        "reference": "The science of sociology studies the impact of culture on group behaviour and has contributed to a large extent to the field of group-dynamics."
+    },
+    {
+        "question": "What is a scope of organizational behaviour?",
+        "options": ["Product development", "Management of conflict and stress", "Financial auditing", "Supply chain optimization"],
+        "answer": "Management of conflict and stress",
+        "reference": "Scope of Organisational Behaviour: Management of conflict and stress."
+    },
+    {
+        "question": "How does psychology contribute to organizational behaviour?",
+        "options": ["By studying market trends", "Through theories on motivation and leadership", "By analyzing financial data", "Through technological innovations"],
+        "answer": "Through theories on motivation and leadership",
+        "reference": "It has contributed towards various theories on learning, motivation, personality, training and development, theories on individual decision making, leadership."
+    },
+    {
+        "question": "What role does anthropology play in organizational behaviour?",
+        "options": ["Understanding cultural differences in behaviour", "Developing financial strategies", "Designing technological systems", "Analyzing market competition"],
+        "answer": "Understanding cultural differences in behaviour",
+        "reference": "It understands difference in behaviour based on value system of different cultures in various countries."
+    },
+    {
+        "question": "What is a goal of studying organizational behaviour?",
+        "options": ["Reducing organizational growth", "Ensuring human behaviour contributes to efficiency", "Focusing only on individual performance", "Ignoring situational factors"],
+        "answer": "Ensuring human behaviour contributes to efficiency",
+        "reference": "The aim of the study is to ensure that the human behaviour contributes towards growth of the organization and greater efficiency is achieved."
+    },
+    {
+        "question": "What does organizational behaviour integrate to achieve organizational goals?",
+        "options": ["Only technological systems", "Studies from behavioural sciences", "Financial models", "Marketing strategies"],
+        "answer": "Studies from behavioural sciences",
+        "reference": "Organizational behaviour involves integration of studies undertaken relating to behavioural sciences like psychology, sociology, anthropology."
+    },
+    {
+        "question": "What is a purpose of the behaviour model in organizational efficiency?",
+        "options": ["To ignore individual behaviour", "To describe and control behaviour", "To avoid organizational objectives", "To reduce job satisfaction"],
+        "answer": "To describe and control behaviour",
+        "reference": "Leader must be able to describe, understand, predict and control individual behaviour in the organization."
+    },
+    {
+        "question": "Why is delegation important in the behaviour model?",
+        "options": ["It complicates management", "It simplifies the manager’s job", "It reduces productivity", "It avoids communication"],
+        "answer": "It simplifies the manager’s job",
+        "reference": "Adequate delegation, supervision, application of various control techniques makes the job simpler for the manager."
+    },
+    {
+        "question": "What should a leader do to predict individual behaviour?",
+        "options": ["Avoid interaction", "Engage in closer interaction", "Ignore worker nature", "Reduce productivity"],
+        "answer": "Engage in closer interaction",
+        "reference": "By frequent closer interaction, a leader is in a position to identify the nature of workers."
+    },
+    {
+        "question": "What is a key factor in controlling individual behaviour?",
+        "options": ["Ignoring communication", "Using communication effectively", "Avoiding training", "Reducing job satisfaction"],
+        "answer": "Using communication effectively",
+        "reference": "Communication should be used to ensure that the behaviour of individual is controlled."
+    },
+    {
+        "question": "What does the behaviour model emphasize for organizational structure?",
+        "options": ["No tiers or reporting", "Appropriate tiers and reporting systems", "Centralized authority", "Ignoring job satisfaction"],
+        "answer": "Appropriate tiers and reporting systems",
+        "reference": "An organization must have suitable organizational structure, with appropriate number of tier and reporting system properly explained."
+    },
+    {
+        "question": "What influences how perceivers form impressions of others?",
+        "options": ["Cognitive accessibility of characteristics", "Ignoring personal experiences", "Uniform perceptions", "Avoiding schemas"],
+        "answer": "Cognitive accessibility of characteristics",
+        "reference": "One perceiver factor that influences how we perceive others is the current cognitive accessibility of a given person characteristic."
+    },
+    {
+        "question": "What characterizes entity theorists in person perception?",
+        "options": ["Focus on situational attributions", "Belief in stable traits", "Emphasis on dynamic processes", "Avoiding personal attributions"],
+        "answer": "Belief in stable traits",
+        "reference": "Some people tend to believe that people’s traits are fundamentally stable and incapable of change. We call these people entity theorists."
+    },
+    {
+        "question": "How do incremental theorists differ from entity theorists?",
+        "options": ["They believe traits are fixed", "They focus on situational attributions", "They avoid change", "They ignore mental states"],
+        "answer": "They focus on situational attributions",
+        "reference": "Incremental theorists are those who believe that personalities change a lot over time and who therefore are more likely to make situational attributions for events."
+    },
+    {
+        "question": "What is a characteristic of individualistic cultures in person perception?",
+        "options": ["Focus on relationships", "Emphasis on individual differences", "Collective view of people", "Ignoring personal responsibility"],
+        "answer": "Emphasis on individual differences",
+        "reference": "People from Western cultures tend to be primarily oriented toward individualism, tending to think about themselves as different from... the other people."
+    },
+    {
+        "question": "How do collectivistic cultures approach person perception?",
+        "options": ["Focus on individual traits", "Emphasis on relationships and context", "Ignoring situational factors", "Promoting individualism"],
+        "answer": "Emphasis on relationships and context",
+        "reference": "People in many East Asian cultures take a more collective view of people that emphasizes... the relationship between individuals and the other people."
+    },
+    {
+        "question": "What is a feature of negative attributional style?",
+        "options": ["Optimistic view of events", "Internal, stable, and global attributions", "External and unstable attributions", "Ignoring personal traits"],
+        "answer": "Internal, stable, and global attributions",
+        "reference": "People with negative attributional styles say things such as... ‘I failed because I am no good’ (an internal attribution)... ‘I always fail’ (a stable attribution)... ‘I fail in everything’ (a global attribution)."
+    },
+    {
+        "question": "What is learned helplessness in attributional styles?",
+        "options": ["Making internal attributions", "Giving up due to external attributions", "Optimism in challenging situations", "Adapting to new tasks"],
+        "answer": "Giving up due to external attributions",
+        "reference": "Learned helplessness is the tendency to make external, rather than internal, attributions for our behaviours."
+    },
+    {
+        "question": "What is the purpose of self-handicapping in attributional styles?",
+        "options": ["Ensuring success", "Creating external attributions for failure", "Avoiding effort", "Promoting internal attributions"],
+        "answer": "Creating external attributions for failure",
+        "reference": "Self-handicapping occurs when we make statements or engage in behaviours that help us create a convenient external attribution for potential failure."
+    },
+    {
+        "question": "What characterizes positive attributional styles?",
+        "options": ["Internal and stable attributions", "External, unstable, and specific attributions", "Global and permanent attributions", "Ignoring situational factors"],
+        "answer": "External, unstable, and specific attributions",
+        "reference": "People with positive attributional styles are likely to say things such as... ‘I failed because the task is very difficult’ (an external attribution)... ‘I will do better next time’ (an unstable attribution)... ‘I failed in this domain, but I’m good in other things’ (a specific attribution)."
+    },
+    {
+        "question": "What is a consequence of negative attributional styles?",
+        "options": ["Increased optimism", "Higher persistence", "Sense of hopelessness", "Improved performance"],
+        "answer": "Sense of hopelessness",
+        "reference": "You might well imagine that the result of these negative attributional styles is a sense of hopelessness and despair."
+    },
+    {
+        "question": "What is a factor influencing positive work attitudes?",
+        "options": ["Lack of feedback", "Autonomy at work", "Role ambiguity", "High stress levels"],
+        "answer": "Autonomy at work",
+        "reference": "Using a variety of skills, having autonomy at work, receiving feedback on the job, and performing a significant task are some job characteristics that are related to satisfaction."
+    },
+    {
+        "question": "How does personality affect job satisfaction?",
+        "options": ["It has no impact", "Positive affective disposition increases satisfaction", "Neurotic personalities increase satisfaction", "Extraversion reduces satisfaction"],
+        "answer": "Positive affective disposition increases satisfaction",
+        "reference": "People who have a positive affective disposition... tend to be more satisfied with their jobs."
+    },
+    {
+        "question": "What is person-environment fit in the context of work attitudes?",
+        "options": ["Ignoring job demands", "Matching abilities and values to job and company", "Focusing only on personality", "Reducing organizational commitment"],
+        "answer": "Matching abilities and values to job and company",
+        "reference": "When our abilities match job demands and our values match company values, we tend to be more satisfied with our job."
+    },
+    {
+        "question": "What happens when a psychological contract is breached?",
+        "options": ["Increased job satisfaction", "Low job satisfaction and commitment", "Improved relationships", "Higher performance"],
+        "answer": "Low job satisfaction and commitment",
+        "reference": "When people do not get what they expect, they experience a psychological contract breach, which leads to low job satisfaction and commitment."
+    },
+    {
+        "question": "What role do relationships at work play in job satisfaction?",
+        "options": ["They are irrelevant", "Positive relationships increase satisfaction", "They reduce commitment", "They increase stress"],
+        "answer": "Positive relationships increase satisfaction",
+        "reference": "Two strong predictors of our happiness at work and commitment to the company are our relationships with co-workers and managers."
+    },
+    {
+        "question": "How does stress impact job satisfaction?",
+        "options": ["All stress increases satisfaction", "Role ambiguity reduces satisfaction", "Time pressure reduces satisfaction", "Responsibility decreases satisfaction"],
+        "answer": "Role ambiguity reduces satisfaction",
+        "reference": "For example, experiencing role ambiguity (vagueness in relation to what our responsibilities are)... are all stressors that make people dissatisfied."
+    },
+    {
+        "question": "What is a benefit of work-life balance policies?",
+        "options": ["Increased job dissatisfaction", "Higher job satisfaction", "Reduced productivity", "Increased stress"],
+        "answer": "Higher job satisfaction",
+        "reference": "Research shows that policies that help employees achieve a balance between their work and personal lives, such as allowing telecommuting, are related to higher job satisfaction."
+    },
+    {
+        "question": "What is a consequence of positive work attitudes?",
+        "options": ["Reduced engagement", "Higher engagement at work", "Lower performance", "Increased absenteeism"],
+        "answer": "Higher engagement at work",
+        "reference": "It seems that happy workers have an inclination to be more engaged at work."
+    },
+    {
+        "question": "How can companies assess work attitudes?",
+        "options": ["Through financial audits", "Using attitude surveys and exit interviews", "By ignoring employee feedback", "Through market analysis"],
+        "answer": "Using attitude surveys and exit interviews",
+        "reference": "There are at least two systematic ways in which companies can track work attitudes: through attitude surveys and exit interviews."
+    },
+    {
+        "question": "What is a requirement for effective attitude surveys?",
+        "options": ["Sharing responses with managers", "Ensuring confidentiality of responses", "Ignoring employee concerns", "Reducing survey frequency"],
+        "answer": "Ensuring confidentiality of responses",
+        "reference": "Companies can get more out of these surveys if responses are held confidential."
+    },
+    {
+        "question": "What is the nature of learning in organizational behaviour?",
+        "options": ["Temporary change", "Permanent change through experience", "No behavioural change", "Ignoring practice"],
+        "answer": "Permanent change through experience",
+        "reference": "Learning can be defined as the permanent change in behaviour due to direct and indirect experience."
+    },
+    {
+        "question": "What is a key factor affecting learning?",
+        "options": ["Ignoring motivation", "Practice and experience", "Avoiding environment", "Reducing mental group influence"],
+        "answer": "Practice and experience",
+        "reference": "The change in behaviour is the result of experience, practice and training."
+    },
+    {
+        "question": "What does classical conditioning involve?",
+        "options": ["Coupling conditioned and unconditioned stimuli", "Ignoring responses", "Focusing only on punishment", "Avoiding learning"],
+        "answer": "Coupling conditioned and unconditioned stimuli",
+        "reference": "The classical conditioning occurs when a conditioned stimulus is coupled with an unconditioned stimulus."
+    },
+    {
+        "question": "What is a feature of operant conditioning?",
+        "options": ["Learning through observation", "Behaviour controlled by outcomes", "Ignoring consequences", "Focusing only on stimuli"],
+        "answer": "Behaviour controlled by outcomes",
+        "reference": "This theory is a learning process in which behaviour is sensitive to, or controlled by its outcomes."
+    },
+    {
+        "question": "What is a requirement for social learning theory?",
+        "options": ["Ignoring observation", "Attention and retention", "Avoiding reinforcement", "Focusing only on punishment"],
+        "answer": "Attention and retention",
+        "reference": "Social learning theory outlines three requirements for people to learn and model behaviour include attention: retention (remembering what one observed)."
+    },
+    {
+        "question": "What does cognitive learning theory emphasize?",
+        "options": ["Random responses", "Deliberate thinking on problems", "Ignoring knowledge", "Avoiding organized information"],
+        "answer": "Deliberate thinking on problems",
+        "reference": "This theory considers learning as the outcome of deliberate thinking on a problem or situation based upon known facts."
+    },
+    {
+        "question": "What is positive reinforcement in organizational behaviour?",
+        "options": ["Removing desirable consequences", "Presenting positive reinforcers", "Increasing undesirable behaviour", "Avoiding rewards"],
+        "answer": "Presenting positive reinforcers",
+        "reference": "Positive reinforcement strengthens and enhances behaviour by the presentation of positive reinforcers."
+    },
+    {
+        "question": "What is negative reinforcement?",
+        "options": ["Increasing undesirable behaviour", "Removing an unpleasant event to increase behaviour", "Punishing desired behaviour", "Ignoring outcomes"],
+        "answer": "Removing an unpleasant event to increase behaviour",
+        "reference": "In negative reinforcement, an unpleasant event that precedes behaviour is removed when the desired behaviour occurs."
+    },
+    {
+        "question": "What is a feature of fixed interval reinforcement schedules?",
+        "options": ["Varying reinforcement timing", "Reinforcement after a constant time", "Reinforcement based on behaviour count", "Ignoring schedules"],
+        "answer": "Reinforcement after a constant time",
+        "reference": "Fixed interval schedule: It means providing reinforcement on a predetermined, constant schedule."
+    },
+    {
+        "question": "What characterizes variable ratio reinforcement schedules?",
+        "options": ["Constant behaviour count", "Varying number of behaviours for reinforcement", "Fixed time intervals", "No reinforcement"],
+        "answer": "Varying number of behaviours for reinforcement",
+        "reference": "Variable ratio schedule: In this a certain number of desired behaviours must occur before the reinforcer is delivered, but the number of behaviours varies around some average."
+    },
+    {
+        "question": "How does organizational behaviour apply knowledge?",
+        "options": ["To reduce efficiency", "To improve organizational effectiveness", "To ignore human behaviour", "To avoid group dynamics"],
+        "answer": "To improve organizational effectiveness",
+        "reference": "For the purpose of applying such knowledge towards improving an organizational effectiveness."
+    },
+    {
+        "question": "What is a role of social psychology in organizational behaviour?",
+        "options": ["Ignoring group decisions", "Managing change and group decisions", "Focusing only on technology", "Reducing communication"],
+        "answer": "Managing change and group decisions",
+        "reference": "The field has contributed to manage change, group decision-making, communication."
+    },
+    {
+        "question": "What does the behaviour model suggest about job satisfaction?",
+        "options": ["It is irrelevant", "It is critical for productivity", "It reduces performance", "It avoids organizational goals"],
+        "answer": "It is critical for productivity",
+        "reference": "Principle of unity of command, delegation of authority and responsibility... is very important so that workers achieve a required level of job satisfaction."
+    },
+    {
+        "question": "What influences perceiver differences in person perception?",
+        "options": ["Uniform experiences", "Schemas and expectations", "Ignoring characteristics", "Avoiding attention"],
+        "answer": "Schemas and expectations",
+        "reference": "To every experience, each of us brings our own schemas, attitudes, and expectations."
+    },
+    {
+        "question": "What is a consequence of learned helplessness?",
+        "options": ["Improved health outcomes", "Negative health outcomes", "Increased control", "Higher optimism"],
+        "answer": "Negative health outcomes",
+        "reference": "Those who experience learned helplessness... are more likely to have a variety of negative health outcomes."
+    },
+    {
+        "question": "What is a drawback of self-handicapping?",
+        "options": ["Improved performance", "Lower life satisfaction", "Increased competence", "Better moods"],
+        "answer": "Lower life satisfaction",
+        "reference": "Research has found that people who report that they self-handicap regularly show lower life satisfaction."
+    },
+    {
+        "question": "How does organizational justice affect job satisfaction?",
+        "options": ["It is irrelevant", "Fair treatment increases satisfaction", "Unfair treatment increases satisfaction", "It reduces commitment"],
+        "answer": "Fair treatment increases satisfaction",
+        "reference": "The kind of treatment we receive influences our satisfaction level."
+    },
+    {
+        "question": "What does organizational behaviour study according to Stephen P. Robins?",
+        "options": ["Financial systems", "Actions and attitudes within organizations", "Technological processes", "Market strategies"],
+        "answer": "Actions and attitudes within organizations",
+        "reference": "Stephen P Robins defines 'Organizational behaviour as a systematic study of the actions and attitudes that people exhibit within organizations.'"
+    },
+    {
+        "question": "What is a key aspect of organizational behaviour as per Fred Luthans?",
+        "options": ["Ignoring group behaviour", "Understanding and controlling human behaviour", "Focusing only on technology", "Reducing organizational growth"],
+        "answer": "Understanding and controlling human behaviour",
+        "reference": "'Organizational behaviour is directly concerned with the understanding, prediction, and control of human behaviour in organizations.' — Fred Luthans."
+    },
+    {
+        "question": "Which discipline contributes to conflict management in organizational behaviour?",
+        "options": ["Physics", "Sociology", "Biology", "Geology"],
+        "answer": "Sociology",
+        "reference": "The science of sociology studies the impact of culture on group behaviour and has contributed to a large extent to... conflict management."
+    },
+    {
+        "question": "What is included in the scope of organizational behaviour?",
+        "options": ["Financial auditing", "Organizational development", "Product manufacturing", "Market analysis"],
+        "answer": "Organizational development",
+        "reference": "Scope of Organisational Behaviour: Organizational development."
+    },
+    {
+        "question": "How does political science influence organizational behaviour?",
+        "options": ["By studying employee motivation", "Through government stability and regulations", "By analyzing group dynamics", "Through technological advancements"],
+        "answer": "Through government stability and regulations",
+        "reference": "Stability of government at national level is one major factor for the promotion of international business... Various government rules and regulations play a very decisive role."
+    },
+    {
+        "question": "What role does social psychology play in organizational behaviour?",
+        "options": ["Developing financial models", "Maintaining social norms in organizations", "Ignoring communication", "Focusing on individual tasks"],
+        "answer": "Maintaining social norms in organizations",
+        "reference": "The field has contributed to... ability of people in the organization to maintain social norms."
+    },
+    {
+        "question": "What is a purpose of studying organizational behaviour?",
+        "options": ["Reducing job satisfaction", "Promoting organizational growth", "Ignoring human behaviour", "Avoiding cultural factors"],
+        "answer": "Promoting organizational growth",
+        "reference": "Organizational behaviour is a comprehensive field of study in which individual, group and organizational structure is studied in relation to organizational growth."
+    },
+    {
+        "question": "What does Keith Davis emphasize in his definition of organizational behaviour?",
+        "options": ["Technological systems", "Human tool for human benefit", "Financial performance", "Market competition"],
+        "answer": "Human tool for human benefit",
+        "reference": "According to Keith Davis 'Organizational Behaviour is the study and application of knowledge about how people act within organizations. It is a human tool for the human benefit.'"
+    },
+    {
+        "question": "What is a goal of the behaviour model for organizational efficiency?",
+        "options": ["Ignoring individual behaviour", "Modifying behaviour for productivity", "Reducing communication", "Avoiding organizational structure"],
+        "answer": "Modifying behaviour for productivity",
+        "reference": "Various concepts and models in the field of organizational behaviour attempt to identify... human behaviour but also modify their attitude... so that they can act more effectively."
+    },
+    {
+        "question": "Why is unity of command important in the behaviour model?",
+        "options": ["It complicates management", "It ensures job satisfaction", "It reduces productivity", "It avoids delegation"],
+        "answer": "It ensures job satisfaction",
+        "reference": "Principle of unity of command, delegation of authority and responsibility... is very important so that workers achieve a required level of job satisfaction."
+    },
+    {
+        "question": "What should a leader do to understand individual behaviour?",
+        "options": ["Avoid interaction", "Identify reasons for behaviour", "Ignore worker attitudes", "Reduce training"],
+        "answer": "Identify reasons for behaviour",
+        "reference": "Leaders must understand human behaviour as to why people behave in a particular manner and try to identify reasons so that corrective action can be taken."
+    },
+    {
+        "question": "What is a key element of the behaviour model for controlling behaviour?",
+        "options": ["Ignoring environment", "Creating a favourable work environment", "Avoiding communication", "Reducing training"],
+        "answer": "Creating a favourable work environment",
+        "reference": "Appropriate internal environment would help organizations to build favourable work environment that will help individuals and groups... to work effectively."
+    },
+    {
+        "question": "What is essential for workers to achieve organizational objectives?",
+        "options": ["Negative attitude", "Positive attitude towards work", "Isolated work", "Avoiding coordination"],
+        "answer": "Positive attitude towards work",
+        "reference": "It is therefore important for all employees to have a positive attitude towards work."
+    },
+    {
+        "question": "What influences perceiver characteristics in person perception?",
+        "options": ["Ignoring schemas", "Personal schemas and expectations", "Uniform impressions", "Avoiding differences"],
+        "answer": "Personal schemas and expectations",
+        "reference": "To every experience, each of us brings our own schemas, attitudes, and expectations."
+    },
+    {
+        "question": "What is a feature of need for cognition in person perception?",
+        "options": ["Impulsive attributions", "Thoughtful processing of information", "Avoiding social situations", "Ignoring others"],
+        "answer": "Thoughtful processing of information",
+        "reference": "People with a strong need for cognition tend to process information more thoughtfully and therefore may make more causal attributions overall."
+    },
+    {
+        "question": "How do entity theorists approach new tasks?",
+        "options": ["With optimism", "With difficulty due to fixed beliefs", "With situational focus", "With adaptability"],
+        "answer": "With difficulty due to fixed beliefs",
+        "reference": "Entity theorists are more likely to have difficulty when they move on to new tasks because they don’t think that they will be able to adapt to the new challenges."
+    },
+    {
+        "question": "What characterizes incremental theorists in challenging environments?",
+        "options": ["Pessimism", "Optimism and adaptability", "Focus on stable traits", "Avoiding situational factors"],
+        "answer": "Optimism and adaptability",
+        "reference": "Incremental theorists, on the other hand, are more optimistic and do better in such challenging environments because they believe that their personality can adapt."
+    },
+    {
+        "question": "What did Morris’s study on bicultural students reveal about person perception?",
+        "options": ["No cultural influence", "American priming led to situational attributions", "Chinese priming led to personal attributions", "American priming led to personal attributions"],
+        "answer": "American priming led to personal attributions",
+        "reference": "The students who had been primed with symbols about American culture gave relatively less weight to situational (rather than personal) factors."
+    },
+    {
+        "question": "What is a consequence of negative attributional styles?",
+        "options": ["Increased optimism", "Higher depression risk", "Improved performance", "Greater persistence"],
+        "answer": "Higher depression risk",
+        "reference": "Alloy, Abramson, and Francis (1999) found that college students who indicated that they had negative attributional styles... were more likely... to experience an episode of depression."
+    },
+    {
+        "question": "What is learned helplessness associated with?",
+        "options": ["Internal attributions", "Lack of control over outcomes", "Optimistic outlook", "High self-esteem"],
+        "answer": "Lack of control over outcomes",
+        "reference": "Those who experience learned helplessness do not feel that they have any control over their own outcomes."
+    },
+    {
+        "question": "Why do individuals engage in self-handicapping?",
+        "options": ["To ensure success", "To create external attributions for failure", "To avoid effort", "To promote internal attributions"],
+        "answer": "To create external attributions for failure",
+        "reference": "Self-handicapping occurs when we make statements or engage in behaviours that help us create a convenient external attribution for potential failure."
+    },
+    {
+        "question": "What is a benefit of positive attributional styles?",
+        "options": ["Reduced persistence", "Increased task persistence", "Higher hopelessness", "Lower self-esteem"],
+        "answer": "Increased task persistence",
+        "reference": "People who make more positive attributions toward the negative events that they experience will persist longer at tasks."
+    },
+    {
+        "question": "What is a drawback of self-handicapping in the long run?",
+        "options": ["Improved competence", "Increased substance abuse", "Higher life satisfaction", "Better job interest"],
+        "answer": "Increased substance abuse",
+        "reference": "Research has found that people who report that they self-handicap regularly show... even more substance abuse."
+    },
+    {
+        "question": "What job characteristic enhances work attitudes?",
+        "options": ["Role ambiguity", "Performing a significant task", "Lack of autonomy", "No feedback"],
+        "answer": "Performing a significant task",
+        "reference": "Using a variety of skills, having autonomy at work, receiving feedback on the job, and performing a significant task are some job characteristics that are related to satisfaction."
+    },
+    {
+        "question": "How does a neurotic personality affect job satisfaction?",
+        "options": ["Increases satisfaction", "Reduces satisfaction", "Has no impact", "Promotes commitment"],
+        "answer": "Reduces satisfaction",
+        "reference": "People who have a neurotic personality... are less satisfied with their job."
+    },
+    {
+        "question": "What is the impact of person-job fit on work attitudes?",
+        "options": ["Reduces satisfaction", "Increases satisfaction and commitment", "Increases stress", "Reduces performance"],
+        "answer": "Increases satisfaction and commitment",
+        "reference": "Person–job fit and person–organization fit are positively related to job satisfaction and commitment."
+    },
+    {
+        "question": "What is a psychological contract in the workplace?",
+        "options": ["A legal agreement", "An unwritten understanding of expectations", "A financial contract", "A performance review"],
+        "answer": "An unwritten understanding of expectations",
+        "reference": "A psychological contract is an unwritten understanding about what the employee will bring to the work environment and what the company will provide in exchange."
+    },
+    {
+        "question": "How does organizational justice influence work attitudes?",
+        "options": ["It reduces satisfaction", "Fair treatment increases satisfaction", "It increases stress", "It avoids commitment"],
+        "answer": "Fair treatment increases satisfaction",
+        "reference": "The kind of treatment we receive influences our satisfaction level."
+    },
+    {
+        "question": "What is the effect of positive relationships with managers on job satisfaction?",
+        "options": ["Reduces satisfaction", "Increases satisfaction", "Increases stress", "Reduces commitment"],
+        "answer": "Increases satisfaction",
+        "reference": "When our manager and upper management listen to us, care about us, and value our opinions, we tend to feel good at work."
+    },
+    {
+        "question": "How does work-life conflict impact job satisfaction?",
+        "options": ["Increases satisfaction", "Reduces satisfaction", "Has no impact", "Improves performance"],
+        "answer": "Reduces satisfaction",
+        "reference": "When work life interferes with family life, we are more stressed and unhappy with our jobs."
+    },
+    {
+        "question": "What is a benefit of positive work attitudes in professional jobs?",
+        "options": ["Reduced performance", "Higher performance correlation", "Increased absenteeism", "Lower engagement"],
+        "answer": "Higher performance correlation",
+        "reference": "In professional jobs such as engineering and research, we see a higher link between work attitudes and performance."
+    },
+    {
+        "question": "Why are attitude surveys effective for assessing work attitudes?",
+        "options": ["They ignore employee concerns", "They track satisfaction and commitment", "They share responses publicly", "They reduce credibility"],
+        "answer": "They track satisfaction and commitment",
+        "reference": "Given that work attitudes may give us clues as to who will leave or stay, who will perform better... tracking satisfaction and commitment levels is a helpful step."
+    },
+    {
+        "question": "What reduces the effectiveness of attitude surveys?",
+        "options": ["Confidential responses", "Lack of management action", "Frequent surveys", "Employee honesty"],
+        "answer": "Lack of management action",
+        "reference": "If management periodically collects these surveys but no action comes out of them, employees may adopt a more cynical attitude."
+    },
+    {
+        "question": "What is a characteristic of learning in organizational behaviour?",
+        "options": ["Temporary change", "Permanent change through practice", "No behavioural change", "Ignoring experience"],
+        "answer": "Permanent change through practice",
+        "reference": "Learning can be defined as the permanent change in behaviour due to direct and indirect experience."
+    },
+    {
+        "question": "What factor enhances learning in organizations?",
+        "options": ["Ignoring motivation", "Motivation and encouragement", "Avoiding practice", "Reducing environmental influence"],
+        "answer": "Motivation and encouragement",
+        "reference": "Motivation − The encouragement, the support one gets to complete a task, to achieve a goal is known as motivation."
+    },
+    {
+        "question": "What does classical conditioning produce?",
+        "options": ["Random responses", "Conditioned response to a stimulus", "No learning", "Punishment-based behaviour"],
+        "answer": "Conditioned response to a stimulus",
+        "reference": "After this coupling process is repeated... an individual shows a conditioned response (CR) to the conditioned stimulus."
+    },
+    {
+        "question": "How does operant conditioning influence behaviour?",
+        "options": ["Through observation", "Through outcomes of behaviour", "Through ignoring consequences", "Through random stimuli"],
+        "answer": "Through outcomes of behaviour",
+        "reference": "This theory is a learning process in which behaviour is sensitive to, or controlled by its outcomes."
+    },
+    {
+        "question": "What is a key component of social learning theory?",
+        "options": ["Ignoring observation", "Observational learning and reinforcement", "Avoiding imitation", "Focusing only on punishment"],
+        "answer": "Observational learning and reinforcement",
+        "reference": "Social learning theory or SLT is the theory that people learn new behaviour through overt reinforcement or punishment, or via observational learning."
+    },
+    {
+        "question": "What does cognitive learning theory focus on?",
+        "options": ["Random behaviour", "Organized information and meaning", "Ignoring thoughts", "Avoiding responses"],
+        "answer": "Organized information and meaning",
+        "reference": "This theory debates that the learner forms a cognitive structure in memory which stores organized information about the various events."
+    },
+    {
+        "question": "What is the purpose of positive reinforcement?",
+        "options": ["Reducing behaviour", "Strengthening desirable behaviour", "Increasing undesirable behaviour", "Avoiding rewards"],
+        "answer": "Strengthening desirable behaviour",
+        "reference": "Reinforcement is the attempt to develop or strengthen desirable behaviour... Positive reinforcement strengthens and enhances behaviour."
+    },
+    {
+        "question": "What distinguishes negative reinforcement from punishment?",
+        "options": ["It decreases behaviour", "It increases desired behaviour", "It avoids consequences", "It ignores stimuli"],
+        "answer": "It increases desired behaviour",
+        "reference": "Negative reinforcement is used to increase the frequency of a desired behaviour, whereas punishment is used to decrease the frequency of an undesired behaviour."
+    },
+    {
+        "question": "What is a feature of variable interval reinforcement schedules?",
+        "options": ["Constant time intervals", "Varying time between reinforcements", "Fixed behaviour count", "No reinforcement"],
+        "answer": "Varying time between reinforcements",
+        "reference": "Variable interval schedule: It also uses time as the basis for applying reinforcement, but it varies the intervals between reinforcements."
+    },
+    {
+        "question": "What makes variable ratio schedules effective?",
+        "options": ["Constant behaviour count", "High employee preference", "Fixed time intervals", "No reinforcement"],
+        "answer": "High employee preference",
+        "reference": "It tends to be the most powerful of all the reinforcement schedules... and is preferred by employees for some tasks."
+    },
+    {
+        "question": "What is a practical application of organizational behaviour?",
+        "options": ["Reducing productivity", "Improving employee skills", "Ignoring group dynamics", "Avoiding job satisfaction"],
+        "answer": "Improving employee skills",
+        "reference": "Learning & Organizational Behaviour: An individual’s behaviour in an organization is directly or indirectly affected by learning. Example − Employee skill."
+    },
+    {
+        "question": "How does anthropology contribute to organizational behaviour?",
+        "options": ["By ignoring cultural differences", "By understanding cultural value systems", "By focusing on technology", "By reducing communication"],
+        "answer": "By understanding cultural value systems",
+        "reference": "It understands difference in behaviour based on value system of different cultures in various countries."
+    },
+    {
+        "question": "What does the behaviour model emphasize for productivity?",
+        "options": ["Negative attitudes", "Training for sophisticated equipment", "Avoiding delegation", "Reducing communication"],
+        "answer": "Training for sophisticated equipment",
+        "reference": "They must be trained to handle sophisticated machines and equipment."
+    },
+    {
+        "question": "What influences person perception according to the document?",
+        "options": ["Uniform perceptions", "Differences in cognitive accessibility", "Ignoring expectations", "Avoiding schemas"],
+        "answer": "Differences in cognitive accessibility",
+        "reference": "Differences in accessibility will lead different people to attend different aspects of the other person."
+    },
+    {
+        "question": "What is a consequence of unrealistic optimism in attributional styles?",
+        "options": ["Improved outcomes", "Potential failure and depression", "Increased control", "Higher performance"],
+        "answer": "Potential failure and depression",
+        "reference": "When we are too optimistic, we may set ourselves up for failure and depression when things do not work out as we had hoped."
+    },
+    {
+        "question": "What is the impact of employee absenteeism on productivity?",
+        "options": ["Positive impact", "No impact", "Negative impact", "Increases efficiency"],
+        "answer": "Negative impact",
+        "reference": "Employee absenteeism and turnover has a negative impact on productivity."
+    }
+]
